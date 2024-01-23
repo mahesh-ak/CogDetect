@@ -1,0 +1,605 @@
+ID	DOCULECT	CONCEPT	IPA	COGID	SOURCE_CONCEPT	SOURCE_FORM	TOKENS	CLPA	CONCEPTICON_ID	GLOTTOLOG
+44	Megleno_Romanian	ashes	čənˈuš+ə	2	ashes	čənˈuš-ə {tšănúșă}	tʃ ə n ˈu š + ə	651 1022 107 868 70 1192 1022	646	megl1237
+45	Istro_Romanian	ashes	čerˈuš+e	2	ashes	čerˈuš-e {čerúșe}	tʃ e r ˈu š + e	651 1089 153 868 70 1192 1089	646	istr1245
+46	Aromanian	ashes	činˈuš+e	2	ashes	činˈuš-e {činúșe}	tʃ i n ˈu š + e	651 1076 107 868 70 1192 1089	646	arom1237
+47	Romanian	ashes	čenˈuš+ə	2	ashes	čenˈuš-ə {cenușă}	tʃ e n ˈu š + ə	651 1089 107 868 70 1192 1022	646	roma1327
+48	Dalmatian	ashes	kanˈajs+a	2	ashes	kanˈays-a {canáissa}	k a n ˈa j s + a	838 997 107 997 570 89 1192 997	646	dalm1243
+49	Friulian	ashes	činˈiz+e	2	ashes	činˈiz-e {cinise}	tʃ i n ˈi z + e	651 1076 107 1076 80 1192 1089	646	friu1240
+50	Gardenese_Ladin	ashes	čˈəndər	2	ashes	čˈəndər {cënder}	tʃ ˈə n d ə r	651 1022 107 145 1022 153	646	gard1241
+51	Fassano_Ladin	ashes	čˈendɛr	2	ashes	čˈendɛr {cẹnder}	tʃ ˈe n d ˈɛ r	651 1089 107 145 1121 153	646	fass1244
+52	Rumantsch_Grischun	ashes	čˈɛndr+ə	2	ashes	čˈɛndr-ə {tschendra}	tʃ ˈɛ n d r + ə	651 1121 107 145 153 1192 1022	646	ruma1247
+53	Sursilvan_Romansh	ashes	čˈɛndr+ə	2	ashes	čˈɛndr-ə {tschendra}	tʃ ˈɛ n d r + ə	651 1121 107 145 153 1192 1022	646	surs1244
+54	Surmiran_Romansh	ashes	čˈɛndr+ə	2	ashes	čˈɛndr-ə {tschendra}	tʃ ˈɛ n d r + ə	651 1121 107 145 153 1192 1022	646	surm1243
+55	Vallader_Romansh	ashes	čˈɛndr+ə	2	ashes	čˈɛndr-ə {tschendra}	tʃ ˈɛ n d r + ə	651 1121 107 145 153 1192 1022	646	vall1248
+56	Lanzo_Torinese_Piemontese	ashes	sˈənɛr	2	ashes	sˈənɛr {sënner}	s ˈə n ˈɛ r	89 1022 107 1121 153	646	piem1238
+57	Barbania_Piemontese	ashes	sˈənɛr	2	ashes	sˈənɛr {sënner}	s ˈə n ˈɛ r	89 1022 107 1121 153	646	piem1238
+58	Carmagnola_Piemontese	ashes	sˈənɛr	2	ashes	sˈənɛr {sënner}	s ˈə n ˈɛ r	89 1022 107 1121 153	646	piem1238
+59	Vercellese_Piemontese	ashes	sˈöŋdr+i	2	ashes	sˈöŋdr-i	s ˈœ ŋ d r + i	89 1059 801 145 153 1192 1076	646	piem1238
+60	Ravennate_Romagnol	ashes	ʦˈɛndr+a	2	ashes	cˈɛndr-a {z˖èndra}	ts ˈɛ n d r + a	15 1121 107 145 153 1192 997	646	roma1328
+61	Ferrarese_Emiliano	ashes	ʦˈɛndar	2	ashes	cˈɛndar {zèndar}	ts ˈɛ n d a r	15 1121 107 145 997 153	646	emil1241
+62	Carpigiano_Emiliano	ashes	sˈɛndr+a	2	ashes	sˈɛndr-a {sendra}	s ˈɛ n d r + a	89 1121 107 145 153 1192 997	646	emil1241
+63	Reggiano_Emiliano	ashes	sˈɛndr+a	2	ashes	sˈɛndr-a {sèndra}	s ˈɛ n d r + a	89 1121 107 145 153 1192 997	646	emil1241
+64	Rapallo_Ligurian	ashes	sˈeŋj+e	2	ashes	sˈeŋy-e	s ˈe ŋ j + e	89 1089 801 570 1192 1089	646	ligu1248
+65	Genoese_Ligurian	ashes	čˈener+i	-297	ashes	čˈener-i {ceneri}	tʃ ˈe n e r + i	651 1089 107 1089 153 1192 1076	646	geno1240
+66	Stella_Ligurian	ashes	srˈenː+e	2	ashes	srˈenː-e {çrenne}	s r ˈe nː + e	89 153 1089 106 1192 1089	646	ligu1248
+67	Venice_Venetian	ashes	sˈɛner+i	2	ashes	sˈɛner-i {sèneri}	s ˈɛ n e r + i	89 1121 107 1089 153 1192 1076	646	vene1258
+68	Primiero_Venetian	ashes	θˈeŋdr+e	2	ashes	θˈeŋdr-e {ẑendre}	θ ˈe ŋ d r + e	417 1089 801 145 153 1192 1089	646	vene1258
+69	Bellunese_Venetian	ashes	θˈeŋdr+o	2	ashes	θˈeŋdr-o {zendro}	θ ˈe ŋ d r + o	417 1089 801 145 153 1192 887	646	vene1258
+70	Standard_Italian	ashes	čˈener+e	2	ashes	čˈener-e {cenere}	tʃ ˈe n e r + e	651 1089 107 1089 153 1192 1089	646	ital1282
+71	Grosseto_Italian	ashes	čˈener+e	2	ashes	čˈener-e {cenere}	tʃ ˈe n e r + e	651 1089 107 1089 153 1192 1089	646	ital1282
+72	Neapolitan	ashes	šˈɛnːər+ə	2	ashes	šˈɛnːər-ə ~ šˈenːər-ə {cennera}	š ˈɛ nː ə r + ə	70 1121 106 1022 153 1192 1022	646	neap1235
+73	Logudorese	ashes	kisˈin+a	2	ashes	kisˈin-a {chisìna}	k i s ˈi n + a	838 1076 89 1076 107 1192 997	646	barb1262
+74	Campidanese	ashes	činˈiž+u	2	ashes	činˈiž-u {cinixu}	tʃ i n ˈi ʒ + u	651 1076 107 1076 685 1192 868	646	cagl1238
+75	Palermitan_Sicilian	ashes	čˈinːiɾ+i	2	ashes	čˈinːiɾ-i {cinniri}	tʃ ˈi nː i ɾ + i	651 1076 106 1076 66 1192 1076	646	sici1248
+76	Messinese_Sicilian	ashes	čˈinɨɾ+ɨ	2	ashes	čˈinɨɾ-ɨ {ciniri}	tʃ ˈi n ɨ ɾ + ɨ	651 1076 107 983 66 1192 983	646	mess1247
+77	Catanian_Sicilian	ashes	čˈinːiɾ+i	2	ashes	čˈinːiɾ-i {cinniri}	tʃ ˈi nː i ɾ + i	651 1076 106 1076 66 1192 1076	646	sici1248
+78	South-Eastern_Sicilian	ashes	čˈinːiɾ+i	2	ashes	čˈinːiɾ-i {cinniri}	tʃ ˈi nː i ɾ + i	651 1076 106 1076 66 1192 1076	646	sici1248
+79	Central_Catalan	ashes	sˈɛndɾ+əs	2	ashes	sˈɛndɾ-əs {cendres}	s ˈɛ n d ɾ + ə s	89 1121 107 145 66 1192 1022 89	646	stan1289
+80	North-Western_Catalan	ashes	sˈɛndɾ+es	2	ashes	sˈɛndɾ-es {cendres}	s ˈɛ n d ɾ + e s	89 1121 107 145 66 1192 1089 89	646	stan1289
+81	Minorcan_Catalan	ashes	sˈɛndɾ+əs	2	ashes	sˈɛndɾ-əs {cendres}	s ˈɛ n d ɾ + ə s	89 1121 107 145 66 1192 1022 89	646	stan1289
+82	Castelló_de_la_Plana_Catalan	ashes	sˈɛndɾ+es	2	ashes	sˈɛndɾ-es {cendres}	s ˈɛ n d ɾ + e s	89 1121 107 145 66 1192 1089 89	646	stan1289
+83	Valencian_Catalan	ashes	sˈɛndɾ+es	2	ashes	sˈɛndɾ-es {cendres}	s ˈɛ n d ɾ + e s	89 1121 107 145 66 1192 1089 89	646	stan1289
+84	Manises_Catalan	ashes	sˈɛndɾ+a	2	ashes	sˈɛndɾ-a {cendra}	s ˈɛ n d ɾ + a	89 1121 107 145 66 1192 997	646	stan1289
+85	Castilian_Spanish	ashes	θenˈiθ+a	2	ashes	θenˈiθ-a {ceniza}	θ e n ˈi θ + a	417 1089 107 1076 417 1192 997	646	cast1244
+86	Provençal_Occitan	ashes	sˈɛndɾ+e	2	ashes	sˈɛndɾ-e {cèndre}	s ˈɛ n d ɾ + e	89 1121 107 145 66 1192 1089	646	prov1235
+87	Megleno_Romanian	ashes	skrum	-298	ashes	skrum {scrum}	s k r u m	89 838 153 868 241	646	megl1237
+88	Aromanian	ashes	skrˈum+ŭ	-299	ashes	skrˈum-ŭ {scrum}	s k r ˈu m + u	89 838 153 868 241 1192 868	646	arom1237
+345	Megleno_Romanian	blood	sˈɔnz+i	30	blood	sˈɔnz-i {sǫnzi}	s ˈɔ n z + i	89 916 107 80 1192 1076	946	megl1237
+346	Istro_Romanian	blood	sˈənz+e	30	blood	sˈənz-e {sấnze}	s ˈə n z + e	89 1022 107 80 1192 1089	946	istr1245
+347	Aromanian	blood	sˈɨnʣ+e	30	blood	sˈɨnʒ-e {sîndze}	s ˈɨ n dz + e	89 983 107 20 1192 1089	946	arom1237
+348	Romanian	blood	sˈɨnʤ+e	30	blood	sˈɨnǯ-e {sânge}	s ˈɨ n dʒ + e	89 983 107 655 1192 1089	946	roma1327
+349	Dalmatian	blood	swoŋg	30	blood	swoŋg {su͡ọṅg}	s w o ŋ ɡ	89 462 887 801 831	946	dalm1243
+350	Friulian	blood	saŋk	30	blood	saŋk {sanc}	s a ŋ k	89 997 801 838	946	friu1240
+351	Gardenese_Ladin	blood	saŋk	30	blood	saŋk {sanch}	s a ŋ k	89 997 801 838	946	gard1241
+352	Fassano_Ladin	blood	saŋk	30	blood	saŋk {sanch}	s a ŋ k	89 997 801 838	946	fass1244
+353	Rumantsch_Grischun	blood	saŋk	30	blood	saŋk {sang}	s a ŋ k	89 997 801 838	946	ruma1247
+354	Sursilvan_Romansh	blood	sawŋk	30	blood	sawŋk {saung}	s a w ŋ k	89 997 462 801 838	946	surs1244
+355	Surmiran_Romansh	blood	saŋk	30	blood	saŋk {sanc}	s a ŋ k	89 997 801 838	946	surm1243
+356	Vallader_Romansh	blood	saŋk	30	blood	saŋk {sang}	s a ŋ k	89 997 801 838	946	vall1248
+357	Lanzo_Torinese_Piemontese	blood	saŋg	30	blood	saŋg {sangh}	s a ŋ ɡ	89 997 801 831	946	piem1238
+358	Barbania_Piemontese	blood	saŋg	30	blood	saŋg {sang}	s a ŋ ɡ	89 997 801 831	946	piem1238
+359	Carmagnola_Piemontese	blood	saŋg	30	blood	saŋg {sangh}	s a ŋ ɡ	89 997 801 831	946	piem1238
+360	Vercellese_Piemontese	blood	saŋ	30	blood	saŋ	s a ŋ	89 997 801	946	piem1238
+361	Ravennate_Romagnol	blood	sãŋgv	30	blood	sãŋgv {sângv}	s ˈã ŋ ɡ v	89 1014 801 831 451	946	roma1328
+362	Ferrarese_Emiliano	blood	saŋg	30	blood	saŋg {sang}	s a ŋ ɡ	89 997 801 831	946	emil1241
+363	Carpigiano_Emiliano	blood	sˈaŋgev	30	blood	sˈaŋgev {sanghev}	s ˈa ŋ ɡ e v	89 997 801 831 1089 451	946	emil1241
+364	Reggiano_Emiliano	blood	sˈaːŋgov	30	blood	sˈaːŋgov {sângov} ~ sˈaːŋgev {sanghev}	s ˈaː ŋ ɡ o v	89 1004 801 831 887 451	946	emil1241
+365	Rapallo_Ligurian	blood	sˈaŋgw+e	30	blood	sˈaŋgw-e	s ˈa ŋ ɡ w + e	89 997 801 831 462 1192 1089	946	ligu1248
+366	Genoese_Ligurian	blood	sˈaŋgw+e	30	blood	sˈaŋgw-e {sangue}	s ˈa ŋ ɡ w + e	89 997 801 831 462 1192 1089	946	geno1240
+367	Stella_Ligurian	blood	sˈaːŋgw+e	30	blood	sˈaːŋgw-e {sângue}	s ˈaː ŋ ɡ w + e	89 1004 801 831 462 1192 1089	946	ligu1248
+368	Venice_Venetian	blood	sˈaŋgw+e	30	blood	sˈaŋgw-e {sàngue}	s ˈa ŋ ɡ w + e	89 997 801 831 462 1192 1089	946	vene1258
+369	Primiero_Venetian	blood	sˈaŋgw+e	30	blood	sˈaŋgw-e {sàngue}	s ˈa ŋ ɡ w + e	89 997 801 831 462 1192 1089	946	vene1258
+370	Bellunese_Venetian	blood	sˈaŋgw+e	30	blood	sˈaŋgw-e {sangue}	s ˈa ŋ ɡ w + e	89 997 801 831 462 1192 1089	946	vene1258
+371	Standard_Italian	blood	sˈaŋgw+e	30	blood	sˈaŋgw-e {sangue}	s ˈa ŋ ɡ w + e	89 997 801 831 462 1192 1089	946	ital1282
+372	Grosseto_Italian	blood	sˈaŋgw+e	30	blood	sˈaŋgw-e {sangue}	s ˈa ŋ ɡ w + e	89 997 801 831 462 1192 1089	946	ital1282
+373	Neapolitan	blood	sˈaŋg+ə	30	blood	sˈaŋg-ə {sanghe}	s ˈa ŋ ɡ + ə	89 997 801 831 1192 1022	946	neap1235
+374	Logudorese	blood	sˈamben+e	30	blood	sˈamben-e {sàmbene}	s ˈa m b e n + e	89 997 241 257 1089 107 1192 1089	946	barb1262
+375	Campidanese	blood	sˈaŋgun+i	30	blood	sˈaŋgun-i {sanguni}	s ˈa ŋ ɡ u n + i	89 997 801 831 868 107 1192 1076	946	cagl1238
+376	Palermitan_Sicilian	blood	sˈaŋg+u	30	blood	sˈaŋg-u {sangu}	s ˈa ŋ ɡ + u	89 997 801 831 1192 868	946	sici1248
+377	Messinese_Sicilian	blood	sˈaŋg+u	30	blood	sˈaŋg-u {sangu}	s ˈa ŋ ɡ + u	89 997 801 831 1192 868	946	mess1247
+378	Catanian_Sicilian	blood	sˈaŋg+u	30	blood	sˈaŋg-u {sangu}	s ˈa ŋ ɡ + u	89 997 801 831 1192 868	946	sici1248
+379	South-Eastern_Sicilian	blood	sˈaŋk+u	30	blood	sˈaŋk-u {sancu}	s ˈa ŋ k + u	89 997 801 838 1192 868	946	sici1248
+380	Central_Catalan	blood	saŋ	30	blood	saŋ {sang}	s a ŋ	89 997 801	946	stan1289
+381	North-Western_Catalan	blood	saŋ	30	blood	saŋ {sang}	s a ŋ	89 997 801	946	stan1289
+382	Minorcan_Catalan	blood	saŋk	30	blood	saŋk {sang}	s a ŋ k	89 997 801 838	946	stan1289
+383	Castelló_de_la_Plana_Catalan	blood	saŋk	30	blood	saŋk {sang}	s a ŋ k	89 997 801 838	946	stan1289
+384	Valencian_Catalan	blood	saŋk	30	blood	saŋk {sang}	s a ŋ k	89 997 801 838	946	stan1289
+385	Manises_Catalan	blood	saŋk	30	blood	saŋk {sang}	s a ŋ k	89 997 801 838	946	stan1289
+386	Castilian_Spanish	blood	sˈaŋgɾ+e	30	blood	sˈaŋgɾ-e {sangre}	s ˈa ŋ ɡ ɾ + e	89 997 801 831 66 1192 1089	946	cast1244
+387	Provençal_Occitan	blood	saŋk	30	blood	saŋk {sang}	s a ŋ k	89 997 801 838	946	prov1235
+777	Megleno_Romanian	drink	be̯a+w	52	drink	be̯a-w {beáu̯}	b ˈe̯a + w	257 1140 1192 462	1401	megl1237
+778	Istro_Romanian	drink	bä	52	drink	bä {bę}	b ˈæ	257 1087	1401	istr1245
+779	Aromanian	drink	beva+w	52	drink	bea-w {beáŭ}	b e v a + w	257 1089 451 997 1192 462	1401	arom1237
+780	Romanian	drink	a+bˈeva	52	drink	a=bˈea {a bea}	a + b ˈe v a	997 1192 257 1089 451 997	1401	roma1327
+781	Dalmatian	drink	b+ar	52	drink	b-ar {bar}	b + a r	257 1192 997 153	1401	dalm1243
+782	Friulian	drink	bˈɛv+i	52	drink	bˈɛv-i {bevi}	b ˈɛ v + i	257 1121 451 1192 1076	1401	friu1240
+783	Gardenese_Ladin	drink	bˈev+ər	52	drink	bˈev-ər {bever}	b ˈe v + ə r	257 1089 451 1192 1022 153	1401	gard1241
+784	Fassano_Ladin	drink	bˈejv+er	52	drink	bˈeyv-er {bẹiver}	b ˈe j v + e r	257 1089 570 451 1192 1089 153	1401	fass1244
+785	Rumantsch_Grischun	drink	bˈajv+ər	52	drink	bˈayv-ər {baiver}	b ˈa j v + ə r	257 997 570 451 1192 1022 153	1401	ruma1247
+786	Sursilvan_Romansh	drink	bˈɛjb+ər	52	drink	bˈɛyb-ər {beiber}	b ˈɛ j b + ə r	257 1121 570 257 1192 1022 153	1401	surs1244
+787	Surmiran_Romansh	drink	bˈev+ər	52	drink	bˈev-ər {bever}	b ˈe v + ə r	257 1089 451 1192 1022 153	1401	surm1243
+788	Vallader_Romansh	drink	bˈajv+ər	52	drink	bˈayv-ər {baiver}	b ˈa j v + ə r	257 997 570 451 1192 1022 153	1401	vall1248
+789	Lanzo_Torinese_Piemontese	drink	bˈɛjv+e	52	drink	bˈɛyv-e {bèive}	b ˈɛ j v + e	257 1121 570 451 1192 1089	1401	piem1238
+790	Barbania_Piemontese	drink	bˈɛjv+e	52	drink	bˈɛyv-e {bèive}	b ˈɛ j v + e	257 1121 570 451 1192 1089	1401	piem1238
+791	Carmagnola_Piemontese	drink	bˈɛjv+e	52	drink	bˈɛyv-e {bèive}	b ˈɛ j v + e	257 1121 570 451 1192 1089	1401	piem1238
+792	Vercellese_Piemontese	drink	bˈe:v+i	52	drink	bˈe:v-i	b ˈeː v + i	257 1091 451 1192 1076	1401	piem1238
+793	Ravennate_Romagnol	drink	beː	52	drink	beː {bēr}	b eː	257 1091	1401	roma1328
+794	Ferrarese_Emiliano	drink	bˈɛ+ar	52	drink	bˈɛ-ar {bèar}	b ˈɛ + a r	257 1121 1192 997 153	1401	emil1241
+795	Carpigiano_Emiliano	drink	bˈɛv+er	52	drink	bˈɛv-er {bèver}	b ˈɛ v + e r	257 1121 451 1192 1089 153	1401	emil1241
+796	Reggiano_Emiliano	drink	bˈɛv+er	52	drink	bˈɛv-er {bèver}	b ˈɛ v + e r	257 1121 451 1192 1089 153	1401	emil1241
+797	Rapallo_Ligurian	drink	bˈej+e	52	drink	bˈey-e	b ˈe j + e	257 1089 570 1192 1089	1401	ligu1248
+798	Genoese_Ligurian	drink	bˈɛjv+e	52	drink	bˈɛyv-e {beive}	b ˈɛ j v + e	257 1121 570 451 1192 1089	1401	geno1240
+799	Stella_Ligurian	drink	bˈɛjv+e	52	drink	bˈɛyv-e {bèive}	b ˈɛ j v + e	257 1121 570 451 1192 1089	1401	ligu1248
+800	Venice_Venetian	drink	bˈɛv+e+r	52	drink	bˈɛv-e-r {bèver} ~ bˈev-e-r {béver} ~ bˈev-a-r {bévar}	b ˈɛ v + e + r	257 1121 451 1192 1089 1192 153	1401	vene1258
+801	Primiero_Venetian	drink	bˈev+e+r	52	drink	bˈev-e-r {béver}	b ˈe v + e + r	257 1089 451 1192 1089 1192 153	1401	vene1258
+802	Bellunese_Venetian	drink	bˈe+re	52	drink	bˈe-re {bere}	b ˈe + r e	257 1089 1192 153 1089	1401	vene1258
+803	Standard_Italian	drink	bˈe+re	52	drink	bˈe-re {bere}	b ˈe + r e	257 1089 1192 153 1089	1401	ital1282
+804	Grosseto_Italian	drink	bɛ	52	drink	bɛ {bè}	b ˈɛ	257 1121	1401	ital1282
+805	Neapolitan	drink	vˈɛβ+ə+rə	52	drink	vˈɛβ-ə-rə ~ vˈeβ-ə-rə {vevere}	v ˈɛ β + ə + r ə	451 1121 227 1192 1022 1192 153 1022	1401	neap1235
+806	Logudorese	drink	bufː+ˈa+re	53	drink	bufː-ˈa-re {buffare}	b u fː + ˈa + r e	257 868 444 1192 997 1192 153 1089	1401	barb1262
+807	Campidanese	drink	bufː+ˈaj	53	drink	bufː-ˈay {buffai}	b u fː + ˈa j	257 868 444 1192 997 570	1401	cagl1238
+808	Palermitan_Sicilian	drink	vˈiv+i+ɾi	52	drink	vˈiv-i-ɾi {viviri}	v ˈi v + i + ɾ i	451 1076 451 1192 1076 1192 66 1076	1401	sici1248
+809	Messinese_Sicilian	drink	bˈiv+ɨ+ɾɨ	52	drink	bˈiv-ɨ-ɾɨ {biviri}	b ˈi v + ɨ + ɾ ɨ	257 1076 451 1192 983 1192 66 983	1401	mess1247
+810	Catanian_Sicilian	drink	vˈiv+i+ɾi	52	drink	vˈiv-i-ɾi {viviri} ~ bˈiv-i-ɾi {biviri}	v ˈi v + i + ɾ i	451 1076 451 1192 1076 1192 66 1076	1401	sici1248
+811	South-Eastern_Sicilian	drink	vˈiv+i+ɾi	52	drink	vˈiv-i-ɾi {viviri} ~ bˈiv-i-ɾi {biviri}	v ˈi v + i + ɾ i	451 1076 451 1192 1076 1192 66 1076	1401	sici1248
+812	Central_Catalan	drink	bˈɛw+ɾə	52	drink	bˈɛw-ɾə {beure}	b ˈɛ w + ɾ ə	257 1121 462 1192 66 1022	1401	stan1289
+813	North-Western_Catalan	drink	bˈew+ɾe	52	drink	bˈew-ɾe {beure}	b ˈe w + ɾ e	257 1089 462 1192 66 1089	1401	stan1289
+814	Minorcan_Catalan	drink	bˈɛw+ɾə	52	drink	bˈɛw-ɾə {beure}	b ˈɛ w + ɾ ə	257 1121 462 1192 66 1022	1401	stan1289
+815	Castelló_de_la_Plana_Catalan	drink	bˈew+ɾe	52	drink	bˈew-ɾe {beure}	b ˈe w + ɾ e	257 1089 462 1192 66 1089	1401	stan1289
+816	Valencian_Catalan	drink	bˈew+ɾe	52	drink	bˈew-ɾe {beure}	b ˈe w + ɾ e	257 1089 462 1192 66 1089	1401	stan1289
+817	Manises_Catalan	drink	bˈew+ɾe	52	drink	bˈew-ɾe {beure}	b ˈe w + ɾ e	257 1089 462 1192 66 1089	1401	stan1289
+818	Castilian_Spanish	drink	beβ+ˈe+ɾ	52	drink	beβ-ˈe-ɾ {beber}	b e β + ˈe + ɾ	257 1089 227 1192 1089 1192 66	1401	cast1244
+819	Provençal_Occitan	drink	bˈew+ɾe	52	drink	bˈew-ɾe {béure}	b ˈe w + ɾ e	257 1089 462 1192 66 1089	1401	prov1235
+868	Megleno_Romanian	ear	urˈe̯akʎ+ə	56	ear	urˈe̯akʎ-ə {ureácľă}	u r ˈe̯a k ʎ + ə	868 153 1140 838 588 1192 1022	1247	megl1237
+869	Istro_Romanian	ear	urˈäkʎ+e	56	ear	urˈäkʎ-e {uręcľe}	u r ˈæ k ʎ + e	868 153 1087 838 588 1192 1089	1247	istr1245
+870	Aromanian	ear	urˈevakʎ+e	56	ear	urˈeakʎ-e {ureácľe}	u r ˈe v a k ʎ + e	868 153 1089 451 997 838 588 1192 1089	1247	arom1237
+871	Romanian	ear	urˈek+e	56	ear	urˈek-e {ureche}	u r ˈe k + e	868 153 1089 838 1192 1089	1247	roma1327
+872	Dalmatian	ear	orˈakl+a	56	ear	orˈakl-a {orákla} ~ rˈakl-a {rákla}	o r ˈa k l + a	887 153 997 838 554 1192 997	1247	dalm1243
+873	Friulian	ear	orˈɛl+e	56	ear	orˈɛl-e {orele}	o r ˈɛ l + e	887 153 1121 554 1192 1089	1247	friu1240
+874	Gardenese_Ladin	ear	urˈədl+a	56	ear	urˈədl-a {urëdla}	u r ˈə d l + a	868 153 1022 145 554 1192 997	1247	gard1241
+875	Fassano_Ladin	ear	urˈej+a	56	ear	urˈey-a {urẹia}	u r ˈe j + a	868 153 1089 570 1192 997	1247	fass1244
+876	Rumantsch_Grischun	ear	urˈeʎ+ə	56	ear	urˈeʎ-ə {ureglia}	u r ˈe ʎ + ə	868 153 1089 588 1192 1022	1247	ruma1247
+877	Sursilvan_Romansh	ear	urˈeʎ+ə	56	ear	urˈeʎ-ə {ureglia}	u r ˈe ʎ + ə	868 153 1089 588 1192 1022	1247	surs1244
+878	Surmiran_Romansh	ear	urˈej+ə	56	ear	urˈey-ə {ureia}	u r ˈe j + ə	868 153 1089 570 1192 1022	1247	surm1243
+879	Vallader_Romansh	ear	urˈaʎ+ə	56	ear	urˈaʎ-ə {uraglia}	u r ˈa ʎ + ə	868 153 997 588 1192 1022	1247	vall1248
+880	Lanzo_Torinese_Piemontese	ear	urˈij+a	56	ear	urˈiy-a {orija}	u r ˈi j + a	868 153 1076 570 1192 997	1247	piem1238
+881	Barbania_Piemontese	ear	urˈij+a	56	ear	urˈiy-a {orija}	u r ˈi j + a	868 153 1076 570 1192 997	1247	piem1238
+882	Carmagnola_Piemontese	ear	urˈij+a	56	ear	urˈiy-a {orija}	u r ˈi j + a	868 153 1076 570 1192 997	1247	piem1238
+883	Vercellese_Piemontese	ear	urˈöʤ+a	56	ear	urˈöǯ-a	u r ˈœ dʒ + a	868 153 1059 655 1192 997	1247	piem1238
+884	Ravennate_Romagnol	ear	urˈɛč+a	56	ear	urˈɛč-a {urècia}	u r ˈɛ tʃ + a	868 153 1121 651 1192 997	1247	roma1328
+885	Ferrarese_Emiliano	ear	urˈɛč+a	56	ear	urˈɛč-a {urècia}	u r ˈɛ tʃ + a	868 153 1121 651 1192 997	1247	emil1241
+886	Carpigiano_Emiliano	ear	urˈɛč+a	56	ear	urˈɛč-a {urècia}	u r ˈɛ tʃ + a	868 153 1121 651 1192 997	1247	emil1241
+887	Reggiano_Emiliano	ear	urˈɛč+a	56	ear	urˈɛč-a {urècia}	u r ˈɛ tʃ + a	868 153 1121 651 1192 997	1247	emil1241
+888	Rapallo_Ligurian	ear	awˈeʤ+e	56	ear	awˈeǯ-e	a w ˈe dʒ + e	997 462 1089 655 1192 1089	1247	ligu1248
+889	Genoese_Ligurian	ear	wˈɛʤ+a	56	ear	wˈɛǯ-a {uegia}	w ˈɛ dʒ + a	462 1121 655 1192 997	1247	geno1240
+890	Stella_Ligurian	ear	wˈɛʤː+a	56	ear	wˈɛǯː-a {ouèggia}	w ˈɛ dːʒ + a	462 1121 662 1192 997	1247	ligu1248
+891	Venice_Venetian	ear	rˈɛč+a	56	ear	rˈɛč-a {rècia} ~ rˈeč-a {récia}	r ˈɛ tʃ + a	153 1121 651 1192 997	1247	vene1258
+892	Primiero_Venetian	ear	rˈeč+a	56	ear	rˈeč-a {recia}	r ˈe tʃ + a	153 1089 651 1192 997	1247	vene1258
+893	Bellunese_Venetian	ear	rˈeč+a	56	ear	rˈeč-a {recia}	r ˈe tʃ + a	153 1089 651 1192 997	1247	vene1258
+894	Standard_Italian	ear	orˈekːj+o	56	ear	orˈekːy-o {orecchio} ~ orˈekːy-a {orecchia}	o r ˈe kː j + o	887 153 1089 832 570 1192 887	1247	ital1282
+895	Grosseto_Italian	ear	orˈekːj+o	56	ear	orˈekːy-o {orecchio}	o r ˈe kː j + o	887 153 1089 832 570 1192 887	1247	ital1282
+896	Neapolitan	ear	rˈekːj+ə	56	ear	rˈekːy-ə {recchia}	r ˈe kː j + ə	153 1089 832 570 1192 1022	1247	neap1235
+897	Logudorese	ear	orˈikːr+a	56	ear	orˈikːr-a {oriccra}	o r ˈi kː r + a	887 153 1076 832 153 1192 997	1247	barb1262
+898	Campidanese	ear	orˈiɣ+a	56	ear	orˈiɣ-a {origa}	o r ˈi ɣ + a	887 153 1076 780 1192 997	1247	cagl1238
+899	Palermitan_Sicilian	ear	aɾˈikːj+u	56	ear	aɾˈikːy-u {aricchiu} ~ aɾˈikːy-a {aricchia}	a ɾ ˈi kː j + u	997 66 1076 832 570 1192 868	1247	sici1248
+900	Messinese_Sicilian	ear	ɾˈikːɨ	56	ear	ɾˈikːɨ {ricchi}	ɾ ˈi kː ɨ	66 1076 832 983	1247	mess1247
+901	Catanian_Sicilian	ear	aɾˈikːj+u	56	ear	aɾˈikːy-u {aricchiu}	a ɾ ˈi kː j + u	997 66 1076 832 570 1192 868	1247	sici1248
+902	South-Eastern_Sicilian	ear	awɾˈičː+a	56	ear	awɾˈičː-a {auriccia}	a w ɾ ˈi tːʃ + a	997 462 66 1076 198 1192 997	1247	sici1248
+903	Central_Catalan	ear	uɾˈɛʎ+ə	56	ear	uɾˈɛʎ-ə {orella}	u ɾ ˈɛ ʎ + ə	868 66 1121 588 1192 1022	1247	stan1289
+904	North-Western_Catalan	ear	awɾˈeʎ+ɛ	56	ear	awɾˈeʎ-ɛ {orella}	a w ɾ ˈe ʎ + ˈɛ	997 462 66 1089 588 1192 1121	1247	stan1289
+905	Minorcan_Catalan	ear	uɾˈɛ+ə	56	ear	uɾˈɛ-ə {orella}	u ɾ ˈɛ + ə	868 66 1121 1192 1022	1247	stan1289
+906	Castelló_de_la_Plana_Catalan	ear	oɾˈeʎ+a	56	ear	oɾˈeʎ-a {orella}	o ɾ ˈe ʎ + a	887 66 1089 588 1192 997	1247	stan1289
+907	Valencian_Catalan	ear	oɾˈeʎ+a	56	ear	oɾˈeʎ-a {orella}	o ɾ ˈe ʎ + a	887 66 1089 588 1192 997	1247	stan1289
+908	Manises_Catalan	ear	oɾˈeʎ+a	56	ear	oɾˈeʎ-a {orella}	o ɾ ˈe ʎ + a	887 66 1089 588 1192 997	1247	stan1289
+909	Castilian_Spanish	ear	oɾˈex+a	56	ear	oɾˈex-a {oreja}	o ɾ ˈe x + a	887 66 1089 778 1192 997	1247	cast1244
+910	Provençal_Occitan	ear	awrˈi+o	56	ear	awrˈi-o {auriho}	a w r ˈi + o	997 462 153 1076 1192 887	1247	prov1235
+1126	Megleno_Romanian	feather	pˈe̯an+ə	67	feather	pˈe̯an-ə {peánă}	p ˈe̯a n + ə	291 1140 107 1192 1022	1201	megl1237
+1127	Istro_Romanian	feather	pˈäna	67	feather	pˈäna {pęna}	p ˈæ n a	291 1087 107 997	1201	istr1245
+1128	Aromanian	feather	pˈe̯an+ə	67	feather	pˈe̯an-ə {peánă}	p ˈe̯a n + ə	291 1140 107 1192 1022	1201	arom1237
+1129	Romanian	feather	pˈan+ə	67	feather	pˈan-ə {pană}	p ˈa n + ə	291 997 107 1192 1022	1201	roma1327
+1130	Dalmatian	feather	pˈajn+a	67	feather	pˈayn-a {pana}	p ˈa j n + a	291 997 570 107 1192 997	1201	dalm1243
+1131	Friulian	feather	plˈum+e	68	feather	plˈum-e {plume}	p l ˈu m + e	291 554 868 241 1192 1089	1201	friu1240
+1132	Gardenese_Ladin	feather	plˈum+a	68	feather	plˈum-a {pluma}	p l ˈu m + a	291 554 868 241 1192 997	1201	gard1241
+1133	Fassano_Ladin	feather	pˈjum+a	68	feather	pˈyum-a {piuma}	p ˈj u m + a	291 570 868 241 1192 997	1201	fass1244
+1134	Rumantsch_Grischun	feather	plˈim+ə	68	feather	plˈim-ə {plima}	p l ˈi m + ə	291 554 1076 241 1192 1022	1201	ruma1247
+1135	Sursilvan_Romansh	feather	plˈem+ə	68	feather	plˈem-ə {plema}	p l ˈe m + ə	291 554 1089 241 1192 1022	1201	surs1244
+1136	Surmiran_Romansh	feather	plˈem+ə	68	feather	plˈem-ə {plema}	p l ˈe m + ə	291 554 1089 241 1192 1022	1201	surm1243
+1137	Vallader_Romansh	feather	pˈɛn+ə	67	feather	pˈɛn-ə {penna}	p ˈɛ n + ə	291 1121 107 1192 1022	1201	vall1248
+1138	Lanzo_Torinese_Piemontese	feather	pˈjüm+a	68	feather	pˈyüm-a {piuma}	p ˈj y m + a	291 570 1047 241 1192 997	1201	piem1238
+1139	Barbania_Piemontese	feather	pˈjüm+a	68	feather	pˈyüm-a {piuma}	p ˈj y m + a	291 570 1047 241 1192 997	1201	piem1238
+1140	Carmagnola_Piemontese	feather	pˈjüm+a	68	feather	pˈyüm-a {piuma}	p ˈj y m + a	291 570 1047 241 1192 997	1201	piem1238
+1141	Vercellese_Piemontese	feather	pˈjüːm+a	68	feather	pˈyüːm-a	p ˈj yː m + a	291 570 1049 241 1192 997	1201	piem1238
+1142	Ravennate_Romagnol	feather	pˈɛn+a	67	feather	pˈɛn-a {pèna}	p ˈɛ n + a	291 1121 107 1192 997	1201	roma1328
+1143	Ferrarese_Emiliano	feather	pˈɛn+a	67	feather	pˈɛn-a {pena}	p ˈɛ n + a	291 1121 107 1192 997	1201	emil1241
+1144	Carpigiano_Emiliano	feather	pˈɛn+a	67	feather	pˈɛn-a {pèna}	p ˈɛ n + a	291 1121 107 1192 997	1201	emil1241
+1145	Reggiano_Emiliano	feather	pˈjom+a	68	feather	pˈyom-a {pióma}	p ˈj o m + a	291 570 887 241 1192 997	1201	emil1241
+1146	Rapallo_Ligurian	feather	pˈeŋː+a	67	feather	pˈeŋː-a	p ˈe ŋː + a	291 1089 804 1192 997	1201	ligu1248
+1147	Genoese_Ligurian	feather	pˈenː+a	67	feather	pˈenː-a {penna}	p ˈe nː + a	291 1089 106 1192 997	1201	geno1240
+1148	Stella_Ligurian	feather	čˈümː+a	68	feather	čˈümː-a {ciümma}	tʃ ˈy mː + a	651 1047 244 1192 997	1201	ligu1248
+1149	Venice_Venetian	feather	pˈen+a	67	feather	pˈen-a {pena}	p ˈe n + a	291 1089 107 1192 997	1201	vene1258
+1150	Primiero_Venetian	feather	pˈjum+a	68	feather	pˈyum-a {piuma}	p ˈj u m + a	291 570 868 241 1192 997	1201	vene1258
+1151	Bellunese_Venetian	feather	pˈen+a	67	feather	pˈen-a {pena}	p ˈe n + a	291 1089 107 1192 997	1201	vene1258
+1152	Standard_Italian	feather	pˈenː+a	67	feather	pˈenː-a {penna}	p ˈe nː + a	291 1089 106 1192 997	1201	ital1282
+1153	Grosseto_Italian	feather	pˈenː+a	67	feather	pˈenː-a {penna}	p ˈe nː + a	291 1089 106 1192 997	1201	ital1282
+1154	Neapolitan	feather	pˈenː+ə	67	feather	pˈenː-ə {penna}	p ˈe nː + ə	291 1089 106 1192 1022	1201	neap1235
+1155	Logudorese	feather	prˈumː+a	68	feather	prˈumː-a {prumma}	p r ˈu mː + a	291 153 868 244 1192 997	1201	barb1262
+1156	Campidanese	feather	pˈinː+a	67	feather	pˈinː-a {pinna}	p ˈi nː + a	291 1076 106 1192 997	1201	cagl1238
+1157	Palermitan_Sicilian	feather	pˈinː+a	67	feather	pˈinː-a {pinna}	p ˈi nː + a	291 1076 106 1192 997	1201	sici1248
+1158	Messinese_Sicilian	feather	pˈinː+a	67	feather	pˈinː-a {pinna}	p ˈi nː + a	291 1076 106 1192 997	1201	mess1247
+1159	Catanian_Sicilian	feather	pˈinː+a	67	feather	pˈinː-a {pinna}	p ˈi nː + a	291 1076 106 1192 997	1201	sici1248
+1160	South-Eastern_Sicilian	feather	pˈjum+a	-331	feather	pˈyum-a {piuma}	p ˈj u m + a	291 570 868 241 1192 997	1201	sici1248
+1161	Central_Catalan	feather	pɫˈom+ə	68	feather	pɫˈom-ə {ploma}	p lˠ ˈo m + ə	291 549 887 241 1192 1022	1201	stan1289
+1162	North-Western_Catalan	feather	pɫˈom+ɛ	68	feather	pɫˈom-ɛ {ploma}	p lˠ ˈo m + ˈɛ	291 549 887 241 1192 1121	1201	stan1289
+1163	Minorcan_Catalan	feather	pɫˈom+ə	68	feather	pɫˈom-ə {ploma}	p lˠ ˈo m + ə	291 549 887 241 1192 1022	1201	stan1289
+1164	Castelló_de_la_Plana_Catalan	feather	pɫˈom+a	68	feather	pɫˈom-a {ploma}	p lˠ ˈo m + a	291 549 887 241 1192 997	1201	stan1289
+1165	Valencian_Catalan	feather	pɫˈom+a	68	feather	pɫˈom-a {ploma}	p lˠ ˈo m + a	291 549 887 241 1192 997	1201	stan1289
+1166	Manises_Catalan	feather	pɫˈom+a	68	feather	pɫˈom-a {ploma}	p lˠ ˈo m + a	291 549 887 241 1192 997	1201	stan1289
+1167	Castilian_Spanish	feather	plˈum+a	-332	feather	plˈum-a {pluma}	p l ˈu m + a	291 554 868 241 1192 997	1201	cast1244
+1168	Provençal_Occitan	feather	plˈüm+o	68	feather	plˈüm-o {plumo}	p l ˈy m + o	291 554 1047 241 1192 887	1201	prov1235
+1383	Megleno_Romanian	give	da+w	74	give	da-w {dáu̯}	d a + w	145 997 1192 462	1447	megl1237
+1384	Istro_Romanian	give	dɒ	74	give	dɒ {då}	d ɒ	145 900	1447	istr1245
+1385	Aromanian	give	da+w	74	give	da-w {daŭ}	d a + w	145 997 1192 462	1447	arom1237
+1386	Romanian	give	a+dˈa	74	give	a=dˈa {a da}	a + d ˈa	997 1192 145 997	1447	roma1327
+1387	Dalmatian	give	dwo+r	74	give	dwo-r {du͡ọr}	d w o + r	145 462 887 1192 153	1447	dalm1243
+1388	Friulian	give	daː	74	give	daː {dâ}	d aː	145 1004	1447	friu1240
+1389	Gardenese_Ladin	give	dɛ	74	give	dɛ {dé}	d ˈɛ	145 1121	1447	gard1241
+1390	Fassano_Ladin	give	dɛ+r	74	give	dɛ-r {dèr}	d ˈɛ + r	145 1121 1192 153	1447	fass1244
+1391	Rumantsch_Grischun	give	da+r	74	give	da-r {dar}	d a + r	145 997 1192 153	1447	ruma1247
+1392	Sursilvan_Romansh	give	da+r	74	give	da-r {dar}	d a + r	145 997 1192 153	1447	surs1244
+1393	Surmiran_Romansh	give	da+r	74	give	da-r {dar}	d a + r	145 997 1192 153	1447	surm1243
+1394	Vallader_Romansh	give	da+r	74	give	da-r {dar}	d a + r	145 997 1192 153	1447	vall1248
+1395	Lanzo_Torinese_Piemontese	give	dɛ	74	give	dɛ {dè}	d ˈɛ	145 1121	1447	piem1238
+1396	Barbania_Piemontese	give	de	74	give	de {dé}	d e	145 1089	1447	piem1238
+1397	Carmagnola_Piemontese	give	de	74	give	de {dé}	d e	145 1089	1447	piem1238
+1398	Vercellese_Piemontese	give	dɛ	74	give	dɛ	d ˈɛ	145 1121	1447	piem1238
+1399	Ravennate_Romagnol	give	dea	74	give	de {dêr}	d e a	145 1089 997	1447	roma1328
+1400	Ferrarese_Emiliano	give	da+r	74	give	da-r {dar}	d a + r	145 997 1192 153	1447	emil1241
+1401	Carpigiano_Emiliano	give	dɛː+r	74	give	dɛː-r {dèr}	d ˈɛː + r	145 1117 1192 153	1447	emil1241
+1402	Reggiano_Emiliano	give	dɛː+r	74	give	dɛː-r {dêr}	d ˈɛː + r	145 1117 1192 153	1447	emil1241
+1403	Rapallo_Ligurian	give	da	74	give	da	d a	145 997	1447	ligu1248
+1404	Genoese_Ligurian	give	daː	74	give	daː {dâ}	d aː	145 1004	1447	geno1240
+1405	Stella_Ligurian	give	dɛ	74	give	dɛ {dè}	d ˈɛ	145 1121	1447	ligu1248
+1406	Venice_Venetian	give	da+r	74	give	da-r {dar}	d a + r	145 997 1192 153	1447	vene1258
+1407	Primiero_Venetian	give	da+r	74	give	da-r {dar}	d a + r	145 997 1192 153	1447	vene1258
+1408	Bellunese_Venetian	give	da+r	74	give	da-r {dar}	d a + r	145 997 1192 153	1447	vene1258
+1409	Standard_Italian	give	dˈa+re	74	give	dˈa-re {dare}	d ˈa + r e	145 997 1192 153 1089	1447	ital1282
+1410	Grosseto_Italian	give	dˈa+re	74	give	dˈa-re {dare}	d ˈa + r e	145 997 1192 153 1089	1447	ital1282
+1411	Neapolitan	give	dˈa	74	give	dˈa {dà}	d ˈa	145 997	1447	neap1235
+1412	Logudorese	give	dˈa+re	74	give	dˈa-re {dare}	d ˈa + r e	145 997 1192 153 1089	1447	barb1262
+1413	Campidanese	give	don+ˈaj	-336	give	don-ˈay {donai}	d o n + ˈa j	145 887 107 1192 997 570	1447	cagl1238
+1414	Palermitan_Sicilian	give	dˈa+ɾi	74	give	dˈa-ɾi {dari} ~ ɾˈa-ɾi {rari}	d ˈa + ɾ i	145 997 1192 66 1076	1447	sici1248
+1415	Messinese_Sicilian	give	dˈa+ɾɨ	74	give	dˈa-ɾɨ {dari}	d ˈa + ɾ ɨ	145 997 1192 66 983	1447	mess1247
+1416	Catanian_Sicilian	give	dˈa+ɾi	74	give	dˈa-ɾi {dari}	d ˈa + ɾ i	145 997 1192 66 1076	1447	sici1248
+1417	South-Eastern_Sicilian	give	dˈa+ɾi	74	give	dˈa-ɾi {dari}	d ˈa + ɾ i	145 997 1192 66 1076	1447	sici1248
+1418	Central_Catalan	give	dun+ˈa	75	give	dun-ˈa {donar}	d u n + ˈa	145 868 107 1192 997	1447	stan1289
+1419	North-Western_Catalan	give	don+ˈa	75	give	don-ˈa {donar}	d o n + ˈa	145 887 107 1192 997	1447	stan1289
+1420	Minorcan_Catalan	give	dun+ˈa	75	give	dun-ˈa {donar}	d u n + ˈa	145 868 107 1192 997	1447	stan1289
+1421	Castelló_de_la_Plana_Catalan	give	don+ˈa+ɾ	75	give	don-ˈa-ɾ {donar}	d o n + ˈa + ɾ	145 887 107 1192 997 1192 66	1447	stan1289
+1422	Valencian_Catalan	give	don+ˈa+ɾ	75	give	don-ˈa-ɾ {donar}	d o n + ˈa + ɾ	145 887 107 1192 997 1192 66	1447	stan1289
+1423	Manises_Catalan	give	don+ˈa+ɾ	75	give	don-ˈa-ɾ {donar}	d o n + ˈa + ɾ	145 887 107 1192 997 1192 66	1447	stan1289
+1424	Castilian_Spanish	give	da+ɾ	74	give	da-ɾ {dar}	d a + ɾ	145 997 1192 66	1447	cast1244
+1425	Provençal_Occitan	give	dun+ˈa	75	give	dun-ˈa {douna}	d u n + ˈa	145 868 107 1192 997	1447	prov1235
+1598	Megleno_Romanian	head	kap	82	head	kap {cap}	k a p	838 997 291	1256	megl1237
+1599	Istro_Romanian	head	kɒp	82	head	kɒp {cåp}	k ɒ p	838 900 291	1256	istr1245
+1600	Aromanian	head	kˈap+ŭ	82	head	kˈap-ŭ {cap}	k ˈa p + u	838 997 291 1192 868	1256	arom1237
+1601	Romanian	head	kap	82	head	kap {cap}	k a p	838 997 291	1256	roma1327
+1602	Dalmatian	head	kup	82	head	kup {kúp}	k u p	838 868 291	1256	dalm1243
+1603	Friulian	head	ȶaːf	82	head	ȶaːf {cjâf}	tʲ aː f	115 1004 452	1256	friu1240
+1604	Gardenese_Ladin	head	čə	82	head	čə {cë}	tʃ ə	651 1022	1256	gard1241
+1605	Fassano_Ladin	head	čef	82	head	čef {cef}	tʃ e f	651 1089 452	1256	fass1244
+1606	Rumantsch_Grischun	head	ʨaw	82	head	ɕaw {chau}	tɕ a w	200 997 462	1256	ruma1247
+1607	Sursilvan_Romansh	head	ʨaw	82	head	ɕaw {tgau}	tɕ a w	200 997 462	1256	surs1244
+1608	Surmiran_Romansh	head	ȶˈe+ə	82	head	ȶˈe-ə {tgea}	tʲ ˈe + ə	115 1089 1192 1022	1256	surm1243
+1609	Vallader_Romansh	head	ʨew	82	head	ɕew {cheu}	tɕ e w	200 1089 462	1256	vall1248
+1610	Lanzo_Torinese_Piemontese	head	tˈɛst+a	83	head	tˈɛst-a {testa}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	piem1238
+1611	Barbania_Piemontese	head	tˈɛst+a	83	head	tˈɛst-a {testa}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	piem1238
+1612	Carmagnola_Piemontese	head	tˈest+a	83	head	tˈest-a {testa}	t ˈe s t + a	120 1089 89 120 1192 997	1256	piem1238
+1613	Vercellese_Piemontese	head	tˈɛst+a	83	head	tˈɛst-a	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	piem1238
+1614	Ravennate_Romagnol	head	tˈɛast+a	83	head	tˈɛst-a {tësta}	t ˈɛ a s t + a	120 1121 997 89 120 1192 997	1256	roma1328
+1615	Ferrarese_Emiliano	head	kɔ	82	head	kɔ {cò}	k ˈɔ	838 916	1256	emil1241
+1616	Carpigiano_Emiliano	head	tˈɛst+a	83	head	tˈɛst-a {testa}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	emil1241
+1617	Reggiano_Emiliano	head	tˈɛst+a	83	head	tˈɛst-a {tèsta}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	emil1241
+1618	Rapallo_Ligurian	head	tˈest+a	83	head	tˈest-a	t ˈe s t + a	120 1089 89 120 1192 997	1256	ligu1248
+1619	Genoese_Ligurian	head	tˈest+a	83	head	tˈest-a {tésta}	t ˈe s t + a	120 1089 89 120 1192 997	1256	geno1240
+1620	Stella_Ligurian	head	tˈɛːst+a	83	head	tˈɛːst-a {tësta}	t ˈɛː s t + a	120 1117 89 120 1192 997	1256	ligu1248
+1621	Venice_Venetian	head	tˈɛst+a	83	head	tˈɛst-a {tèsta}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	vene1258
+1622	Primiero_Venetian	head	tˈɛst+a	83	head	tˈɛst-a {tèsta}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	vene1258
+1623	Bellunese_Venetian	head	tˈɛst+a	83	head	tˈɛst-a {testa}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	vene1258
+1624	Standard_Italian	head	tˈɛst+a	83	head	tˈɛst-a {testa}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	ital1282
+1625	Grosseto_Italian	head	tˈɛst+a	83	head	tˈɛst-a {testa}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	ital1282
+1626	Neapolitan	head	kˈap+ə	82	head	kˈap-ə {capa}	k ˈa p + ə	838 997 291 1192 1022	1256	neap1235
+1627	Logudorese	head	kˈoŋk+a	84	head	kˈoŋk-a {conca}	k ˈo ŋ k + a	838 887 801 838 1192 997	1256	barb1262
+1628	Campidanese	head	kˈɔŋk+a	84	head	kˈɔŋk-a {conca}	k ˈɔ ŋ k + a	838 916 801 838 1192 997	1256	cagl1238
+1629	Palermitan_Sicilian	head	tˈjɛst+a	83	head	tˈyɛst-a {tiesta}	t ˈj ˈɛ s t + a	120 570 1121 89 120 1192 997	1256	sici1248
+1630	Messinese_Sicilian	head	tˈɛst+a	83	head	tˈɛst-a {testa}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	mess1247
+1631	Catanian_Sicilian	head	tˈɛst+a	83	head	tˈɛst-a {testa}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	sici1248
+1632	South-Eastern_Sicilian	head	tˈɛst+a	83	head	tˈɛst-a {testa}	t ˈɛ s t + a	120 1121 89 120 1192 997	1256	sici1248
+1633	Central_Catalan	head	kap	82	head	kap {cap}	k a p	838 997 291	1256	stan1289
+1634	North-Western_Catalan	head	kap	82	head	kap {cap}	k a p	838 997 291	1256	stan1289
+1635	Minorcan_Catalan	head	kap	82	head	kap {cap}	k a p	838 997 291	1256	stan1289
+1636	Castelló_de_la_Plana_Catalan	head	kap	82	head	kap {cap}	k a p	838 997 291	1256	stan1289
+1637	Valencian_Catalan	head	kap	82	head	kap {cap}	k a p	838 997 291	1256	stan1289
+1638	Manises_Catalan	head	kap	82	head	kap {cap}	k a p	838 997 291	1256	stan1289
+1639	Castilian_Spanish	head	kɑβˈeθ+a	82	head	kɑβˈeθ-a {cabeza}	k ɑ β ˈe θ + a	838 952 227 1089 417 1192 997	1256	cast1244
+1640	Provençal_Occitan	head	tˈɛst+o	83	head	tˈɛst-o {tèsto}	t ˈɛ s t + o	120 1121 89 120 1192 887	1256	prov1235
+1641	Dalmatian	head	tˈjast+a	-338	head	tˈyast-a {tasta}	t ˈj a s t + a	120 570 997 89 120 1192 997	1256	dalm1243
+1843	Megleno_Romanian	kill	nek	94	kill	nek {nec}	n e k	107 1089 838	1417	megl1237
+1844	Istro_Romanian	kill	učˈid+e	95	kill	učˈid-e {učíde}	u tʃ ˈi d + e	868 651 1076 145 1192 1089	1417	istr1245
+1845	Aromanian	kill	vˈat+əm	96	kill	vˈat-əm {vátăm}	v ˈa t + ə m	451 997 120 1192 1022 241	1417	arom1237
+1846	Romanian	kill	a+učˈid+e	95	kill	a=učˈid-e {a ucide}	a + u tʃ ˈi d + e	997 1192 868 651 1076 145 1192 1089	1417	roma1327
+1847	Dalmatian	kill	dram+ˈwor	97	kill	dram-ˈwor {dramu͡ọr}	d r a m + ˈw o r	145 153 997 241 1192 462 887 153	1417	dalm1243
+1848	Friulian	kill	kop+ˈaː	98	kill	kop-ˈaː {copâ}	k o p + ˈaː	838 887 291 1192 1004	1417	friu1240
+1849	Gardenese_Ladin	kill	maʦ+ˈɛ	99	kill	mac-ˈɛ {mazé}	m a ts + ˈɛ	241 997 15 1192 1121	1417	gard1241
+1850	Fassano_Ladin	kill	maʦ+ˈɛr	99	kill	mac-ˈɛr {mazèr}	m a ts + ˈɛ r	241 997 15 1192 1121 153	1417	fass1244
+1851	Rumantsch_Grischun	kill	məʦ+ˈar	99	kill	məc-ˈar {mazzar}	m ə ts + ˈa r	241 1022 15 1192 997 153	1417	ruma1247
+1852	Sursilvan_Romansh	kill	məʦ+ˈar	99	kill	məc-ˈar {mazzar}	m ə ts + ˈa r	241 1022 15 1192 997 153	1417	surs1244
+1853	Surmiran_Romansh	kill	məʦ+ˈar	99	kill	məc-ˈar {mazzar}	m ə ts + ˈa r	241 1022 15 1192 997 153	1417	surm1243
+1854	Vallader_Romansh	kill	kəp+ˈar	98	kill	kəp-ˈar {coppar}	k ə p + ˈa r	838 1022 291 1192 997 153	1417	vall1248
+1855	Lanzo_Torinese_Piemontese	kill	mas+ˈe	99	kill	mas-ˈe {massé}	m a s + ˈe	241 997 89 1192 1089	1417	piem1238
+1856	Barbania_Piemontese	kill	mas+ˈe	99	kill	mas-ˈe {massé}	m a s + ˈe	241 997 89 1192 1089	1417	piem1238
+1857	Carmagnola_Piemontese	kill	mas+ˈe	99	kill	mas-ˈe {massé}	m a s + ˈe	241 997 89 1192 1089	1417	piem1238
+1858	Vercellese_Piemontese	kill	mas+ˈɛ	99	kill	mas-ˈɛ	m a s + ˈɛ	241 997 89 1192 1121	1417	piem1238
+1859	Ravennate_Romagnol	kill	a+kup+ˈea	98	kill	a=kup-ˈe {acupêr}	a + k u p + ˈe a	997 1192 838 868 291 1192 1089 997	1417	roma1328
+1860	Ferrarese_Emiliano	kill	maʦ+ˈar	99	kill	mac-ˈar {mazàr}	m a ts + ˈa r	241 997 15 1192 997 153	1417	emil1241
+1861	Carpigiano_Emiliano	kill	mas+ˈɛːr	99	kill	mas-ˈɛːr {masèr}	m a s + ˈɛː r	241 997 89 1192 1117 153	1417	emil1241
+1862	Reggiano_Emiliano	kill	mas+ˈɛːr	99	kill	mas-ˈɛːr {masêr}	m a s + ˈɛː r	241 997 89 1192 1117 153	1417	emil1241
+1863	Rapallo_Ligurian	kill	a+mːasː+ˈa	99	kill	a=mːasː-ˈa	a + mː a sː + ˈa	997 1192 244 997 72 1192 997	1417	ligu1248
+1864	Genoese_Ligurian	kill	mːasː+ˈaː	99	kill	mːasː-ˈaː {massâ}	mː a sː + ˈaː	244 997 72 1192 1004	1417	geno1240
+1865	Stella_Ligurian	kill	maʦː+ˈɛ	99	kill	macː-ˈɛ {mazzè}	m a tːs + ˈɛ	241 997 26 1192 1121	1417	ligu1248
+1866	Venice_Venetian	kill	kop+ˈa+r	98	kill	kop-ˈa-r {copàr}	k o p + ˈa + r	838 887 291 1192 997 1192 153	1417	vene1258
+1867	Primiero_Venetian	kill	kop+ˈa+r	98	kill	kop-ˈa-r {copar}	k o p + ˈa + r	838 887 291 1192 997 1192 153	1417	vene1258
+1868	Bellunese_Venetian	kill	kop+ˈa+r	98	kill	kop-ˈa-r {copar}	k o p + ˈa + r	838 887 291 1192 997 1192 153	1417	vene1258
+1869	Standard_Italian	kill	učːˈid+e+re	95	kill	učːˈid-e-re {uccidere}	u tːʃ ˈi d + e + r e	868 198 1076 145 1192 1089 1192 153 1089	1417	ital1282
+1870	Grosseto_Italian	kill	a+mːaʦː+ˈa+re	99	kill	a=mːacː-ˈa-re {ammazzare}	a + mː a tːs + ˈa + r e	997 1192 244 997 26 1192 997 1192 153 1089	1417	ital1282
+1871	Neapolitan	kill	a+čːˈiɾ+ə+rə	95	kill	a=čːˈiɾ-ə-rə {accìdere}	a + tːʃ ˈi ɾ + ə + r ə	997 1192 198 1076 66 1192 1022 1192 153 1022	1417	neap1235
+1872	Logudorese	kill	bokː+ˈi+re	95	kill	bokː-ˈi-re {bocchire}	b o kː + ˈi + r e	257 887 832 1192 1076 1192 153 1089	1417	barb1262
+1873	Campidanese	kill	bočːˈir+i	95	kill	bočːˈir-i {bocciri}	b o tːʃ ˈi r + i	257 887 198 1076 153 1192 1076	1417	cagl1238
+1874	Palermitan_Sicilian	kill	a+mːaʦː+ˈa+ɾi	99	kill	a=mːacː-ˈa-ɾi {ammazzari}	a + mː a tːs + ˈa + ɾ i	997 1192 244 997 26 1192 997 1192 66 1076	1417	sici1248
+1875	Messinese_Sicilian	kill	a+mːaʦː+ˈa+ɾɨ	99	kill	a=mːacː-ˈa-ɾɨ {ammazzari}	a + mː a tːs + ˈa + ɾ ɨ	997 1192 244 997 26 1192 997 1192 66 983	1417	mess1247
+1876	Catanian_Sicilian	kill	a+mːaʦː+ˈa+ɾi	99	kill	a=mːacː-ˈa-ɾi {ammazzari} ~ mːacː-ˈa-ɾi {mmazzari}	a + mː a tːs + ˈa + ɾ i	997 1192 244 997 26 1192 997 1192 66 1076	1417	sici1248
+1877	South-Eastern_Sicilian	kill	a+mːaʦː+ˈa+ɾi	99	kill	a=mːacː-ˈa-ɾi {ammazzari}	a + mː a tːs + ˈa + ɾ i	997 1192 244 997 26 1192 997 1192 66 1076	1417	sici1248
+1878	Central_Catalan	kill	mət+ˈa	99	kill	mət-ˈa {matar}	m ə t + ˈa	241 1022 120 1192 997	1417	stan1289
+1879	North-Western_Catalan	kill	mat+ˈa	99	kill	mat-ˈa {matar}	m a t + ˈa	241 997 120 1192 997	1417	stan1289
+1880	Minorcan_Catalan	kill	mət+ˈa	99	kill	mət-ˈa {matar}	m ə t + ˈa	241 1022 120 1192 997	1417	stan1289
+1881	Castelló_de_la_Plana_Catalan	kill	mat+ˈa+ɾ	99	kill	mat-ˈa-ɾ {matar}	m a t + ˈa + ɾ	241 997 120 1192 997 1192 66	1417	stan1289
+1882	Valencian_Catalan	kill	mat+ˈa+ɾ	99	kill	mat-ˈa-ɾ {matar}	m a t + ˈa + ɾ	241 997 120 1192 997 1192 66	1417	stan1289
+1883	Manises_Catalan	kill	mat+ˈa+ɾ	99	kill	mat-ˈa-ɾ {matar}	m a t + ˈa + ɾ	241 997 120 1192 997 1192 66	1417	stan1289
+1884	Castilian_Spanish	kill	mat+ˈa+ɾ	99	kill	mat-ˈa-ɾ {matar}	m a t + ˈa + ɾ	241 997 120 1192 997 1192 66	1417	cast1244
+1885	Provençal_Occitan	kill	tü+ˈa	100	kill	tü-ˈa {tua} ~ tüy-ˈa {tuia}	t y + ˈa	120 1047 1192 997	1417	prov1235
+1886	Romanian	kill	a+omor+ˈɨ	-347	kill	a=omor-ˈɨ {a omorî}	a + o m o r + ˈɨ	997 1192 887 241 887 153 1192 983	1417	roma1327
+2018	Megleno_Romanian	lie	zak	109	lie	zak {zac}	z a k	80 997 838	1411	megl1237
+2019	Istro_Romanian	lie	zač+ˈɒ	109	lie	zač-ˈɒ {začå}	z a tʃ + ˈɒ	80 997 651 1192 900	1411	istr1245
+2020	Aromanian	lie	ʣˈak+ŭ	109	lie	ʒˈak-ŭ {dzac}	dz ˈa k + u	20 997 838 1192 868	1411	arom1237
+2021	Romanian	lie	a+stˈa#kulk+ˈat	110	lie	a=stˈa kulk-ˈat {a sta culcat} ~ a=fˈi kulk-ˈat {a fi culcat}	a + s t ˈa _ k u l k + ˈa t	997 1192 89 120 997 1190 838 868 554 838 1192 997 120	1411	roma1327
+2022	Friulian	lie	jesi+dis+tir+ˈaːt	111	lie	yesi=dis=tir-ˈaːt {jessi distirât}	j e s i + d i s + t i r + ˈaː t	570 1089 89 1076 1192 145 1076 89 1192 120 1076 153 1192 1004 120	1411	friu1240
+2023	Gardenese_Ladin	lie	štˈɛ+pundˈu	112	lie	štˈɛ=pundˈu {sté pundù} ~ veštˈər=pundù {vester pundù}	š t ˈɛ + p u n d ˈu	70 120 1121 1192 291 868 107 145 868	1411	gard1241
+2024	Fassano_Ladin	lie	ˈeser+but+ˈa+žˈu	113	lie	ˈeser=but-ˈa=žˈu {ẹsser butà jù} ~ štˈer=but-ˈa=žˈu {stèr butà jù}	ˈe s e r + b u t + ˈa + ʒ ˈu	1089 89 1089 153 1192 257 868 120 1192 997 1192 685 868	1411	fass1244
+2025	Rumantsch_Grischun	lie	ʤəž+ˈajr	109	lie	ǯəž-ˈayr {giaschair}	dʒ ə ʒ + ˈa j r	655 1022 685 1192 997 570 153	1411	ruma1247
+2026	Sursilvan_Romansh	lie	žer	109	lie	žer {scher}	ʒ e r	685 1089 153	1411	surs1244
+2027	Surmiran_Romansh	lie	štˈar+tˈarə	114	lie	štˈar=tˈarə {star taro}	š t ˈa r + t ˈa r ə	70 120 997 153 1192 120 997 153 1022	1411	surm1243
+2028	Vallader_Romansh	lie	ʤəž+ˈajr	109	lie	ǯəž-ˈayr {giaschair}	dʒ ə ʒ + ˈa j r	655 1022 685 1192 997 570 153	1411	vall1248
+2029	Lanzo_Torinese_Piemontese	lie	st+ˈe+kuʤ+ˈa	110	lie	st-ˈe=kuǯ-ˈa {sté cogià}	s t + ˈe + k u dʒ + ˈa	89 120 1192 1089 1192 838 868 655 1192 997	1411	piem1238
+2030	Barbania_Piemontese	lie	st+ˈe+kuʤ+ˈa	110	lie	st-ˈe=kuǯ-ˈa {sté cogià}	s t + ˈe + k u dʒ + ˈa	89 120 1192 1089 1192 838 868 655 1192 997	1411	piem1238
+2031	Carmagnola_Piemontese	lie	st+ˈe+kuʤ+ˈa	110	lie	st-ˈe=kuǯ-ˈa {sté cogià}	s t + ˈe + k u dʒ + ˈa	89 120 1192 1089 1192 838 868 655 1192 997	1411	piem1238
+2032	Vercellese_Piemontese	lie	stɛ+kwat+ˈaː	110	lie	stɛ=kwat-ˈaː ~ ves-i=kwat-ˈaː	s t ˈɛ + k w a t + ˈaː	89 120 1121 1192 838 462 997 120 1192 1004	1411	piem1238
+2033	Ferrarese_Emiliano	lie	kuč+ˈar+s	110	lie	kuč-ˈar-s {cuciàrs}	k u tʃ + ˈa r + s	838 868 651 1192 997 153 1192 89	1411	emil1241
+2034	Carpigiano_Emiliano	lie	zak+ˈɛːr	109	lie	zak-ˈɛːr {śachèr}	z a k + ˈɛː r	80 997 838 1192 1117 153	1411	emil1241
+2035	Reggiano_Emiliano	lie	ʣak+ˈɛːr	109	lie	ʒak-ˈɛːr {zachêr} ~ ʒakw-ˈer {zaquer}	dz a k + ˈɛː r	20 997 838 1192 1117 153	1411	emil1241
+2036	Rapallo_Ligurian	lie	sdrˈaj+aː+se	115	lie	sdrˈay-aː-se	s d r ˈa j + aː + s e	89 145 153 997 570 1192 1004 1192 89 1089	1411	ligu1248
+2037	Genoese_Ligurian	lie	ˈeːse+a+kwˈeːg+oːw	110	lie	ˈeːse=a=kwˈeːg-oːw {êse acuêgôǒ}	ˈeː s e + a + k w ˈeː ɡ + oː w	1091 89 1089 1192 997 1192 838 462 1091 831 1192 880 462	1411	geno1240
+2038	Stella_Ligurian	lie	ru+vers+ˈeː+se	116	lie	ru=vers-ˈeː-se {ruversēse}	r u + v e r s + ˈeː + s e	153 868 1192 451 1089 153 89 1192 1091 1192 89 1089	1411	ligu1248
+2039	Venice_Venetian	lie	st+ˈa+r+des+tir+ˈa	111	lie	st-ˈa-r=des=tir-ˈa {stàr destirà}	s t + ˈa + r + d e s + t i r + ˈa	89 120 1192 997 1192 153 1192 145 1089 89 1192 120 1076 153 1192 997	1411	vene1258
+2040	Primiero_Venetian	lie	st+ˈa+r+but+ˈa+do	113	lie	st-ˈa-r=but-ˈa=do {star butà do}	s t + ˈa + r + b u t + ˈa + d o	89 120 1192 997 1192 153 1192 257 868 120 1192 997 1192 145 887	1411	vene1258
+2041	Bellunese_Venetian	lie	st+ˈa+r+but+ˈa+do	113	lie	st-ˈa-r=but-ˈa=do {star buta do}	s t + ˈa + r + b u t + ˈa + d o	89 120 1192 997 1192 153 1192 257 868 120 1192 997 1192 145 887	1411	vene1258
+2042	Standard_Italian	lie	ˈɛsː+e+re+zdraj+ˈa+t+o	115	lie	ˈɛsː-e-re=zdray-ˈa-t-o {essere sdraiato}	ˈɛ sː + e + r e + z d r a j + ˈa + t + o	1121 72 1192 1089 1192 153 1089 1192 80 145 153 997 570 1192 997 1192 120 1192 887	1411	ital1282
+2043	Grosseto_Italian	lie	ˈɛsː+e+re+zdraj+ˈa+t+o	115	lie	ˈɛsː-e-re=zdray-ˈa-t-o {essere sdraiato}	ˈɛ sː + e + r e + z d r a j + ˈa + t + o	1121 72 1192 1089 1192 153 1089 1192 80 145 153 997 570 1192 997 1192 120 1192 887	1411	ital1282
+2044	Neapolitan	lie	st+ˈa+kukː+ˈat+ə	110	lie	st-ˈa=kukː-ˈat-ə {stà cuccato} ~ kukː-ˈa {cuccà}	s t + ˈa + k u kː + ˈa t + ə	89 120 1192 997 1192 838 868 832 1192 997 120 1192 1022	1411	neap1235
+2045	Logudorese	lie	esː+ˈe+re+kolk+ˈad+u	110	lie	esː-ˈe-re=kolk-ˈad-u {essère colcadu} ~ ist-ˈa-re=kolk-ˈad-u {istare colcadu}	e sː + ˈe + r e + k o l k + ˈa d + u	1089 72 1192 1089 1192 153 1089 1192 838 887 554 838 1192 997 145 1192 868	1411	barb1262
+2046	Campidanese	lie	abarː+ˈaj+krokː+ˈaw	110	lie	abarː-ˈay=krokː-ˈaw {abarrai croccau}	a b a rː + ˈa j + k r o kː + ˈa w	997 257 997 162 1192 997 570 1192 838 153 887 832 1192 997 462	1411	cagl1238
+2047	Palermitan_Sicilian	lie	kuɾk+ˈa+ɾi+si	110	lie	kuɾk-ˈa-ɾi-si {curcarisi}	k u ɾ k + ˈa + ɾ i + s i	838 868 66 838 1192 997 1192 66 1076 1192 89 1076	1411	sici1248
+2048	Messinese_Sicilian	lie	kukː+ˈa+ɾɨ+sɨ	110	lie	kukː-ˈa-ɾɨ-sɨ {cuccarisi}	k u kː + ˈa + ɾ ɨ + s ɨ	838 868 832 1192 997 1192 66 983 1192 89 983	1411	mess1247
+2049	Catanian_Sicilian	lie	kuɾk+ˈa+ɾi+si	110	lie	kuɾk-ˈa-ɾi-si {curcarisi}	k u ɾ k + ˈa + ɾ i + s i	838 868 66 838 1192 997 1192 66 1076 1192 89 1076	1411	sici1248
+2050	South-Eastern_Sicilian	lie	štinː+i+ri+si	117	lie	štinː-i-ri-si {stinnirisi}	š t i nː + i + r i + s i	70 120 1076 106 1192 1076 1192 153 1076 1192 89 1076	1411	sici1248
+2051	Central_Catalan	lie	əst+ˈa+stiɾ+ˈat	111	lie	əst-ˈa=stiɾ-ˈat {estar estirat}	ə s t + ˈa + s t i ɾ + ˈa t	1022 89 120 1192 997 1192 89 120 1076 66 1192 997 120	1411	stan1289
+2052	North-Western_Catalan	lie	ast+ˈa+a+stiɾ+ˈa+t	111	lie	ast-ˈa=a=stiɾ-ˈa-t {estar estirat}	a s t + ˈa + a + s t i ɾ + ˈa + t	997 89 120 1192 997 1192 997 1192 89 120 1076 66 1192 997 1192 120	1411	stan1289
+2053	Minorcan_Catalan	lie	žˈɛw+ɾə	109	lie	žˈɛw-ɾə {jeure}	ʒ ˈɛ w + ɾ ə	685 1121 462 1192 66 1022	1411	stan1289
+2054	Castelló_de_la_Plana_Catalan	lie	est+ˈa+ɾ+tomb+ˈa+t	118	lie	est-ˈa-ɾ=tomb-ˈa-t {estar tombat}	e s t + ˈa + ɾ + t o m b + ˈa + t	1089 89 120 1192 997 1192 66 1192 120 887 241 257 1192 997 1192 120	1411	stan1289
+2055	Valencian_Catalan	lie	čit+ˈa+ɾ+se	119	lie	čit-ˈa-ɾ-se {gitar-se}	tʃ i t + ˈa + ɾ + s e	651 1076 120 1192 997 1192 66 1192 89 1089	1411	stan1289
+2056	Manises_Catalan	lie	est+ˈa+ɾ+čit+ˈa+t	119	lie	est-ˈa-ɾ=čit-ˈa-t {estar gitat}	e s t + ˈa + ɾ + tʃ i t + ˈa + t	1089 89 120 1192 997 1192 66 1192 651 1076 120 1192 997 1192 120	1411	stan1289
+2057	Castilian_Spanish	lie	est+ˈa+ɾ+tumb+ˈað+o	118	lie	est-ˈa-ɾ=tumb-ˈað-o {estar tumbado}	e s t + ˈa + ɾ + t u m b + ˈa ð + o	1089 89 120 1192 997 1192 66 1192 120 868 241 257 1192 997 419 1192 887	1411	cast1244
+2058	Gardenese_Ladin	lie	ʤˈəž+ər	109	lie	ǯˈəž-ər {gëjer}	dʒ ˈə ʒ + ə r	655 1022 685 1192 1022 153	1411	gard1241
+2627	Megleno_Romanian	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	megl1237
+2628	Istro_Romanian	nose	nɒs	159	nose	nɒs {nås}	n ɒ s	107 900 89	1221	istr1245
+2629	Aromanian	nose	nˈar+e	160	nose	nˈar-e {náre}	n ˈa r + e	107 997 153 1192 1089	1221	arom1237
+2630	Romanian	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	roma1327
+2631	Dalmatian	nose	nwos	159	nose	nwos {nuos}	n w o s	107 462 887 89	1221	dalm1243
+2632	Friulian	nose	naːs	159	nose	naːs {nâs}	n aː s	107 1004 89	1221	friu1240
+2633	Gardenese_Ladin	nose	nɛs	159	nose	nɛs {nés}	n ˈɛ s	107 1121 89	1221	gard1241
+2634	Fassano_Ladin	nose	nɛs	159	nose	nɛs {nès}	n ˈɛ s	107 1121 89	1221	fass1244
+2635	Rumantsch_Grischun	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	ruma1247
+2636	Sursilvan_Romansh	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	surs1244
+2637	Surmiran_Romansh	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	surm1243
+2638	Vallader_Romansh	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	vall1248
+2639	Lanzo_Torinese_Piemontese	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	piem1238
+2640	Barbania_Piemontese	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	piem1238
+2641	Carmagnola_Piemontese	nose	naz	159	nose	naz {nas}	n a z	107 997 80	1221	piem1238
+2642	Vercellese_Piemontese	nose	nas	159	nose	nas	n a s	107 997 89	1221	piem1238
+2643	Ravennate_Romagnol	nose	neaz	159	nose	nez {nêş}	n e a z	107 1089 997 80	1221	roma1328
+2644	Ferrarese_Emiliano	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	emil1241
+2645	Carpigiano_Emiliano	nose	nɛːz	159	nose	nɛːz {nêś}	n ˈɛː z	107 1117 80	1221	emil1241
+2646	Reggiano_Emiliano	nose	nɛːs	159	nose	nɛːs {nês}	n ˈɛː s	107 1117 89	1221	emil1241
+2647	Rapallo_Ligurian	nose	nˈaz+u	159	nose	nˈaz-u	n ˈa z + u	107 997 80 1192 868	1221	ligu1248
+2648	Genoese_Ligurian	nose	nˈaz+u	159	nose	nˈaz-u {nasǒ}	n ˈa z + u	107 997 80 1192 868	1221	geno1240
+2649	Stella_Ligurian	nose	nˈaːz+u	159	nose	nˈaːz-u {nāsu}	n ˈaː z + u	107 1004 80 1192 868	1221	ligu1248
+2650	Venice_Venetian	nose	nˈaz+o	159	nose	nˈaz-o {nàso}	n ˈa z + o	107 997 80 1192 887	1221	vene1258
+2651	Primiero_Venetian	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	vene1258
+2652	Bellunese_Venetian	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	vene1258
+2653	Standard_Italian	nose	nˈas+o	159	nose	nˈas-o {naso}	n ˈa s + o	107 997 89 1192 887	1221	ital1282
+2654	Grosseto_Italian	nose	nˈas+o	159	nose	nˈas-o {naso}	n ˈa s + o	107 997 89 1192 887	1221	ital1282
+2655	Neapolitan	nose	nˈas+ə	159	nose	nˈas-ə {naso}	n ˈa s + ə	107 997 89 1192 1022	1221	neap1235
+2656	Logudorese	nose	nˈas+u	159	nose	nˈas-u {nasu}	n ˈa s + u	107 997 89 1192 868	1221	barb1262
+2657	Campidanese	nose	nˈaz+u	159	nose	nˈaz-u {nasu}	n ˈa z + u	107 997 80 1192 868	1221	cagl1238
+2658	Palermitan_Sicilian	nose	nˈas+u	159	nose	nˈas-u {nasu}	n ˈa s + u	107 997 89 1192 868	1221	sici1248
+2659	Messinese_Sicilian	nose	nˈas+k+a	159	nose	nˈas-k-a {nasca}	n ˈa s + k + a	107 997 89 1192 838 1192 997	1221	mess1247
+2660	Catanian_Sicilian	nose	nˈas+u	159	nose	nˈas-u {nasu}	n ˈa s + u	107 997 89 1192 868	1221	sici1248
+2661	South-Eastern_Sicilian	nose	nˈas+u	159	nose	nˈas-u {nasu}	n ˈa s + u	107 997 89 1192 868	1221	sici1248
+2662	Central_Catalan	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	stan1289
+2663	North-Western_Catalan	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	stan1289
+2664	Minorcan_Catalan	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	stan1289
+2665	Castelló_de_la_Plana_Catalan	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	stan1289
+2666	Valencian_Catalan	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	stan1289
+2667	Manises_Catalan	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	stan1289
+2668	Castilian_Spanish	nose	naɾˈiθ	160	nose	naɾˈiθ {nariz}	n a ɾ ˈi θ	107 997 66 1076 417	1221	cast1244
+2669	Provençal_Occitan	nose	nas	159	nose	nas {nas}	n a s	107 997 89	1221	prov1235
+2716	Megleno_Romanian	one	un	165	one	un {un}	u n	868 107	1493	megl1237
+2717	Istro_Romanian	one	ur	165	one	ur {ur}	u r	868 153	1493	istr1245
+2718	Aromanian	one	ˈun+ŭ	165	one	ˈun-ŭ {un}	ˈu n + u	868 107 1192 868	1493	arom1237
+2719	Romanian	one	un	165	one	un {un}	u n	868 107	1493	roma1327
+2720	Dalmatian	one	jojŋ	165	one	yoyŋ {jón}	j o j ŋ	570 887 570 801	1493	dalm1243
+2721	Friulian	one	uŋ	165	one	uŋ {un}	u ŋ	868 801	1493	friu1240
+2722	Gardenese_Ladin	one	uŋ	165	one	uŋ {un}	u ŋ	868 801	1493	gard1241
+2723	Fassano_Ladin	one	uŋ	165	one	uŋ {un}	u ŋ	868 801	1493	fass1244
+2724	Rumantsch_Grischun	one	en	165	one	en {en}	e n	1089 107	1493	ruma1247
+2725	Sursilvan_Romansh	one	in	165	one	in {in}	i n	1076 107	1493	surs1244
+2726	Surmiran_Romansh	one	en	165	one	en {en}	e n	1089 107	1493	surm1243
+2727	Vallader_Romansh	one	ün	165	one	ün {ün}	y n	1047 107	1493	vall1248
+2728	Lanzo_Torinese_Piemontese	one	üŋ	165	one	üŋ {un}	y ŋ	1047 801	1493	piem1238
+2729	Barbania_Piemontese	one	üŋ	165	one	üŋ {un}	y ŋ	1047 801	1493	piem1238
+2730	Carmagnola_Piemontese	one	üŋ	165	one	üŋ {un}	y ŋ	1047 801	1493	piem1238
+2731	Vercellese_Piemontese	one	jüŋ	165	one	yüŋ	j y ŋ	570 1047 801	1493	piem1238
+2732	Ravennate_Romagnol	one	own	165	one	own {ôn}	o w n	887 462 107	1493	roma1328
+2733	Ferrarese_Emiliano	one	un	165	one	un {un}	u n	868 107	1493	emil1241
+2734	Carpigiano_Emiliano	one	un	165	one	un {ùn}	u n	868 107	1493	emil1241
+2735	Reggiano_Emiliano	one	uːn	165	one	uːn {ûn} ~ vɔn {vòn}	uː n	860 107	1493	emil1241
+2736	Rapallo_Ligurian	one	üŋ	165	one	üŋ	y ŋ	1047 801	1493	ligu1248
+2737	Genoese_Ligurian	one	uŋ	165	one	uŋ {ǒn}	u ŋ	868 801	1493	geno1240
+2738	Stella_Ligurian	one	üːŋ	165	one	üːŋ {ȗ-n}	yː ŋ	1049 801	1493	ligu1248
+2739	Venice_Venetian	one	ˈun+o	165	one	ˈun-o {ùno}	ˈu n + o	868 107 1192 887	1493	vene1258
+2740	Primiero_Venetian	one	uŋ	165	one	uŋ {un}	u ŋ	868 801	1493	vene1258
+2741	Bellunese_Venetian	one	ˈun+o	165	one	ˈun-o {uno}	ˈu n + o	868 107 1192 887	1493	vene1258
+2742	Standard_Italian	one	ˈun+o	165	one	ˈun-o {uno}	ˈu n + o	868 107 1192 887	1493	ital1282
+2743	Grosseto_Italian	one	ˈun+o	165	one	ˈun-o {uno}	ˈu n + o	868 107 1192 887	1493	ital1282
+2744	Neapolitan	one	ˈun+ə	165	one	ˈun-ə {uno}	ˈu n + ə	868 107 1192 1022	1493	neap1235
+2745	Logudorese	one	ˈun+u	165	one	ˈun-u {unu}	ˈu n + u	868 107 1192 868	1493	barb1262
+2746	Campidanese	one	ˈun+u	165	one	ˈun-u {unu}	ˈu n + u	868 107 1192 868	1493	cagl1238
+2747	Palermitan_Sicilian	one	ˈun+u	165	one	ˈun-u {unu}	ˈu n + u	868 107 1192 868	1493	sici1248
+2748	Messinese_Sicilian	one	ˈun+u	165	one	ˈun-u {unu}	ˈu n + u	868 107 1192 868	1493	mess1247
+2749	Catanian_Sicilian	one	ˈun+u	165	one	ˈun-u {unu}	ˈu n + u	868 107 1192 868	1493	sici1248
+2750	South-Eastern_Sicilian	one	ˈun+u	165	one	ˈun-u {unu}	ˈu n + u	868 107 1192 868	1493	sici1248
+2751	Central_Catalan	one	un	165	one	un {un}	u n	868 107	1493	stan1289
+2752	North-Western_Catalan	one	un	165	one	un {un}	u n	868 107	1493	stan1289
+2753	Minorcan_Catalan	one	un	165	one	un {un}	u n	868 107	1493	stan1289
+2754	Castelló_de_la_Plana_Catalan	one	un	165	one	un {un}	u n	868 107	1493	stan1289
+2755	Valencian_Catalan	one	un	165	one	un {un}	u n	868 107	1493	stan1289
+2756	Manises_Catalan	one	un	165	one	un {un}	u n	868 107	1493	stan1289
+2757	Castilian_Spanish	one	un	165	one	un {un}	u n	868 107	1493	cast1244
+2758	Provençal_Occitan	one	üŋ	165	one	üŋ {un}	y ŋ	1047 801	1493	prov1235
+2759	Megleno_Romanian	person	wom	166	person	wom {u̯om}	w o m	462 887 241	683	megl1237
+2760	Istro_Romanian	person	om	166	person	om {om}	o m	887 241	683	istr1245
+2761	Aromanian	person	ˈom+ŭ	166	person	ˈom-ŭ {om}	ˈo m + u	887 241 1192 868	683	arom1237
+2762	Romanian	person	om	166	person	om {om}	o m	887 241	683	roma1327
+2763	Dalmatian	person	om	166	person	om {om} ~ yom {jom}	o m	887 241	683	dalm1243
+2764	Friulian	person	ɔm	166	person	ɔm {om}	ˈɔ m	916 241	683	friu1240
+2765	Gardenese_Ladin	person	ˈwɔmo	-354	person	ˈwɔmo {uomo}	ˈw ˈɔ m o	462 916 241 887	683	gard1241
+2766	Fassano_Ladin	person	om	166	person	om {om}	o m	887 241	683	fass1244
+2767	Rumantsch_Grischun	person	kəršʨˈawn	167	person	kəršɕˈawn {carstgaun}	k ə r š tɕ ˈa w n	838 1022 153 70 200 997 462 107	683	ruma1247
+2768	Sursilvan_Romansh	person	kəršʨˈawn	167	person	kəršɕˈawn {carstgaun}	k ə r š tɕ ˈa w n	838 1022 153 70 200 997 462 107	683	surs1244
+2769	Surmiran_Romansh	person	kəršȶˈaŋ	167	person	kəršȶˈaŋ {carstgang}	k ə r š tʲ ˈa ŋ	838 1022 153 70 115 997 801	683	surm1243
+2770	Vallader_Romansh	person	um+ˈan	166	person	um-ˈan {uman}	u m + ˈa n	868 241 1192 997 107	683	vall1248
+2771	Lanzo_Torinese_Piemontese	person	ˈɔm	166	person	ˈɔm {òm}	ˈɔ m	916 241	683	piem1238
+2772	Barbania_Piemontese	person	ˈɔm	166	person	ˈɔm {òm}	ˈɔ m	916 241	683	piem1238
+2773	Carmagnola_Piemontese	person	ˈɔm	166	person	ˈɔm {òm}	ˈɔ m	916 241	683	piem1238
+2774	Vercellese_Piemontese	person	ˈoːm+aŋ	166	person	ˈoːm-aŋ	ˈoː m + a ŋ	880 241 1192 997 801	683	piem1238
+2775	Ravennate_Romagnol	person	sčãn	167	person	sčãn {s˖-ciân}	s tʃ ˈã n	89 651 1014 107	683	roma1328
+2776	Ferrarese_Emiliano	person	stjan	167	person	styan {stiàn}	s t j a n	89 120 570 997 107	683	emil1241
+2777	Carpigiano_Emiliano	person	ɔm	166	person	ɔm {òm}	ˈɔ m	916 241	683	emil1241
+2778	Reggiano_Emiliano	person	om	166	person	om {óm}	o m	887 241	683	emil1241
+2779	Rapallo_Ligurian	person	ˈɔmː+u	166	person	ˈɔmː-u	ˈɔ mː + u	916 244 1192 868	683	ligu1248
+2780	Genoese_Ligurian	person	ˈɔmː+u	166	person	ˈɔmː-u {òmmǒ}	ˈɔ mː + u	916 244 1192 868	683	geno1240
+2781	Stella_Ligurian	person	kristˈjaŋ	167	person	kristˈyaŋ {cristià-n}	k r i s t ˈj a ŋ	838 153 1076 89 120 570 997 801	683	ligu1248
+2782	Venice_Venetian	person	ˈɔm+o	166	person	ˈɔm-o {òmo}	ˈɔ m + o	916 241 1192 887	683	vene1258
+2783	Primiero_Venetian	person	ɔm	166	person	ɔm {òm}	ˈɔ m	916 241	683	vene1258
+2784	Bellunese_Venetian	person	ɔm	166	person	ɔm {om}	ˈɔ m	916 241	683	vene1258
+2785	Standard_Italian	person	ˈwɔm+o	166	person	ˈwɔm-o {uomo}	ˈw ˈɔ m + o	462 916 241 1192 887	683	ital1282
+2786	Grosseto_Italian	person	ˈɔm+o	166	person	ˈɔm-o {omo}	ˈɔ m + o	916 241 1192 887	683	ital1282
+2787	Neapolitan	person	krəstˈjan+ə	167	person	krəstˈyan-ə {cristiano}	k r ə s t ˈj a n + ə	838 153 1022 89 120 570 997 107 1192 1022	683	neap1235
+2788	Logudorese	person	ˈomː+in+e	166	person	ˈomː-in-e {òmmine}	ˈo mː + i n + e	887 244 1192 1076 107 1192 1089	683	barb1262
+2789	Campidanese	person	ˈomː+in+i	166	person	ˈomː-in-i {ommini}	ˈo mː + i n + i	887 244 1192 1076 107 1192 1076	683	cagl1238
+2790	Palermitan_Sicilian	person	kɾištjˈan+u	167	person	kɾištyˈan-u {cristianu}	k ɾ i š t j ˈa n + u	838 66 1076 70 120 570 997 107 1192 868	683	sici1248
+2791	Messinese_Sicilian	person	kɾɨstjˈan+u	167	person	kɾɨstyˈan-u {cristianu}	k ɾ ɨ s t j ˈa n + u	838 66 983 89 120 570 997 107 1192 868	683	mess1247
+2792	Catanian_Sicilian	person	kɾistjˈan+u	167	person	kɾistyˈan-u {cristianu}	k ɾ i s t j ˈa n + u	838 66 1076 89 120 570 997 107 1192 868	683	sici1248
+2793	South-Eastern_Sicilian	person	kɾištjˈan+u	167	person	kɾištyˈan-u {cristianu}	k ɾ i š t j ˈa n + u	838 66 1076 70 120 570 997 107 1192 868	683	sici1248
+2794	Central_Catalan	person	ˈɔmə	166	person	ˈɔmə {home}	ˈɔ m ə	916 241 1022	683	stan1289
+2795	North-Western_Catalan	person	ˈɔme	166	person	ˈɔme {home}	ˈɔ m e	916 241 1089	683	stan1289
+2796	Minorcan_Catalan	person	ˈɔmu	166	person	ˈɔmu {home}	ˈɔ m u	916 241 868	683	stan1289
+2797	Castelló_de_la_Plana_Catalan	person	ˈɔme	166	person	ˈɔme {home}	ˈɔ m e	916 241 1089	683	stan1289
+2798	Valencian_Catalan	person	ˈɔme	166	person	ˈɔme {home}	ˈɔ m e	916 241 1089	683	stan1289
+2799	Manises_Catalan	person	ˈɔme	166	person	ˈɔme {home}	ˈɔ m e	916 241 1089	683	stan1289
+2800	Castilian_Spanish	person	ˈombɾ+e	166	person	ˈombɾ-e {hombre}	ˈo m b ɾ + e	887 241 257 66 1192 1089	683	cast1244
+2801	Provençal_Occitan	person	ˈɔme	166	person	ˈɔme {ome}	ˈɔ m e	916 241 1089	683	prov1235
+3192	Megleno_Romanian	sit	sot	192	sit	șǫt {šɔd}	s o t	89 887 120	1416	megl1237
+3193	Istro_Romanian	sit	šed+ˈä	192	sit	šed-ˈä {ședę}	š e d + ˈæ	70 1089 145 1192 1087	1416	istr1245
+3194	Aromanian	sit	šˈed+ŭ	192	sit	šˈed-ŭ {șed}	š ˈe d + u	70 1089 145 1192 868	1416	arom1237
+3195	Romanian	sit	a+#šed+ˈeva	192	sit	a= šed-ˈea {a ședea}	a + _ š e d + ˈe v a	997 1192 1190 70 1089 145 1192 1089 451 997	1416	roma1327
+3196	Dalmatian	sit	sed+ˈwor	192	sit	sed-ˈwor {sedu͡ọr} ~ sent-ˈwor {sentu͡ọr}	s e d + ˈw o r	89 1089 145 1192 462 887 153	1416	dalm1243
+3197	Friulian	sit	staː+sentˈaːt	192	sit	staː=sentˈaːt {stâ sentât}	s t aː + s e n t ˈaː t	89 120 1004 1192 89 1089 107 120 1004 120	1416	friu1240
+3198	Gardenese_Ladin	sit	vˈešt+ər+sənt+ˈa	192	sit	vˈešt-ər=sənt-ˈa {vester sentà}	v ˈe š t + ə r + s ə n t + ˈa	451 1089 70 120 1192 1022 153 1192 89 1022 107 120 1192 997	1416	gard1241
+3199	Fassano_Ladin	sit	ˈes+er+sent+ˈa	192	sit	ˈes-er=sent-ˈa {ẹsser sentà} ~ ˈes-er=sent-ˈa-žˈu {ẹsser sentà jù}	ˈe s + e r + s e n t + ˈa	1089 89 1192 1089 153 1192 89 1089 107 120 1192 997	1416	fass1244
+3200	Rumantsch_Grischun	sit	sˈes+ər	192	sit	sˈes-ər {seser}	s ˈe s + ə r	89 1089 89 1192 1022 153	1416	ruma1247
+3201	Sursilvan_Romansh	sit	sˈes+ər	192	sit	sˈes-ər {seser}	s ˈe s + ə r	89 1089 89 1192 1022 153	1416	surs1244
+3202	Surmiran_Romansh	sit	čənt+ˈar	192	sit	čənt-ˈar {tschantar}	tʃ ə n t + ˈa r	651 1022 107 120 1192 997 153	1416	surm1243
+3203	Vallader_Romansh	sit	sˈɛʦ+ər	192	sit	sˈɛc-ər {sezzer}	s ˈɛ ts + ə r	89 1121 15 1192 1022 153	1416	vall1248
+3204	Lanzo_Torinese_Piemontese	sit	st+ˈe	192	sit	st-ˈe {sté}	s t + ˈe	89 120 1192 1089	1416	piem1238
+3205	Barbania_Piemontese	sit	st+ˈe+sɛt+ˈa	192	sit	st-ˈe=sɛt-ˈa {sté setà}	s t + ˈe + s ˈɛ t + ˈa	89 120 1192 1089 1192 89 1121 120 1192 997	1416	piem1238
+3206	Carmagnola_Piemontese	sit	stˈe+se	192	sit	stˈe-se {stesse}	s t ˈe + s e	89 120 1089 1192 89 1089	1416	piem1238
+3207	Vercellese_Piemontese	sit	satˈɛ+si	192	sit	satˈɛ-si	s a t ˈɛ + s i	89 997 120 1121 1192 89 1076	1416	piem1238
+3208	Ravennate_Romagnol	sit	zd+eː	192	sit	zd-eː {şdēr}	z d + eː	80 145 1192 1091	1416	roma1328
+3209	Ferrarese_Emiliano	sit	sant+ˈar+as	192	sit	sant-ˈar-as {santàras}	s a n t + ˈa r + a s	89 997 107 120 1192 997 153 1192 997 89	1416	emil1241
+3210	Carpigiano_Emiliano	sit	sˈed+er	192	sit	sˈed-er {séder}	s ˈe d + e r	89 1089 145 1192 1089 153	1416	emil1241
+3211	Reggiano_Emiliano	sit	sˈeːd+er	192	sit	sˈeːd-er {sēder}	s ˈeː d + e r	89 1091 145 1192 1089 153	1416	emil1241
+3212	Rapallo_Ligurian	sit	setː+ˈa+se	192	sit	setː-ˈa-se	s e tː + ˈa + s e	89 1089 130 1192 997 1192 89 1089	1416	ligu1248
+3213	Genoese_Ligurian	sit	ˈeːse+set+ˈɔw	192	sit	ˈeːse=set-ˈɔw {êse setòǒ}	ˈeː s e + s e t + ˈɔ w	1091 89 1089 1192 89 1089 120 1192 916 462	1416	geno1240
+3214	Stella_Ligurian	sit	set+ˈɛ	192	sit	set-ˈɛ {setè}	s e t + ˈɛ	89 1089 120 1192 1121	1416	ligu1248
+3215	Venice_Venetian	sit	seŋt+ˈa+r+se	192	sit	seŋt-ˈa-r-se {sentarse} ~ st-ˈa-r=seŋt-ˈa {stàr sentà}	s e ŋ t + ˈa + r + s e	89 1089 801 120 1192 997 1192 153 1192 89 1089	1416	vene1258
+3216	Primiero_Venetian	sit	seŋt+ˈa+r+se	192	sit	seŋt-ˈa-r-se {sentarse}	s e ŋ t + ˈa + r + s e	89 1089 801 120 1192 997 1192 153 1192 89 1089	1416	vene1258
+3217	Bellunese_Venetian	sit	seŋt+ˈa+r+se+do	192	sit	seŋt-ˈa-r-se=do {sentarse do}	s e ŋ t + ˈa + r + s e + d o	89 1089 801 120 1192 997 1192 153 1192 89 1089 1192 145 887	1416	vene1258
+3218	Standard_Italian	sit	sed+ˈe+re	192	sit	sed-ˈe-re {sedere}	s e d + ˈe + r e	89 1089 145 1192 1089 1192 153 1089	1416	ital1282
+3219	Grosseto_Italian	sit	sˈjɛd+e	192	sit	sˈyɛd-e {siede}	s ˈj ˈɛ d + e	89 570 1121 145 1192 1089	1416	ital1282
+3220	Neapolitan	sit	st+ˈa+a+sːətː+ˈat+ə	192	sit	st-ˈa=a=sːətː-ˈat-ə {stà assettato} ~ a=sːətː-ˈa {assettà}	s t + ˈa + a + sː ə tː + ˈa t + ə	89 120 1192 997 1192 997 1192 72 1022 130 1192 997 120 1192 1022	1416	neap1235
+3221	Logudorese	sit	sˈed+e+re	192	sit	sˈed-e-re {sédere}	s ˈe d + e + r e	89 1089 145 1192 1089 1192 153 1089	1416	barb1262
+3222	Campidanese	sit	sˈɛʦː+i	192	sit	sˈɛcː-i {setzi} ~ sˈicː-i {sitzi}	s ˈɛ tːs + i	89 1121 26 1192 1076	1416	cagl1238
+3223	Palermitan_Sicilian	sit	a+sːitː+ˈa+ɾi+si	192	sit	a=sːitː-ˈa-ɾi-si {assittarisi}	a + sː i tː + ˈa + ɾ i + s i	997 1192 72 1076 130 1192 997 1192 66 1076 1192 89 1076	1416	sici1248
+3224	Messinese_Sicilian	sit	sɨtː+ˈa+ɾɨ+sɨ	192	sit	sɨtː-ˈa-ɾɨ-sɨ {sittarisi}	s ɨ tː + ˈa + ɾ ɨ + s ɨ	89 983 130 1192 997 1192 66 983 1192 89 983	1416	mess1247
+3225	Catanian_Sicilian	sit	a+sːitː+ˈa+ɾi+si	192	sit	a=sːitː-ˈa-ɾi-si {assittarisi} ~ sitː-ˈa-ɾi-si {sittarisi}	a + sː i tː + ˈa + ɾ i + s i	997 1192 72 1076 130 1192 997 1192 66 1076 1192 89 1076	1416	sici1248
+3226	South-Eastern_Sicilian	sit	a+sːitː+ˈa+ɾi+si	192	sit	a=sːitː-ˈa-ɾi-si {assittarisi}	a + sː i tː + ˈa + ɾ i + s i	997 1192 72 1076 130 1192 997 1192 66 1076 1192 89 1076	1416	sici1248
+3227	Central_Catalan	sit	sˈɛw+ɾə	192	sit	sˈɛw-ɾə {seure}	s ˈɛ w + ɾ ə	89 1121 462 1192 66 1022	1416	stan1289
+3228	North-Western_Catalan	sit	sˈɛw+ɾe	192	sit	sˈɛw-ɾe {seure}	s ˈɛ w + ɾ e	89 1121 462 1192 66 1089	1416	stan1289
+3229	Minorcan_Catalan	sit	sˈɛw+ɾə	192	sit	sˈɛw-ɾə {seure}	s ˈɛ w + ɾ ə	89 1121 462 1192 66 1022	1416	stan1289
+3230	Castelló_de_la_Plana_Catalan	sit	sˈɛw+ɾe	192	sit	sˈɛw-ɾe {seure}	s ˈɛ w + ɾ e	89 1121 462 1192 66 1089	1416	stan1289
+3231	Valencian_Catalan	sit	sˈɛw+ɾe	192	sit	sˈɛw-ɾe {seure}	s ˈɛ w + ɾ e	89 1121 462 1192 66 1089	1416	stan1289
+3232	Manises_Catalan	sit	est+ˈa+ɾ+a+sent+ˈa+t	192	sit	est-ˈa-ɾ=a=sent-ˈa-t {estar assentat}	e s t + ˈa + ɾ + a + s e n t + ˈa + t	1089 89 120 1192 997 1192 66 1192 997 1192 89 1089 107 120 1192 997 1192 120	1416	stan1289
+3233	Castilian_Spanish	sit	est+ˈa+ɾ+sent+ˈað+o	192	sit	est-ˈa-ɾ=sent-ˈað-o {estar sentado}	e s t + ˈa + ɾ + s e n t + ˈa ð + o	1089 89 120 1192 997 1192 66 1192 89 1089 107 120 1192 997 419 1192 887	1416	cast1244
+3234	Provençal_Occitan	sit	ˈɛst+ɾe+a+set+ˈa	192	sit	ˈɛst-ɾe=a=set-ˈa {èstre asseta}	ˈɛ s t + ɾ e + a + s e t + ˈa	1121 89 120 1192 66 1089 1192 997 1192 89 1089 120 1192 997	1416	prov1235
+4184	Megleno_Romanian	what	ʦe	241	what	ce {tse}	ts e	15 1089	1236	megl1237
+4185	Istro_Romanian	what	če	241	what	če {če}	tʃ e	651 1089	1236	istr1245
+4186	Aromanian	what	ʦe	241	what	ce {ţe}	ts e	15 1089	1236	arom1237
+4187	Romanian	what	če	241	what	če {ce}	tʃ e	651 1089	1236	roma1327
+4188	Dalmatian	what	kos	241	what	kos {kos} ~ ko {ko}	k o s	838 887 89	1236	dalm1243
+4189	Friulian	what	če	241	what	če {ce}	tʃ e	651 1089	1236	friu1240
+4190	Gardenese_Ladin	what	čə	241	what	čə {cie}	tʃ ə	651 1022	1236	gard1241
+4191	Fassano_Ladin	what	ke#pa	241	what	ke pa {che...pa}	k e _ p a	838 1089 1190 291 997	1236	fass1244
+4192	Rumantsch_Grischun	what	ʨe	241	what	ɕe {tge}	tɕ e	200 1089	1236	ruma1247
+4193	Sursilvan_Romansh	what	ʨej	241	what	ɕey {tgei}	tɕ e j	200 1089 570	1236	surs1244
+4194	Surmiran_Romansh	what	ȶe	241	what	ȶe {tge}	tʲ e	115 1089	1236	surm1243
+4195	Vallader_Romansh	what	ʨe	241	what	ɕe {che}	tɕ e	200 1089	1236	vall1248
+4196	Lanzo_Torinese_Piemontese	what	kˈɔza	242	what	kˈɔza {còsa}	k ˈɔ z a	838 916 80 997	1236	piem1238
+4197	Barbania_Piemontese	what	kˈɔza	242	what	kˈɔza {còsa}	k ˈɔ z a	838 916 80 997	1236	piem1238
+4198	Carmagnola_Piemontese	what	kˈɔza	242	what	kˈɔza {còsa}	k ˈɔ z a	838 916 80 997	1236	piem1238
+4199	Vercellese_Piemontese	what	kwɛ	241	what	kwɛ	k w ˈɛ	838 462 1121	1236	piem1238
+4200	Ravennate_Romagnol	what	ke	241	what	ke {che}	k e	838 1089	1236	roma1328
+4201	Ferrarese_Emiliano	what	kˈuza	242	what	kˈuza {cusa} ~ za {'sa}	k ˈu z a	838 868 80 997	1236	emil1241
+4202	Carpigiano_Emiliano	what	kˈuza	242	what	kˈuza {cuśa} ~ sa {sa}	k ˈu z a	838 868 80 997	1236	emil1241
+4203	Reggiano_Emiliano	what	ksaː	242	what	ksaː {csâ}	k s aː	838 89 1004	1236	emil1241
+4204	Rapallo_Ligurian	what	kosːˈe	242	what	kosːˈe	k o sː ˈe	838 887 72 1089	1236	ligu1248
+4205	Genoese_Ligurian	what	kˈose	242	what	kˈose {cose}	k ˈo s e	838 887 89 1089	1236	geno1240
+4206	Stella_Ligurian	what	kˈoːsːe	242	what	kˈoːsːe {côsse}	k ˈoː sː e	838 880 72 1089	1236	ligu1248
+4207	Venice_Venetian	what	kˈɔsa	242	what	kˈɔsa {còssa}	k ˈɔ s a	838 916 89 997	1236	vene1258
+4208	Primiero_Venetian	what	ke	241	what	ke {che}	k e	838 1089	1236	vene1258
+4209	Bellunese_Venetian	what	ke	241	what	ke {che}	k e	838 1089	1236	vene1258
+4210	Standard_Italian	what	ke	241	what	ke {che}	k e	838 1089	1236	ital1282
+4211	Grosseto_Italian	what	ke	241	what	ke {che}	k e	838 1089	1236	ital1282
+4212	Neapolitan	what	kə	241	what	kə {ca} ~ {che}	k ə	838 1022	1236	neap1235
+4213	Logudorese	what	ˈitː+e	243	what	ˈitː-e {itte}	ˈi tː + e	1076 130 1192 1089	1236	barb1262
+4214	Campidanese	what	ˈitːa	243	what	ˈitːa {itta} ~ ˈita {ita}	ˈi tː a	1076 130 997	1236	cagl1238
+4215	Palermitan_Sicilian	what	ki	241	what	ki {chi}	k i	838 1076	1236	sici1248
+4216	Messinese_Sicilian	what	ki	241	what	ki {chi}	k i	838 1076	1236	mess1247
+4217	Catanian_Sicilian	what	ki	241	what	ki {chi}	k i	838 1076	1236	sici1248
+4218	South-Eastern_Sicilian	what	ki	241	what	ki {chi}	k i	838 1076	1236	sici1248
+4219	Central_Catalan	what	kɛ	241	what	kɛ {què}	k ˈɛ	838 1121	1236	stan1289
+4220	North-Western_Catalan	what	ke	241	what	ke {què}	k e	838 1089	1236	stan1289
+4221	Minorcan_Catalan	what	kɛ	241	what	kɛ {què}	k ˈɛ	838 1121	1236	stan1289
+4222	Castelló_de_la_Plana_Catalan	what	ke	241	what	ke {què}	k e	838 1089	1236	stan1289
+4223	Valencian_Catalan	what	ke	241	what	ke {què}	k e	838 1089	1236	stan1289
+4224	Manises_Catalan	what	ke	241	what	ke {què}	k e	838 1089	1236	stan1289
+4225	Castilian_Spanish	what	ke	241	what	ke {qué}	k e	838 1089	1236	cast1244
+4226	Provençal_Occitan	what	ke	241	what	ke {que}	k e	838 1089	1236	prov1235

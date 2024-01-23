@@ -1,0 +1,1463 @@
+concept,doculect,counterpart,cc,inferredCC,db
+right (side),Dedua,foi,7797,huon_0_test:right (side):1,huon_0_test
+right (side),Kate,fare,7795,huon_0_test:right (side):1,huon_0_test
+right (side),Komba,bon,7799,huon_0_test:right (side):2,huon_0_test
+right (side),Kube,foi,7797,huon_0_test:right (side):1,huon_0_test
+right (side),Mape,fare,7795,huon_0_test:right (side):1,huon_0_test
+right (side),Mesem,pana,7798,huon_0_test:right (side):4,huon_0_test
+right (side),Nabak,panaŋ,7798,huon_0_test:right (side):4,huon_0_test
+right (side),Ono,waraɡe,13929,huon_0_test:right (side):1,huon_0_test
+right (side),Selepet,bon,7799,huon_0_test:right (side):2,huon_0_test
+right (side),Somba-Siawari (Burum Dialect),al,7796,huon_0_test:right (side):3,huon_0_test
+right (side),Somba-Siawari (Mindik Dialect),hal,7796,huon_0_test:right (side):3,huon_0_test
+right (side),Timbe,bun,7799,huon_0_test:right (side):2,huon_0_test
+right (side),Tobo,hala,7796,huon_0_test:right (side):3,huon_0_test
+good,Borong,auaː,13948,huon_0_test:good:7,huon_0_test
+good,Kate,biaŋne,14028,huon_0_test:good:2,huon_0_test
+good,Kube,fia,7773,huon_0_test:good:2,huon_0_test
+good,Mape,fine,7773,huon_0_test:good:2,huon_0_test
+good,Mesem,saŋɡam,13692,huon_0_test:good:6,huon_0_test
+good,Nabak,kpembenəŋ,13668,huon_0_test:good:5,huon_0_test
+good,Ono,maine,13795,huon_0_test:good:4,huon_0_test
+good,Selepet,alipŋe,7772,huon_0_test:good:1,huon_0_test
+good,Somba-Siawari (Burum Dialect),alipŋi,7772,huon_0_test:good:1,huon_0_test
+good,Somba-Siawari (Mindik Dialect),alipŋi,7772,huon_0_test:good:1,huon_0_test
+good,Timbe,alipŋe,7772,huon_0_test:good:1,huon_0_test
+good,Tobo,eha,13894,huon_0_test:good:3,huon_0_test
+(its) hair,Borong,dzui,8000,huon_0_test:(its) hair:1,huon_0_test
+(its) hair,Komba,samot,8002,huon_0_test:(its) hair:2,huon_0_test
+(its) hair,Kube,dzu,8000,huon_0_test:(its) hair:1,huon_0_test
+(its) hair,Mape,kaŋdzaŋ,14008,huon_0_test:(its) hair:3,huon_0_test
+(its) hair,Mesem,dzup,8000,huon_0_test:(its) hair:1,huon_0_test
+(its) hair,Nabak,dzup,8000,huon_0_test:(its) hair:1,huon_0_test
+(its) hair,Ono,dzou,8000,huon_0_test:(its) hair:1,huon_0_test
+(its) hair,Selepet,somot,8002,huon_0_test:(its) hair:2,huon_0_test
+(its) hair,Somba-Siawari (Burum Dialect),dzup,8000,huon_0_test:(its) hair:1,huon_0_test
+(its) hair,Somba-Siawari (Mindik Dialect),dzup,8000,huon_0_test:(its) hair:1,huon_0_test
+(its) hair,Timbe,dumut,8002,huon_0_test:(its) hair:2,huon_0_test
+(its) hair,Tobo,dzu,8000,huon_0_test:(its) hair:1,huon_0_test
+(he) shoots,Nabak,arai,13647,huon_0_test:(he) shoots:1,huon_0_test
+(he) shoots,Ono,jato,14089,huon_0_test:(he) shoots:4,huon_0_test
+(he) shoots,Selepet,jer,8024,huon_0_test:(he) shoots:2,huon_0_test
+(he) shoots,Somba-Siawari (Burum Dialect),era,8024,huon_0_test:(he) shoots:1,huon_0_test
+(he) shoots,Somba-Siawari (Mindik Dialect),era,8024,huon_0_test:(he) shoots:1,huon_0_test
+(he) shoots,Timbe,er,8024,huon_0_test:(he) shoots:2,huon_0_test
+(he) shoots,Tobo,wiri,8025,huon_0_test:(he) shoots:3,huon_0_test
+many,Borong,mamaɡu,13826,huon_0_test:many:8,huon_0_test
+many,Dedua,homak,14034,huon_0_test:many:7,huon_0_test
+many,Kate,bocjaha,7667,huon_0_test:many:4,huon_0_test
+many,Komba,biwira,7666,huon_0_test:many:1,huon_0_test
+many,Kube,sasara,7668,huon_0_test:many:2,huon_0_test
+many,Mape,boiaha,7667,huon_0_test:many:4,huon_0_test
+many,Mesem,kirisi,7665,huon_0_test:many:3,huon_0_test
+many,Nabak,kilisik,7665,huon_0_test:many:3,huon_0_test
+many,Ono,louloutŋe,13783,huon_0_test:many:6,huon_0_test
+many,Selepet,biwira,7666,huon_0_test:many:1,huon_0_test
+many,Somba-Siawari (Burum Dialect),ɡatpak,14005,huon_0_test:many:5,huon_0_test
+many,Somba-Siawari (Mindik Dialect),seseŋi,7668,huon_0_test:many:2,huon_0_test
+many,Timbe,biwira,7666,huon_0_test:many:1,huon_0_test
+many,Tobo,sesia,7668,huon_0_test:many:2,huon_0_test
+big,Borong,somata,13827,huon_0_test:big:11,huon_0_test
+big,Dedua,kuneŋ,7742,huon_0_test:big:2,huon_0_test
+big,Kate,kacɡbene,13752,huon_0_test:big:10,huon_0_test
+big,Komba,pata,7743,huon_0_test:big:3,huon_0_test
+big,Kube,kuneŋ,7742,huon_0_test:big:2,huon_0_test
+big,Mape,jasoɡo,14115,huon_0_test:big:9,huon_0_test
+big,Mesem,kəitn̥,13688,huon_0_test:big:8,huon_0_test
+big,Nabak,taemba,13974,huon_0_test:big:7,huon_0_test
+big,Ono,suaine,13802,huon_0_test:big:6,huon_0_test
+big,Selepet,pato,7743,huon_0_test:big:3,huon_0_test
+big,Somba-Siawari (Burum Dialect),ketaŋi,7741,huon_0_test:big:1,huon_0_test
+big,Somba-Siawari (Mindik Dialect),ketaŋi,7741,huon_0_test:big:1,huon_0_test
+big,Timbe,humo,14069,huon_0_test:big:5,huon_0_test
+big,Tobo,baia,13897,huon_0_test:big:4,huon_0_test
+(its) tongue,Dedua,nameŋ,8009,huon_0_test:(its) tongue:2,huon_0_test
+(its) tongue,Kate,nameŋ,8009,huon_0_test:(its) tongue:2,huon_0_test
+(its) tongue,Komba,nabalam,8008,huon_0_test:(its) tongue:1,huon_0_test
+(its) tongue,Kube,edzeraŋ,8008,huon_0_test:(its) tongue:3,huon_0_test
+(its) tongue,Mape,eraŋ,14114,huon_0_test:(its) tongue:3,huon_0_test
+(its) tongue,Mesem,nambalaŋ,8008,huon_0_test:(its) tongue:1,huon_0_test
+(its) tongue,Nabak,nambaram,8008,huon_0_test:(its) tongue:1,huon_0_test
+(its) tongue,Ono,belakami,13796,huon_0_test:(its) tongue:4,huon_0_test
+(its) tongue,Selepet,nibilam,8008,huon_0_test:(its) tongue:1,huon_0_test
+(its) tongue,Somba-Siawari (Burum Dialect),neselam,8008,huon_0_test:(its) tongue:1,huon_0_test
+(its) tongue,Somba-Siawari (Mindik Dialect),nesolam,8008,huon_0_test:(its) tongue:1,huon_0_test
+(its) tongue,Timbe,elewot,14064,huon_0_test:(its) tongue:5,huon_0_test
+(its) tongue,Tobo,edzelam,8008,huon_0_test:(its) tongue:1,huon_0_test
+I,Borong,ni,7844,huon_0_test:I:1,huon_0_test
+I,Dedua,ni,7844,huon_0_test:I:1,huon_0_test
+I,Kate,no,7845,huon_0_test:I:1,huon_0_test
+I,Komba,na,7845,huon_0_test:I:1,huon_0_test
+I,Kube,ni,7844,huon_0_test:I:1,huon_0_test
+I,Mape,no,7845,huon_0_test:I:1,huon_0_test
+I,Mesem,na,7845,huon_0_test:I:1,huon_0_test
+I,Nabak,nəŋ,7845,huon_0_test:I:1,huon_0_test
+I,Ono,na,7845,huon_0_test:I:1,huon_0_test
+I,Selepet,na,7845,huon_0_test:I:1,huon_0_test
+I,Somba-Siawari (Burum Dialect),ni,7844,huon_0_test:I:1,huon_0_test
+I,Somba-Siawari (Mindik Dialect),ni,7844,huon_0_test:I:1,huon_0_test
+I,Timbe,na,7845,huon_0_test:I:1,huon_0_test
+I,Tobo,ni,7844,huon_0_test:I:1,huon_0_test
+he,Dedua,je,7872,huon_0_test:he:2,huon_0_test
+he,Kate,e,7872,huon_0_test:he:1,huon_0_test
+he,Komba,zak,7871,huon_0_test:he:2,huon_0_test
+he,Kube,i,7872,huon_0_test:he:1,huon_0_test
+he,Mape,i,7872,huon_0_test:he:1,huon_0_test
+he,Nabak,ək,7871,huon_0_test:he:2,huon_0_test
+he,Ono,e,7872,huon_0_test:he:2,huon_0_test
+he,Selepet,jak,7871,huon_0_test:he:2,huon_0_test
+he,Somba-Siawari (Burum Dialect),i,7872,huon_0_test:he:1,huon_0_test
+he,Somba-Siawari (Mindik Dialect),i,7872,huon_0_test:he:1,huon_0_test
+he,Timbe,jak,7871,huon_0_test:he:2,huon_0_test
+he,Tobo,i,7872,huon_0_test:he:1,huon_0_test
+we,Borong,nono,8014,huon_0_test:we:1,huon_0_test
+we,Dedua,nini,8016,huon_0_test:we:1,huon_0_test
+we,Komba,nen,8016,huon_0_test:we:1,huon_0_test
+we,Kube,nini,8016,huon_0_test:we:1,huon_0_test
+we,Mape,ŋaŋu,8014,huon_0_test:we:1,huon_0_test
+we,Nabak,nin,8016,huon_0_test:we:1,huon_0_test
+we,Ono,ŋedo,14086,huon_0_test:we:2,huon_0_test
+we,Selepet,nen,8016,huon_0_test:we:1,huon_0_test
+we,Somba-Siawari (Burum Dialect),nini,8016,huon_0_test:we:1,huon_0_test
+we,Somba-Siawari (Mindik Dialect),nini,8016,huon_0_test:we:1,huon_0_test
+we,Timbe,nen,8016,huon_0_test:we:1,huon_0_test
+we,Tobo,nini,8016,huon_0_test:we:1,huon_0_test
+ye,Dedua,ŋeni,7963,huon_0_test:ye:1,huon_0_test
+ye,Kate,ŋoŋe,7965,huon_0_test:ye:1,huon_0_test
+ye,Komba,zen,7964,huon_0_test:ye:2,huon_0_test
+ye,Kube,ini,7963,huon_0_test:ye:1,huon_0_test
+ye,Mape,ŋoŋai,7965,huon_0_test:ye:1,huon_0_test
+ye,Mesem,lɨ,7963,huon_0_test:ye:3,huon_0_test
+ye,Nabak,in,7963,huon_0_test:ye:1,huon_0_test
+ye,Ono,ŋine,7963,huon_0_test:ye:1,huon_0_test
+ye,Selepet,jen,7964,huon_0_test:ye:2,huon_0_test
+ye,Somba-Siawari (Burum Dialect),ini,7963,huon_0_test:ye:1,huon_0_test
+ye,Somba-Siawari (Mindik Dialect),iŋiŋi,7963,huon_0_test:ye:1,huon_0_test
+ye,Timbe,je,7964,huon_0_test:ye:2,huon_0_test
+ye,Tobo,ini,7963,huon_0_test:ye:1,huon_0_test
+this,Borong,i,7940,huon_0_test:this:1,huon_0_test
+this,Dedua,i,7940,huon_0_test:this:1,huon_0_test
+this,Kate,dzi,7939,huon_0_test:this:1,huon_0_test
+this,Komba,zi,7939,huon_0_test:this:1,huon_0_test
+this,Kube,i,7940,huon_0_test:this:1,huon_0_test
+this,Mape,ai,14021,huon_0_test:this:1,huon_0_test
+this,Mesem,wi,13684,huon_0_test:this:1,huon_0_test
+this,Nabak,kapi,13984,huon_0_test:this:1,huon_0_test
+this,Ono,i,7940,huon_0_test:this:1,huon_0_test
+this,Selepet,ju,13910,huon_0_test:this:4,huon_0_test
+this,Somba-Siawari (Burum Dialect),ke,13763,huon_0_test:this:3,huon_0_test
+this,Somba-Siawari (Mindik Dialect),mu,7938,huon_0_test:this:2,huon_0_test
+this,Timbe,i,7940,huon_0_test:this:1,huon_0_test
+this,Tobo,mu,7938,huon_0_test:this:2,huon_0_test
+thou,Borong,ɡi,7808,huon_0_test:thou:1,huon_0_test
+thou,Dedua,ɡe,7807,huon_0_test:thou:1,huon_0_test
+thou,Kate,ɡo,7807,huon_0_test:thou:1,huon_0_test
+thou,Komba,ɡa,7807,huon_0_test:thou:1,huon_0_test
+thou,Kube,ɡi,7808,huon_0_test:thou:1,huon_0_test
+thou,Mape,ɡo,7807,huon_0_test:thou:1,huon_0_test
+thou,Nabak,ɡəŋ,7807,huon_0_test:thou:1,huon_0_test
+thou,Ono,ɡe,7808,huon_0_test:thou:1,huon_0_test
+thou,Selepet,ɡa,7807,huon_0_test:thou:1,huon_0_test
+thou,Somba-Siawari (Burum Dialect),ɡi,7808,huon_0_test:thou:1,huon_0_test
+thou,Somba-Siawari (Mindik Dialect),ɡi,7808,huon_0_test:thou:1,huon_0_test
+thou,Timbe,ɡa,7807,huon_0_test:thou:1,huon_0_test
+thou,Tobo,ɡi,7808,huon_0_test:thou:1,huon_0_test
+(his) mother,Mesem,mam,7715,huon_0_test:(his) mother:1,huon_0_test
+(his) mother,Nabak,mam,7715,huon_0_test:(his) mother:1,huon_0_test
+(his) mother,Ono,naɡa,14093,huon_0_test:(his) mother:1,huon_0_test
+(his) mother,Selepet,mama,7715,huon_0_test:(his) mother:1,huon_0_test
+(his) mother,Somba-Siawari (Burum Dialect),nam,7715,huon_0_test:(his) mother:1,huon_0_test
+(his) mother,Somba-Siawari (Mindik Dialect),namon,7715,huon_0_test:(his) mother:1,huon_0_test
+(his) mother,Timbe,meme,7715,huon_0_test:(his) mother:1,huon_0_test
+(his) mother,Tobo,naŋɡi,8028,huon_0_test:(his) mother:1,huon_0_test
+(his) father,Borong,nemuŋ,13993,huon_0_test:(his) father:4,huon_0_test
+(his) father,Mape,mama,1192,huon_0_test:(his) father:1,huon_0_test
+(his) father,Mesem,bip,7933,huon_0_test:(his) father:3,huon_0_test
+(his) father,Nabak,bip,7933,huon_0_test:(his) father:3,huon_0_test
+(his) father,Ono,maɡa,13782,huon_0_test:(his) father:1,huon_0_test
+(his) father,Selepet,awa,7935,huon_0_test:(his) father:2,huon_0_test
+(his) father,Somba-Siawari (Burum Dialect),iwi,7935,huon_0_test:(his) father:2,huon_0_test
+(his) father,Somba-Siawari (Mindik Dialect),mam,1192,huon_0_test:(his) father:1,huon_0_test
+(his) father,Timbe,ewe,7935,huon_0_test:(his) father:2,huon_0_test
+(his) father,Tobo,mam,1192,huon_0_test:(his) father:1,huon_0_test
+rope,Mesem,tək,7693,huon_0_test:rope:1,huon_0_test
+rope,Nabak,dze,13730,huon_0_test:rope:5,huon_0_test
+rope,Ono,ranom,14077,huon_0_test:rope:4,huon_0_test
+rope,Selepet,ip,13886,huon_0_test:rope:6,huon_0_test
+rope,Somba-Siawari (Burum Dialect),kisa,7694,huon_0_test:rope:2,huon_0_test
+rope,Somba-Siawari (Mindik Dialect),kisa,7694,huon_0_test:rope:2,huon_0_test
+rope,Timbe,tak,7693,huon_0_test:rope:1,huon_0_test
+rope,Tobo,sahap,13670,huon_0_test:rope:3,huon_0_test
+worm,Dedua,ɡbosu,7695,huon_0_test:worm:1,huon_0_test
+worm,Kate,ɡbasu,7817,huon_0_test:worm:1,huon_0_test
+worm,Komba,ɡuk,7695,huon_0_test:worm:2,huon_0_test
+worm,Mesem,ɡo,8005,huon_0_test:worm:4,huon_0_test
+worm,Nabak,ɡbik,8006,huon_0_test:worm:2,huon_0_test
+worm,Ono,boso,7695,huon_0_test:worm:1,huon_0_test
+worm,Selepet,wik,8006,huon_0_test:worm:2,huon_0_test
+worm,Somba-Siawari (Burum Dialect),maŋɡik,13764,huon_0_test:worm:2,huon_0_test
+worm,Somba-Siawari (Mindik Dialect),ɡusu,7695,huon_0_test:worm:1,huon_0_test
+worm,Timbe,ɡipmaŋ,8005,huon_0_test:worm:3,huon_0_test
+worm,Tobo,ɡusu,7695,huon_0_test:worm:1,huon_0_test
+(its) tail,Borong,dzi,7887,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Dedua,dzi,7887,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Kate,ɡec,14099,huon_0_test:(its) tail:3,huon_0_test
+(its) tail,Komba,daː,7887,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Kube,dzi,7887,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Mape,dzi,7887,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Nabak,dak,7888,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Ono,dai,7887,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Selepet,hape,7889,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Somba-Siawari (Burum Dialect),dai,7887,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Somba-Siawari (Mindik Dialect),lou,13831,huon_0_test:(its) tail:2,huon_0_test
+(its) tail,Timbe,dape,7889,huon_0_test:(its) tail:1,huon_0_test
+(its) tail,Tobo,dzi,7887,huon_0_test:(its) tail:1,huon_0_test
+(its) nose,Borong,sewaŋ,13813,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Borong,saja,8029,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Dedua,soɡe,8020,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Kate,soc,8029,huon_0_test:(its) nose:4,huon_0_test
+(its) nose,Kate,sake,8020,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Komba,sep,8029,huon_0_test:(its) nose:2,huon_0_test
+(its) nose,Komba,saɡan,8019,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Kube,sawa,8029,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Kube,sere,13713,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Mape,sika,8020,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Mape,dari,14014,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Mesem,siŋɡeŋ,13718,huon_0_test:(its) nose:5,huon_0_test
+(its) nose,Mesem,sip,8029,huon_0_test:(its) nose:2,huon_0_test
+(its) nose,Nabak,sip,8029,huon_0_test:(its) nose:2,huon_0_test
+(its) nose,Nabak,ŋiŋəŋ,13991,huon_0_test:(its) nose:5,huon_0_test
+(its) nose,Ono,sot,13939,huon_0_test:(its) nose:4,huon_0_test
+(its) nose,Ono,weŋemi,13943,huon_0_test:(its) nose:6,huon_0_test
+(its) nose,Selepet,hame,8018,huon_0_test:(its) nose:3,huon_0_test
+(its) nose,Selepet,hep,8029,huon_0_test:(its) nose:2,huon_0_test
+(its) nose,Somba-Siawari (Burum Dialect),sahara,8019,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Somba-Siawari (Burum Dialect),sep,8029,huon_0_test:(its) nose:2,huon_0_test
+(its) nose,Somba-Siawari (Mindik Dialect),sep,8029,huon_0_test:(its) nose:2,huon_0_test
+(its) nose,Somba-Siawari (Mindik Dialect),saŋɡara,8019,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Timbe,hame,8018,huon_0_test:(its) nose:3,huon_0_test
+(its) nose,Timbe,ɡilam,14039,huon_0_test:(its) nose:7,huon_0_test
+(its) nose,Tobo,sahari,8019,huon_0_test:(its) nose:1,huon_0_test
+(its) nose,Tobo,sap,8029,huon_0_test:(its) nose:2,huon_0_test
+(its) heart,Borong,bakota,13949,huon_0_test:(its) heart:10,huon_0_test
+(its) heart,Dedua,woso_honduŋ,13958,huon_0_test:(its) heart:2,huon_0_test
+(its) heart,Kate,bu_handaŋ,13756,huon_0_test:(its) heart:2,huon_0_test
+(its) heart,Kube,weboɡokme,13711,huon_0_test:(its) heart:9,huon_0_test
+(its) heart,Mape,maki_karuŋ,14011,huon_0_test:(its) heart:8,huon_0_test
+(its) heart,Mesem,wembə_kət,13719,huon_0_test:(its) heart:7,huon_0_test
+(its) heart,Nabak,ɡum_kət,14074,huon_0_test:(its) heart:6,huon_0_test
+(its) heart,Ono,kombaŋi,13806,huon_0_test:(its) heart:5,huon_0_test
+(its) heart,Selepet,kabiam,7987,huon_0_test:(its) heart:4,huon_0_test
+(its) heart,Somba-Siawari (Burum Dialect),wel_bat,7984,huon_0_test:(its) heart:1,huon_0_test
+(its) heart,Somba-Siawari (Mindik Dialect),wel_bat,7984,huon_0_test:(its) heart:1,huon_0_test
+(its) heart,Timbe,okot,14056,huon_0_test:(its) heart:3,huon_0_test
+(its) heart,Tobo,wei_bat,7984,huon_0_test:(its) heart:1,huon_0_test
+earth,Dedua,banek,7804,huon_0_test:earth:2,huon_0_test
+earth,Kate,mareŋ,7805,huon_0_test:earth:3,huon_0_test
+earth,Komba,an,7806,huon_0_test:earth:1,huon_0_test
+earth,Kube,baek,7804,huon_0_test:earth:2,huon_0_test
+earth,Mape,mareŋ,7805,huon_0_test:earth:3,huon_0_test
+earth,Mesem,misa,7809,huon_0_test:earth:4,huon_0_test
+earth,Nabak,misat,7809,huon_0_test:earth:4,huon_0_test
+earth,Ono,kepe,13938,huon_0_test:earth:6,huon_0_test
+earth,Selepet,han,7806,huon_0_test:earth:1,huon_0_test
+earth,Somba-Siawari (Burum Dialect),ɡalme,13697,huon_0_test:earth:5,huon_0_test
+earth,Somba-Siawari (Mindik Dialect),baloŋ,13878,huon_0_test:earth:3,huon_0_test
+earth,Timbe,han,7806,huon_0_test:earth:1,huon_0_test
+earth,Tobo,bait,7804,huon_0_test:earth:2,huon_0_test
+old,Kube,wahara,7870,huon_0_test:old:1,huon_0_test
+old,Mape,raŋɡbaŋ,7925,huon_0_test:old:6,huon_0_test
+old,Mesem,kpən,14109,huon_0_test:old:5,huon_0_test
+old,Nabak,ŋokŋ,13726,huon_0_test:old:4,huon_0_test
+old,Ono,lewitne,13781,huon_0_test:old:3,huon_0_test
+old,Selepet,sobo,7874,huon_0_test:old:2,huon_0_test
+old,Somba-Siawari (Burum Dialect),walakŋi,7870,huon_0_test:old:1,huon_0_test
+old,Somba-Siawari (Mindik Dialect),walakŋi,7870,huon_0_test:old:1,huon_0_test
+old,Timbe,saba,7874,huon_0_test:old:2,huon_0_test
+old,Tobo,walaha,7870,huon_0_test:old:1,huon_0_test
+warm,Komba,uruk_uruk,7961,huon_0_test:warm:1,huon_0_test
+warm,Kube,fokŋea,13915,huon_0_test:warm:10,huon_0_test
+warm,Mape,koroŋine,7960,huon_0_test:warm:9,huon_0_test
+warm,Mesem,kipkipm̥,8007,huon_0_test:warm:8,huon_0_test
+warm,Nabak,kipməŋ,8007,huon_0_test:warm:7,huon_0_test
+warm,Ono,ɡeleune,13776,huon_0_test:warm:6,huon_0_test
+warm,Selepet,uruk_uruk,7961,huon_0_test:warm:1,huon_0_test
+warm,Somba-Siawari (Burum Dialect),kandap_kandap,13703,huon_0_test:warm:5,huon_0_test
+warm,Somba-Siawari (Mindik Dialect),kanapnaŋɡuk,13833,huon_0_test:warm:4,huon_0_test
+warm,Timbe,utunŋe_utudak,14045,huon_0_test:warm:3,huon_0_test
+warm,Tobo,komotia,13898,huon_0_test:warm:2,huon_0_test
+night,Borong,ketek,13811,huon_0_test:night:1,huon_0_test
+night,Kate,ŋafe,13755,huon_0_test:night:8,huon_0_test
+night,Komba,ŋatik,13868,huon_0_test:night:1,huon_0_test
+night,Kube,siŋi,7744,huon_0_test:night:4,huon_0_test
+night,Mape,uwu,14118,huon_0_test:night:3,huon_0_test
+night,Mesem,mimba,13694,huon_0_test:night:7,huon_0_test
+night,Nabak,təmbujat,13666,huon_0_test:night:6,huon_0_test
+night,Ono,ruwo,13792,huon_0_test:night:3,huon_0_test
+night,Selepet,omoŋ,13906,huon_0_test:night:5,huon_0_test
+night,Somba-Siawari (Burum Dialect),suŋɡem,7745,huon_0_test:night:2,huon_0_test
+night,Somba-Siawari (Mindik Dialect),suŋɡem,7745,huon_0_test:night:2,huon_0_test
+night,Timbe,hadak,14062,huon_0_test:night:1,huon_0_test
+night,Tobo,siŋiaha,7744,huon_0_test:night:4,huon_0_test
+who,Borong,moŋ,7978,huon_0_test:who:1,huon_0_test
+who,Dedua,moŋ,7978,huon_0_test:who:1,huon_0_test
+who,Kate,moc,7978,huon_0_test:who:1,huon_0_test
+who,Komba,ŋai,13774,huon_0_test:who:5,huon_0_test
+who,Kube,moŋ,7978,huon_0_test:who:1,huon_0_test
+who,Mape,moc,7978,huon_0_test:who:1,huon_0_test
+who,Mesem,ala,7979,huon_0_test:who:3,huon_0_test
+who,Nabak,kureki,13990,huon_0_test:who:4,huon_0_test
+who,Ono,mane,13789,huon_0_test:who:1,huon_0_test
+who,Selepet,ala,7979,huon_0_test:who:3,huon_0_test
+who,Somba-Siawari (Burum Dialect),kun,7977,huon_0_test:who:2,huon_0_test
+who,Somba-Siawari (Mindik Dialect),kan,7977,huon_0_test:who:2,huon_0_test
+who,Timbe,kia,13863,huon_0_test:who:2,huon_0_test
+who,Tobo,maŋ,7978,huon_0_test:who:1,huon_0_test
+what,Borong,namuŋak,13814,huon_0_test:what:2,huon_0_test
+what,Dedua,dafi,7758,huon_0_test:what:7,huon_0_test
+what,Kate,wemo,7758,huon_0_test:what:3,huon_0_test
+what,Komba,wan,7759,huon_0_test:what:1,huon_0_test
+what,Kube,nemak,7757,huon_0_test:what:2,huon_0_test
+what,Mape,wamo,7758,huon_0_test:what:3,huon_0_test
+what,Mesem,wana,7759,huon_0_test:what:1,huon_0_test
+what,Nabak,pitne,13645,huon_0_test:what:6,huon_0_test
+what,Ono,onoka,13945,huon_0_test:what:5,huon_0_test
+what,Selepet,wuan,7759,huon_0_test:what:1,huon_0_test
+what,Somba-Siawari (Burum Dialect),wania,7759,huon_0_test:what:1,huon_0_test
+what,Somba-Siawari (Mindik Dialect),nawa,13875,huon_0_test:what:4,huon_0_test
+what,Timbe,wan,7759,huon_0_test:what:1,huon_0_test
+what,Tobo,namat,7757,huon_0_test:what:2,huon_0_test
+where,Dedua,dahae,13960,huon_0_test:where:5,huon_0_test
+where,Kate,wena,14023,huon_0_test:where:1,huon_0_test
+where,Komba,wanan,7857,huon_0_test:where:1,huon_0_test
+where,Kube,dimia,7855,huon_0_test:where:3,huon_0_test
+where,Mape,uroː,13735,huon_0_test:where:4,huon_0_test
+where,Nabak,den,7856,huon_0_test:where:2,huon_0_test
+where,Ono,dia,7855,huon_0_test:where:3,huon_0_test
+where,Selepet,wonan,7857,huon_0_test:where:1,huon_0_test
+where,Somba-Siawari (Burum Dialect),deneke,7856,huon_0_test:where:2,huon_0_test
+where,Somba-Siawari (Mindik Dialect),denoke,7856,huon_0_test:where:2,huon_0_test
+where,Timbe,wanan,7857,huon_0_test:where:1,huon_0_test
+where,Tobo,dumua,7855,huon_0_test:where:3,huon_0_test
+how,Dedua,dafi,13961,huon_0_test:how:12,huon_0_test
+how,Kate,weniŋuc,14022,huon_0_test:how:11,huon_0_test
+how,Komba,ikai_azo,13850,huon_0_test:how:10,huon_0_test
+how,Kube,deik,13919,huon_0_test:how:9,huon_0_test
+how,Mape,uriŋu,13740,huon_0_test:how:8,huon_0_test
+how,Mesem,disi,14104,huon_0_test:how:7,huon_0_test
+how,Nabak,dziɡok,13976,huon_0_test:how:6,huon_0_test
+how,Ono,daleo,14079,huon_0_test:how:5,huon_0_test
+how,Selepet,ɡira,13909,huon_0_test:how:2,huon_0_test
+how,Somba-Siawari (Burum Dialect),denep,7709,huon_0_test:how:1,huon_0_test
+how,Somba-Siawari (Mindik Dialect),denowo,7709,huon_0_test:how:1,huon_0_test
+how,Timbe,ɡain_hinare,14067,huon_0_test:how:4,huon_0_test
+how,Tobo,dasoŋ,13895,huon_0_test:how:3,huon_0_test
+not,Borong,mende,7794,huon_0_test:not:3,huon_0_test
+not,Dedua,mi,8017,huon_0_test:not:1,huon_0_test
+not,Kate,mi,8017,huon_0_test:not:1,huon_0_test
+not,Komba,ma,8017,huon_0_test:not:1,huon_0_test
+not,Kube,munda,7794,huon_0_test:not:3,huon_0_test
+not,Mape,so,14112,huon_0_test:not:6,huon_0_test
+not,Mesem,kəm,13682,huon_0_test:not:2,huon_0_test
+not,Nabak,ku,7789,huon_0_test:not:2,huon_0_test
+not,Ono,mi,8017,huon_0_test:not:1,huon_0_test
+not,Selepet,ki,7789,huon_0_test:not:2,huon_0_test
+not,Somba-Siawari (Burum Dialect),kpahap,8015,huon_0_test:not:4,huon_0_test
+not,Somba-Siawari (Mindik Dialect),kpaho,8015,huon_0_test:not:4,huon_0_test
+not,Timbe,bo,13854,huon_0_test:not:5,huon_0_test
+not,Tobo,manda,7794,huon_0_test:not:3,huon_0_test
+(its) ear,Dedua,hedza,7868,huon_0_test:(its) ear:1,huon_0_test
+(its) ear,Komba,kidap,7868,huon_0_test:(its) ear:1,huon_0_test
+(its) ear,Kube,ɡedza,7868,huon_0_test:(its) ear:1,huon_0_test
+(its) ear,Mape,kadze,7868,huon_0_test:(its) ear:1,huon_0_test
+(its) ear,Mesem,bəbət,13716,huon_0_test:(its) ear:3,huon_0_test
+(its) ear,Nabak,wak,14071,huon_0_test:(its) ear:2,huon_0_test
+(its) ear,Ono,ket,7868,huon_0_test:(its) ear:1,huon_0_test
+(its) ear,Selepet,adap,7867,huon_0_test:(its) ear:1,huon_0_test
+(its) ear,Somba-Siawari (Burum Dialect),ketsap,7868,huon_0_test:(its) ear:1,huon_0_test
+(its) ear,Somba-Siawari (Mindik Dialect),ketsap,7868,huon_0_test:(its) ear:1,huon_0_test
+(its) ear,Timbe,adap,7867,huon_0_test:(its) ear:1,huon_0_test
+(its) ear,Tobo,kesap,7868,huon_0_test:(its) ear:1,huon_0_test
+(its) eye,Borong,dzaː,7863,huon_0_test:(its) eye:1,huon_0_test
+(its) eye,Kate,dzaŋe,7865,huon_0_test:(its) eye:1,huon_0_test
+(its) eye,Komba,si,7863,huon_0_test:(its) eye:2,huon_0_test
+(its) eye,Kube,kiwa,7864,huon_0_test:(its) eye:4,huon_0_test
+(its) eye,Mesem,dzi,7863,huon_0_test:(its) eye:1,huon_0_test
+(its) eye,Nabak,dzi,7863,huon_0_test:(its) eye:1,huon_0_test
+(its) eye,Ono,dei,7863,huon_0_test:(its) eye:1,huon_0_test
+(its) eye,Selepet,sen,7863,huon_0_test:(its) eye:2,huon_0_test
+(its) eye,Somba-Siawari (Burum Dialect),dze,7863,huon_0_test:(its) eye:1,huon_0_test
+(its) eye,Somba-Siawari (Mindik Dialect),dze,7863,huon_0_test:(its) eye:1,huon_0_test
+(its) eye,Timbe,dewun,14052,huon_0_test:(its) eye:2,huon_0_test
+(its) eye,Tobo,kpat,13891,huon_0_test:(its) eye:3,huon_0_test
+(its) belly,Borong,keri,7980,huon_0_test:(its) belly:2,huon_0_test
+(its) belly,Dedua,kera,7980,huon_0_test:(its) belly:2,huon_0_test
+(its) belly,Kate,bu,14030,huon_0_test:(its) belly:7,huon_0_test
+(its) belly,Komba,tip,7982,huon_0_test:(its) belly:1,huon_0_test
+(its) belly,Kube,tomeŋ,13714,huon_0_test:(its) belly:6,huon_0_test
+(its) belly,Mape,ata,14013,huon_0_test:(its) belly:5,huon_0_test
+(its) belly,Mesem,tip,7982,huon_0_test:(its) belly:1,huon_0_test
+(its) belly,Nabak,tip,7982,huon_0_test:(its) belly:1,huon_0_test
+(its) belly,Ono,kai,13937,huon_0_test:(its) belly:4,huon_0_test
+(its) belly,Selepet,tep,7982,huon_0_test:(its) belly:1,huon_0_test
+(its) belly,Somba-Siawari (Burum Dialect),ɡalam,13702,huon_0_test:(its) belly:3,huon_0_test
+(its) belly,Somba-Siawari (Mindik Dialect),irip,13834,huon_0_test:(its) belly:1,huon_0_test
+(its) belly,Timbe,tep,7982,huon_0_test:(its) belly:1,huon_0_test
+(its) belly,Tobo,kerap,7980,huon_0_test:(its) belly:2,huon_0_test
+(its) head,Dedua,fufu,14038,huon_0_test:(its) head:4,huon_0_test
+(its) head,Kate,kpitsec,14097,huon_0_test:(its) head:9,huon_0_test
+(its) head,Komba,kauk,7756,huon_0_test:(its) head:2,huon_0_test
+(its) head,Kube,oɡu,13712,huon_0_test:(its) head:8,huon_0_test
+(its) head,Mape,kparu,14009,huon_0_test:(its) head:3,huon_0_test
+(its) head,Mesem,nok,13686,huon_0_test:(its) head:1,huon_0_test
+(its) head,Nabak,ŋokandzi,7755,huon_0_test:(its) head:7,huon_0_test
+(its) head,Ono,lewit,13807,huon_0_test:(its) head:6,huon_0_test
+(its) head,Selepet,kun,7755,huon_0_test:(its) head:5,huon_0_test
+(its) head,Somba-Siawari (Burum Dialect),noruk,7866,huon_0_test:(its) head:1,huon_0_test
+(its) head,Somba-Siawari (Mindik Dialect),noruk,7866,huon_0_test:(its) head:1,huon_0_test
+(its) head,Timbe,kaut,7756,huon_0_test:(its) head:2,huon_0_test
+(its) head,Tobo,norok,7866,huon_0_test:(its) head:1,huon_0_test
+(its) wing,Kate,fakec,13840,huon_0_test:(its) wing:4,huon_0_test
+(its) wing,Komba,awat,13770,huon_0_test:(its) wing:8,huon_0_test
+(its) wing,Kube,kpeɡan,7853,huon_0_test:(its) wing:1,huon_0_test
+(its) wing,Mape,ɡbewa,13741,huon_0_test:(its) wing:7,huon_0_test
+(its) wing,Nabak,pɔp,13657,huon_0_test:(its) wing:6,huon_0_test
+(its) wing,Ono,ɡbimɡiliu,13881,huon_0_test:(its) wing:3,huon_0_test
+(its) wing,Selepet,peɡam,7853,huon_0_test:(its) wing:1,huon_0_test
+(its) wing,Somba-Siawari (Burum Dialect),ɡinɡin,7716,huon_0_test:(its) wing:2,huon_0_test
+(its) wing,Somba-Siawari (Mindik Dialect),ɡinɡin,7716,huon_0_test:(its) wing:2,huon_0_test
+(its) wing,Timbe,babalam,13836,huon_0_test:(its) wing:5,huon_0_test
+(its) wing,Tobo,kpeɡam,7853,huon_0_test:(its) wing:1,huon_0_test
+(his) brother,Kube,dar,7827,huon_0_test:(his) brother:1,huon_0_test
+(his) brother,Mape,kaka,7826,huon_0_test:(his) brother:2,huon_0_test
+(his) brother,Mesem,dat,7827,huon_0_test:(his) brother:1,huon_0_test
+(his) brother,Nabak,dat,7827,huon_0_test:(his) brother:1,huon_0_test
+(his) brother,Ono,tat,7827,huon_0_test:(his) brother:1,huon_0_test
+(his) brother,Selepet,ata,7828,huon_0_test:(his) brother:1,huon_0_test
+(his) brother,Somba-Siawari (Burum Dialect),dat,7827,huon_0_test:(his) brother:1,huon_0_test
+(his) brother,Somba-Siawari (Mindik Dialect),dat,7827,huon_0_test:(his) brother:1,huon_0_test
+(his) brother,Timbe,teu,13835,huon_0_test:(his) brother:1,huon_0_test
+(his) brother,Tobo,dat,7827,huon_0_test:(his) brother:1,huon_0_test
+(his) sister,Mesem,lip,7846,huon_0_test:(his) sister:2,huon_0_test
+(his) sister,Nabak,ip,7846,huon_0_test:(his) sister:2,huon_0_test
+(his) sister,Ono,kiari,14085,huon_0_test:(his) sister:3,huon_0_test
+(his) sister,Selepet,tou,7847,huon_0_test:(his) sister:1,huon_0_test
+(his) sister,Somba-Siawari (Burum Dialect),nen,7848,huon_0_test:(his) sister:1,huon_0_test
+(his) sister,Somba-Siawari (Mindik Dialect),nen,7848,huon_0_test:(his) sister:1,huon_0_test
+(his) sister,Timbe,tau,7847,huon_0_test:(his) sister:1,huon_0_test
+(his) sister,Tobo,nauŋ,7849,huon_0_test:(his) sister:1,huon_0_test
+(his) hand,Borong,borok,13996,huon_0_test:(his) hand:3,huon_0_test
+(his) hand,Kate,me,7651,huon_0_test:(his) hand:2,huon_0_test
+(his) hand,Komba,bit,7800,huon_0_test:(his) hand:1,huon_0_test
+(his) hand,Mape,me,7651,huon_0_test:(his) hand:2,huon_0_test
+(his) hand,Nabak,bet,7800,huon_0_test:(his) hand:1,huon_0_test
+(his) hand,Ono,me,7651,huon_0_test:(his) hand:2,huon_0_test
+(his) hand,Selepet,bat,7800,huon_0_test:(his) hand:1,huon_0_test
+(his) hand,Somba-Siawari (Burum Dialect),bara,7677,huon_0_test:(his) hand:3,huon_0_test
+(his) hand,Somba-Siawari (Mindik Dialect),dzat,13901,huon_0_test:(his) hand:1,huon_0_test
+(his) hand,Timbe,bat,7800,huon_0_test:(his) hand:1,huon_0_test
+(his) hand,Tobo,mara,7677,huon_0_test:(his) hand:3,huon_0_test
+(he) falls,Borong,kamaː,13815,huon_0_test:(he) falls:2,huon_0_test
+(he) falls,Dedua,ma,7713,huon_0_test:(he) falls:2,huon_0_test
+(he) falls,Komba,lokɡi,13769,huon_0_test:(he) falls:1,huon_0_test
+(he) falls,Mape,waki,7712,huon_0_test:(he) falls:1,huon_0_test
+(he) falls,Mesem,kao,13675,huon_0_test:(he) falls:1,huon_0_test
+(he) falls,Nabak,todzi,13972,huon_0_test:(he) falls:4,huon_0_test
+(he) falls,Ono,keti,13791,huon_0_test:(he) falls:5,huon_0_test
+(he) falls,Selepet,kioŋ,13905,huon_0_test:(he) falls:1,huon_0_test
+(he) falls,Somba-Siawari (Burum Dialect),he,7711,huon_0_test:(he) falls:3,huon_0_test
+(he) falls,Somba-Siawari (Mindik Dialect),he,7711,huon_0_test:(he) falls:3,huon_0_test
+(he) falls,Timbe,ɡi,14061,huon_0_test:(he) falls:1,huon_0_test
+(he) falls,Tobo,ma,7713,huon_0_test:(he) falls:2,huon_0_test
+hot,Borong,ɡerek,7748,huon_0_test:hot:2,huon_0_test
+hot,Dedua,ɡerek,7748,huon_0_test:hot:2,huon_0_test
+hot,Kate,dzoc,14026,huon_0_test:hot:6,huon_0_test
+hot,Komba,karap,7747,huon_0_test:hot:1,huon_0_test
+hot,Mape,foro,14117,huon_0_test:hot:5,huon_0_test
+hot,Mesem,tedzi,7746,huon_0_test:hot:3,huon_0_test
+hot,Nabak,tedzin,7746,huon_0_test:hot:3,huon_0_test
+hot,Ono,ɡerep,7748,huon_0_test:hot:2,huon_0_test
+hot,Selepet,kalap,7747,huon_0_test:hot:1,huon_0_test
+hot,Somba-Siawari (Burum Dialect),kandap,7747,huon_0_test:hot:1,huon_0_test
+hot,Somba-Siawari (Mindik Dialect),kanap,7747,huon_0_test:hot:1,huon_0_test
+hot,Timbe,kalap,7747,huon_0_test:hot:1,huon_0_test
+hot,Tobo,ɡirua,7748,huon_0_test:hot:4,huon_0_test
+cold,Borong,oloŋa,13816,huon_0_test:cold:8,huon_0_test
+cold,Kate,mateŋne,8004,huon_0_test:cold:1,huon_0_test
+cold,Komba,pateŋ,13847,huon_0_test:cold:1,huon_0_test
+cold,Kube,saɡeŋa,8003,huon_0_test:cold:4,huon_0_test
+cold,Mape,mateŋne,8004,huon_0_test:cold:1,huon_0_test
+cold,Mesem,takəŋ,13685,huon_0_test:cold:3,huon_0_test
+cold,Nabak,bakŋəŋ,13975,huon_0_test:cold:3,huon_0_test
+cold,Ono,momoine,13805,huon_0_test:cold:7,huon_0_test
+cold,Selepet,balapŋe,7681,huon_0_test:cold:2,huon_0_test
+cold,Somba-Siawari (Burum Dialect),dziŋim,13760,huon_0_test:cold:6,huon_0_test
+cold,Somba-Siawari (Mindik Dialect),hamotŋi,13874,huon_0_test:cold:5,huon_0_test
+cold,Timbe,balapŋe,7681,huon_0_test:cold:2,huon_0_test
+cold,Tobo,saŋɡeŋ,8003,huon_0_test:cold:4,huon_0_test
+(its) back,Kate,rape,13839,huon_0_test:(its) back:3,huon_0_test
+(its) back,Komba,kadat,7737,huon_0_test:(its) back:2,huon_0_test
+(its) back,Kube,ɡemaɡi,7736,huon_0_test:(its) back:1,huon_0_test
+(its) back,Nabak,bam,13732,huon_0_test:(its) back:7,huon_0_test
+(its) back,Ono,romo,13942,huon_0_test:(its) back:6,huon_0_test
+(its) back,Selepet,kadat,7737,huon_0_test:(its) back:2,huon_0_test
+(its) back,Somba-Siawari (Burum Dialect),ɡanesem,13700,huon_0_test:(its) back:5,huon_0_test
+(its) back,Somba-Siawari (Mindik Dialect),ɡemat,7736,huon_0_test:(its) back:1,huon_0_test
+(its) back,Timbe,hame,14042,huon_0_test:(its) back:4,huon_0_test
+(its) back,Tobo,ɡemat,7736,huon_0_test:(its) back:1,huon_0_test
+stick,Dedua,ɡbaru,7720,huon_0_test:stick:2,huon_0_test
+stick,Kate,ɡbaru,7720,huon_0_test:stick:2,huon_0_test
+stick,Komba,kabam,7721,huon_0_test:stick:1,huon_0_test
+stick,Kube,ɡbaru,7720,huon_0_test:stick:2,huon_0_test
+stick,Mesem,onze,13689,huon_0_test:stick:7,huon_0_test
+stick,Nabak,wandzom,13664,huon_0_test:stick:6,huon_0_test
+stick,Ono,pokup,13798,huon_0_test:stick:5,huon_0_test
+stick,Selepet,kapam,7721,huon_0_test:stick:1,huon_0_test
+stick,Somba-Siawari (Burum Dialect),kambim,7721,huon_0_test:stick:1,huon_0_test
+stick,Somba-Siawari (Mindik Dialect),tahap,7722,huon_0_test:stick:4,huon_0_test
+stick,Timbe,buha,13851,huon_0_test:stick:3,huon_0_test
+stick,Tobo,bim,7721,huon_0_test:stick:1,huon_0_test
+(its) foot,Nabak,set,13646,huon_0_test:(its) foot:2,huon_0_test
+(its) foot,Ono,ki,7708,huon_0_test:(its) foot:1,huon_0_test
+(its) foot,Selepet,kai,7708,huon_0_test:(its) foot:1,huon_0_test
+(its) foot,Somba-Siawari (Burum Dialect),kana,7725,huon_0_test:(its) foot:1,huon_0_test
+(its) foot,Somba-Siawari (Mindik Dialect),kana,7725,huon_0_test:(its) foot:1,huon_0_test
+(its) foot,Timbe,kei,7708,huon_0_test:(its) foot:1,huon_0_test
+(its) foot,Tobo,kani,7725,huon_0_test:(its) foot:1,huon_0_test
+moon,Borong,koiŋ,7915,huon_0_test:moon:1,huon_0_test
+moon,Dedua,afo,13959,huon_0_test:moon:4,huon_0_test
+moon,Kate,mosa,7917,huon_0_test:moon:2,huon_0_test
+moon,Komba,kain,7915,huon_0_test:moon:1,huon_0_test
+moon,Kube,komoŋ,7916,huon_0_test:moon:3,huon_0_test
+moon,Mape,mosa,7917,huon_0_test:moon:2,huon_0_test
+moon,Nabak,ejoŋɡe,7914,huon_0_test:moon:7,huon_0_test
+moon,Ono,meso,7917,huon_0_test:moon:2,huon_0_test
+moon,Selepet,emesenŋe,13888,huon_0_test:moon:6,huon_0_test
+moon,Somba-Siawari (Burum Dialect),kain,7915,huon_0_test:moon:1,huon_0_test
+moon,Somba-Siawari (Mindik Dialect),kaiŋ,7915,huon_0_test:moon:1,huon_0_test
+moon,Timbe,dewuta_hadahan_ɡatŋe,14055,huon_0_test:moon:5,huon_0_test
+moon,Tobo,kombol,7916,huon_0_test:moon:3,huon_0_test
+(its) neck,Borong,are,13821,huon_0_test:(its) neck:7,huon_0_test
+(its) neck,Dedua,ube,7942,huon_0_test:(its) neck:1,huon_0_test
+(its) neck,Kate,upe,7942,huon_0_test:(its) neck:1,huon_0_test
+(its) neck,Kube,ebasiɡla,13710,huon_0_test:(its) neck:4,huon_0_test
+(its) neck,Mape,ube,7942,huon_0_test:(its) neck:1,huon_0_test
+(its) neck,Mesem,andeŋ,7941,huon_0_test:(its) neck:3,huon_0_test
+(its) neck,Nabak,ŋande,7941,huon_0_test:(its) neck:3,huon_0_test
+(its) neck,Ono,ebi,7942,huon_0_test:(its) neck:6,huon_0_test
+(its) neck,Selepet,obe,7942,huon_0_test:(its) neck:1,huon_0_test
+(its) neck,Somba-Siawari (Burum Dialect),dzal,7943,huon_0_test:(its) neck:2,huon_0_test
+(its) neck,Somba-Siawari (Mindik Dialect),dzal,7943,huon_0_test:(its) neck:2,huon_0_test
+(its) neck,Timbe,han,14040,huon_0_test:(its) neck:5,huon_0_test
+(its) neck,Tobo,dzel,7943,huon_0_test:(its) neck:2,huon_0_test
+white,Borong,tataːŋkota,13812,huon_0_test:white:7,huon_0_test
+white,Dedua,koŋak,13956,huon_0_test:white:6,huon_0_test
+white,Komba,kau_kau,7728,huon_0_test:white:1,huon_0_test
+white,Kube,rarak,7707,huon_0_test:white:9,huon_0_test
+white,Mape,kapŋ_kapŋ,7726,huon_0_test:white:8,huon_0_test
+white,Mesem,saɡatn̥,7729,huon_0_test:white:3,huon_0_test
+white,Nabak,satnəŋ,7729,huon_0_test:white:3,huon_0_test
+white,Ono,libeka,13785,huon_0_test:white:5,huon_0_test
+white,Selepet,kaok,7728,huon_0_test:white:1,huon_0_test
+white,Somba-Siawari (Burum Dialect),tuatŋi,7727,huon_0_test:white:2,huon_0_test
+white,Somba-Siawari (Mindik Dialect),toatŋi,7727,huon_0_test:white:2,huon_0_test
+white,Timbe,kau,7728,huon_0_test:white:1,huon_0_test
+white,Tobo,lalap,7707,huon_0_test:white:4,huon_0_test
+sun,Borong,weːŋ,13825,huon_0_test:sun:2,huon_0_test
+sun,Dedua,wonak,13747,huon_0_test:sun:7,huon_0_test
+sun,Kate,dzoaŋ,14100,huon_0_test:sun:9,huon_0_test
+sun,Komba,mirasiŋ,13773,huon_0_test:sun:6,huon_0_test
+sun,Kube,kaiwe,7754,huon_0_test:sun:1,huon_0_test
+sun,Mape,weɡi,14019,huon_0_test:sun:8,huon_0_test
+sun,Mesem,kəsu,13676,huon_0_test:sun:3,huon_0_test
+sun,Nabak,kəsuk,13986,huon_0_test:sun:3,huon_0_test
+sun,Ono,kaiwe,7754,huon_0_test:sun:1,huon_0_test
+sun,Selepet,dewuta,13962,huon_0_test:sun:5,huon_0_test
+sun,Somba-Siawari (Burum Dialect),welɡan,7753,huon_0_test:sun:2,huon_0_test
+sun,Somba-Siawari (Mindik Dialect),wehon,7753,huon_0_test:sun:2,huon_0_test
+sun,Timbe,poiap,13860,huon_0_test:sun:4,huon_0_test
+sun,Tobo,kaiwe,7754,huon_0_test:sun:1,huon_0_test
+(he) laughs,Dedua,dzomore,7975,huon_0_test:(he) laughs:8,huon_0_test
+(he) laughs,Komba,ɡiraŋ,7902,huon_0_test:(he) laughs:1,huon_0_test
+(he) laughs,Kube,desi,13708,huon_0_test:(he) laughs:7,huon_0_test
+(he) laughs,Mape,ɡoweː,7907,huon_0_test:(he) laughs:6,huon_0_test
+(he) laughs,Nabak,jəindzi,13659,huon_0_test:(he) laughs:5,huon_0_test
+(he) laughs,Ono,teni,14080,huon_0_test:(he) laughs:3,huon_0_test
+(he) laughs,Selepet,ɡiriŋ,7902,huon_0_test:(he) laughs:1,huon_0_test
+(he) laughs,Somba-Siawari (Burum Dialect),ɡisihi,7705,huon_0_test:(he) laughs:2,huon_0_test
+(he) laughs,Somba-Siawari (Mindik Dialect),botakal,13904,huon_0_test:(he) laughs:4,huon_0_test
+(he) laughs,Timbe,ɡiriŋ,7902,huon_0_test:(he) laughs:1,huon_0_test
+(he) laughs,Tobo,ɡisihi,7705,huon_0_test:(he) laughs:2,huon_0_test
+(his) knee,Borong,simiŋ,7812,huon_0_test:(his) knee:1,huon_0_test
+(his) knee,Dedua,fakuruŋ,14035,huon_0_test:(his) knee:6,huon_0_test
+(his) knee,Kate,dieŋ,7813,huon_0_test:(his) knee:3,huon_0_test
+(his) knee,Komba,simin,7812,huon_0_test:(his) knee:1,huon_0_test
+(his) knee,Kube,simiŋ,7812,huon_0_test:(his) knee:1,huon_0_test
+(his) knee,Mape,dieŋ,7813,huon_0_test:(his) knee:3,huon_0_test
+(his) knee,Mesem,kpekakpatə,13678,huon_0_test:(his) knee:5,huon_0_test
+(his) knee,Nabak,kpet,13988,huon_0_test:(his) knee:4,huon_0_test
+(his) knee,Ono,wawet,13922,huon_0_test:(his) knee:2,huon_0_test
+(his) knee,Selepet,pawut,7814,huon_0_test:(his) knee:2,huon_0_test
+(his) knee,Somba-Siawari (Burum Dialect),simin,7812,huon_0_test:(his) knee:1,huon_0_test
+(his) knee,Somba-Siawari (Mindik Dialect),simin,7812,huon_0_test:(his) knee:1,huon_0_test
+(his) knee,Timbe,pawut,7814,huon_0_test:(his) knee:2,huon_0_test
+(his) knee,Tobo,simin,7812,huon_0_test:(his) knee:1,huon_0_test
+(its) tooth,Borong,dzot,8030,huon_0_test:(its) tooth:1,huon_0_test
+(its) tooth,Dedua,enar,13746,huon_0_test:(its) tooth:3,huon_0_test
+(its) tooth,Kate,mic,13844,huon_0_test:(its) tooth:2,huon_0_test
+(its) tooth,Komba,sat,8030,huon_0_test:(its) tooth:1,huon_0_test
+(its) tooth,Kube,dzeɡl,8030,huon_0_test:(its) tooth:1,huon_0_test
+(its) tooth,Mape,misia,14111,huon_0_test:(its) tooth:2,huon_0_test
+(its) tooth,Nabak,dzet,8030,huon_0_test:(its) tooth:1,huon_0_test
+(its) tooth,Ono,ŋet,13924,huon_0_test:(its) tooth:1,huon_0_test
+(its) tooth,Selepet,sat,8030,huon_0_test:(its) tooth:1,huon_0_test
+(its) tooth,Somba-Siawari (Burum Dialect),dzit,8030,huon_0_test:(its) tooth:1,huon_0_test
+(its) tooth,Somba-Siawari (Mindik Dialect),dzat,8030,huon_0_test:(its) tooth:1,huon_0_test
+(its) tooth,Timbe,dat,8030,huon_0_test:(its) tooth:1,huon_0_test
+(its) tooth,Tobo,dzat,8030,huon_0_test:(its) tooth:1,huon_0_test
+(its) bone,Borong,sita,7962,huon_0_test:(its) bone:1,huon_0_test
+(its) bone,Dedua,sir,7962,huon_0_test:(its) bone:2,huon_0_test
+(its) bone,Kate,siec,7962,huon_0_test:(its) bone:1,huon_0_test
+(its) bone,Komba,tan,13871,huon_0_test:(its) bone:4,huon_0_test
+(its) bone,Kube,siɡl,7962,huon_0_test:(its) bone:2,huon_0_test
+(its) bone,Mape,siak,7962,huon_0_test:(its) bone:1,huon_0_test
+(its) bone,Mesem,siet,7962,huon_0_test:(its) bone:1,huon_0_test
+(its) bone,Nabak,kandziŋ,13985,huon_0_test:(its) bone:3,huon_0_test
+(its) bone,Ono,set,7962,huon_0_test:(its) bone:1,huon_0_test
+(its) bone,Selepet,hahit,7962,huon_0_test:(its) bone:1,huon_0_test
+(its) bone,Somba-Siawari (Burum Dialect),sihit,7962,huon_0_test:(its) bone:1,huon_0_test
+(its) bone,Somba-Siawari (Mindik Dialect),sihit,7962,huon_0_test:(its) bone:1,huon_0_test
+(its) bone,Timbe,hahit,7962,huon_0_test:(its) bone:1,huon_0_test
+(its) bone,Tobo,sihit,7962,huon_0_test:(its) bone:1,huon_0_test
+round,Borong,lilik_lilik,7819,huon_0_test:round:1,huon_0_test
+round,Dedua,oraŋ,7818,huon_0_test:round:4,huon_0_test
+round,Kate,oraŋ_oraŋ,7818,huon_0_test:round:3,huon_0_test
+round,Komba,ɡawaŋ_ɡawaŋ,7820,huon_0_test:round:2,huon_0_test
+round,Kube,rerek_rerek,7819,huon_0_test:round:1,huon_0_test
+round,Mape,oːraŋ,7818,huon_0_test:round:4,huon_0_test
+round,Mesem,waraɡən,13693,huon_0_test:round:7,huon_0_test
+round,Nabak,kililiŋ,13970,huon_0_test:round:6,huon_0_test
+round,Ono,lolik_lolik,7819,huon_0_test:round:1,huon_0_test
+round,Selepet,ɡawaŋ_ɡawaŋ,7820,huon_0_test:round:2,huon_0_test
+round,Somba-Siawari (Burum Dialect),lamba,13757,huon_0_test:round:5,huon_0_test
+round,Somba-Siawari (Mindik Dialect),lilik_lilik,7819,huon_0_test:round:1,huon_0_test
+round,Timbe,ɡawaŋ_ɡawaŋ,7820,huon_0_test:round:2,huon_0_test
+round,Tobo,koroŋ_koroŋ,7818,huon_0_test:round:3,huon_0_test
+(it is) dry,Borong,tobori,13951,huon_0_test:(it is) dry:7,huon_0_test
+(it is) dry,Dedua,kereŋ,7659,huon_0_test:(it is) dry:3,huon_0_test
+(it is) dry,Kate,kereŋke,7659,huon_0_test:(it is) dry:3,huon_0_test
+(it is) dry,Komba,araraŋ,7660,huon_0_test:(it is) dry:1,huon_0_test
+(it is) dry,Kube,ireɡe,13715,huon_0_test:(it is) dry:6,huon_0_test
+(it is) dry,Mape,dziɡa,14116,huon_0_test:(it is) dry:2,huon_0_test
+(it is) dry,Mesem,alaŋɡə,7660,huon_0_test:(it is) dry:1,huon_0_test
+(it is) dry,Nabak,ko,13973,huon_0_test:(it is) dry:5,huon_0_test
+(it is) dry,Ono,dzipki,7661,huon_0_test:(it is) dry:2,huon_0_test
+(it is) dry,Selepet,haraŋ,7660,huon_0_test:(it is) dry:1,huon_0_test
+(it is) dry,Somba-Siawari (Burum Dialect),araŋɡa,7660,huon_0_test:(it is) dry:1,huon_0_test
+(it is) dry,Somba-Siawari (Mindik Dialect),araŋɡo,7660,huon_0_test:(it is) dry:1,huon_0_test
+(it is) dry,Timbe,kamili,14068,huon_0_test:(it is) dry:4,huon_0_test
+(it is) dry,Tobo,dzipka,7661,huon_0_test:(it is) dry:2,huon_0_test
+breast,Borong,adzu,7831,huon_0_test:breast:2,huon_0_test
+breast,Kate,moŋ,7829,huon_0_test:breast:3,huon_0_test
+breast,Komba,nam,7830,huon_0_test:breast:1,huon_0_test
+breast,Kube,namu,7830,huon_0_test:breast:1,huon_0_test
+breast,Mape,moŋ,7829,huon_0_test:breast:3,huon_0_test
+breast,Mesem,nam,7830,huon_0_test:breast:1,huon_0_test
+breast,Nabak,nam,7830,huon_0_test:breast:1,huon_0_test
+breast,Ono,ŋamu,7830,huon_0_test:breast:1,huon_0_test
+breast,Selepet,nam,7830,huon_0_test:breast:1,huon_0_test
+breast,Somba-Siawari (Burum Dialect),dzudzu,7831,huon_0_test:breast:2,huon_0_test
+breast,Somba-Siawari (Mindik Dialect),dzudzu,7831,huon_0_test:breast:2,huon_0_test
+breast,Timbe,nam,7830,huon_0_test:breast:1,huon_0_test
+breast,Tobo,namo,7830,huon_0_test:breast:1,huon_0_test
+(he) bites it,Borong,ki,7774,huon_0_test:(he) bites it:1,huon_0_test
+(he) bites it,Komba,zihi,7775,huon_0_test:(he) bites it:1,huon_0_test
+(he) bites it,Kube,ki,7774,huon_0_test:(he) bites it:1,huon_0_test
+(he) bites it,Mape,ki,7774,huon_0_test:(he) bites it:1,huon_0_test
+(he) bites it,Nabak,i,7775,huon_0_test:(he) bites it:1,huon_0_test
+(he) bites it,Ono,ki,7774,huon_0_test:(he) bites it:1,huon_0_test
+(he) bites it,Selepet,ihi,7775,huon_0_test:(he) bites it:1,huon_0_test
+(he) bites it,Somba-Siawari (Burum Dialect),jaha,7775,huon_0_test:(he) bites it:2,huon_0_test
+(he) bites it,Somba-Siawari (Mindik Dialect),jaha,7775,huon_0_test:(he) bites it:2,huon_0_test
+(he) bites it,Timbe,ihi,7775,huon_0_test:(he) bites it:1,huon_0_test
+(he) bites it,Tobo,ki,7774,huon_0_test:(he) bites it:1,huon_0_test
+(its) name,Borong,dzakota,7692,huon_0_test:(its) name:3,huon_0_test
+(its) name,Dedua,kiwa,7691,huon_0_test:(its) name:2,huon_0_test
+(its) name,Kate,dzane,7690,huon_0_test:(its) name:3,huon_0_test
+(its) name,Komba,kut,7689,huon_0_test:(its) name:1,huon_0_test
+(its) name,Kube,kiwa,7691,huon_0_test:(its) name:2,huon_0_test
+(its) name,Mape,dziŋa,7690,huon_0_test:(its) name:3,huon_0_test
+(its) name,Mesem,kot,7689,huon_0_test:(its) name:1,huon_0_test
+(its) name,Nabak,dzikət,7692,huon_0_test:(its) name:1,huon_0_test
+(its) name,Ono,dei,13809,huon_0_test:(its) name:5,huon_0_test
+(its) name,Selepet,kut,7689,huon_0_test:(its) name:1,huon_0_test
+(its) name,Somba-Siawari (Burum Dialect),kpet,13761,huon_0_test:(its) name:1,huon_0_test
+(its) name,Somba-Siawari (Mindik Dialect),kurap,13876,huon_0_test:(its) name:4,huon_0_test
+(its) name,Timbe,kot,7689,huon_0_test:(its) name:1,huon_0_test
+(its) name,Tobo,kiwa,7691,huon_0_test:(its) name:2,huon_0_test
+(he) sees me,Borong,ni,7905,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Dedua,nen,7904,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Kate,honecnu,7903,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Komba,nek,7906,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Kube,ni,7905,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Mape,ŋonenu,7903,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Mesem,nəɡəi,13724,huon_0_test:(he) sees me:2,huon_0_test
+(he) sees me,Nabak,ni,7905,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Ono,nan ,7904,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Selepet,nek,7906,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Somba-Siawari (Burum Dialect),nek,7906,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Somba-Siawari (Mindik Dialect),nek,7906,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Timbe,nek,7906,huon_0_test:(he) sees me:1,huon_0_test
+(he) sees me,Tobo,nen,7904,huon_0_test:(he) sees me:1,huon_0_test
+(he) knows,Dedua,neɡen,14037,huon_0_test:(he) knows:1,huon_0_test
+(he) knows,Kate,mana,7656,huon_0_test:(he) knows:2,huon_0_test
+(he) knows,Komba,naɡa,7657,huon_0_test:(he) knows:1,huon_0_test
+(he) knows,Kube,nin,7655,huon_0_test:(he) knows:1,huon_0_test
+(he) knows,Mesem,niŋɡe,7657,huon_0_test:(he) knows:1,huon_0_test
+(he) knows,Nabak,nɔi,13979,huon_0_test:(he) knows:1,huon_0_test
+(he) knows,Ono,deri,13933,huon_0_test:(he) knows:3,huon_0_test
+(he) knows,Selepet,naɡa,7657,huon_0_test:(he) knows:1,huon_0_test
+(he) knows,Somba-Siawari (Burum Dialect),ma,7658,huon_0_test:(he) knows:2,huon_0_test
+(he) knows,Somba-Siawari (Mindik Dialect),mo,7658,huon_0_test:(he) knows:2,huon_0_test
+(he) knows,Timbe,naɡa,7657,huon_0_test:(he) knows:1,huon_0_test
+(he) knows,Tobo,nin,7655,huon_0_test:(he) knows:1,huon_0_test
+(they) play,Nabak,kpep,13652,huon_0_test:(they) play:5,huon_0_test
+(they) play,Ono,ɡbat,13786,huon_0_test:(they) play:4,huon_0_test
+(they) play,Selepet,heŋ,13885,huon_0_test:(they) play:6,huon_0_test
+(they) play,Somba-Siawari (Burum Dialect),manahat,13704,huon_0_test:(they) play:1,huon_0_test
+(they) play,Somba-Siawari (Mindik Dialect),aŋɡolat,8026,huon_0_test:(they) play:1,huon_0_test
+(they) play,Timbe,halimak,14046,huon_0_test:(they) play:3,huon_0_test
+(they) play,Tobo,ariat,8027,huon_0_test:(they) play:2,huon_0_test
+(he) sits,Borong,ra,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Dedua,tak,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Kate,ŋe,7947,huon_0_test:(he) sits:2,huon_0_test
+(he) sits,Komba,ta,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Kube,tak,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Mape,ŋe,7947,huon_0_test:(he) sits:2,huon_0_test
+(he) sits,Mesem,ta,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Nabak,ta,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Ono,meri,13923,huon_0_test:(he) sits:3,huon_0_test
+(he) sits,Selepet,ta,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Somba-Siawari (Burum Dialect),ta,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Somba-Siawari (Mindik Dialect),ta,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Timbe,ta,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) sits,Tobo,ta,7946,huon_0_test:(he) sits:1,huon_0_test
+(he) digs,Borong,toɡuŋken,13829,huon_0_test:(he) digs:10,huon_0_test
+(he) digs,Dedua,usu,7882,huon_0_test:(he) digs:9,huon_0_test
+(he) digs,Kube,oro,13920,huon_0_test:(he) digs:8,huon_0_test
+(he) digs,Mesem,lo,13680,huon_0_test:(he) digs:7,huon_0_test
+(he) digs,Nabak,kiŋɡadzi,13653,huon_0_test:(he) digs:6,huon_0_test
+(he) digs,Ono,kepikito,14084,huon_0_test:(he) digs:5,huon_0_test
+(he) digs,Selepet,ai,13883,huon_0_test:(he) digs:2,huon_0_test
+(he) digs,Somba-Siawari (Burum Dialect),etso,7881,huon_0_test:(he) digs:1,huon_0_test
+(he) digs,Somba-Siawari (Mindik Dialect),etso,7881,huon_0_test:(he) digs:1,huon_0_test
+(he) digs,Timbe,kenda,7880,huon_0_test:(he) digs:4,huon_0_test
+(he) digs,Tobo,asa,13890,huon_0_test:(he) digs:3,huon_0_test
+(he) counts,Borong,weːŋɡo,13994,huon_0_test:(he) counts:4,huon_0_test
+(he) counts,Nabak,makundzi,13733,huon_0_test:(he) counts:3,huon_0_test
+(he) counts,Ono,dapori,13778,huon_0_test:(he) counts:2,huon_0_test
+(he) counts,Selepet,saliku,7696,huon_0_test:(he) counts:5,huon_0_test
+(he) counts,Somba-Siawari (Burum Dialect),ojen,7698,huon_0_test:(he) counts:1,huon_0_test
+(he) counts,Somba-Siawari (Mindik Dialect),ojon,7698,huon_0_test:(he) counts:1,huon_0_test
+(he) counts,Timbe,ojaŋ,7698,huon_0_test:(he) counts:1,huon_0_test
+(he) counts,Tobo,ojon,7698,huon_0_test:(he) counts:1,huon_0_test
+yellow,Borong,ɡoɡoːkota,7732,huon_0_test:yellow:8,huon_0_test
+yellow,Dedua,dzaɡea,13952,huon_0_test:yellow:7,huon_0_test
+yellow,Komba,ɡibaŋ_ɡibaŋ,7731,huon_0_test:yellow:1,huon_0_test
+yellow,Kube,ɡbaok_ɡbaok,7733,huon_0_test:yellow:3,huon_0_test
+yellow,Mape,boboŋeŋ,7734,huon_0_test:yellow:4,huon_0_test
+yellow,Mesem,alaŋ,7735,huon_0_test:yellow:2,huon_0_test
+yellow,Nabak,araraŋ,7735,huon_0_test:yellow:2,huon_0_test
+yellow,Ono,jaŋaike,13793,huon_0_test:yellow:6,huon_0_test
+yellow,Selepet,ɡibaŋ,7731,huon_0_test:yellow:1,huon_0_test
+yellow,Somba-Siawari (Burum Dialect),ɡohotŋi,7732,huon_0_test:yellow:5,huon_0_test
+yellow,Somba-Siawari (Mindik Dialect),ɡibaŋi,13903,huon_0_test:yellow:1,huon_0_test
+yellow,Timbe,ɡibaŋ,7731,huon_0_test:yellow:1,huon_0_test
+yellow,Tobo,ɡbaot_ɡbaot,7733,huon_0_test:yellow:3,huon_0_test
+green,Borong,asoŋ_asoŋ,7751,huon_0_test:green:1,huon_0_test
+green,Kate,araŋbaric,7843,huon_0_test:green:8,huon_0_test
+green,Kube,ɡerik_meria,13917,huon_0_test:green:7,huon_0_test
+green,Mape,buɡe,13736,huon_0_test:green:6,huon_0_test
+green,Nabak,araŋəŋ,13658,huon_0_test:green:5,huon_0_test
+green,Ono,wisika,13780,huon_0_test:green:9,huon_0_test
+green,Selepet,ɡola,7752,huon_0_test:green:2,huon_0_test
+green,Somba-Siawari (Burum Dialect),ɡarakŋi,14004,huon_0_test:green:4,huon_0_test
+green,Somba-Siawari (Mindik Dialect),taŋɡan_taŋɡan,13900,huon_0_test:green:3,huon_0_test
+green,Timbe,ɡola,7752,huon_0_test:green:2,huon_0_test
+green,Tobo,asoŋa,7751,huon_0_test:green:1,huon_0_test
+(it) burns,Borong,dze,7688,huon_0_test:(it) burns:1,huon_0_test
+(it) burns,Dedua,dza,7688,huon_0_test:(it) burns:1,huon_0_test
+(it) burns,Komba,si,7688,huon_0_test:(it) burns:2,huon_0_test
+(it) burns,Mape,dza,7688,huon_0_test:(it) burns:1,huon_0_test
+(it) burns,Mesem,dzi,7688,huon_0_test:(it) burns:1,huon_0_test
+(it) burns,Nabak,dzi,7688,huon_0_test:(it) burns:1,huon_0_test
+(it) burns,Ono,dzi,7688,huon_0_test:(it) burns:1,huon_0_test
+(it) burns,Selepet,si,7688,huon_0_test:(it) burns:2,huon_0_test
+(it) burns,Somba-Siawari (Burum Dialect),dze,7688,huon_0_test:(it) burns:1,huon_0_test
+(it) burns,Somba-Siawari (Mindik Dialect),dze,7688,huon_0_test:(it) burns:1,huon_0_test
+(it) burns,Timbe,o,13855,huon_0_test:(it) burns:3,huon_0_test
+(it) burns,Tobo,dze,7688,huon_0_test:(it) burns:1,huon_0_test
+(it is) full,Borong,saː_kpe,13822,huon_0_test:(it is) full:1,huon_0_test
+(it is) full,Dedua,wake,13954,huon_0_test:(it is) full:5,huon_0_test
+(it is) full,Kate,fuse,7908,huon_0_test:(it is) full:4,huon_0_test
+(it is) full,Komba,pik,7911,huon_0_test:(it is) full:2,huon_0_test
+(it is) full,Kube,koia_kpe,7909,huon_0_test:(it is) full:1,huon_0_test
+(it is) full,Mape,fuse,7908,huon_0_test:(it is) full:4,huon_0_test
+(it is) full,Mesem,dzədzə_ko,7970,huon_0_test:(it is) full:3,huon_0_test
+(it is) full,Nabak,dzedze_kpe,7970,huon_0_test:(it is) full:3,huon_0_test
+(it is) full,Ono,watɡi,13804,huon_0_test:(it is) full:5,huon_0_test
+(it is) full,Selepet,pik,7911,huon_0_test:(it is) full:2,huon_0_test
+(it is) full,Somba-Siawari (Burum Dialect),kokolak_kpe,7910,huon_0_test:(it is) full:1,huon_0_test
+(it is) full,Somba-Siawari (Mindik Dialect),koko_kpe,7910,huon_0_test:(it is) full:1,huon_0_test
+(it is) full,Timbe,pik,7911,huon_0_test:(it is) full:2,huon_0_test
+(it is) full,Tobo,kaia_kpe,7909,huon_0_test:(it is) full:1,huon_0_test
+star,Borong,seŋɡeleu,7739,huon_0_test:star:1,huon_0_test
+star,Komba,seɡelak,7739,huon_0_test:star:1,huon_0_test
+star,Kube,sikiru,7739,huon_0_test:star:1,huon_0_test
+star,Mape,bapiŋ,7738,huon_0_test:star:6,huon_0_test
+star,Mesem,dzəmərindzə,13679,huon_0_test:star:5,huon_0_test
+star,Nabak,wenzim,13980,huon_0_test:star:4,huon_0_test
+star,Ono,serekiŋ,13921,huon_0_test:star:3,huon_0_test
+star,Selepet,petu,7740,huon_0_test:star:2,huon_0_test
+star,Somba-Siawari (Burum Dialect),seŋɡeleu,7739,huon_0_test:star:1,huon_0_test
+star,Somba-Siawari (Mindik Dialect),seŋɡeleu,7739,huon_0_test:star:1,huon_0_test
+star,Timbe,pituŋ,7740,huon_0_test:star:2,huon_0_test
+star,Tobo,sekelo,7739,huon_0_test:star:1,huon_0_test
+(he) cuts,Dedua,hereɡe,7969,huon_0_test:(he) cuts:1,huon_0_test
+(he) cuts,Kate,hetacne,14032,huon_0_test:(he) cuts:6,huon_0_test
+(he) cuts,Komba,manaɡa,13706,huon_0_test:(he) cuts:7,huon_0_test
+(he) cuts,Kube,heri,7969,huon_0_test:(he) cuts:1,huon_0_test
+(he) cuts,Mesem,lanti,13677,huon_0_test:(he) cuts:5,huon_0_test
+(he) cuts,Nabak,eti,13667,huon_0_test:(he) cuts:2,huon_0_test
+(he) cuts,Ono,kitot,13787,huon_0_test:(he) cuts:4,huon_0_test
+(he) cuts,Selepet,hare,7971,huon_0_test:(he) cuts:1,huon_0_test
+(he) cuts,Somba-Siawari (Burum Dialect),araŋɡa,14000,huon_0_test:(he) cuts:3,huon_0_test
+(he) cuts,Somba-Siawari (Mindik Dialect),kpiti,13902,huon_0_test:(he) cuts:2,huon_0_test
+(he) cuts,Timbe,hari,7971,huon_0_test:(he) cuts:1,huon_0_test
+(he) cuts,Tobo,kari,7969,huon_0_test:(he) cuts:1,huon_0_test
+(he) spits,Borong,sulaːk,13992,huon_0_test:(he) spits:8,huon_0_test
+(he) spits,Komba,tap,7841,huon_0_test:(he) spits:2,huon_0_test
+(he) spits,Kube,sofok,7839,huon_0_test:(he) spits:7,huon_0_test
+(he) spits,Mape,tifak,7839,huon_0_test:(he) spits:6,huon_0_test
+(he) spits,Mesem,dzətupa,13743,huon_0_test:(he) spits:3,huon_0_test
+(he) spits,Nabak,dzawak,13660,huon_0_test:(he) spits:1,huon_0_test
+(he) spits,Ono,mŋekat,14087,huon_0_test:(he) spits:5,huon_0_test
+(he) spits,Selepet,tap,7841,huon_0_test:(he) spits:2,huon_0_test
+(he) spits,Somba-Siawari (Burum Dialect),sawat,7840,huon_0_test:(he) spits:1,huon_0_test
+(he) spits,Somba-Siawari (Mindik Dialect),sawat,7840,huon_0_test:(he) spits:1,huon_0_test
+(he) spits,Timbe,tawut,13864,huon_0_test:(he) spits:1,huon_0_test
+(he) spits,Tobo,sotkan,13672,huon_0_test:(he) spits:4,huon_0_test
+(he) stands,Borong,nan ,7670,huon_0_test:(he) stands:2,huon_0_test
+(he) stands,Dedua,nan ,7670,huon_0_test:(he) stands:2,huon_0_test
+(he) stands,Kate,doma,7671,huon_0_test:(he) stands:3,huon_0_test
+(he) stands,Komba,kin,7669,huon_0_test:(he) stands:1,huon_0_test
+(he) stands,Kube,nan ,7670,huon_0_test:(he) stands:2,huon_0_test
+(he) stands,Mape,dimi,7671,huon_0_test:(he) stands:3,huon_0_test
+(he) stands,Nabak,ta,7672,huon_0_test:(he) stands:5,huon_0_test
+(he) stands,Ono,okore,14088,huon_0_test:(he) stands:4,huon_0_test
+(he) stands,Selepet,kin,7669,huon_0_test:(he) stands:1,huon_0_test
+(he) stands,Somba-Siawari (Burum Dialect),kin,7669,huon_0_test:(he) stands:1,huon_0_test
+(he) stands,Somba-Siawari (Mindik Dialect),kin,7669,huon_0_test:(he) stands:1,huon_0_test
+(he) stands,Timbe,kin,7669,huon_0_test:(he) stands:1,huon_0_test
+(he) stands,Tobo,nan ,7670,huon_0_test:(he) stands:2,huon_0_test
+(he) comes,Borong,waː,13950,huon_0_test:(he) comes:2,huon_0_test
+(he) comes,Dedua,ere,7919,huon_0_test:(he) comes:3,huon_0_test
+(he) comes,Kate,wefu,13753,huon_0_test:(he) comes:2,huon_0_test
+(he) comes,Komba,ɡa,7918,huon_0_test:(he) comes:1,huon_0_test
+(he) comes,Kube,ere,7919,huon_0_test:(he) comes:3,huon_0_test
+(he) comes,Mape,wape,14010,huon_0_test:(he) comes:2,huon_0_test
+(he) comes,Mesem,ko,13720,huon_0_test:(he) comes:1,huon_0_test
+(he) comes,Nabak,kpe,14070,huon_0_test:(he) comes:2,huon_0_test
+(he) comes,Ono,sa,13941,huon_0_test:(he) comes:4,huon_0_test
+(he) comes,Selepet,ɡa,7918,huon_0_test:(he) comes:1,huon_0_test
+(he) comes,Somba-Siawari (Burum Dialect),ka,7918,huon_0_test:(he) comes:1,huon_0_test
+(he) comes,Somba-Siawari (Mindik Dialect),ka,7918,huon_0_test:(he) comes:1,huon_0_test
+(he) comes,Timbe,ɡu,7918,huon_0_test:(he) comes:1,huon_0_test
+(he) comes,Tobo,ka,7918,huon_0_test:(he) comes:1,huon_0_test
+(he) gives me,Borong,non,7895,huon_0_test:(he) gives me:1,huon_0_test
+(he) gives me,Dedua,nen,7895,huon_0_test:(he) gives me:1,huon_0_test
+(he) gives me,Kate,nare,7896,huon_0_test:(he) gives me:2,huon_0_test
+(he) gives me,Komba,nih,7894,huon_0_test:(he) gives me:1,huon_0_test
+(he) gives me,Kube,nen,7895,huon_0_test:(he) gives me:1,huon_0_test
+(he) gives me,Mape,nare,7896,huon_0_test:(he) gives me:2,huon_0_test
+(he) gives me,Mesem,naka,13725,huon_0_test:(he) gives me:2,huon_0_test
+(he) gives me,Nabak,nai,13731,huon_0_test:(he) gives me:2,huon_0_test
+(he) gives me,Ono,nin,7895,huon_0_test:(he) gives me:1,huon_0_test
+(he) gives me,Selepet,nihi,7894,huon_0_test:(he) gives me:1,huon_0_test
+(he) gives me,Somba-Siawari (Burum Dialect),niŋɡi,7894,huon_0_test:(he) gives me:1,huon_0_test
+(he) gives me,Somba-Siawari (Mindik Dialect),niŋɡi,7894,huon_0_test:(he) gives me:1,huon_0_test
+(he) gives me,Timbe,niŋ,7894,huon_0_test:(he) gives me:1,huon_0_test
+(he) gives me,Tobo,nem,7895,huon_0_test:(he) gives me:1,huon_0_test
+(he) holds,Dedua,me,7786,huon_0_test:(he) holds:1,huon_0_test
+(he) holds,Mape,ro,7787,huon_0_test:(he) holds:4,huon_0_test
+(he) holds,Mesem,waŋɡa,13745,huon_0_test:(he) holds:3,huon_0_test
+(he) holds,Nabak,mi,7786,huon_0_test:(he) holds:1,huon_0_test
+(he) holds,Ono,mi,7786,huon_0_test:(he) holds:1,huon_0_test
+(he) holds,Selepet,mi,7786,huon_0_test:(he) holds:1,huon_0_test
+(he) holds,Somba-Siawari (Burum Dialect),ma,7786,huon_0_test:(he) holds:1,huon_0_test
+(he) holds,Somba-Siawari (Mindik Dialect),me,7786,huon_0_test:(he) holds:1,huon_0_test
+(he) holds,Timbe,me,7786,huon_0_test:(he) holds:1,huon_0_test
+(he) holds,Tobo,kasa,14051,huon_0_test:(he) holds:2,huon_0_test
+(he) pushes,Dedua,tuŋɡe,7875,huon_0_test:(he) pushes:2,huon_0_test
+(he) pushes,Kate,tuŋke,7875,huon_0_test:(he) pushes:2,huon_0_test
+(he) pushes,Komba,maːti,13867,huon_0_test:(he) pushes:1,huon_0_test
+(he) pushes,Kube,iɡokɡe,13707,huon_0_test:(he) pushes:9,huon_0_test
+(he) pushes,Mesem,otəɡə,13695,huon_0_test:(he) pushes:8,huon_0_test
+(he) pushes,Nabak,ɔtɔpe,13982,huon_0_test:(he) pushes:7,huon_0_test
+(he) pushes,Ono,bira,13940,huon_0_test:(he) pushes:6,huon_0_test
+(he) pushes,Selepet,hapun,13967,huon_0_test:(he) pushes:5,huon_0_test
+(he) pushes,Somba-Siawari (Burum Dialect),kpetalian,13698,huon_0_test:(he) pushes:1,huon_0_test
+(he) pushes,Somba-Siawari (Mindik Dialect),meakpo,13877,huon_0_test:(he) pushes:4,huon_0_test
+(he) pushes,Timbe,hokok,14041,huon_0_test:(he) pushes:3,huon_0_test
+(he) pushes,Tobo,kpeati,13674,huon_0_test:(he) pushes:1,huon_0_test
+(he) washes,Borong,soŋɡbaŋ,7990,huon_0_test:(he) washes:2,huon_0_test
+(he) washes,Dedua,dzuak,7989,huon_0_test:(he) washes:1,huon_0_test
+(he) washes,Kate,dzure,7988,huon_0_test:(he) washes:1,huon_0_test
+(he) washes,Komba,saɡon,7990,huon_0_test:(he) washes:2,huon_0_test
+(he) washes,Kube,dzuak,7989,huon_0_test:(he) washes:1,huon_0_test
+(he) washes,Mesem,əli,13687,huon_0_test:(he) washes:3,huon_0_test
+(he) washes,Nabak,dzurudzi,13729,huon_0_test:(he) washes:1,huon_0_test
+(he) washes,Ono,sauk,7991,huon_0_test:(he) washes:4,huon_0_test
+(he) washes,Selepet,puri,7991,huon_0_test:(he) washes:3,huon_0_test
+(he) washes,Somba-Siawari (Burum Dialect),soŋɡaŋ,7990,huon_0_test:(he) washes:2,huon_0_test
+(he) washes,Somba-Siawari (Mindik Dialect),soŋɡaŋ,7990,huon_0_test:(he) washes:2,huon_0_test
+(he) washes,Timbe,puli,14044,huon_0_test:(he) washes:3,huon_0_test
+(he) washes,Tobo,dzua,7989,huon_0_test:(he) washes:1,huon_0_test
+(he) pulls,Dedua,tae,13955,huon_0_test:(he) pulls:2,huon_0_test
+(he) pulls,Kate,fare,7680,huon_0_test:(he) pulls:1,huon_0_test
+(he) pulls,Komba,oloŋ,7811,huon_0_test:(he) pulls:3,huon_0_test
+(he) pulls,Kube,feɡle,13709,huon_0_test:(he) pulls:1,huon_0_test
+(he) pulls,Mape,furuɡa,7680,huon_0_test:(he) pulls:1,huon_0_test
+(he) pulls,Mesem,menda,7679,huon_0_test:(he) pulls:2,huon_0_test
+(he) pulls,Nabak,mandai,7679,huon_0_test:(he) pulls:2,huon_0_test
+(he) pulls,Ono,woraŋ,7811,huon_0_test:(he) pulls:3,huon_0_test
+(he) pulls,Selepet,dai,13966,huon_0_test:(he) pulls:2,huon_0_test
+(he) pulls,Somba-Siawari (Burum Dialect),ara,7811,huon_0_test:(he) pulls:1,huon_0_test
+(he) pulls,Somba-Siawari (Mindik Dialect),hara,7811,huon_0_test:(he) pulls:1,huon_0_test
+(he) pulls,Timbe,oloŋak,7811,huon_0_test:(he) pulls:3,huon_0_test
+(he) pulls,Tobo,masal,13671,huon_0_test:(he) pulls:4,huon_0_test
+(he) throws,Dedua,wa,7851,huon_0_test:(he) throws:1,huon_0_test
+(he) throws,Kate,behe,13754,huon_0_test:(he) throws:1,huon_0_test
+(he) throws,Komba,pan,13872,huon_0_test:(he) throws:8,huon_0_test
+(he) throws,Kube,wai,7851,huon_0_test:(he) throws:1,huon_0_test
+(he) throws,Mape,wake,13737,huon_0_test:(he) throws:1,huon_0_test
+(he) throws,Mesem,kətipe,7901,huon_0_test:(he) throws:2,huon_0_test
+(he) throws,Nabak,kətimpe,7901,huon_0_test:(he) throws:2,huon_0_test
+(he) throws,Ono,ɡbeliɡi,13927,huon_0_test:(he) throws:7,huon_0_test
+(he) throws,Selepet,pila,13963,huon_0_test:(he) throws:6,huon_0_test
+(he) throws,Somba-Siawari (Burum Dialect),ɡilian,13765,huon_0_test:(he) throws:5,huon_0_test
+(he) throws,Somba-Siawari (Mindik Dialect),moso,7842,huon_0_test:(he) throws:4,huon_0_test
+(he) throws,Timbe,hepu,13865,huon_0_test:(he) throws:3,huon_0_test
+(he) throws,Tobo,wai,7851,huon_0_test:(he) throws:1,huon_0_test
+(she) sews,Mesem,osə,14102,huon_0_test:(she) sews:6,huon_0_test
+(she) sews,Nabak,ou,13663,huon_0_test:(she) sews:4,huon_0_test
+(she) sews,Ono,ɡbetut,7976,huon_0_test:(she) sews:1,huon_0_test
+(she) sews,Selepet,ɡare,8033,huon_0_test:(she) sews:5,huon_0_test
+(she) sews,Somba-Siawari (Burum Dialect),ume,8034,huon_0_test:(she) sews:2,huon_0_test
+(she) sews,Somba-Siawari (Mindik Dialect),ume,8034,huon_0_test:(she) sews:2,huon_0_test
+(she) sews,Timbe,parut,13857,huon_0_test:(she) sews:1,huon_0_test
+(she) sews,Tobo,kpali,13669,huon_0_test:(she) sews:3,huon_0_test
+(he) says,Borong,dzo,7824,huon_0_test:(he) says:1,huon_0_test
+(he) says,Dedua,de,7824,huon_0_test:(he) says:1,huon_0_test
+(he) says,Kate,mu,7825,huon_0_test:(he) says:2,huon_0_test
+(he) says,Komba,s,7824,huon_0_test:(he) says:5,huon_0_test
+(he) says,Kube,dze,7824,huon_0_test:(he) says:1,huon_0_test
+(he) says,Mape,mi,7825,huon_0_test:(he) says:2,huon_0_test
+(he) says,Nabak,dzei,7824,huon_0_test:(he) says:1,huon_0_test
+(he) says,Ono,ra,13882,huon_0_test:(he) says:4,huon_0_test
+(he) says,Selepet,j,7824,huon_0_test:(he) says:3,huon_0_test
+(he) says,Somba-Siawari (Burum Dialect),dzi,7824,huon_0_test:(he) says:1,huon_0_test
+(he) says,Somba-Siawari (Mindik Dialect),dzi,7824,huon_0_test:(he) says:1,huon_0_test
+(he) says,Timbe,ma,13837,huon_0_test:(he) says:2,huon_0_test
+(he) says,Tobo,dzi,7824,huon_0_test:(he) says:1,huon_0_test
+cloud,Borong,koːsuk,7678,huon_0_test:cloud:1,huon_0_test
+cloud,Dedua,kurumeŋ,13957,huon_0_test:cloud:10,huon_0_test
+cloud,Kate,karorac,14029,huon_0_test:cloud:9,huon_0_test
+cloud,Komba,sasa,13771,huon_0_test:cloud:8,huon_0_test
+cloud,Kube,hosesu,7678,huon_0_test:cloud:1,huon_0_test
+cloud,Mape,ɡaweŋ,14018,huon_0_test:cloud:7,huon_0_test
+cloud,Mesem,kumbu,14108,huon_0_test:cloud:6,huon_0_test
+cloud,Nabak,dzandza,13989,huon_0_test:cloud:5,huon_0_test
+cloud,Ono,kezoŋ,13930,huon_0_test:cloud:4,huon_0_test
+cloud,Selepet,elem,13964,huon_0_test:cloud:3,huon_0_test
+cloud,Somba-Siawari (Burum Dialect),kousu,7678,huon_0_test:cloud:1,huon_0_test
+cloud,Somba-Siawari (Mindik Dialect),kousu,7678,huon_0_test:cloud:1,huon_0_test
+cloud,Timbe,hamadat,13866,huon_0_test:cloud:2,huon_0_test
+cloud,Tobo,kosu,7678,huon_0_test:cloud:1,huon_0_test
+one,Borong,motoːŋɡok,13828,huon_0_test:one:4,huon_0_test
+one,Dedua,mokɡu,7879,huon_0_test:one:1,huon_0_test
+one,Kate,mocjaha,7879,huon_0_test:one:5,huon_0_test
+one,Komba,kanok,7876,huon_0_test:one:2,huon_0_test
+one,Kube,momakɡu,7879,huon_0_test:one:1,huon_0_test
+one,Mape,mokotonŋ,14012,huon_0_test:one:1,huon_0_test
+one,Mesem,kpedzi,7877,huon_0_test:one:3,huon_0_test
+one,Nabak,kpep,7877,huon_0_test:one:3,huon_0_test
+one,Ono,weku,13932,huon_0_test:one:6,huon_0_test
+one,Selepet,konok,7876,huon_0_test:one:2,huon_0_test
+one,Somba-Siawari (Burum Dialect),mohot,7878,huon_0_test:one:1,huon_0_test
+one,Somba-Siawari (Mindik Dialect),mokuŋ,7879,huon_0_test:one:1,huon_0_test
+one,Timbe,kanok,7876,huon_0_test:one:2,huon_0_test
+one,Tobo,mohok,7878,huon_0_test:one:1,huon_0_test
+(he) dies,Borong,komu,7924,huon_0_test:(he) dies:1,huon_0_test
+(he) dies,Komba,mu,7923,huon_0_test:(he) dies:1,huon_0_test
+(he) dies,Kube,humu,7924,huon_0_test:(he) dies:1,huon_0_test
+(he) dies,Mape,kame,7924,huon_0_test:(he) dies:1,huon_0_test
+(he) dies,Mesem,fəki,7926,huon_0_test:(he) dies:2,huon_0_test
+(he) dies,Nabak,ɡəki,7926,huon_0_test:(he) dies:2,huon_0_test
+(he) dies,Ono,seuki,13880,huon_0_test:(he) dies:3,huon_0_test
+(he) dies,Selepet,mu,7923,huon_0_test:(he) dies:1,huon_0_test
+(he) dies,Somba-Siawari (Burum Dialect),kamu,7924,huon_0_test:(he) dies:1,huon_0_test
+(he) dies,Somba-Siawari (Mindik Dialect),komu,7924,huon_0_test:(he) dies:1,huon_0_test
+(he) dies,Timbe,mo,7923,huon_0_test:(he) dies:1,huon_0_test
+(he) dies,Tobo,kamu,7924,huon_0_test:(he) dies:1,huon_0_test
+two,Borong,woik,7685,huon_0_test:two:3,huon_0_test
+two,Dedua,johokaŋ,7687,huon_0_test:two:2,huon_0_test
+two,Kate,jajahec,7687,huon_0_test:two:2,huon_0_test
+two,Komba,zahat,7686,huon_0_test:two:1,huon_0_test
+two,Kube,rehek,7686,huon_0_test:two:1,huon_0_test
+two,Mape,jojokak,7687,huon_0_test:two:2,huon_0_test
+two,Mesem,dzeba,13721,huon_0_test:two:7,huon_0_test
+two,Nabak,dzut,14075,huon_0_test:two:6,huon_0_test
+two,Ono,etke,13794,huon_0_test:two:5,huon_0_test
+two,Selepet,jahap,7686,huon_0_test:two:1,huon_0_test
+two,Somba-Siawari (Burum Dialect),jahat,7686,huon_0_test:two:1,huon_0_test
+two,Somba-Siawari (Mindik Dialect),wait,7685,huon_0_test:two:3,huon_0_test
+two,Timbe,lauwa,13853,huon_0_test:two:4,huon_0_test
+two,Tobo,rahat,7686,huon_0_test:two:1,huon_0_test
+(its) fruit,Dedua,forak,7761,huon_0_test:(its) fruit:2,huon_0_test
+(its) fruit,Kate,faric,7761,huon_0_test:(its) fruit:2,huon_0_test
+(its) fruit,Komba,bon,7763,huon_0_test:(its) fruit:1,huon_0_test
+(its) fruit,Mape,faik,7761,huon_0_test:(its) fruit:2,huon_0_test
+(its) fruit,Mesem,kpən,7762,huon_0_test:(its) fruit:1,huon_0_test
+(its) fruit,Nabak,kpənəŋ,7762,huon_0_test:(its) fruit:1,huon_0_test
+(its) fruit,Ono,wele,13788,huon_0_test:(its) fruit:5,huon_0_test
+(its) fruit,Selepet,bon,7763,huon_0_test:(its) fruit:1,huon_0_test
+(its) fruit,Somba-Siawari (Burum Dialect),lawat,13758,huon_0_test:(its) fruit:4,huon_0_test
+(its) fruit,Somba-Siawari (Mindik Dialect),hal,7760,huon_0_test:(its) fruit:3,huon_0_test
+(its) fruit,Timbe,bun,7763,huon_0_test:(its) fruit:1,huon_0_test
+(its) fruit,Tobo,hal,7760,huon_0_test:(its) fruit:3,huon_0_test
+man,Borong,edzak,13995,huon_0_test:man:4,huon_0_test
+man,Dedua,ŋik,7700,huon_0_test:man:1,huon_0_test
+man,Kate,ŋic,7700,huon_0_test:man:1,huon_0_test
+man,Kube,ik,7700,huon_0_test:man:1,huon_0_test
+man,Mape,ŋik,7700,huon_0_test:man:1,huon_0_test
+man,Mesem,a,7701,huon_0_test:man:3,huon_0_test
+man,Nabak,an,7701,huon_0_test:man:3,huon_0_test
+man,Ono,ŋei,7700,huon_0_test:man:1,huon_0_test
+man,Selepet,lok,7702,huon_0_test:man:2,huon_0_test
+man,Somba-Siawari (Burum Dialect),atsi,13701,huon_0_test:man:7,huon_0_test
+man,Somba-Siawari (Mindik Dialect),aiwi,13832,huon_0_test:man:6,huon_0_test
+man,Timbe,luak,7702,huon_0_test:man:2,huon_0_test
+man,Tobo,ip,7700,huon_0_test:man:5,huon_0_test
+red,Borong,osoɡa,13947,huon_0_test:red:9,huon_0_test
+red,Dedua,sak_sak,14036,huon_0_test:red:8,huon_0_test
+red,Komba,kuriŋ,7803,huon_0_test:red:2,huon_0_test
+red,Kube,pesia,7802,huon_0_test:red:1,huon_0_test
+red,Mape,babaroŋ,7801,huon_0_test:red:7,huon_0_test
+red,Mesem,kukŋ,13696,huon_0_test:red:6,huon_0_test
+red,Nabak,ŋaməŋ,13662,huon_0_test:red:5,huon_0_test
+red,Ono,weŋemka,13790,huon_0_test:red:4,huon_0_test
+red,Selepet,kuriŋ,7803,huon_0_test:red:2,huon_0_test
+red,Somba-Siawari (Burum Dialect),pisikŋi,7802,huon_0_test:red:1,huon_0_test
+red,Somba-Siawari (Mindik Dialect),pasikŋi,7802,huon_0_test:red:1,huon_0_test
+red,Timbe,ɡilamŋe,14058,huon_0_test:red:3,huon_0_test
+red,Tobo,pasaha,7802,huon_0_test:red:1,huon_0_test
+(it) swells,Nabak,səme,7937,huon_0_test:(it) swells:1,huon_0_test
+(it) swells,Ono,sue,7934,huon_0_test:(it) swells:1,huon_0_test
+(it) swells,Selepet,suk,7934,huon_0_test:(it) swells:1,huon_0_test
+(it) swells,Somba-Siawari (Burum Dialect),kpari,13999,huon_0_test:(it) swells:4,huon_0_test
+(it) swells,Somba-Siawari (Mindik Dialect),boŋɡo,7945,huon_0_test:(it) swells:2,huon_0_test
+(it) swells,Timbe,kaule,14057,huon_0_test:(it) swells:3,huon_0_test
+(it) swells,Tobo,buŋɡu,7945,huon_0_test:(it) swells:2,huon_0_test
+and,Dedua,ama,7778,huon_0_test:and:1,huon_0_test
+and,Komba,opŋa,7776,huon_0_test:and:2,huon_0_test
+and,Kube,waŋu,7777,huon_0_test:and:1,huon_0_test
+and,Mesem,mimbi,14103,huon_0_test:and:1,huon_0_test
+and,Nabak,ɔpme,7776,huon_0_test:and:2,huon_0_test
+and,Ono,mi,7778,huon_0_test:and:1,huon_0_test
+and,Selepet,otmu,13913,huon_0_test:and:1,huon_0_test
+and,Somba-Siawari (Burum Dialect),mi,7778,huon_0_test:and:1,huon_0_test
+and,Somba-Siawari (Mindik Dialect),ami,7778,huon_0_test:and:1,huon_0_test
+and,Timbe,akdo,13859,huon_0_test:and:3,huon_0_test
+and,Tobo,wamu,7777,huon_0_test:and:1,huon_0_test
+(he) sleeps,Borong,e,7993,huon_0_test:(he) sleeps:1,huon_0_test
+(he) sleeps,Dedua,fe,7993,huon_0_test:(he) sleeps:1,huon_0_test
+(he) sleeps,Kate,fo,7993,huon_0_test:(he) sleeps:1,huon_0_test
+(he) sleeps,Komba,zi,7996,huon_0_test:(he) sleeps:3,huon_0_test
+(he) sleeps,Kube,fe,7993,huon_0_test:(he) sleeps:1,huon_0_test
+(he) sleeps,Mape,kpe,13738,huon_0_test:(he) sleeps:1,huon_0_test
+(he) sleeps,Nabak,we,7995,huon_0_test:(he) sleeps:1,huon_0_test
+(he) sleeps,Ono,pa,14078,huon_0_test:(he) sleeps:1,huon_0_test
+(he) sleeps,Selepet,i,7996,huon_0_test:(he) sleeps:3,huon_0_test
+(he) sleeps,Somba-Siawari (Burum Dialect),aha,7994,huon_0_test:(he) sleeps:2,huon_0_test
+(he) sleeps,Somba-Siawari (Mindik Dialect),aha,7994,huon_0_test:(he) sleeps:2,huon_0_test
+(he) sleeps,Timbe,je,7996,huon_0_test:(he) sleeps:4,huon_0_test
+(he) sleeps,Tobo,ɡaohe,14047,huon_0_test:(he) sleeps:2,huon_0_test
+black,Borong,indzaŋa,7823,huon_0_test:black:1,huon_0_test
+black,Kate,ɡaɡapac,7822,huon_0_test:black:4,huon_0_test
+black,Komba,sumun_sumun,13767,huon_0_test:black:5,huon_0_test
+black,Kube,dzapera,7821,huon_0_test:black:3,huon_0_test
+black,Mape,ɡaɡawuk,7822,huon_0_test:black:4,huon_0_test
+black,Nabak,sopməŋ,13649,huon_0_test:black:8,huon_0_test
+black,Ono,dika,14096,huon_0_test:black:7,huon_0_test
+black,Selepet,heleŋ,7913,huon_0_test:black:2,huon_0_test
+black,Somba-Siawari (Burum Dialect),tawuŋi,14002,huon_0_test:black:6,huon_0_test
+black,Somba-Siawari (Mindik Dialect),indzaŋi,7823,huon_0_test:black:1,huon_0_test
+black,Timbe,heleŋ,7913,huon_0_test:black:2,huon_0_test
+black,Tobo,dzapala,7821,huon_0_test:black:3,huon_0_test
+short,Dedua,weɡen,13749,huon_0_test:short:1,huon_0_test
+short,Kate,bembeŋ,7973,huon_0_test:short:1,huon_0_test
+short,Kube,hotoŋ,7944,huon_0_test:short:4,huon_0_test
+short,Mape,bembeŋ,7973,huon_0_test:short:1,huon_0_test
+short,Nabak,kutuməŋ,13983,huon_0_test:short:6,huon_0_test
+short,Ono,bomɡoi,13810,huon_0_test:short:5,huon_0_test
+short,Selepet,talawak,7972,huon_0_test:short:3,huon_0_test
+short,Somba-Siawari (Burum Dialect),tarap,7972,huon_0_test:short:2,huon_0_test
+short,Somba-Siawari (Mindik Dialect),tarap,7972,huon_0_test:short:2,huon_0_test
+short,Timbe,talawak,7972,huon_0_test:short:3,huon_0_test
+short,Tobo,katoŋ,7944,huon_0_test:short:4,huon_0_test
+(he) hit him,Komba,ku,7981,huon_0_test:(he) hit him:2,huon_0_test
+(he) hit him,Kube,kpe,7983,huon_0_test:(he) hit him:1,huon_0_test
+(he) hit him,Mape,kpa,7983,huon_0_test:(he) hit him:1,huon_0_test
+(he) hit him,Mesem,kun,7981,huon_0_test:(he) hit him:2,huon_0_test
+(he) hit him,Nabak,ku,7981,huon_0_test:(he) hit him:2,huon_0_test
+(he) hit him,Ono,kpe,7983,huon_0_test:(he) hit him:1,huon_0_test
+(he) hit him,Selepet,ku,7981,huon_0_test:(he) hit him:2,huon_0_test
+(he) hit him,Somba-Siawari (Burum Dialect),kpe,7983,huon_0_test:(he) hit him:1,huon_0_test
+(he) hit him,Somba-Siawari (Mindik Dialect),kpe,7983,huon_0_test:(he) hit him:1,huon_0_test
+(he) hit him,Timbe,ko,7981,huon_0_test:(he) hit him:2,huon_0_test
+(he) hit him,Tobo,kpe,7983,huon_0_test:(he) hit him:1,huon_0_test
+(he) blows,Borong,uː,13644,huon_0_test:(he) blows:1,huon_0_test
+(he) blows,Nabak,kumbu,13654,huon_0_test:(he) blows:5,huon_0_test
+(he) blows,Ono,puani,13777,huon_0_test:(he) blows:4,huon_0_test
+(he) blows,Selepet,hanɡu,13884,huon_0_test:(he) blows:1,huon_0_test
+(he) blows,Somba-Siawari (Burum Dialect),unaŋ,13998,huon_0_test:(he) blows:3,huon_0_test
+(he) blows,Somba-Siawari (Mindik Dialect),hu,13644,huon_0_test:(he) blows:1,huon_0_test
+(he) blows,Timbe,wai,8037,huon_0_test:(he) blows:2,huon_0_test
+(he) blows,Tobo,hi,13644,huon_0_test:(he) blows:1,huon_0_test
+(he) cries,Komba,isi,7931,huon_0_test:(he) cries:1,huon_0_test
+(he) cries,Kube,siak,7929,huon_0_test:(he) cries:1,huon_0_test
+(he) cries,Mape,kueː,14015,huon_0_test:(he) cries:2,huon_0_test
+(he) cries,Nabak,su,7932,huon_0_test:(he) cries:1,huon_0_test
+(he) cries,Ono,arop,13784,huon_0_test:(he) cries:3,huon_0_test
+(he) cries,Selepet,isi,7931,huon_0_test:(he) cries:1,huon_0_test
+(he) cries,Somba-Siawari (Burum Dialect),saha,7929,huon_0_test:(he) cries:1,huon_0_test
+(he) cries,Somba-Siawari (Mindik Dialect),saha,7929,huon_0_test:(he) cries:1,huon_0_test
+(he) cries,Timbe,ide,13858,huon_0_test:(he) cries:1,huon_0_test
+(he) cries,Tobo,sia,7929,huon_0_test:(he) cries:1,huon_0_test
+clothing,Nabak,nap,7683,huon_0_test:clothing:2,huon_0_test
+clothing,Ono,poet,7699,huon_0_test:clothing:1,huon_0_test
+clothing,Selepet,pet,7699,huon_0_test:clothing:1,huon_0_test
+clothing,Somba-Siawari (Burum Dialect),sara,13997,huon_0_test:clothing:3,huon_0_test
+clothing,Somba-Siawari (Mindik Dialect),opo,7653,huon_0_test:clothing:1,huon_0_test
+clothing,Timbe,jaban,13861,huon_0_test:clothing:4,huon_0_test
+clothing,Tobo,owo,7653,huon_0_test:clothing:1,huon_0_test
+dust,Dedua,wondok,13751,huon_0_test:dust:8,huon_0_test
+dust,Kate,ɡac,14027,huon_0_test:dust:7,huon_0_test
+dust,Komba,isak,7967,huon_0_test:dust:2,huon_0_test
+dust,Mape,jak,14007,huon_0_test:dust:6,huon_0_test
+dust,Mesem,wanawana,13744,huon_0_test:dust:5,huon_0_test
+dust,Nabak,kpitnəki,14076,huon_0_test:dust:4,huon_0_test
+dust,Ono,kinekine,13928,huon_0_test:dust:4,huon_0_test
+dust,Selepet,wahap,7968,huon_0_test:dust:3,huon_0_test
+dust,Somba-Siawari (Burum Dialect),nesak,7967,huon_0_test:dust:2,huon_0_test
+dust,Somba-Siawari (Mindik Dialect),iwai,7966,huon_0_test:dust:1,huon_0_test
+dust,Timbe,ɡahap,7968,huon_0_test:dust:3,huon_0_test
+dust,Tobo,iwai,7966,huon_0_test:dust:1,huon_0_test
+dog,Borong,kasuk,8013,huon_0_test:dog:2,huon_0_test
+dog,Dedua,kasi,8013,huon_0_test:dog:2,huon_0_test
+dog,Kate,kpato,8011,huon_0_test:dog:3,huon_0_test
+dog,Komba,wau,13869,huon_0_test:dog:6,huon_0_test
+dog,Mape,kporo,8011,huon_0_test:dog:3,huon_0_test
+dog,Mesem,ta,8010,huon_0_test:dog:4,huon_0_test
+dog,Nabak,tam,8010,huon_0_test:dog:1,huon_0_test
+dog,Ono,kasi,8013,huon_0_test:dog:2,huon_0_test
+dog,Selepet,soso,13889,huon_0_test:dog:5,huon_0_test
+dog,Somba-Siawari (Burum Dialect),kiam,8012,huon_0_test:dog:1,huon_0_test
+dog,Somba-Siawari (Mindik Dialect),kiam,8012,huon_0_test:dog:1,huon_0_test
+dog,Timbe,dua,14054,huon_0_test:dog:4,huon_0_test
+dog,Tobo,kiam,8012,huon_0_test:dog:1,huon_0_test
+(its) flower,Dedua,ori,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Kate,ari,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Komba,balo,13849,huon_0_test:(its) flower:3,huon_0_test
+(its) flower,Kube,dzuri,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Mape,ari,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Mesem,dzolman,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Nabak,kət,13727,huon_0_test:(its) flower:2,huon_0_test
+(its) flower,Ono,dzurai,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Selepet,suri,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Somba-Siawari (Burum Dialect),dzura,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Somba-Siawari (Mindik Dialect),dzura,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Timbe,huri,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) flower,Tobo,dzuri,7684,huon_0_test:(its) flower:1,huon_0_test
+(its) fat,Kube,harek,8023,huon_0_test:(its) fat:1,huon_0_test
+(its) fat,Nabak,kerak,8023,huon_0_test:(its) fat:1,huon_0_test
+(its) fat,Ono,kelok,8023,huon_0_test:(its) fat:1,huon_0_test
+(its) fat,Selepet,kelu,8023,huon_0_test:(its) fat:1,huon_0_test
+(its) fat,Somba-Siawari (Burum Dialect),kelak,8023,huon_0_test:(its) fat:1,huon_0_test
+(its) fat,Somba-Siawari (Mindik Dialect),kelak,8023,huon_0_test:(its) fat:1,huon_0_test
+(its) fat,Timbe,kelu,8023,huon_0_test:(its) fat:1,huon_0_test
+(its) fat,Tobo,kalak,8023,huon_0_test:(its) fat:1,huon_0_test
+dull,Mape,kimaŋine,13742,huon_0_test:dull:7,huon_0_test
+dull,Mesem,kokŋ_kpiəkn̥,14105,huon_0_test:dull:6,huon_0_test
+dull,Nabak,kuɡepin,13728,huon_0_test:dull:5,huon_0_test
+dull,Ono,ŋetŋemidaine,14083,huon_0_test:dull:2,huon_0_test
+dull,Selepet,palamŋe,7999,huon_0_test:dull:1,huon_0_test
+dull,Somba-Siawari (Burum Dialect),mahamŋi,14001,huon_0_test:dull:1,huon_0_test
+dull,Somba-Siawari (Mindik Dialect),dzatbatam,13705,huon_0_test:dull:4,huon_0_test
+dull,Timbe,palamŋe,7999,huon_0_test:dull:1,huon_0_test
+dull,Tobo,dzerakpa,7912,huon_0_test:dull:3,huon_0_test
+animal,Kate,kpowi,13842,huon_0_test:animal:6,huon_0_test
+animal,Komba,zu,8036,huon_0_test:animal:7,huon_0_test
+animal,Mesem,dzi,8036,huon_0_test:animal:5,huon_0_test
+animal,Nabak,soŋɡo,7992,huon_0_test:animal:3,huon_0_test
+animal,Ono,osom,7997,huon_0_test:animal:4,huon_0_test
+animal,Selepet,soɡo,7992,huon_0_test:animal:3,huon_0_test
+animal,Somba-Siawari (Burum Dialect),sumbup,7650,huon_0_test:animal:2,huon_0_test
+animal,Somba-Siawari (Mindik Dialect),sumbup,7650,huon_0_test:animal:2,huon_0_test
+animal,Timbe,jo,8036,huon_0_test:animal:1,huon_0_test
+animal,Tobo,jaŋ,7998,huon_0_test:animal:1,huon_0_test
+lake,Dedua,dzokoŋ,7793,huon_0_test:lake:1,huon_0_test
+lake,Kate,dzakaŋ,7793,huon_0_test:lake:1,huon_0_test
+lake,Komba,deɡan,7793,huon_0_test:lake:1,huon_0_test
+lake,Mape,dzaɡaŋ,7793,huon_0_test:lake:1,huon_0_test
+lake,Nabak,ləmunəŋ,7873,huon_0_test:lake:3,huon_0_test
+lake,Ono,namuŋ,13879,huon_0_test:lake:3,huon_0_test
+lake,Selepet,deɡan,7793,huon_0_test:lake:1,huon_0_test
+lake,Somba-Siawari (Burum Dialect),aŋɡa,7793,huon_0_test:lake:2,huon_0_test
+lake,Somba-Siawari (Mindik Dialect),aŋɡa,7793,huon_0_test:lake:2,huon_0_test
+lake,Timbe,batɡum,13838,huon_0_test:lake:4,huon_0_test
+lake,Tobo,dzokam,7793,huon_0_test:lake:1,huon_0_test
+(its) leaf,Dedua,mari,14033,huon_0_test:(its) leaf:3,huon_0_test
+(its) leaf,Kate,rehac,7892,huon_0_test:(its) leaf:4,huon_0_test
+(its) leaf,Komba,in,7893,huon_0_test:(its) leaf:1,huon_0_test
+(its) leaf,Kube,hareŋ,7891,huon_0_test:(its) leaf:2,huon_0_test
+(its) leaf,Mape,rekak,7892,huon_0_test:(its) leaf:4,huon_0_test
+(its) leaf,Mesem,sin,7893,huon_0_test:(its) leaf:1,huon_0_test
+(its) leaf,Nabak,sin,7893,huon_0_test:(its) leaf:1,huon_0_test
+(its) leaf,Ono,meti,13925,huon_0_test:(its) leaf:3,huon_0_test
+(its) leaf,Selepet,esen,7893,huon_0_test:(its) leaf:1,huon_0_test
+(its) leaf,Somba-Siawari (Burum Dialect),sin,7893,huon_0_test:(its) leaf:1,huon_0_test
+(its) leaf,Somba-Siawari (Mindik Dialect),sin,7893,huon_0_test:(its) leaf:1,huon_0_test
+(its) leaf,Timbe,esen,7893,huon_0_test:(its) leaf:1,huon_0_test
+(its) leaf,Tobo,karem,7891,huon_0_test:(its) leaf:2,huon_0_test
+(its) meat,Dedua,fusi,7955,huon_0_test:(its) meat:1,huon_0_test
+(its) meat,Komba,sunum,7956,huon_0_test:(its) meat:2,huon_0_test
+(its) meat,Kube,busi,7955,huon_0_test:(its) meat:1,huon_0_test
+(its) meat,Mesem,mirik,13722,huon_0_test:(its) meat:5,huon_0_test
+(its) meat,Nabak,səsumbaŋ,14073,huon_0_test:(its) meat:4,huon_0_test
+(its) meat,Ono,biku,7954,huon_0_test:(its) meat:3,huon_0_test
+(its) meat,Selepet,sunum,7956,huon_0_test:(its) meat:2,huon_0_test
+(its) meat,Somba-Siawari (Burum Dialect),busu,7955,huon_0_test:(its) meat:1,huon_0_test
+(its) meat,Somba-Siawari (Mindik Dialect),busu,7955,huon_0_test:(its) meat:1,huon_0_test
+(its) meat,Timbe,sunum,7956,huon_0_test:(its) meat:2,huon_0_test
+(its) meat,Tobo,busi,7955,huon_0_test:(its) meat:1,huon_0_test
+mountain,Dedua,tiki,7858,huon_0_test:mountain:1,huon_0_test
+mountain,Kate,tiki,7858,huon_0_test:mountain:1,huon_0_test
+mountain,Mape,tiki,7858,huon_0_test:mountain:1,huon_0_test
+mountain,Mesem,kalaŋ,7862,huon_0_test:mountain:5,huon_0_test
+mountain,Nabak,kaləŋ,7862,huon_0_test:mountain:5,huon_0_test
+mountain,Ono,bonaɡa,7860,huon_0_test:mountain:4,huon_0_test
+mountain,Selepet,ɡibaŋe,7861,huon_0_test:mountain:2,huon_0_test
+mountain,Somba-Siawari (Burum Dialect),kunduŋi,7859,huon_0_test:mountain:3,huon_0_test
+mountain,Somba-Siawari (Mindik Dialect),kunduŋi,7859,huon_0_test:mountain:3,huon_0_test
+mountain,Timbe,ɡibaŋe,7861,huon_0_test:mountain:2,huon_0_test
+mountain,Tobo,bohoŋa,7860,huon_0_test:mountain:4,huon_0_test
+ashes,Borong,toːk,13823,huon_0_test:ashes:4,huon_0_test
+ashes,Dedua,hama,7784,huon_0_test:ashes:2,huon_0_test
+ashes,Komba,kau,7785,huon_0_test:ashes:1,huon_0_test
+ashes,Kube,homa,7784,huon_0_test:ashes:2,huon_0_test
+ashes,Mape,dzafe,7783,huon_0_test:ashes:3,huon_0_test
+ashes,Mesem,dzita,13717,huon_0_test:ashes:3,huon_0_test
+ashes,Nabak,kɔu,7785,huon_0_test:ashes:1,huon_0_test
+ashes,Ono,kau,7785,huon_0_test:ashes:1,huon_0_test
+ashes,Selepet,kau,7785,huon_0_test:ashes:1,huon_0_test
+ashes,Somba-Siawari (Burum Dialect),kau,7785,huon_0_test:ashes:1,huon_0_test
+ashes,Somba-Siawari (Mindik Dialect),kau,7785,huon_0_test:ashes:1,huon_0_test
+ashes,Timbe,kau,7785,huon_0_test:ashes:1,huon_0_test
+ashes,Tobo,kama,7784,huon_0_test:ashes:2,huon_0_test
+road,Dedua,siŋ,13953,huon_0_test:road:7,huon_0_test
+road,Kate,hata,14024,huon_0_test:road:2,huon_0_test
+road,Komba,matap,13766,huon_0_test:road:2,huon_0_test
+road,Kube,hena,8038,huon_0_test:road:1,huon_0_test
+road,Mape,kari,14110,huon_0_test:road:3,huon_0_test
+road,Mesem,kə,8038,huon_0_test:road:4,huon_0_test
+road,Nabak,set,13981,huon_0_test:road:2,huon_0_test
+road,Ono,numa,13926,huon_0_test:road:5,huon_0_test
+road,Selepet,ɡiop,13914,huon_0_test:road:6,huon_0_test
+road,Somba-Siawari (Burum Dialect),kana,8038,huon_0_test:road:1,huon_0_test
+road,Somba-Siawari (Mindik Dialect),kana,8038,huon_0_test:road:1,huon_0_test
+road,Timbe,dap,13856,huon_0_test:road:2,huon_0_test
+road,Tobo,kana,8038,huon_0_test:road:1,huon_0_test
+(its) root,Dedua,ɡode,7769,huon_0_test:(its) root:1,huon_0_test
+(its) root,Kate,ɡata,7769,huon_0_test:(its) root:1,huon_0_test
+(its) root,Kube,ɡete,7769,huon_0_test:(its) root:1,huon_0_test
+(its) root,Mape,ɡaru,7769,huon_0_test:(its) root:1,huon_0_test
+(its) root,Mesem,kindiri,7768,huon_0_test:(its) root:3,huon_0_test
+(its) root,Nabak,kindi,7768,huon_0_test:(its) root:3,huon_0_test
+(its) root,Ono,ŋodi,14082,huon_0_test:(its) root:1,huon_0_test
+(its) root,Selepet,ɡihit,13968,huon_0_test:(its) root:5,huon_0_test
+(its) root,Somba-Siawari (Burum Dialect),dzala,7767,huon_0_test:(its) root:2,huon_0_test
+(its) root,Somba-Siawari (Mindik Dialect),dzala,7767,huon_0_test:(its) root:2,huon_0_test
+(its) root,Timbe,kadara,7768,huon_0_test:(its) root:2,huon_0_test
+(its) root,Tobo,ande,7770,huon_0_test:(its) root:4,huon_0_test
+sand,Dedua,moŋɡeŋ,7833,huon_0_test:sand:2,huon_0_test
+sand,Kate,moŋɡeŋ,7833,huon_0_test:sand:2,huon_0_test
+sand,Kube,sakesa,7832,huon_0_test:sand:1,huon_0_test
+sand,Mape,maɡeŋ,7833,huon_0_test:sand:2,huon_0_test
+sand,Mesem,ɡaŋa,14106,huon_0_test:sand:5,huon_0_test
+sand,Nabak,ɡambibit,13987,huon_0_test:sand:4,huon_0_test
+sand,Ono,ɡbalak,13934,huon_0_test:sand:3,huon_0_test
+sand,Selepet,sak,7832,huon_0_test:sand:1,huon_0_test
+sand,Somba-Siawari (Burum Dialect),sak,7832,huon_0_test:sand:1,huon_0_test
+sand,Somba-Siawari (Mindik Dialect),sakosiŋ,7832,huon_0_test:sand:1,huon_0_test
+sand,Timbe,sak,7832,huon_0_test:sand:1,huon_0_test
+sand,Tobo,sak,7832,huon_0_test:sand:1,huon_0_test
+(its) claw,Borong,kosi,13824,huon_0_test:(its) claw:10,huon_0_test
+(its) claw,Dedua,boŋ,7920,huon_0_test:(its) claw:2,huon_0_test
+(its) claw,Kate,misiŋ,14098,huon_0_test:(its) claw:11,huon_0_test
+(its) claw,Komba,pakit,7921,huon_0_test:(its) claw:1,huon_0_test
+(its) claw,Kube,boŋsewe,7920,huon_0_test:(its) claw:2,huon_0_test
+(its) claw,Mape,jujuŋ,14016,huon_0_test:(its) claw:9,huon_0_test
+(its) claw,Mesem,dziŋɡəŋɡəŋ,14107,huon_0_test:(its) claw:8,huon_0_test
+(its) claw,Nabak,pəluk,13651,huon_0_test:(its) claw:7,huon_0_test
+(its) claw,Ono,zolip,13931,huon_0_test:(its) claw:6,huon_0_test
+(its) claw,Selepet,pekat,7921,huon_0_test:(its) claw:1,huon_0_test
+(its) claw,Somba-Siawari (Burum Dialect),kamba,13759,huon_0_test:(its) claw:5,huon_0_test
+(its) claw,Somba-Siawari (Mindik Dialect),kesat,13830,huon_0_test:(its) claw:4,huon_0_test
+(its) claw,Timbe,pekat,7921,huon_0_test:(its) claw:1,huon_0_test
+(its) claw,Tobo,kawan,13892,huon_0_test:(its) claw:3,huon_0_test
+snake,Kate,homa,7719,huon_0_test:snake:1,huon_0_test
+snake,Komba,mulum,13848,huon_0_test:snake:7,huon_0_test
+snake,Mesem,asɨ,13681,huon_0_test:snake:6,huon_0_test
+snake,Nabak,nombe,7717,huon_0_test:snake:3,huon_0_test
+snake,Ono,koma,7719,huon_0_test:snake:1,huon_0_test
+snake,Selepet,habe,13907,huon_0_test:snake:5,huon_0_test
+snake,Somba-Siawari (Burum Dialect),mokoleŋ,7718,huon_0_test:snake:2,huon_0_test
+snake,Somba-Siawari (Mindik Dialect),mokoleŋ,7718,huon_0_test:snake:2,huon_0_test
+snake,Timbe,niabi,7717,huon_0_test:snake:4,huon_0_test
+snake,Tobo,kemala,13673,huon_0_test:snake:1,huon_0_test
+smoke,Borong,kaːsok,8035,huon_0_test:smoke:1,huon_0_test
+smoke,Dedua,husuk,8035,huon_0_test:smoke:1,huon_0_test
+smoke,Kate,hosac,8035,huon_0_test:smoke:1,huon_0_test
+smoke,Komba,mudo,13772,huon_0_test:smoke:5,huon_0_test
+smoke,Mesem,kese,8035,huon_0_test:smoke:1,huon_0_test
+smoke,Nabak,kesek,8035,huon_0_test:smoke:1,huon_0_test
+smoke,Ono,ŋaup,13935,huon_0_test:smoke:4,huon_0_test
+smoke,Selepet,utun,13965,huon_0_test:smoke:3,huon_0_test
+smoke,Somba-Siawari (Burum Dialect),kasak,8035,huon_0_test:smoke:1,huon_0_test
+smoke,Somba-Siawari (Mindik Dialect),kowak,8035,huon_0_test:smoke:1,huon_0_test
+smoke,Timbe,dawok,14043,huon_0_test:smoke:2,huon_0_test
+smoke,Tobo,kasak,8035,huon_0_test:smoke:1,huon_0_test
+that,Borong,lo,7899,huon_0_test:that:3,huon_0_test
+that,Dedua,jo,7899,huon_0_test:that:1,huon_0_test
+that,Kate,i,14025,huon_0_test:that:2,huon_0_test
+that,Komba,zo,7899,huon_0_test:that:1,huon_0_test
+that,Mape,a,13734,huon_0_test:that:1,huon_0_test
+that,Nabak,ke,13969,huon_0_test:that:4,huon_0_test
+that,Ono,eri,13779,huon_0_test:that:5,huon_0_test
+that,Selepet,ja,7899,huon_0_test:that:1,huon_0_test
+that,Somba-Siawari (Burum Dialect),me,7704,huon_0_test:that:2,huon_0_test
+that,Somba-Siawari (Mindik Dialect),me,7704,huon_0_test:that:2,huon_0_test
+that,Timbe,ida,14059,huon_0_test:that:1,huon_0_test
+that,Tobo,mi,7704,huon_0_test:that:2,huon_0_test
+stone,Dedua,hok,7765,huon_0_test:stone:6,huon_0_test
+stone,Komba,kat,7764,huon_0_test:stone:1,huon_0_test
+stone,Kube,ɡokmea,13916,huon_0_test:stone:3,huon_0_test
+stone,Mape,kak,7765,huon_0_test:stone:1,huon_0_test
+stone,Mesem,nandza,7766,huon_0_test:stone:2,huon_0_test
+stone,Nabak,nandzəŋ,7766,huon_0_test:stone:2,huon_0_test
+stone,Ono,wesi,13800,huon_0_test:stone:5,huon_0_test
+stone,Selepet,kat,7764,huon_0_test:stone:1,huon_0_test
+stone,Somba-Siawari (Burum Dialect),kat,7764,huon_0_test:stone:1,huon_0_test
+stone,Somba-Siawari (Mindik Dialect),kat,7764,huon_0_test:stone:1,huon_0_test
+stone,Timbe,kat,7764,huon_0_test:stone:1,huon_0_test
+stone,Tobo,baŋa,14048,huon_0_test:stone:4,huon_0_test
+(its) breath,Kate,noka,7675,huon_0_test:(its) breath:5,huon_0_test
+(its) breath,Komba,jaːk,13768,huon_0_test:(its) breath:1,huon_0_test
+(its) breath,Kube,wesese,7673,huon_0_test:(its) breath:3,huon_0_test
+(its) breath,Nabak,emetək,13661,huon_0_test:(its) breath:4,huon_0_test
+(its) breath,Ono,asumora,14095,huon_0_test:(its) breath:6,huon_0_test
+(its) breath,Selepet,heak,7676,huon_0_test:(its) breath:1,huon_0_test
+(its) breath,Somba-Siawari (Burum Dialect),osoŋɡom,7674,huon_0_test:(its) breath:2,huon_0_test
+(its) breath,Somba-Siawari (Mindik Dialect),osoŋɡom,7674,huon_0_test:(its) breath:2,huon_0_test
+(its) breath,Timbe,heak,7676,huon_0_test:(its) breath:1,huon_0_test
+(its) breath,Tobo,wesi,7673,huon_0_test:(its) breath:3,huon_0_test
+tree,Dedua,ik,8021,huon_0_test:tree:2,huon_0_test
+tree,Kate,jac,7836,huon_0_test:tree:5,huon_0_test
+tree,Kube,ik,8021,huon_0_test:tree:2,huon_0_test
+tree,Mesem,tə,7835,huon_0_test:tree:1,huon_0_test
+tree,Nabak,təp,7835,huon_0_test:tree:1,huon_0_test
+tree,Ono,eki,13803,huon_0_test:tree:2,huon_0_test
+tree,Selepet,nak,7834,huon_0_test:tree:4,huon_0_test
+tree,Somba-Siawari (Burum Dialect),ip,8021,huon_0_test:tree:1,huon_0_test
+tree,Somba-Siawari (Mindik Dialect),ip,8021,huon_0_test:tree:1,huon_0_test
+tree,Timbe,lawin,14063,huon_0_test:tree:3,huon_0_test
+tree,Tobo,ip,8021,huon_0_test:tree:1,huon_0_test
+bird,Kate,wipe,13843,huon_0_test:bird:3,huon_0_test
+bird,Komba,ni,13870,huon_0_test:bird:1,huon_0_test
+bird,Kube,nei,13474,huon_0_test:bird:1,huon_0_test
+bird,Mesem,lau,8040,huon_0_test:bird:2,huon_0_test
+bird,Nabak,aɡa,13665,huon_0_test:bird:4,huon_0_test
+bird,Ono,naŋi,13474,huon_0_test:bird:1,huon_0_test
+bird,Selepet,nai,13474,huon_0_test:bird:1,huon_0_test
+bird,Somba-Siawari (Burum Dialect),nei,13474,huon_0_test:bird:1,huon_0_test
+bird,Somba-Siawari (Mindik Dialect),nei,13474,huon_0_test:bird:1,huon_0_test
+bird,Timbe,laut,8040,huon_0_test:bird:2,huon_0_test
+bird,Tobo,ni,13893,huon_0_test:bird:1,huon_0_test
+spear,Nabak,ŋəlip,13650,huon_0_test:spear:1,huon_0_test
+spear,Ono,bim,14092,huon_0_test:spear:2,huon_0_test
+spear,Selepet,iɡep,7838,huon_0_test:spear:1,huon_0_test
+spear,Somba-Siawari (Burum Dialect),liŋɡip,7838,huon_0_test:spear:1,huon_0_test
+spear,Somba-Siawari (Mindik Dialect),liŋɡip,7838,huon_0_test:spear:1,huon_0_test
+spear,Timbe,iɡep,7838,huon_0_test:spear:1,huon_0_test
+spear,Tobo,lihip,7838,huon_0_test:spear:1,huon_0_test
+water,Borong,apuk,13819,huon_0_test:water:4,huon_0_test
+water,Dedua,doku,7985,huon_0_test:water:1,huon_0_test
+water,Kate,opa,13846,huon_0_test:water:3,huon_0_test
+water,Kube,doku,7985,huon_0_test:water:1,huon_0_test
+water,Mesem,tu,7986,huon_0_test:water:1,huon_0_test
+water,Nabak,tu,7986,huon_0_test:water:1,huon_0_test
+water,Ono,doku,7985,huon_0_test:water:1,huon_0_test
+water,Selepet,θo,7986,huon_0_test:water:2,huon_0_test
+water,Somba-Siawari (Burum Dialect),ou,7974,huon_0_test:water:1,huon_0_test
+water,Somba-Siawari (Mindik Dialect),ou,7974,huon_0_test:water:1,huon_0_test
+water,Timbe,tu,7986,huon_0_test:water:1,huon_0_test
+water,Tobo,duku,7985,huon_0_test:water:1,huon_0_test
+wind,Dedua,firaŋ,13748,huon_0_test:wind:4,huon_0_test
+wind,Kate,maŋaŋ,7854,huon_0_test:wind:3,huon_0_test
+wind,Komba,berom,7883,huon_0_test:wind:2,huon_0_test
+wind,Kube,rufuk,7852,huon_0_test:wind:1,huon_0_test
+wind,Mape,maŋuŋ,7854,huon_0_test:wind:3,huon_0_test
+wind,Nabak,tɔɡɔ,7869,huon_0_test:wind:7,huon_0_test
+wind,Ono,momo,7890,huon_0_test:wind:6,huon_0_test
+wind,Selepet,berom,7883,huon_0_test:wind:2,huon_0_test
+wind,Somba-Siawari (Burum Dialect),luhut,7890,huon_0_test:wind:1,huon_0_test
+wind,Somba-Siawari (Mindik Dialect),luhut,7890,huon_0_test:wind:1,huon_0_test
+wind,Timbe,seru,13862,huon_0_test:wind:5,huon_0_test
+wind,Tobo,luhut,7852,huon_0_test:wind:1,huon_0_test
+woman,Dedua,ŋak,7724,huon_0_test:woman:2,huon_0_test
+woman,Kate,ŋokac,7724,huon_0_test:woman:2,huon_0_test
+woman,Komba,aban,7723,huon_0_test:woman:1,huon_0_test
+woman,Kube,embak,7723,huon_0_test:woman:1,huon_0_test
+woman,Mape,ŋiɡok,7724,huon_0_test:woman:2,huon_0_test
+woman,Nabak,imbi,7723,huon_0_test:woman:1,huon_0_test
+woman,Ono,ŋerep,14090,huon_0_test:woman:3,huon_0_test
+woman,Selepet,ibi,7723,huon_0_test:woman:1,huon_0_test
+woman,Somba-Siawari (Burum Dialect),ambi,7723,huon_0_test:woman:1,huon_0_test
+woman,Somba-Siawari (Mindik Dialect),ambi,7723,huon_0_test:woman:1,huon_0_test
+woman,Timbe,abai,7723,huon_0_test:woman:1,huon_0_test
+woman,Tobo,embat,7723,huon_0_test:woman:1,huon_0_test
+all,Borong,kuːja,13817,huon_0_test:all:11,huon_0_test
+all,Dedua,sasawa,7730,huon_0_test:all:1,huon_0_test
+all,Kate,sasawa,7730,huon_0_test:all:1,huon_0_test
+all,Komba,aksik,13873,huon_0_test:all:10,huon_0_test
+all,Kube,mokdzoŋ,13918,huon_0_test:all:9,huon_0_test
+all,Mape,sasawa,7730,huon_0_test:all:1,huon_0_test
+all,Nabak,ilinsakpep,13655,huon_0_test:all:8,huon_0_test
+all,Ono,korop,14094,huon_0_test:all:7,huon_0_test
+all,Selepet,kerek,13887,huon_0_test:all:6,huon_0_test
+all,Somba-Siawari (Burum Dialect),kpakpak,14003,huon_0_test:all:5,huon_0_test
+all,Somba-Siawari (Mindik Dialect),moːketaŋi,13899,huon_0_test:all:4,huon_0_test
+all,Timbe,harowak,14053,huon_0_test:all:3,huon_0_test
+all,Tobo,eŋalek,14050,huon_0_test:all:2,huon_0_test

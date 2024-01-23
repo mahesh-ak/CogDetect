@@ -1,0 +1,11 @@
+numpy==1.10.4y
+appdirs==1.4.0
+biopython==1.66
+decorator==4.0.9
+-e git+https://github.com/lingpy/lingpy.git@710d708f869f263ac24f1bb60dc69e1b5684e913#egg=lingpy
+networkx==1.11
+pandas==0.19.2
+python-igraph==0.7.1.post5
+scikit-learn==0.17.1
+scipy==0.17.0
+six==1.10.0

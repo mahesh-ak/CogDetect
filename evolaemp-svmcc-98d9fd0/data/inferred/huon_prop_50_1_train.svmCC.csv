@@ -1,0 +1,842 @@
+db,concept,doculect,counterpart,fullCC,inferredCC
+huon_prop_50_1_train,right (side),Dedua,foi,huon_prop_50_1_train:right (side):7797,huon_prop_50_1_train:right (side):1
+huon_prop_50_1_train,right (side),Kate,fare,huon_prop_50_1_train:right (side):7795,huon_prop_50_1_train:right (side):1
+huon_prop_50_1_train,right (side),Komba,bon,huon_prop_50_1_train:right (side):7799,huon_prop_50_1_train:right (side):2
+huon_prop_50_1_train,right (side),Kube,foi,huon_prop_50_1_train:right (side):7797,huon_prop_50_1_train:right (side):1
+huon_prop_50_1_train,right (side),Mape,fare,huon_prop_50_1_train:right (side):7795,huon_prop_50_1_train:right (side):1
+huon_prop_50_1_train,right (side),Mesem,pana,huon_prop_50_1_train:right (side):7798,huon_prop_50_1_train:right (side):2
+huon_prop_50_1_train,right (side),Nabak,panaŋ,huon_prop_50_1_train:right (side):7798,huon_prop_50_1_train:right (side):2
+huon_prop_50_1_train,right (side),Ono,waraɡe,huon_prop_50_1_train:right (side):13929,huon_prop_50_1_train:right (side):1
+huon_prop_50_1_train,right (side),Selepet,bon,huon_prop_50_1_train:right (side):7799,huon_prop_50_1_train:right (side):2
+huon_prop_50_1_train,right (side),Somba-Siawari (Burum Dialect),al,huon_prop_50_1_train:right (side):7796,huon_prop_50_1_train:right (side):3
+huon_prop_50_1_train,right (side),Somba-Siawari (Mindik Dialect),hal,huon_prop_50_1_train:right (side):7796,huon_prop_50_1_train:right (side):3
+huon_prop_50_1_train,right (side),Timbe,bun,huon_prop_50_1_train:right (side):7799,huon_prop_50_1_train:right (side):2
+huon_prop_50_1_train,right (side),Tobo,hala,huon_prop_50_1_train:right (side):7796,huon_prop_50_1_train:right (side):3
+huon_prop_50_1_train,good,Borong,auaː,huon_prop_50_1_train:good:13948,huon_prop_50_1_train:good:7
+huon_prop_50_1_train,good,Kate,biaŋne,huon_prop_50_1_train:good:14028,huon_prop_50_1_train:good:2
+huon_prop_50_1_train,good,Kube,fia,huon_prop_50_1_train:good:7773,huon_prop_50_1_train:good:2
+huon_prop_50_1_train,good,Mape,fine,huon_prop_50_1_train:good:7773,huon_prop_50_1_train:good:2
+huon_prop_50_1_train,good,Mesem,saŋɡam,huon_prop_50_1_train:good:13692,huon_prop_50_1_train:good:6
+huon_prop_50_1_train,good,Nabak,kpembenəŋ,huon_prop_50_1_train:good:13668,huon_prop_50_1_train:good:5
+huon_prop_50_1_train,good,Ono,maine,huon_prop_50_1_train:good:13795,huon_prop_50_1_train:good:4
+huon_prop_50_1_train,good,Selepet,alipŋe,huon_prop_50_1_train:good:7772,huon_prop_50_1_train:good:1
+huon_prop_50_1_train,good,Somba-Siawari (Burum Dialect),alipŋi,huon_prop_50_1_train:good:7772,huon_prop_50_1_train:good:1
+huon_prop_50_1_train,good,Somba-Siawari (Mindik Dialect),alipŋi,huon_prop_50_1_train:good:7772,huon_prop_50_1_train:good:1
+huon_prop_50_1_train,good,Timbe,alipŋe,huon_prop_50_1_train:good:7772,huon_prop_50_1_train:good:1
+huon_prop_50_1_train,good,Tobo,eha,huon_prop_50_1_train:good:13894,huon_prop_50_1_train:good:3
+huon_prop_50_1_train,(he) shoots,Nabak,arai,huon_prop_50_1_train:(he) shoots:13647,huon_prop_50_1_train:(he) shoots:1
+huon_prop_50_1_train,(he) shoots,Ono,jato,huon_prop_50_1_train:(he) shoots:14089,huon_prop_50_1_train:(he) shoots:2
+huon_prop_50_1_train,(he) shoots,Selepet,jer,huon_prop_50_1_train:(he) shoots:8024,huon_prop_50_1_train:(he) shoots:1
+huon_prop_50_1_train,(he) shoots,Somba-Siawari (Burum Dialect),era,huon_prop_50_1_train:(he) shoots:8024,huon_prop_50_1_train:(he) shoots:1
+huon_prop_50_1_train,(he) shoots,Somba-Siawari (Mindik Dialect),era,huon_prop_50_1_train:(he) shoots:8024,huon_prop_50_1_train:(he) shoots:1
+huon_prop_50_1_train,(he) shoots,Timbe,er,huon_prop_50_1_train:(he) shoots:8024,huon_prop_50_1_train:(he) shoots:1
+huon_prop_50_1_train,(he) shoots,Tobo,wiri,huon_prop_50_1_train:(he) shoots:8025,huon_prop_50_1_train:(he) shoots:1
+huon_prop_50_1_train,I,Borong,ni,huon_prop_50_1_train:I:7844,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Dedua,ni,huon_prop_50_1_train:I:7844,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Kate,no,huon_prop_50_1_train:I:7845,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Komba,na,huon_prop_50_1_train:I:7845,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Kube,ni,huon_prop_50_1_train:I:7844,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Mape,no,huon_prop_50_1_train:I:7845,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Mesem,na,huon_prop_50_1_train:I:7845,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Nabak,nəŋ,huon_prop_50_1_train:I:7845,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Ono,na,huon_prop_50_1_train:I:7845,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Selepet,na,huon_prop_50_1_train:I:7845,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Somba-Siawari (Burum Dialect),ni,huon_prop_50_1_train:I:7844,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Somba-Siawari (Mindik Dialect),ni,huon_prop_50_1_train:I:7844,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Timbe,na,huon_prop_50_1_train:I:7845,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,I,Tobo,ni,huon_prop_50_1_train:I:7844,huon_prop_50_1_train:I:1
+huon_prop_50_1_train,we,Borong,nono,huon_prop_50_1_train:we:8014,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Dedua,nini,huon_prop_50_1_train:we:8016,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Komba,nen,huon_prop_50_1_train:we:8016,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Kube,nini,huon_prop_50_1_train:we:8016,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Mape,ŋaŋu,huon_prop_50_1_train:we:8014,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Nabak,nin,huon_prop_50_1_train:we:8016,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Ono,ŋedo,huon_prop_50_1_train:we:14086,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Selepet,nen,huon_prop_50_1_train:we:8016,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Somba-Siawari (Burum Dialect),nini,huon_prop_50_1_train:we:8016,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Somba-Siawari (Mindik Dialect),nini,huon_prop_50_1_train:we:8016,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Timbe,nen,huon_prop_50_1_train:we:8016,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,we,Tobo,nini,huon_prop_50_1_train:we:8016,huon_prop_50_1_train:we:1
+huon_prop_50_1_train,this,Borong,i,huon_prop_50_1_train:this:7940,huon_prop_50_1_train:this:1
+huon_prop_50_1_train,this,Dedua,i,huon_prop_50_1_train:this:7940,huon_prop_50_1_train:this:1
+huon_prop_50_1_train,this,Kate,dzi,huon_prop_50_1_train:this:7939,huon_prop_50_1_train:this:1
+huon_prop_50_1_train,this,Komba,zi,huon_prop_50_1_train:this:7939,huon_prop_50_1_train:this:1
+huon_prop_50_1_train,this,Kube,i,huon_prop_50_1_train:this:7940,huon_prop_50_1_train:this:1
+huon_prop_50_1_train,this,Mape,ai,huon_prop_50_1_train:this:14021,huon_prop_50_1_train:this:1
+huon_prop_50_1_train,this,Mesem,wi,huon_prop_50_1_train:this:13684,huon_prop_50_1_train:this:1
+huon_prop_50_1_train,this,Nabak,kapi,huon_prop_50_1_train:this:13984,huon_prop_50_1_train:this:3
+huon_prop_50_1_train,this,Ono,i,huon_prop_50_1_train:this:7940,huon_prop_50_1_train:this:1
+huon_prop_50_1_train,this,Selepet,ju,huon_prop_50_1_train:this:13910,huon_prop_50_1_train:this:2
+huon_prop_50_1_train,this,Somba-Siawari (Burum Dialect),ke,huon_prop_50_1_train:this:13763,huon_prop_50_1_train:this:3
+huon_prop_50_1_train,this,Somba-Siawari (Mindik Dialect),mu,huon_prop_50_1_train:this:7938,huon_prop_50_1_train:this:2
+huon_prop_50_1_train,this,Timbe,i,huon_prop_50_1_train:this:7940,huon_prop_50_1_train:this:1
+huon_prop_50_1_train,this,Tobo,mu,huon_prop_50_1_train:this:7938,huon_prop_50_1_train:this:2
+huon_prop_50_1_train,earth,Dedua,banek,huon_prop_50_1_train:earth:7804,huon_prop_50_1_train:earth:2
+huon_prop_50_1_train,earth,Kate,mareŋ,huon_prop_50_1_train:earth:7805,huon_prop_50_1_train:earth:3
+huon_prop_50_1_train,earth,Komba,an,huon_prop_50_1_train:earth:7806,huon_prop_50_1_train:earth:1
+huon_prop_50_1_train,earth,Kube,baek,huon_prop_50_1_train:earth:7804,huon_prop_50_1_train:earth:2
+huon_prop_50_1_train,earth,Mape,mareŋ,huon_prop_50_1_train:earth:7805,huon_prop_50_1_train:earth:3
+huon_prop_50_1_train,earth,Mesem,misa,huon_prop_50_1_train:earth:7809,huon_prop_50_1_train:earth:4
+huon_prop_50_1_train,earth,Nabak,misat,huon_prop_50_1_train:earth:7809,huon_prop_50_1_train:earth:4
+huon_prop_50_1_train,earth,Ono,kepe,huon_prop_50_1_train:earth:13938,huon_prop_50_1_train:earth:6
+huon_prop_50_1_train,earth,Selepet,han,huon_prop_50_1_train:earth:7806,huon_prop_50_1_train:earth:1
+huon_prop_50_1_train,earth,Somba-Siawari (Burum Dialect),ɡalme,huon_prop_50_1_train:earth:13697,huon_prop_50_1_train:earth:5
+huon_prop_50_1_train,earth,Somba-Siawari (Mindik Dialect),baloŋ,huon_prop_50_1_train:earth:13878,huon_prop_50_1_train:earth:3
+huon_prop_50_1_train,earth,Timbe,han,huon_prop_50_1_train:earth:7806,huon_prop_50_1_train:earth:1
+huon_prop_50_1_train,earth,Tobo,bait,huon_prop_50_1_train:earth:7804,huon_prop_50_1_train:earth:2
+huon_prop_50_1_train,new,Borong,ɡbilia,huon_prop_50_1_train:new:7815,huon_prop_50_1_train:new:1
+huon_prop_50_1_train,new,Dedua,ɡboria,huon_prop_50_1_train:new:7815,huon_prop_50_1_train:new:1
+huon_prop_50_1_train,new,Kate,ɡbaricne,huon_prop_50_1_train:new:7815,huon_prop_50_1_train:new:1
+huon_prop_50_1_train,new,Komba,irakŋa,huon_prop_50_1_train:new:7816,huon_prop_50_1_train:new:2
+huon_prop_50_1_train,new,Kube,ɡberia,huon_prop_50_1_train:new:7815,huon_prop_50_1_train:new:1
+huon_prop_50_1_train,new,Mape,ɡbaine,huon_prop_50_1_train:new:7815,huon_prop_50_1_train:new:3
+huon_prop_50_1_train,new,Mesem,ɡorəŋ,huon_prop_50_1_train:new:13690,huon_prop_50_1_train:new:5
+huon_prop_50_1_train,new,Nabak,arakŋəŋ,huon_prop_50_1_train:new:7816,huon_prop_50_1_train:new:2
+huon_prop_50_1_train,new,Ono,wele,huon_prop_50_1_train:new:13797,huon_prop_50_1_train:new:4
+huon_prop_50_1_train,new,Selepet,aiŋe,huon_prop_50_1_train:new:13908,huon_prop_50_1_train:new:3
+huon_prop_50_1_train,new,Somba-Siawari (Burum Dialect),dalakŋi,huon_prop_50_1_train:new:7816,huon_prop_50_1_train:new:2
+huon_prop_50_1_train,new,Somba-Siawari (Mindik Dialect),dalakŋi,huon_prop_50_1_train:new:7816,huon_prop_50_1_train:new:2
+huon_prop_50_1_train,new,Timbe,irakŋe,huon_prop_50_1_train:new:7816,huon_prop_50_1_train:new:2
+huon_prop_50_1_train,new,Tobo,ɡbilik,huon_prop_50_1_train:new:7815,huon_prop_50_1_train:new:1
+huon_prop_50_1_train,night,Borong,ketek,huon_prop_50_1_train:night:13811,huon_prop_50_1_train:night:6
+huon_prop_50_1_train,night,Kate,ŋafe,huon_prop_50_1_train:night:13755,huon_prop_50_1_train:night:5
+huon_prop_50_1_train,night,Komba,ŋatik,huon_prop_50_1_train:night:13868,huon_prop_50_1_train:night:10
+huon_prop_50_1_train,night,Kube,siŋi,huon_prop_50_1_train:night:7744,huon_prop_50_1_train:night:1
+huon_prop_50_1_train,night,Mape,uwu,huon_prop_50_1_train:night:14118,huon_prop_50_1_train:night:3
+huon_prop_50_1_train,night,Mesem,mimba,huon_prop_50_1_train:night:13694,huon_prop_50_1_train:night:9
+huon_prop_50_1_train,night,Nabak,təmbujat,huon_prop_50_1_train:night:13666,huon_prop_50_1_train:night:4
+huon_prop_50_1_train,night,Ono,ruwo,huon_prop_50_1_train:night:13792,huon_prop_50_1_train:night:3
+huon_prop_50_1_train,night,Selepet,omoŋ,huon_prop_50_1_train:night:13906,huon_prop_50_1_train:night:8
+huon_prop_50_1_train,night,Somba-Siawari (Burum Dialect),suŋɡem,huon_prop_50_1_train:night:7745,huon_prop_50_1_train:night:2
+huon_prop_50_1_train,night,Somba-Siawari (Mindik Dialect),suŋɡem,huon_prop_50_1_train:night:7745,huon_prop_50_1_train:night:2
+huon_prop_50_1_train,night,Timbe,hadak,huon_prop_50_1_train:night:14062,huon_prop_50_1_train:night:7
+huon_prop_50_1_train,night,Tobo,siŋiaha,huon_prop_50_1_train:night:7744,huon_prop_50_1_train:night:1
+huon_prop_50_1_train,what,Borong,namuŋak,huon_prop_50_1_train:what:13814,huon_prop_50_1_train:what:2
+huon_prop_50_1_train,what,Dedua,dafi,huon_prop_50_1_train:what:7758,huon_prop_50_1_train:what:7
+huon_prop_50_1_train,what,Kate,wemo,huon_prop_50_1_train:what:7758,huon_prop_50_1_train:what:3
+huon_prop_50_1_train,what,Komba,wan,huon_prop_50_1_train:what:7759,huon_prop_50_1_train:what:1
+huon_prop_50_1_train,what,Kube,nemak,huon_prop_50_1_train:what:7757,huon_prop_50_1_train:what:2
+huon_prop_50_1_train,what,Mape,wamo,huon_prop_50_1_train:what:7758,huon_prop_50_1_train:what:3
+huon_prop_50_1_train,what,Mesem,wana,huon_prop_50_1_train:what:7759,huon_prop_50_1_train:what:1
+huon_prop_50_1_train,what,Nabak,pitne,huon_prop_50_1_train:what:13645,huon_prop_50_1_train:what:6
+huon_prop_50_1_train,what,Ono,onoka,huon_prop_50_1_train:what:13945,huon_prop_50_1_train:what:5
+huon_prop_50_1_train,what,Selepet,wuan,huon_prop_50_1_train:what:7759,huon_prop_50_1_train:what:1
+huon_prop_50_1_train,what,Somba-Siawari (Burum Dialect),wania,huon_prop_50_1_train:what:7759,huon_prop_50_1_train:what:1
+huon_prop_50_1_train,what,Somba-Siawari (Mindik Dialect),nawa,huon_prop_50_1_train:what:13875,huon_prop_50_1_train:what:4
+huon_prop_50_1_train,what,Timbe,wan,huon_prop_50_1_train:what:7759,huon_prop_50_1_train:what:1
+huon_prop_50_1_train,what,Tobo,namat,huon_prop_50_1_train:what:7757,huon_prop_50_1_train:what:2
+huon_prop_50_1_train,where,Dedua,dahae,huon_prop_50_1_train:where:13960,huon_prop_50_1_train:where:5
+huon_prop_50_1_train,where,Kate,wena,huon_prop_50_1_train:where:14023,huon_prop_50_1_train:where:1
+huon_prop_50_1_train,where,Komba,wanan,huon_prop_50_1_train:where:7857,huon_prop_50_1_train:where:1
+huon_prop_50_1_train,where,Kube,dimia,huon_prop_50_1_train:where:7855,huon_prop_50_1_train:where:2
+huon_prop_50_1_train,where,Mape,uroː,huon_prop_50_1_train:where:13735,huon_prop_50_1_train:where:4
+huon_prop_50_1_train,where,Nabak,den,huon_prop_50_1_train:where:7856,huon_prop_50_1_train:where:3
+huon_prop_50_1_train,where,Ono,dia,huon_prop_50_1_train:where:7855,huon_prop_50_1_train:where:2
+huon_prop_50_1_train,where,Selepet,wonan,huon_prop_50_1_train:where:7857,huon_prop_50_1_train:where:1
+huon_prop_50_1_train,where,Somba-Siawari (Burum Dialect),deneke,huon_prop_50_1_train:where:7856,huon_prop_50_1_train:where:3
+huon_prop_50_1_train,where,Somba-Siawari (Mindik Dialect),denoke,huon_prop_50_1_train:where:7856,huon_prop_50_1_train:where:3
+huon_prop_50_1_train,where,Timbe,wanan,huon_prop_50_1_train:where:7857,huon_prop_50_1_train:where:1
+huon_prop_50_1_train,where,Tobo,dumua,huon_prop_50_1_train:where:7855,huon_prop_50_1_train:where:2
+huon_prop_50_1_train,how,Dedua,dafi,huon_prop_50_1_train:how:13961,huon_prop_50_1_train:how:12
+huon_prop_50_1_train,how,Kate,weniŋuc,huon_prop_50_1_train:how:14022,huon_prop_50_1_train:how:11
+huon_prop_50_1_train,how,Komba,ikai_azo,huon_prop_50_1_train:how:13850,huon_prop_50_1_train:how:10
+huon_prop_50_1_train,how,Kube,deik,huon_prop_50_1_train:how:13919,huon_prop_50_1_train:how:9
+huon_prop_50_1_train,how,Mape,uriŋu,huon_prop_50_1_train:how:13740,huon_prop_50_1_train:how:8
+huon_prop_50_1_train,how,Mesem,disi,huon_prop_50_1_train:how:14104,huon_prop_50_1_train:how:7
+huon_prop_50_1_train,how,Nabak,dziɡok,huon_prop_50_1_train:how:13976,huon_prop_50_1_train:how:6
+huon_prop_50_1_train,how,Ono,daleo,huon_prop_50_1_train:how:14079,huon_prop_50_1_train:how:5
+huon_prop_50_1_train,how,Selepet,ɡira,huon_prop_50_1_train:how:13909,huon_prop_50_1_train:how:2
+huon_prop_50_1_train,how,Somba-Siawari (Burum Dialect),denep,huon_prop_50_1_train:how:7709,huon_prop_50_1_train:how:1
+huon_prop_50_1_train,how,Somba-Siawari (Mindik Dialect),denowo,huon_prop_50_1_train:how:7709,huon_prop_50_1_train:how:1
+huon_prop_50_1_train,how,Timbe,ɡain_hinare,huon_prop_50_1_train:how:14067,huon_prop_50_1_train:how:4
+huon_prop_50_1_train,how,Tobo,dasoŋ,huon_prop_50_1_train:how:13895,huon_prop_50_1_train:how:3
+huon_prop_50_1_train,some,Dedua,ɡo,huon_prop_50_1_train:some:7885,huon_prop_50_1_train:some:3
+huon_prop_50_1_train,some,Kate,ɡac,huon_prop_50_1_train:some:7885,huon_prop_50_1_train:some:3
+huon_prop_50_1_train,some,Komba,nabut,huon_prop_50_1_train:some:7884,huon_prop_50_1_train:some:2
+huon_prop_50_1_train,some,Kube,tose,huon_prop_50_1_train:some:7886,huon_prop_50_1_train:some:1
+huon_prop_50_1_train,some,Mape,ɡa,huon_prop_50_1_train:some:7885,huon_prop_50_1_train:some:3
+huon_prop_50_1_train,some,Nabak,not,huon_prop_50_1_train:some:13977,huon_prop_50_1_train:some:2
+huon_prop_50_1_train,some,Ono,nat,huon_prop_50_1_train:some:13799,huon_prop_50_1_train:some:2
+huon_prop_50_1_train,some,Selepet,nobot,huon_prop_50_1_train:some:7884,huon_prop_50_1_train:some:2
+huon_prop_50_1_train,some,Somba-Siawari (Burum Dialect),tosat,huon_prop_50_1_train:some:7886,huon_prop_50_1_train:some:1
+huon_prop_50_1_train,some,Somba-Siawari (Mindik Dialect),tosat,huon_prop_50_1_train:some:7886,huon_prop_50_1_train:some:1
+huon_prop_50_1_train,some,Timbe,bik,huon_prop_50_1_train:some:14066,huon_prop_50_1_train:some:4
+huon_prop_50_1_train,some,Tobo,tosat,huon_prop_50_1_train:some:7886,huon_prop_50_1_train:some:1
+huon_prop_50_1_train,(its) ear,Dedua,hedza,huon_prop_50_1_train:(its) ear:7868,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) ear,Komba,kidap,huon_prop_50_1_train:(its) ear:7868,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) ear,Kube,ɡedza,huon_prop_50_1_train:(its) ear:7868,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) ear,Mape,kadze,huon_prop_50_1_train:(its) ear:7868,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) ear,Mesem,bəbət,huon_prop_50_1_train:(its) ear:13716,huon_prop_50_1_train:(its) ear:2
+huon_prop_50_1_train,(its) ear,Nabak,wak,huon_prop_50_1_train:(its) ear:14071,huon_prop_50_1_train:(its) ear:3
+huon_prop_50_1_train,(its) ear,Ono,ket,huon_prop_50_1_train:(its) ear:7868,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) ear,Selepet,adap,huon_prop_50_1_train:(its) ear:7867,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) ear,Somba-Siawari (Burum Dialect),ketsap,huon_prop_50_1_train:(its) ear:7868,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) ear,Somba-Siawari (Mindik Dialect),ketsap,huon_prop_50_1_train:(its) ear:7868,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) ear,Timbe,adap,huon_prop_50_1_train:(its) ear:7867,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) ear,Tobo,kesap,huon_prop_50_1_train:(its) ear:7868,huon_prop_50_1_train:(its) ear:1
+huon_prop_50_1_train,(its) belly,Borong,keri,huon_prop_50_1_train:(its) belly:7980,huon_prop_50_1_train:(its) belly:2
+huon_prop_50_1_train,(its) belly,Dedua,kera,huon_prop_50_1_train:(its) belly:7980,huon_prop_50_1_train:(its) belly:2
+huon_prop_50_1_train,(its) belly,Kate,bu,huon_prop_50_1_train:(its) belly:14030,huon_prop_50_1_train:(its) belly:6
+huon_prop_50_1_train,(its) belly,Komba,tip,huon_prop_50_1_train:(its) belly:7982,huon_prop_50_1_train:(its) belly:1
+huon_prop_50_1_train,(its) belly,Kube,tomeŋ,huon_prop_50_1_train:(its) belly:13714,huon_prop_50_1_train:(its) belly:5
+huon_prop_50_1_train,(its) belly,Mape,ata,huon_prop_50_1_train:(its) belly:14013,huon_prop_50_1_train:(its) belly:4
+huon_prop_50_1_train,(its) belly,Mesem,tip,huon_prop_50_1_train:(its) belly:7982,huon_prop_50_1_train:(its) belly:1
+huon_prop_50_1_train,(its) belly,Nabak,tip,huon_prop_50_1_train:(its) belly:7982,huon_prop_50_1_train:(its) belly:1
+huon_prop_50_1_train,(its) belly,Ono,kai,huon_prop_50_1_train:(its) belly:13937,huon_prop_50_1_train:(its) belly:2
+huon_prop_50_1_train,(its) belly,Selepet,tep,huon_prop_50_1_train:(its) belly:7982,huon_prop_50_1_train:(its) belly:1
+huon_prop_50_1_train,(its) belly,Somba-Siawari (Burum Dialect),ɡalam,huon_prop_50_1_train:(its) belly:13702,huon_prop_50_1_train:(its) belly:3
+huon_prop_50_1_train,(its) belly,Somba-Siawari (Mindik Dialect),irip,huon_prop_50_1_train:(its) belly:13834,huon_prop_50_1_train:(its) belly:1
+huon_prop_50_1_train,(its) belly,Timbe,tep,huon_prop_50_1_train:(its) belly:7982,huon_prop_50_1_train:(its) belly:1
+huon_prop_50_1_train,(its) belly,Tobo,kerap,huon_prop_50_1_train:(its) belly:7980,huon_prop_50_1_train:(its) belly:2
+huon_prop_50_1_train,(his) sister,Mesem,lip,huon_prop_50_1_train:(his) sister:7846,huon_prop_50_1_train:(his) sister:3
+huon_prop_50_1_train,(his) sister,Nabak,ip,huon_prop_50_1_train:(his) sister:7846,huon_prop_50_1_train:(his) sister:3
+huon_prop_50_1_train,(his) sister,Ono,kiari,huon_prop_50_1_train:(his) sister:14085,huon_prop_50_1_train:(his) sister:4
+huon_prop_50_1_train,(his) sister,Selepet,tou,huon_prop_50_1_train:(his) sister:7847,huon_prop_50_1_train:(his) sister:2
+huon_prop_50_1_train,(his) sister,Somba-Siawari (Burum Dialect),nen,huon_prop_50_1_train:(his) sister:7848,huon_prop_50_1_train:(his) sister:1
+huon_prop_50_1_train,(his) sister,Somba-Siawari (Mindik Dialect),nen,huon_prop_50_1_train:(his) sister:7848,huon_prop_50_1_train:(his) sister:1
+huon_prop_50_1_train,(his) sister,Timbe,tau,huon_prop_50_1_train:(his) sister:7847,huon_prop_50_1_train:(his) sister:2
+huon_prop_50_1_train,(his) sister,Tobo,nauŋ,huon_prop_50_1_train:(his) sister:7849,huon_prop_50_1_train:(his) sister:1
+huon_prop_50_1_train,(he) falls,Borong,kamaː,huon_prop_50_1_train:(he) falls:13815,huon_prop_50_1_train:(he) falls:2
+huon_prop_50_1_train,(he) falls,Dedua,ma,huon_prop_50_1_train:(he) falls:7713,huon_prop_50_1_train:(he) falls:2
+huon_prop_50_1_train,(he) falls,Komba,lokɡi,huon_prop_50_1_train:(he) falls:13769,huon_prop_50_1_train:(he) falls:1
+huon_prop_50_1_train,(he) falls,Mape,waki,huon_prop_50_1_train:(he) falls:7712,huon_prop_50_1_train:(he) falls:4
+huon_prop_50_1_train,(he) falls,Mesem,kao,huon_prop_50_1_train:(he) falls:13675,huon_prop_50_1_train:(he) falls:1
+huon_prop_50_1_train,(he) falls,Nabak,todzi,huon_prop_50_1_train:(he) falls:13972,huon_prop_50_1_train:(he) falls:5
+huon_prop_50_1_train,(he) falls,Ono,keti,huon_prop_50_1_train:(he) falls:13791,huon_prop_50_1_train:(he) falls:6
+huon_prop_50_1_train,(he) falls,Selepet,kioŋ,huon_prop_50_1_train:(he) falls:13905,huon_prop_50_1_train:(he) falls:1
+huon_prop_50_1_train,(he) falls,Somba-Siawari (Burum Dialect),he,huon_prop_50_1_train:(he) falls:7711,huon_prop_50_1_train:(he) falls:3
+huon_prop_50_1_train,(he) falls,Somba-Siawari (Mindik Dialect),he,huon_prop_50_1_train:(he) falls:7711,huon_prop_50_1_train:(he) falls:3
+huon_prop_50_1_train,(he) falls,Timbe,ɡi,huon_prop_50_1_train:(he) falls:14061,huon_prop_50_1_train:(he) falls:1
+huon_prop_50_1_train,(he) falls,Tobo,ma,huon_prop_50_1_train:(he) falls:7713,huon_prop_50_1_train:(he) falls:2
+huon_prop_50_1_train,hot,Borong,ɡerek,huon_prop_50_1_train:hot:7748,huon_prop_50_1_train:hot:2
+huon_prop_50_1_train,hot,Dedua,ɡerek,huon_prop_50_1_train:hot:7748,huon_prop_50_1_train:hot:2
+huon_prop_50_1_train,hot,Kate,dzoc,huon_prop_50_1_train:hot:14026,huon_prop_50_1_train:hot:6
+huon_prop_50_1_train,hot,Komba,karap,huon_prop_50_1_train:hot:7747,huon_prop_50_1_train:hot:1
+huon_prop_50_1_train,hot,Mape,foro,huon_prop_50_1_train:hot:14117,huon_prop_50_1_train:hot:5
+huon_prop_50_1_train,hot,Mesem,tedzi,huon_prop_50_1_train:hot:7746,huon_prop_50_1_train:hot:3
+huon_prop_50_1_train,hot,Nabak,tedzin,huon_prop_50_1_train:hot:7746,huon_prop_50_1_train:hot:3
+huon_prop_50_1_train,hot,Ono,ɡerep,huon_prop_50_1_train:hot:7748,huon_prop_50_1_train:hot:2
+huon_prop_50_1_train,hot,Selepet,kalap,huon_prop_50_1_train:hot:7747,huon_prop_50_1_train:hot:1
+huon_prop_50_1_train,hot,Somba-Siawari (Burum Dialect),kandap,huon_prop_50_1_train:hot:7747,huon_prop_50_1_train:hot:1
+huon_prop_50_1_train,hot,Somba-Siawari (Mindik Dialect),kanap,huon_prop_50_1_train:hot:7747,huon_prop_50_1_train:hot:1
+huon_prop_50_1_train,hot,Timbe,kalap,huon_prop_50_1_train:hot:7747,huon_prop_50_1_train:hot:1
+huon_prop_50_1_train,hot,Tobo,ɡirua,huon_prop_50_1_train:hot:7748,huon_prop_50_1_train:hot:4
+huon_prop_50_1_train,(its) back,Kate,rape,huon_prop_50_1_train:(its) back:13839,huon_prop_50_1_train:(its) back:2
+huon_prop_50_1_train,(its) back,Komba,kadat,huon_prop_50_1_train:(its) back:7737,huon_prop_50_1_train:(its) back:1
+huon_prop_50_1_train,(its) back,Kube,ɡemaɡi,huon_prop_50_1_train:(its) back:7736,huon_prop_50_1_train:(its) back:1
+huon_prop_50_1_train,(its) back,Nabak,bam,huon_prop_50_1_train:(its) back:13732,huon_prop_50_1_train:(its) back:3
+huon_prop_50_1_train,(its) back,Ono,romo,huon_prop_50_1_train:(its) back:13942,huon_prop_50_1_train:(its) back:4
+huon_prop_50_1_train,(its) back,Selepet,kadat,huon_prop_50_1_train:(its) back:7737,huon_prop_50_1_train:(its) back:1
+huon_prop_50_1_train,(its) back,Somba-Siawari (Burum Dialect),ɡanesem,huon_prop_50_1_train:(its) back:13700,huon_prop_50_1_train:(its) back:5
+huon_prop_50_1_train,(its) back,Somba-Siawari (Mindik Dialect),ɡemat,huon_prop_50_1_train:(its) back:7736,huon_prop_50_1_train:(its) back:1
+huon_prop_50_1_train,(its) back,Timbe,hame,huon_prop_50_1_train:(its) back:14042,huon_prop_50_1_train:(its) back:6
+huon_prop_50_1_train,(its) back,Tobo,ɡemat,huon_prop_50_1_train:(its) back:7736,huon_prop_50_1_train:(its) back:1
+huon_prop_50_1_train,stick,Dedua,ɡbaru,huon_prop_50_1_train:stick:7720,huon_prop_50_1_train:stick:2
+huon_prop_50_1_train,stick,Kate,ɡbaru,huon_prop_50_1_train:stick:7720,huon_prop_50_1_train:stick:2
+huon_prop_50_1_train,stick,Komba,kabam,huon_prop_50_1_train:stick:7721,huon_prop_50_1_train:stick:1
+huon_prop_50_1_train,stick,Kube,ɡbaru,huon_prop_50_1_train:stick:7720,huon_prop_50_1_train:stick:2
+huon_prop_50_1_train,stick,Mesem,onze,huon_prop_50_1_train:stick:13689,huon_prop_50_1_train:stick:7
+huon_prop_50_1_train,stick,Nabak,wandzom,huon_prop_50_1_train:stick:13664,huon_prop_50_1_train:stick:6
+huon_prop_50_1_train,stick,Ono,pokup,huon_prop_50_1_train:stick:13798,huon_prop_50_1_train:stick:5
+huon_prop_50_1_train,stick,Selepet,kapam,huon_prop_50_1_train:stick:7721,huon_prop_50_1_train:stick:1
+huon_prop_50_1_train,stick,Somba-Siawari (Burum Dialect),kambim,huon_prop_50_1_train:stick:7721,huon_prop_50_1_train:stick:1
+huon_prop_50_1_train,stick,Somba-Siawari (Mindik Dialect),tahap,huon_prop_50_1_train:stick:7722,huon_prop_50_1_train:stick:4
+huon_prop_50_1_train,stick,Timbe,buha,huon_prop_50_1_train:stick:13851,huon_prop_50_1_train:stick:3
+huon_prop_50_1_train,stick,Tobo,bim,huon_prop_50_1_train:stick:7721,huon_prop_50_1_train:stick:1
+huon_prop_50_1_train,(its) foot,Nabak,set,huon_prop_50_1_train:(its) foot:13646,huon_prop_50_1_train:(its) foot:2
+huon_prop_50_1_train,(its) foot,Ono,ki,huon_prop_50_1_train:(its) foot:7708,huon_prop_50_1_train:(its) foot:1
+huon_prop_50_1_train,(its) foot,Selepet,kai,huon_prop_50_1_train:(its) foot:7708,huon_prop_50_1_train:(its) foot:1
+huon_prop_50_1_train,(its) foot,Somba-Siawari (Burum Dialect),kana,huon_prop_50_1_train:(its) foot:7725,huon_prop_50_1_train:(its) foot:1
+huon_prop_50_1_train,(its) foot,Somba-Siawari (Mindik Dialect),kana,huon_prop_50_1_train:(its) foot:7725,huon_prop_50_1_train:(its) foot:1
+huon_prop_50_1_train,(its) foot,Timbe,kei,huon_prop_50_1_train:(its) foot:7708,huon_prop_50_1_train:(its) foot:1
+huon_prop_50_1_train,(its) foot,Tobo,kani,huon_prop_50_1_train:(its) foot:7725,huon_prop_50_1_train:(its) foot:1
+huon_prop_50_1_train,moon,Borong,koiŋ,huon_prop_50_1_train:moon:7915,huon_prop_50_1_train:moon:1
+huon_prop_50_1_train,moon,Dedua,afo,huon_prop_50_1_train:moon:13959,huon_prop_50_1_train:moon:7
+huon_prop_50_1_train,moon,Kate,mosa,huon_prop_50_1_train:moon:7917,huon_prop_50_1_train:moon:2
+huon_prop_50_1_train,moon,Komba,kain,huon_prop_50_1_train:moon:7915,huon_prop_50_1_train:moon:1
+huon_prop_50_1_train,moon,Kube,komoŋ,huon_prop_50_1_train:moon:7916,huon_prop_50_1_train:moon:3
+huon_prop_50_1_train,moon,Mape,mosa,huon_prop_50_1_train:moon:7917,huon_prop_50_1_train:moon:2
+huon_prop_50_1_train,moon,Nabak,ejoŋɡe,huon_prop_50_1_train:moon:7914,huon_prop_50_1_train:moon:6
+huon_prop_50_1_train,moon,Ono,meso,huon_prop_50_1_train:moon:7917,huon_prop_50_1_train:moon:2
+huon_prop_50_1_train,moon,Selepet,emesenŋe,huon_prop_50_1_train:moon:13888,huon_prop_50_1_train:moon:5
+huon_prop_50_1_train,moon,Somba-Siawari (Burum Dialect),kain,huon_prop_50_1_train:moon:7915,huon_prop_50_1_train:moon:1
+huon_prop_50_1_train,moon,Somba-Siawari (Mindik Dialect),kaiŋ,huon_prop_50_1_train:moon:7915,huon_prop_50_1_train:moon:1
+huon_prop_50_1_train,moon,Timbe,dewuta_hadahan_ɡatŋe,huon_prop_50_1_train:moon:14055,huon_prop_50_1_train:moon:4
+huon_prop_50_1_train,moon,Tobo,kombol,huon_prop_50_1_train:moon:7916,huon_prop_50_1_train:moon:3
+huon_prop_50_1_train,(he) eats,Borong,ne,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Dedua,ne,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Kate,na,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Komba,ni,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Kube,ne,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Mape,na,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Nabak,ni,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Ono,ni,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Selepet,ni,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Somba-Siawari (Burum Dialect),ne,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Somba-Siawari (Mindik Dialect),ne,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Timbe,ni,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,(he) eats,Tobo,ne,huon_prop_50_1_train:(he) eats:8319,huon_prop_50_1_train:(he) eats:1
+huon_prop_50_1_train,sun,Borong,weːŋ,huon_prop_50_1_train:sun:13825,huon_prop_50_1_train:sun:2
+huon_prop_50_1_train,sun,Dedua,wonak,huon_prop_50_1_train:sun:13747,huon_prop_50_1_train:sun:8
+huon_prop_50_1_train,sun,Kate,dzoaŋ,huon_prop_50_1_train:sun:14100,huon_prop_50_1_train:sun:7
+huon_prop_50_1_train,sun,Komba,mirasiŋ,huon_prop_50_1_train:sun:13773,huon_prop_50_1_train:sun:6
+huon_prop_50_1_train,sun,Kube,kaiwe,huon_prop_50_1_train:sun:7754,huon_prop_50_1_train:sun:1
+huon_prop_50_1_train,sun,Mape,weɡi,huon_prop_50_1_train:sun:14019,huon_prop_50_1_train:sun:9
+huon_prop_50_1_train,sun,Mesem,kəsu,huon_prop_50_1_train:sun:13676,huon_prop_50_1_train:sun:3
+huon_prop_50_1_train,sun,Nabak,kəsuk,huon_prop_50_1_train:sun:13986,huon_prop_50_1_train:sun:3
+huon_prop_50_1_train,sun,Ono,kaiwe,huon_prop_50_1_train:sun:7754,huon_prop_50_1_train:sun:1
+huon_prop_50_1_train,sun,Selepet,dewuta,huon_prop_50_1_train:sun:13962,huon_prop_50_1_train:sun:5
+huon_prop_50_1_train,sun,Somba-Siawari (Burum Dialect),welɡan,huon_prop_50_1_train:sun:7753,huon_prop_50_1_train:sun:2
+huon_prop_50_1_train,sun,Somba-Siawari (Mindik Dialect),wehon,huon_prop_50_1_train:sun:7753,huon_prop_50_1_train:sun:2
+huon_prop_50_1_train,sun,Timbe,poiap,huon_prop_50_1_train:sun:13860,huon_prop_50_1_train:sun:4
+huon_prop_50_1_train,sun,Tobo,kaiwe,huon_prop_50_1_train:sun:7754,huon_prop_50_1_train:sun:1
+huon_prop_50_1_train,(its) tooth,Borong,dzot,huon_prop_50_1_train:(its) tooth:8030,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,(its) tooth,Dedua,enar,huon_prop_50_1_train:(its) tooth:13746,huon_prop_50_1_train:(its) tooth:3
+huon_prop_50_1_train,(its) tooth,Kate,mic,huon_prop_50_1_train:(its) tooth:13844,huon_prop_50_1_train:(its) tooth:2
+huon_prop_50_1_train,(its) tooth,Komba,sat,huon_prop_50_1_train:(its) tooth:8030,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,(its) tooth,Kube,dzeɡl,huon_prop_50_1_train:(its) tooth:8030,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,(its) tooth,Mape,misia,huon_prop_50_1_train:(its) tooth:14111,huon_prop_50_1_train:(its) tooth:2
+huon_prop_50_1_train,(its) tooth,Nabak,dzet,huon_prop_50_1_train:(its) tooth:8030,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,(its) tooth,Ono,ŋet,huon_prop_50_1_train:(its) tooth:13924,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,(its) tooth,Selepet,sat,huon_prop_50_1_train:(its) tooth:8030,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,(its) tooth,Somba-Siawari (Burum Dialect),dzit,huon_prop_50_1_train:(its) tooth:8030,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,(its) tooth,Somba-Siawari (Mindik Dialect),dzat,huon_prop_50_1_train:(its) tooth:8030,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,(its) tooth,Timbe,dat,huon_prop_50_1_train:(its) tooth:8030,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,(its) tooth,Tobo,dzat,huon_prop_50_1_train:(its) tooth:8030,huon_prop_50_1_train:(its) tooth:1
+huon_prop_50_1_train,louse,Dedua,jomiŋ,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Kate,imeŋ,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Kube,imin,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Mape,imeŋ,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Mesem,ləm,huon_prop_50_1_train:louse:13723,huon_prop_50_1_train:louse:2
+huon_prop_50_1_train,louse,Nabak,emin,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Ono,emen,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Selepet,imen,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Somba-Siawari (Burum Dialect),imin,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Somba-Siawari (Mindik Dialect),imin,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Timbe,imen,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,louse,Tobo,imin,huon_prop_50_1_train:louse:7682,huon_prop_50_1_train:louse:1
+huon_prop_50_1_train,(its) bone,Borong,sita,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Dedua,sir,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Kate,siec,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Komba,tan,huon_prop_50_1_train:(its) bone:13871,huon_prop_50_1_train:(its) bone:2
+huon_prop_50_1_train,(its) bone,Kube,siɡl,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Mape,siak,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Mesem,siet,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Nabak,kandziŋ,huon_prop_50_1_train:(its) bone:13985,huon_prop_50_1_train:(its) bone:3
+huon_prop_50_1_train,(its) bone,Ono,set,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Selepet,hahit,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Somba-Siawari (Burum Dialect),sihit,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Somba-Siawari (Mindik Dialect),sihit,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Timbe,hahit,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,(its) bone,Tobo,sihit,huon_prop_50_1_train:(its) bone:7962,huon_prop_50_1_train:(its) bone:1
+huon_prop_50_1_train,breast,Borong,adzu,huon_prop_50_1_train:breast:7831,huon_prop_50_1_train:breast:2
+huon_prop_50_1_train,breast,Kate,moŋ,huon_prop_50_1_train:breast:7829,huon_prop_50_1_train:breast:3
+huon_prop_50_1_train,breast,Komba,nam,huon_prop_50_1_train:breast:7830,huon_prop_50_1_train:breast:1
+huon_prop_50_1_train,breast,Kube,namu,huon_prop_50_1_train:breast:7830,huon_prop_50_1_train:breast:1
+huon_prop_50_1_train,breast,Mape,moŋ,huon_prop_50_1_train:breast:7829,huon_prop_50_1_train:breast:3
+huon_prop_50_1_train,breast,Mesem,nam,huon_prop_50_1_train:breast:7830,huon_prop_50_1_train:breast:1
+huon_prop_50_1_train,breast,Nabak,nam,huon_prop_50_1_train:breast:7830,huon_prop_50_1_train:breast:1
+huon_prop_50_1_train,breast,Ono,ŋamu,huon_prop_50_1_train:breast:7830,huon_prop_50_1_train:breast:1
+huon_prop_50_1_train,breast,Selepet,nam,huon_prop_50_1_train:breast:7830,huon_prop_50_1_train:breast:1
+huon_prop_50_1_train,breast,Somba-Siawari (Burum Dialect),dzudzu,huon_prop_50_1_train:breast:7831,huon_prop_50_1_train:breast:2
+huon_prop_50_1_train,breast,Somba-Siawari (Mindik Dialect),dzudzu,huon_prop_50_1_train:breast:7831,huon_prop_50_1_train:breast:2
+huon_prop_50_1_train,breast,Timbe,nam,huon_prop_50_1_train:breast:7830,huon_prop_50_1_train:breast:1
+huon_prop_50_1_train,breast,Tobo,namo,huon_prop_50_1_train:breast:7830,huon_prop_50_1_train:breast:1
+huon_prop_50_1_train,(he) sees me,Borong,ni,huon_prop_50_1_train:(he) sees me:7905,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Dedua,nen,huon_prop_50_1_train:(he) sees me:7904,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Kate,honecnu,huon_prop_50_1_train:(he) sees me:7903,huon_prop_50_1_train:(he) sees me:2
+huon_prop_50_1_train,(he) sees me,Komba,nek,huon_prop_50_1_train:(he) sees me:7906,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Kube,ni,huon_prop_50_1_train:(he) sees me:7905,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Mape,ŋonenu,huon_prop_50_1_train:(he) sees me:7903,huon_prop_50_1_train:(he) sees me:2
+huon_prop_50_1_train,(he) sees me,Mesem,nəɡəi,huon_prop_50_1_train:(he) sees me:13724,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Nabak,ni,huon_prop_50_1_train:(he) sees me:7905,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Ono,nan ,huon_prop_50_1_train:(he) sees me:7904,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Selepet,nek,huon_prop_50_1_train:(he) sees me:7906,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Somba-Siawari (Burum Dialect),nek,huon_prop_50_1_train:(he) sees me:7906,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Somba-Siawari (Mindik Dialect),nek,huon_prop_50_1_train:(he) sees me:7906,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Timbe,nek,huon_prop_50_1_train:(he) sees me:7906,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) sees me,Tobo,nen,huon_prop_50_1_train:(he) sees me:7904,huon_prop_50_1_train:(he) sees me:1
+huon_prop_50_1_train,(he) knows,Dedua,neɡen,huon_prop_50_1_train:(he) knows:14037,huon_prop_50_1_train:(he) knows:1
+huon_prop_50_1_train,(he) knows,Kate,mana,huon_prop_50_1_train:(he) knows:7656,huon_prop_50_1_train:(he) knows:2
+huon_prop_50_1_train,(he) knows,Komba,naɡa,huon_prop_50_1_train:(he) knows:7657,huon_prop_50_1_train:(he) knows:1
+huon_prop_50_1_train,(he) knows,Kube,nin,huon_prop_50_1_train:(he) knows:7655,huon_prop_50_1_train:(he) knows:1
+huon_prop_50_1_train,(he) knows,Mesem,niŋɡe,huon_prop_50_1_train:(he) knows:7657,huon_prop_50_1_train:(he) knows:1
+huon_prop_50_1_train,(he) knows,Nabak,nɔi,huon_prop_50_1_train:(he) knows:13979,huon_prop_50_1_train:(he) knows:1
+huon_prop_50_1_train,(he) knows,Ono,deri,huon_prop_50_1_train:(he) knows:13933,huon_prop_50_1_train:(he) knows:3
+huon_prop_50_1_train,(he) knows,Selepet,naɡa,huon_prop_50_1_train:(he) knows:7657,huon_prop_50_1_train:(he) knows:1
+huon_prop_50_1_train,(he) knows,Somba-Siawari (Burum Dialect),ma,huon_prop_50_1_train:(he) knows:7658,huon_prop_50_1_train:(he) knows:2
+huon_prop_50_1_train,(he) knows,Somba-Siawari (Mindik Dialect),mo,huon_prop_50_1_train:(he) knows:7658,huon_prop_50_1_train:(he) knows:2
+huon_prop_50_1_train,(he) knows,Timbe,naɡa,huon_prop_50_1_train:(he) knows:7657,huon_prop_50_1_train:(he) knows:1
+huon_prop_50_1_train,(he) knows,Tobo,nin,huon_prop_50_1_train:(he) knows:7655,huon_prop_50_1_train:(he) knows:1
+huon_prop_50_1_train,(they) play,Nabak,kpep,huon_prop_50_1_train:(they) play:13652,huon_prop_50_1_train:(they) play:5
+huon_prop_50_1_train,(they) play,Ono,ɡbat,huon_prop_50_1_train:(they) play:13786,huon_prop_50_1_train:(they) play:4
+huon_prop_50_1_train,(they) play,Selepet,heŋ,huon_prop_50_1_train:(they) play:13885,huon_prop_50_1_train:(they) play:6
+huon_prop_50_1_train,(they) play,Somba-Siawari (Burum Dialect),manahat,huon_prop_50_1_train:(they) play:13704,huon_prop_50_1_train:(they) play:1
+huon_prop_50_1_train,(they) play,Somba-Siawari (Mindik Dialect),aŋɡolat,huon_prop_50_1_train:(they) play:8026,huon_prop_50_1_train:(they) play:1
+huon_prop_50_1_train,(they) play,Timbe,halimak,huon_prop_50_1_train:(they) play:14046,huon_prop_50_1_train:(they) play:3
+huon_prop_50_1_train,(they) play,Tobo,ariat,huon_prop_50_1_train:(they) play:8027,huon_prop_50_1_train:(they) play:2
+huon_prop_50_1_train,yellow,Borong,ɡoɡoːkota,huon_prop_50_1_train:yellow:7732,huon_prop_50_1_train:yellow:4
+huon_prop_50_1_train,yellow,Dedua,dzaɡea,huon_prop_50_1_train:yellow:13952,huon_prop_50_1_train:yellow:3
+huon_prop_50_1_train,yellow,Komba,ɡibaŋ_ɡibaŋ,huon_prop_50_1_train:yellow:7731,huon_prop_50_1_train:yellow:1
+huon_prop_50_1_train,yellow,Kube,ɡbaok_ɡbaok,huon_prop_50_1_train:yellow:7733,huon_prop_50_1_train:yellow:2
+huon_prop_50_1_train,yellow,Mape,boboŋeŋ,huon_prop_50_1_train:yellow:7734,huon_prop_50_1_train:yellow:9
+huon_prop_50_1_train,yellow,Mesem,alaŋ,huon_prop_50_1_train:yellow:7735,huon_prop_50_1_train:yellow:8
+huon_prop_50_1_train,yellow,Nabak,araraŋ,huon_prop_50_1_train:yellow:7735,huon_prop_50_1_train:yellow:7
+huon_prop_50_1_train,yellow,Ono,jaŋaike,huon_prop_50_1_train:yellow:13793,huon_prop_50_1_train:yellow:6
+huon_prop_50_1_train,yellow,Selepet,ɡibaŋ,huon_prop_50_1_train:yellow:7731,huon_prop_50_1_train:yellow:1
+huon_prop_50_1_train,yellow,Somba-Siawari (Burum Dialect),ɡohotŋi,huon_prop_50_1_train:yellow:7732,huon_prop_50_1_train:yellow:5
+huon_prop_50_1_train,yellow,Somba-Siawari (Mindik Dialect),ɡibaŋi,huon_prop_50_1_train:yellow:13903,huon_prop_50_1_train:yellow:1
+huon_prop_50_1_train,yellow,Timbe,ɡibaŋ,huon_prop_50_1_train:yellow:7731,huon_prop_50_1_train:yellow:1
+huon_prop_50_1_train,yellow,Tobo,ɡbaot_ɡbaot,huon_prop_50_1_train:yellow:7733,huon_prop_50_1_train:yellow:2
+huon_prop_50_1_train,(it) burns,Borong,dze,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Dedua,dza,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Komba,si,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Mape,dza,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Mesem,dzi,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Nabak,dzi,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Ono,dzi,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Selepet,si,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Somba-Siawari (Burum Dialect),dze,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Somba-Siawari (Mindik Dialect),dze,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it) burns,Timbe,o,huon_prop_50_1_train:(it) burns:13855,huon_prop_50_1_train:(it) burns:2
+huon_prop_50_1_train,(it) burns,Tobo,dze,huon_prop_50_1_train:(it) burns:7688,huon_prop_50_1_train:(it) burns:1
+huon_prop_50_1_train,(it is) full,Borong,saː_kpe,huon_prop_50_1_train:(it is) full:13822,huon_prop_50_1_train:(it is) full:1
+huon_prop_50_1_train,(it is) full,Dedua,wake,huon_prop_50_1_train:(it is) full:13954,huon_prop_50_1_train:(it is) full:3
+huon_prop_50_1_train,(it is) full,Kate,fuse,huon_prop_50_1_train:(it is) full:7908,huon_prop_50_1_train:(it is) full:5
+huon_prop_50_1_train,(it is) full,Komba,pik,huon_prop_50_1_train:(it is) full:7911,huon_prop_50_1_train:(it is) full:2
+huon_prop_50_1_train,(it is) full,Kube,koia_kpe,huon_prop_50_1_train:(it is) full:7909,huon_prop_50_1_train:(it is) full:1
+huon_prop_50_1_train,(it is) full,Mape,fuse,huon_prop_50_1_train:(it is) full:7908,huon_prop_50_1_train:(it is) full:5
+huon_prop_50_1_train,(it is) full,Mesem,dzədzə_ko,huon_prop_50_1_train:(it is) full:7970,huon_prop_50_1_train:(it is) full:4
+huon_prop_50_1_train,(it is) full,Nabak,dzedze_kpe,huon_prop_50_1_train:(it is) full:7970,huon_prop_50_1_train:(it is) full:4
+huon_prop_50_1_train,(it is) full,Ono,watɡi,huon_prop_50_1_train:(it is) full:13804,huon_prop_50_1_train:(it is) full:3
+huon_prop_50_1_train,(it is) full,Selepet,pik,huon_prop_50_1_train:(it is) full:7911,huon_prop_50_1_train:(it is) full:2
+huon_prop_50_1_train,(it is) full,Somba-Siawari (Burum Dialect),kokolak_kpe,huon_prop_50_1_train:(it is) full:7910,huon_prop_50_1_train:(it is) full:1
+huon_prop_50_1_train,(it is) full,Somba-Siawari (Mindik Dialect),koko_kpe,huon_prop_50_1_train:(it is) full:7910,huon_prop_50_1_train:(it is) full:1
+huon_prop_50_1_train,(it is) full,Timbe,pik,huon_prop_50_1_train:(it is) full:7911,huon_prop_50_1_train:(it is) full:2
+huon_prop_50_1_train,(it is) full,Tobo,kaia_kpe,huon_prop_50_1_train:(it is) full:7909,huon_prop_50_1_train:(it is) full:1
+huon_prop_50_1_train,(he) cuts,Dedua,hereɡe,huon_prop_50_1_train:(he) cuts:7969,huon_prop_50_1_train:(he) cuts:1
+huon_prop_50_1_train,(he) cuts,Kate,hetacne,huon_prop_50_1_train:(he) cuts:14032,huon_prop_50_1_train:(he) cuts:8
+huon_prop_50_1_train,(he) cuts,Komba,manaɡa,huon_prop_50_1_train:(he) cuts:13706,huon_prop_50_1_train:(he) cuts:7
+huon_prop_50_1_train,(he) cuts,Kube,heri,huon_prop_50_1_train:(he) cuts:7969,huon_prop_50_1_train:(he) cuts:1
+huon_prop_50_1_train,(he) cuts,Mesem,lanti,huon_prop_50_1_train:(he) cuts:13677,huon_prop_50_1_train:(he) cuts:6
+huon_prop_50_1_train,(he) cuts,Nabak,eti,huon_prop_50_1_train:(he) cuts:13667,huon_prop_50_1_train:(he) cuts:5
+huon_prop_50_1_train,(he) cuts,Ono,kitot,huon_prop_50_1_train:(he) cuts:13787,huon_prop_50_1_train:(he) cuts:4
+huon_prop_50_1_train,(he) cuts,Selepet,hare,huon_prop_50_1_train:(he) cuts:7971,huon_prop_50_1_train:(he) cuts:1
+huon_prop_50_1_train,(he) cuts,Somba-Siawari (Burum Dialect),araŋɡa,huon_prop_50_1_train:(he) cuts:14000,huon_prop_50_1_train:(he) cuts:3
+huon_prop_50_1_train,(he) cuts,Somba-Siawari (Mindik Dialect),kpiti,huon_prop_50_1_train:(he) cuts:13902,huon_prop_50_1_train:(he) cuts:2
+huon_prop_50_1_train,(he) cuts,Timbe,hari,huon_prop_50_1_train:(he) cuts:7971,huon_prop_50_1_train:(he) cuts:1
+huon_prop_50_1_train,(he) cuts,Tobo,kari,huon_prop_50_1_train:(he) cuts:7969,huon_prop_50_1_train:(he) cuts:1
+huon_prop_50_1_train,(he) comes,Borong,waː,huon_prop_50_1_train:(he) comes:13950,huon_prop_50_1_train:(he) comes:2
+huon_prop_50_1_train,(he) comes,Dedua,ere,huon_prop_50_1_train:(he) comes:7919,huon_prop_50_1_train:(he) comes:3
+huon_prop_50_1_train,(he) comes,Kate,wefu,huon_prop_50_1_train:(he) comes:13753,huon_prop_50_1_train:(he) comes:2
+huon_prop_50_1_train,(he) comes,Komba,ɡa,huon_prop_50_1_train:(he) comes:7918,huon_prop_50_1_train:(he) comes:1
+huon_prop_50_1_train,(he) comes,Kube,ere,huon_prop_50_1_train:(he) comes:7919,huon_prop_50_1_train:(he) comes:3
+huon_prop_50_1_train,(he) comes,Mape,wape,huon_prop_50_1_train:(he) comes:14010,huon_prop_50_1_train:(he) comes:2
+huon_prop_50_1_train,(he) comes,Mesem,ko,huon_prop_50_1_train:(he) comes:13720,huon_prop_50_1_train:(he) comes:1
+huon_prop_50_1_train,(he) comes,Nabak,kpe,huon_prop_50_1_train:(he) comes:14070,huon_prop_50_1_train:(he) comes:2
+huon_prop_50_1_train,(he) comes,Ono,sa,huon_prop_50_1_train:(he) comes:13941,huon_prop_50_1_train:(he) comes:4
+huon_prop_50_1_train,(he) comes,Selepet,ɡa,huon_prop_50_1_train:(he) comes:7918,huon_prop_50_1_train:(he) comes:1
+huon_prop_50_1_train,(he) comes,Somba-Siawari (Burum Dialect),ka,huon_prop_50_1_train:(he) comes:7918,huon_prop_50_1_train:(he) comes:1
+huon_prop_50_1_train,(he) comes,Somba-Siawari (Mindik Dialect),ka,huon_prop_50_1_train:(he) comes:7918,huon_prop_50_1_train:(he) comes:1
+huon_prop_50_1_train,(he) comes,Timbe,ɡu,huon_prop_50_1_train:(he) comes:7918,huon_prop_50_1_train:(he) comes:1
+huon_prop_50_1_train,(he) comes,Tobo,ka,huon_prop_50_1_train:(he) comes:7918,huon_prop_50_1_train:(he) comes:1
+huon_prop_50_1_train,(he) gives me,Borong,non,huon_prop_50_1_train:(he) gives me:7895,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) gives me,Dedua,nen,huon_prop_50_1_train:(he) gives me:7895,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) gives me,Kate,nare,huon_prop_50_1_train:(he) gives me:7896,huon_prop_50_1_train:(he) gives me:2
+huon_prop_50_1_train,(he) gives me,Komba,nih,huon_prop_50_1_train:(he) gives me:7894,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) gives me,Kube,nen,huon_prop_50_1_train:(he) gives me:7895,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) gives me,Mape,nare,huon_prop_50_1_train:(he) gives me:7896,huon_prop_50_1_train:(he) gives me:2
+huon_prop_50_1_train,(he) gives me,Mesem,naka,huon_prop_50_1_train:(he) gives me:13725,huon_prop_50_1_train:(he) gives me:2
+huon_prop_50_1_train,(he) gives me,Nabak,nai,huon_prop_50_1_train:(he) gives me:13731,huon_prop_50_1_train:(he) gives me:2
+huon_prop_50_1_train,(he) gives me,Ono,nin,huon_prop_50_1_train:(he) gives me:7895,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) gives me,Selepet,nihi,huon_prop_50_1_train:(he) gives me:7894,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) gives me,Somba-Siawari (Burum Dialect),niŋɡi,huon_prop_50_1_train:(he) gives me:7894,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) gives me,Somba-Siawari (Mindik Dialect),niŋɡi,huon_prop_50_1_train:(he) gives me:7894,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) gives me,Timbe,niŋ,huon_prop_50_1_train:(he) gives me:7894,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) gives me,Tobo,nem,huon_prop_50_1_train:(he) gives me:7895,huon_prop_50_1_train:(he) gives me:1
+huon_prop_50_1_train,(he) holds,Dedua,me,huon_prop_50_1_train:(he) holds:7786,huon_prop_50_1_train:(he) holds:1
+huon_prop_50_1_train,(he) holds,Mape,ro,huon_prop_50_1_train:(he) holds:7787,huon_prop_50_1_train:(he) holds:4
+huon_prop_50_1_train,(he) holds,Mesem,waŋɡa,huon_prop_50_1_train:(he) holds:13745,huon_prop_50_1_train:(he) holds:3
+huon_prop_50_1_train,(he) holds,Nabak,mi,huon_prop_50_1_train:(he) holds:7786,huon_prop_50_1_train:(he) holds:1
+huon_prop_50_1_train,(he) holds,Ono,mi,huon_prop_50_1_train:(he) holds:7786,huon_prop_50_1_train:(he) holds:1
+huon_prop_50_1_train,(he) holds,Selepet,mi,huon_prop_50_1_train:(he) holds:7786,huon_prop_50_1_train:(he) holds:1
+huon_prop_50_1_train,(he) holds,Somba-Siawari (Burum Dialect),ma,huon_prop_50_1_train:(he) holds:7786,huon_prop_50_1_train:(he) holds:1
+huon_prop_50_1_train,(he) holds,Somba-Siawari (Mindik Dialect),me,huon_prop_50_1_train:(he) holds:7786,huon_prop_50_1_train:(he) holds:1
+huon_prop_50_1_train,(he) holds,Timbe,me,huon_prop_50_1_train:(he) holds:7786,huon_prop_50_1_train:(he) holds:1
+huon_prop_50_1_train,(he) holds,Tobo,kasa,huon_prop_50_1_train:(he) holds:14051,huon_prop_50_1_train:(he) holds:2
+huon_prop_50_1_train,(he) washes,Borong,soŋɡbaŋ,huon_prop_50_1_train:(he) washes:7990,huon_prop_50_1_train:(he) washes:2
+huon_prop_50_1_train,(he) washes,Dedua,dzuak,huon_prop_50_1_train:(he) washes:7989,huon_prop_50_1_train:(he) washes:1
+huon_prop_50_1_train,(he) washes,Kate,dzure,huon_prop_50_1_train:(he) washes:7988,huon_prop_50_1_train:(he) washes:1
+huon_prop_50_1_train,(he) washes,Komba,saɡon,huon_prop_50_1_train:(he) washes:7990,huon_prop_50_1_train:(he) washes:2
+huon_prop_50_1_train,(he) washes,Kube,dzuak,huon_prop_50_1_train:(he) washes:7989,huon_prop_50_1_train:(he) washes:1
+huon_prop_50_1_train,(he) washes,Mesem,əli,huon_prop_50_1_train:(he) washes:13687,huon_prop_50_1_train:(he) washes:5
+huon_prop_50_1_train,(he) washes,Nabak,dzurudzi,huon_prop_50_1_train:(he) washes:13729,huon_prop_50_1_train:(he) washes:1
+huon_prop_50_1_train,(he) washes,Ono,sauk,huon_prop_50_1_train:(he) washes:7991,huon_prop_50_1_train:(he) washes:4
+huon_prop_50_1_train,(he) washes,Selepet,puri,huon_prop_50_1_train:(he) washes:7991,huon_prop_50_1_train:(he) washes:3
+huon_prop_50_1_train,(he) washes,Somba-Siawari (Burum Dialect),soŋɡaŋ,huon_prop_50_1_train:(he) washes:7990,huon_prop_50_1_train:(he) washes:2
+huon_prop_50_1_train,(he) washes,Somba-Siawari (Mindik Dialect),soŋɡaŋ,huon_prop_50_1_train:(he) washes:7990,huon_prop_50_1_train:(he) washes:2
+huon_prop_50_1_train,(he) washes,Timbe,puli,huon_prop_50_1_train:(he) washes:14044,huon_prop_50_1_train:(he) washes:3
+huon_prop_50_1_train,(he) washes,Tobo,dzua,huon_prop_50_1_train:(he) washes:7989,huon_prop_50_1_train:(he) washes:1
+huon_prop_50_1_train,(he) throws,Dedua,wa,huon_prop_50_1_train:(he) throws:7851,huon_prop_50_1_train:(he) throws:1
+huon_prop_50_1_train,(he) throws,Kate,behe,huon_prop_50_1_train:(he) throws:13754,huon_prop_50_1_train:(he) throws:1
+huon_prop_50_1_train,(he) throws,Komba,pan,huon_prop_50_1_train:(he) throws:13872,huon_prop_50_1_train:(he) throws:8
+huon_prop_50_1_train,(he) throws,Kube,wai,huon_prop_50_1_train:(he) throws:7851,huon_prop_50_1_train:(he) throws:1
+huon_prop_50_1_train,(he) throws,Mape,wake,huon_prop_50_1_train:(he) throws:13737,huon_prop_50_1_train:(he) throws:1
+huon_prop_50_1_train,(he) throws,Mesem,kətipe,huon_prop_50_1_train:(he) throws:7901,huon_prop_50_1_train:(he) throws:2
+huon_prop_50_1_train,(he) throws,Nabak,kətimpe,huon_prop_50_1_train:(he) throws:7901,huon_prop_50_1_train:(he) throws:2
+huon_prop_50_1_train,(he) throws,Ono,ɡbeliɡi,huon_prop_50_1_train:(he) throws:13927,huon_prop_50_1_train:(he) throws:7
+huon_prop_50_1_train,(he) throws,Selepet,pila,huon_prop_50_1_train:(he) throws:13963,huon_prop_50_1_train:(he) throws:6
+huon_prop_50_1_train,(he) throws,Somba-Siawari (Burum Dialect),ɡilian,huon_prop_50_1_train:(he) throws:13765,huon_prop_50_1_train:(he) throws:5
+huon_prop_50_1_train,(he) throws,Somba-Siawari (Mindik Dialect),moso,huon_prop_50_1_train:(he) throws:7842,huon_prop_50_1_train:(he) throws:4
+huon_prop_50_1_train,(he) throws,Timbe,hepu,huon_prop_50_1_train:(he) throws:13865,huon_prop_50_1_train:(he) throws:3
+huon_prop_50_1_train,(he) throws,Tobo,wai,huon_prop_50_1_train:(he) throws:7851,huon_prop_50_1_train:(he) throws:1
+huon_prop_50_1_train,(she) sews,Mesem,osə,huon_prop_50_1_train:(she) sews:14102,huon_prop_50_1_train:(she) sews:4
+huon_prop_50_1_train,(she) sews,Nabak,ou,huon_prop_50_1_train:(she) sews:13663,huon_prop_50_1_train:(she) sews:5
+huon_prop_50_1_train,(she) sews,Ono,ɡbetut,huon_prop_50_1_train:(she) sews:7976,huon_prop_50_1_train:(she) sews:1
+huon_prop_50_1_train,(she) sews,Selepet,ɡare,huon_prop_50_1_train:(she) sews:8033,huon_prop_50_1_train:(she) sews:3
+huon_prop_50_1_train,(she) sews,Somba-Siawari (Burum Dialect),ume,huon_prop_50_1_train:(she) sews:8034,huon_prop_50_1_train:(she) sews:2
+huon_prop_50_1_train,(she) sews,Somba-Siawari (Mindik Dialect),ume,huon_prop_50_1_train:(she) sews:8034,huon_prop_50_1_train:(she) sews:2
+huon_prop_50_1_train,(she) sews,Timbe,parut,huon_prop_50_1_train:(she) sews:13857,huon_prop_50_1_train:(she) sews:1
+huon_prop_50_1_train,(she) sews,Tobo,kpali,huon_prop_50_1_train:(she) sews:13669,huon_prop_50_1_train:(she) sews:1
+huon_prop_50_1_train,(he) says,Borong,dzo,huon_prop_50_1_train:(he) says:7824,huon_prop_50_1_train:(he) says:1
+huon_prop_50_1_train,(he) says,Dedua,de,huon_prop_50_1_train:(he) says:7824,huon_prop_50_1_train:(he) says:1
+huon_prop_50_1_train,(he) says,Kate,mu,huon_prop_50_1_train:(he) says:7825,huon_prop_50_1_train:(he) says:2
+huon_prop_50_1_train,(he) says,Komba,s,huon_prop_50_1_train:(he) says:7824,huon_prop_50_1_train:(he) says:5
+huon_prop_50_1_train,(he) says,Kube,dze,huon_prop_50_1_train:(he) says:7824,huon_prop_50_1_train:(he) says:1
+huon_prop_50_1_train,(he) says,Mape,mi,huon_prop_50_1_train:(he) says:7825,huon_prop_50_1_train:(he) says:2
+huon_prop_50_1_train,(he) says,Nabak,dzei,huon_prop_50_1_train:(he) says:7824,huon_prop_50_1_train:(he) says:1
+huon_prop_50_1_train,(he) says,Ono,ra,huon_prop_50_1_train:(he) says:13882,huon_prop_50_1_train:(he) says:4
+huon_prop_50_1_train,(he) says,Selepet,j,huon_prop_50_1_train:(he) says:7824,huon_prop_50_1_train:(he) says:3
+huon_prop_50_1_train,(he) says,Somba-Siawari (Burum Dialect),dzi,huon_prop_50_1_train:(he) says:7824,huon_prop_50_1_train:(he) says:1
+huon_prop_50_1_train,(he) says,Somba-Siawari (Mindik Dialect),dzi,huon_prop_50_1_train:(he) says:7824,huon_prop_50_1_train:(he) says:1
+huon_prop_50_1_train,(he) says,Timbe,ma,huon_prop_50_1_train:(he) says:13837,huon_prop_50_1_train:(he) says:2
+huon_prop_50_1_train,(he) says,Tobo,dzi,huon_prop_50_1_train:(he) says:7824,huon_prop_50_1_train:(he) says:1
+huon_prop_50_1_train,one,Borong,motoːŋɡok,huon_prop_50_1_train:one:13828,huon_prop_50_1_train:one:4
+huon_prop_50_1_train,one,Dedua,mokɡu,huon_prop_50_1_train:one:7879,huon_prop_50_1_train:one:1
+huon_prop_50_1_train,one,Kate,mocjaha,huon_prop_50_1_train:one:7879,huon_prop_50_1_train:one:3
+huon_prop_50_1_train,one,Komba,kanok,huon_prop_50_1_train:one:7876,huon_prop_50_1_train:one:2
+huon_prop_50_1_train,one,Kube,momakɡu,huon_prop_50_1_train:one:7879,huon_prop_50_1_train:one:1
+huon_prop_50_1_train,one,Mape,mokotonŋ,huon_prop_50_1_train:one:14012,huon_prop_50_1_train:one:1
+huon_prop_50_1_train,one,Mesem,kpedzi,huon_prop_50_1_train:one:7877,huon_prop_50_1_train:one:5
+huon_prop_50_1_train,one,Nabak,kpep,huon_prop_50_1_train:one:7877,huon_prop_50_1_train:one:6
+huon_prop_50_1_train,one,Ono,weku,huon_prop_50_1_train:one:13932,huon_prop_50_1_train:one:7
+huon_prop_50_1_train,one,Selepet,konok,huon_prop_50_1_train:one:7876,huon_prop_50_1_train:one:2
+huon_prop_50_1_train,one,Somba-Siawari (Burum Dialect),mohot,huon_prop_50_1_train:one:7878,huon_prop_50_1_train:one:1
+huon_prop_50_1_train,one,Somba-Siawari (Mindik Dialect),mokuŋ,huon_prop_50_1_train:one:7879,huon_prop_50_1_train:one:1
+huon_prop_50_1_train,one,Timbe,kanok,huon_prop_50_1_train:one:7876,huon_prop_50_1_train:one:2
+huon_prop_50_1_train,one,Tobo,mohok,huon_prop_50_1_train:one:7878,huon_prop_50_1_train:one:1
+huon_prop_50_1_train,(its) fruit,Dedua,forak,huon_prop_50_1_train:(its) fruit:7761,huon_prop_50_1_train:(its) fruit:2
+huon_prop_50_1_train,(its) fruit,Kate,faric,huon_prop_50_1_train:(its) fruit:7761,huon_prop_50_1_train:(its) fruit:2
+huon_prop_50_1_train,(its) fruit,Komba,bon,huon_prop_50_1_train:(its) fruit:7763,huon_prop_50_1_train:(its) fruit:1
+huon_prop_50_1_train,(its) fruit,Mape,faik,huon_prop_50_1_train:(its) fruit:7761,huon_prop_50_1_train:(its) fruit:2
+huon_prop_50_1_train,(its) fruit,Mesem,kpən,huon_prop_50_1_train:(its) fruit:7762,huon_prop_50_1_train:(its) fruit:1
+huon_prop_50_1_train,(its) fruit,Nabak,kpənəŋ,huon_prop_50_1_train:(its) fruit:7762,huon_prop_50_1_train:(its) fruit:1
+huon_prop_50_1_train,(its) fruit,Ono,wele,huon_prop_50_1_train:(its) fruit:13788,huon_prop_50_1_train:(its) fruit:5
+huon_prop_50_1_train,(its) fruit,Selepet,bon,huon_prop_50_1_train:(its) fruit:7763,huon_prop_50_1_train:(its) fruit:1
+huon_prop_50_1_train,(its) fruit,Somba-Siawari (Burum Dialect),lawat,huon_prop_50_1_train:(its) fruit:13758,huon_prop_50_1_train:(its) fruit:4
+huon_prop_50_1_train,(its) fruit,Somba-Siawari (Mindik Dialect),hal,huon_prop_50_1_train:(its) fruit:7760,huon_prop_50_1_train:(its) fruit:3
+huon_prop_50_1_train,(its) fruit,Timbe,bun,huon_prop_50_1_train:(its) fruit:7763,huon_prop_50_1_train:(its) fruit:1
+huon_prop_50_1_train,(its) fruit,Tobo,hal,huon_prop_50_1_train:(its) fruit:7760,huon_prop_50_1_train:(its) fruit:3
+huon_prop_50_1_train,man,Borong,edzak,huon_prop_50_1_train:man:13995,huon_prop_50_1_train:man:2
+huon_prop_50_1_train,man,Dedua,ŋik,huon_prop_50_1_train:man:7700,huon_prop_50_1_train:man:1
+huon_prop_50_1_train,man,Kate,ŋic,huon_prop_50_1_train:man:7700,huon_prop_50_1_train:man:1
+huon_prop_50_1_train,man,Kube,ik,huon_prop_50_1_train:man:7700,huon_prop_50_1_train:man:1
+huon_prop_50_1_train,man,Mape,ŋik,huon_prop_50_1_train:man:7700,huon_prop_50_1_train:man:1
+huon_prop_50_1_train,man,Mesem,a,huon_prop_50_1_train:man:7701,huon_prop_50_1_train:man:3
+huon_prop_50_1_train,man,Nabak,an,huon_prop_50_1_train:man:7701,huon_prop_50_1_train:man:3
+huon_prop_50_1_train,man,Ono,ŋei,huon_prop_50_1_train:man:7700,huon_prop_50_1_train:man:1
+huon_prop_50_1_train,man,Selepet,lok,huon_prop_50_1_train:man:7702,huon_prop_50_1_train:man:2
+huon_prop_50_1_train,man,Somba-Siawari (Burum Dialect),atsi,huon_prop_50_1_train:man:13701,huon_prop_50_1_train:man:6
+huon_prop_50_1_train,man,Somba-Siawari (Mindik Dialect),aiwi,huon_prop_50_1_train:man:13832,huon_prop_50_1_train:man:5
+huon_prop_50_1_train,man,Timbe,luak,huon_prop_50_1_train:man:7702,huon_prop_50_1_train:man:2
+huon_prop_50_1_train,man,Tobo,ip,huon_prop_50_1_train:man:7700,huon_prop_50_1_train:man:4
+huon_prop_50_1_train,(it) swells,Nabak,səme,huon_prop_50_1_train:(it) swells:7937,huon_prop_50_1_train:(it) swells:5
+huon_prop_50_1_train,(it) swells,Ono,sue,huon_prop_50_1_train:(it) swells:7934,huon_prop_50_1_train:(it) swells:2
+huon_prop_50_1_train,(it) swells,Selepet,suk,huon_prop_50_1_train:(it) swells:7934,huon_prop_50_1_train:(it) swells:2
+huon_prop_50_1_train,(it) swells,Somba-Siawari (Burum Dialect),kpari,huon_prop_50_1_train:(it) swells:13999,huon_prop_50_1_train:(it) swells:4
+huon_prop_50_1_train,(it) swells,Somba-Siawari (Mindik Dialect),boŋɡo,huon_prop_50_1_train:(it) swells:7945,huon_prop_50_1_train:(it) swells:1
+huon_prop_50_1_train,(it) swells,Timbe,kaule,huon_prop_50_1_train:(it) swells:14057,huon_prop_50_1_train:(it) swells:3
+huon_prop_50_1_train,(it) swells,Tobo,buŋɡu,huon_prop_50_1_train:(it) swells:7945,huon_prop_50_1_train:(it) swells:1
+huon_prop_50_1_train,and,Dedua,ama,huon_prop_50_1_train:and:7778,huon_prop_50_1_train:and:1
+huon_prop_50_1_train,and,Komba,opŋa,huon_prop_50_1_train:and:7776,huon_prop_50_1_train:and:2
+huon_prop_50_1_train,and,Kube,waŋu,huon_prop_50_1_train:and:7777,huon_prop_50_1_train:and:1
+huon_prop_50_1_train,and,Mesem,mimbi,huon_prop_50_1_train:and:14103,huon_prop_50_1_train:and:3
+huon_prop_50_1_train,and,Nabak,ɔpme,huon_prop_50_1_train:and:7776,huon_prop_50_1_train:and:2
+huon_prop_50_1_train,and,Ono,mi,huon_prop_50_1_train:and:7778,huon_prop_50_1_train:and:1
+huon_prop_50_1_train,and,Selepet,otmu,huon_prop_50_1_train:and:13913,huon_prop_50_1_train:and:1
+huon_prop_50_1_train,and,Somba-Siawari (Burum Dialect),mi,huon_prop_50_1_train:and:7778,huon_prop_50_1_train:and:1
+huon_prop_50_1_train,and,Somba-Siawari (Mindik Dialect),ami,huon_prop_50_1_train:and:7778,huon_prop_50_1_train:and:1
+huon_prop_50_1_train,and,Timbe,akdo,huon_prop_50_1_train:and:13859,huon_prop_50_1_train:and:4
+huon_prop_50_1_train,and,Tobo,wamu,huon_prop_50_1_train:and:7777,huon_prop_50_1_train:and:1
+huon_prop_50_1_train,(he) sleeps,Borong,e,huon_prop_50_1_train:(he) sleeps:7993,huon_prop_50_1_train:(he) sleeps:1
+huon_prop_50_1_train,(he) sleeps,Dedua,fe,huon_prop_50_1_train:(he) sleeps:7993,huon_prop_50_1_train:(he) sleeps:1
+huon_prop_50_1_train,(he) sleeps,Kate,fo,huon_prop_50_1_train:(he) sleeps:7993,huon_prop_50_1_train:(he) sleeps:1
+huon_prop_50_1_train,(he) sleeps,Komba,zi,huon_prop_50_1_train:(he) sleeps:7996,huon_prop_50_1_train:(he) sleeps:4
+huon_prop_50_1_train,(he) sleeps,Kube,fe,huon_prop_50_1_train:(he) sleeps:7993,huon_prop_50_1_train:(he) sleeps:1
+huon_prop_50_1_train,(he) sleeps,Mape,kpe,huon_prop_50_1_train:(he) sleeps:13738,huon_prop_50_1_train:(he) sleeps:3
+huon_prop_50_1_train,(he) sleeps,Nabak,we,huon_prop_50_1_train:(he) sleeps:7995,huon_prop_50_1_train:(he) sleeps:1
+huon_prop_50_1_train,(he) sleeps,Ono,pa,huon_prop_50_1_train:(he) sleeps:14078,huon_prop_50_1_train:(he) sleeps:3
+huon_prop_50_1_train,(he) sleeps,Selepet,i,huon_prop_50_1_train:(he) sleeps:7996,huon_prop_50_1_train:(he) sleeps:4
+huon_prop_50_1_train,(he) sleeps,Somba-Siawari (Burum Dialect),aha,huon_prop_50_1_train:(he) sleeps:7994,huon_prop_50_1_train:(he) sleeps:2
+huon_prop_50_1_train,(he) sleeps,Somba-Siawari (Mindik Dialect),aha,huon_prop_50_1_train:(he) sleeps:7994,huon_prop_50_1_train:(he) sleeps:2
+huon_prop_50_1_train,(he) sleeps,Timbe,je,huon_prop_50_1_train:(he) sleeps:7996,huon_prop_50_1_train:(he) sleeps:1
+huon_prop_50_1_train,(he) sleeps,Tobo,ɡaohe,huon_prop_50_1_train:(he) sleeps:14047,huon_prop_50_1_train:(he) sleeps:2
+huon_prop_50_1_train,black,Borong,indzaŋa,huon_prop_50_1_train:black:7823,huon_prop_50_1_train:black:2
+huon_prop_50_1_train,black,Kate,ɡaɡapac,huon_prop_50_1_train:black:7822,huon_prop_50_1_train:black:3
+huon_prop_50_1_train,black,Komba,sumun_sumun,huon_prop_50_1_train:black:13767,huon_prop_50_1_train:black:5
+huon_prop_50_1_train,black,Kube,dzapera,huon_prop_50_1_train:black:7821,huon_prop_50_1_train:black:4
+huon_prop_50_1_train,black,Mape,ɡaɡawuk,huon_prop_50_1_train:black:7822,huon_prop_50_1_train:black:3
+huon_prop_50_1_train,black,Nabak,sopməŋ,huon_prop_50_1_train:black:13649,huon_prop_50_1_train:black:8
+huon_prop_50_1_train,black,Ono,dika,huon_prop_50_1_train:black:14096,huon_prop_50_1_train:black:7
+huon_prop_50_1_train,black,Selepet,heleŋ,huon_prop_50_1_train:black:7913,huon_prop_50_1_train:black:1
+huon_prop_50_1_train,black,Somba-Siawari (Burum Dialect),tawuŋi,huon_prop_50_1_train:black:14002,huon_prop_50_1_train:black:6
+huon_prop_50_1_train,black,Somba-Siawari (Mindik Dialect),indzaŋi,huon_prop_50_1_train:black:7823,huon_prop_50_1_train:black:2
+huon_prop_50_1_train,black,Timbe,heleŋ,huon_prop_50_1_train:black:7913,huon_prop_50_1_train:black:1
+huon_prop_50_1_train,black,Tobo,dzapala,huon_prop_50_1_train:black:7821,huon_prop_50_1_train:black:4
+huon_prop_50_1_train,short,Dedua,weɡen,huon_prop_50_1_train:short:13749,huon_prop_50_1_train:short:6
+huon_prop_50_1_train,short,Kate,bembeŋ,huon_prop_50_1_train:short:7973,huon_prop_50_1_train:short:4
+huon_prop_50_1_train,short,Kube,hotoŋ,huon_prop_50_1_train:short:7944,huon_prop_50_1_train:short:3
+huon_prop_50_1_train,short,Mape,bembeŋ,huon_prop_50_1_train:short:7973,huon_prop_50_1_train:short:4
+huon_prop_50_1_train,short,Nabak,kutuməŋ,huon_prop_50_1_train:short:13983,huon_prop_50_1_train:short:5
+huon_prop_50_1_train,short,Ono,bomɡoi,huon_prop_50_1_train:short:13810,huon_prop_50_1_train:short:7
+huon_prop_50_1_train,short,Selepet,talawak,huon_prop_50_1_train:short:7972,huon_prop_50_1_train:short:1
+huon_prop_50_1_train,short,Somba-Siawari (Burum Dialect),tarap,huon_prop_50_1_train:short:7972,huon_prop_50_1_train:short:2
+huon_prop_50_1_train,short,Somba-Siawari (Mindik Dialect),tarap,huon_prop_50_1_train:short:7972,huon_prop_50_1_train:short:2
+huon_prop_50_1_train,short,Timbe,talawak,huon_prop_50_1_train:short:7972,huon_prop_50_1_train:short:1
+huon_prop_50_1_train,short,Tobo,katoŋ,huon_prop_50_1_train:short:7944,huon_prop_50_1_train:short:3
+huon_prop_50_1_train,(he) hit him,Komba,ku,huon_prop_50_1_train:(he) hit him:7981,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Kube,kpe,huon_prop_50_1_train:(he) hit him:7983,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Mape,kpa,huon_prop_50_1_train:(he) hit him:7983,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Mesem,kun,huon_prop_50_1_train:(he) hit him:7981,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Nabak,ku,huon_prop_50_1_train:(he) hit him:7981,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Ono,kpe,huon_prop_50_1_train:(he) hit him:7983,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Selepet,ku,huon_prop_50_1_train:(he) hit him:7981,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Somba-Siawari (Burum Dialect),kpe,huon_prop_50_1_train:(he) hit him:7983,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Somba-Siawari (Mindik Dialect),kpe,huon_prop_50_1_train:(he) hit him:7983,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Timbe,ko,huon_prop_50_1_train:(he) hit him:7981,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) hit him,Tobo,kpe,huon_prop_50_1_train:(he) hit him:7983,huon_prop_50_1_train:(he) hit him:1
+huon_prop_50_1_train,(he) cries,Komba,isi,huon_prop_50_1_train:(he) cries:7931,huon_prop_50_1_train:(he) cries:1
+huon_prop_50_1_train,(he) cries,Kube,siak,huon_prop_50_1_train:(he) cries:7929,huon_prop_50_1_train:(he) cries:1
+huon_prop_50_1_train,(he) cries,Mape,kueː,huon_prop_50_1_train:(he) cries:14015,huon_prop_50_1_train:(he) cries:2
+huon_prop_50_1_train,(he) cries,Nabak,su,huon_prop_50_1_train:(he) cries:7932,huon_prop_50_1_train:(he) cries:1
+huon_prop_50_1_train,(he) cries,Ono,arop,huon_prop_50_1_train:(he) cries:13784,huon_prop_50_1_train:(he) cries:3
+huon_prop_50_1_train,(he) cries,Selepet,isi,huon_prop_50_1_train:(he) cries:7931,huon_prop_50_1_train:(he) cries:1
+huon_prop_50_1_train,(he) cries,Somba-Siawari (Burum Dialect),saha,huon_prop_50_1_train:(he) cries:7929,huon_prop_50_1_train:(he) cries:1
+huon_prop_50_1_train,(he) cries,Somba-Siawari (Mindik Dialect),saha,huon_prop_50_1_train:(he) cries:7929,huon_prop_50_1_train:(he) cries:1
+huon_prop_50_1_train,(he) cries,Timbe,ide,huon_prop_50_1_train:(he) cries:13858,huon_prop_50_1_train:(he) cries:1
+huon_prop_50_1_train,(he) cries,Tobo,sia,huon_prop_50_1_train:(he) cries:7929,huon_prop_50_1_train:(he) cries:1
+huon_prop_50_1_train,there,Borong,endu,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Dedua,edi,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Kate,ocna,huon_prop_50_1_train:there:13841,huon_prop_50_1_train:there:2
+huon_prop_50_1_train,there,Komba,ade,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Kube,eri,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Mesem,inda,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Nabak,kainde,huon_prop_50_1_train:there:14072,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Ono,eri,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Selepet,eda,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Somba-Siawari (Burum Dialect),endu,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Somba-Siawari (Mindik Dialect),endu,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Timbe,ida,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,there,Tobo,ere,huon_prop_50_1_train:there:7706,huon_prop_50_1_train:there:1
+huon_prop_50_1_train,dust,Dedua,wondok,huon_prop_50_1_train:dust:13751,huon_prop_50_1_train:dust:8
+huon_prop_50_1_train,dust,Kate,ɡac,huon_prop_50_1_train:dust:14027,huon_prop_50_1_train:dust:7
+huon_prop_50_1_train,dust,Komba,isak,huon_prop_50_1_train:dust:7967,huon_prop_50_1_train:dust:2
+huon_prop_50_1_train,dust,Mape,jak,huon_prop_50_1_train:dust:14007,huon_prop_50_1_train:dust:6
+huon_prop_50_1_train,dust,Mesem,wanawana,huon_prop_50_1_train:dust:13744,huon_prop_50_1_train:dust:5
+huon_prop_50_1_train,dust,Nabak,kpitnəki,huon_prop_50_1_train:dust:14076,huon_prop_50_1_train:dust:4
+huon_prop_50_1_train,dust,Ono,kinekine,huon_prop_50_1_train:dust:13928,huon_prop_50_1_train:dust:4
+huon_prop_50_1_train,dust,Selepet,wahap,huon_prop_50_1_train:dust:7968,huon_prop_50_1_train:dust:3
+huon_prop_50_1_train,dust,Somba-Siawari (Burum Dialect),nesak,huon_prop_50_1_train:dust:7967,huon_prop_50_1_train:dust:2
+huon_prop_50_1_train,dust,Somba-Siawari (Mindik Dialect),iwai,huon_prop_50_1_train:dust:7966,huon_prop_50_1_train:dust:1
+huon_prop_50_1_train,dust,Timbe,ɡahap,huon_prop_50_1_train:dust:7968,huon_prop_50_1_train:dust:3
+huon_prop_50_1_train,dust,Tobo,iwai,huon_prop_50_1_train:dust:7966,huon_prop_50_1_train:dust:1
+huon_prop_50_1_train,(its) flower,Dedua,ori,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Kate,ari,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Komba,balo,huon_prop_50_1_train:(its) flower:13849,huon_prop_50_1_train:(its) flower:2
+huon_prop_50_1_train,(its) flower,Kube,dzuri,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Mape,ari,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Mesem,dzolman,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Nabak,kət,huon_prop_50_1_train:(its) flower:13727,huon_prop_50_1_train:(its) flower:3
+huon_prop_50_1_train,(its) flower,Ono,dzurai,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Selepet,suri,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Somba-Siawari (Burum Dialect),dzura,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Somba-Siawari (Mindik Dialect),dzura,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Timbe,huri,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) flower,Tobo,dzuri,huon_prop_50_1_train:(its) flower:7684,huon_prop_50_1_train:(its) flower:1
+huon_prop_50_1_train,(its) fat,Kube,harek,huon_prop_50_1_train:(its) fat:8023,huon_prop_50_1_train:(its) fat:1
+huon_prop_50_1_train,(its) fat,Nabak,kerak,huon_prop_50_1_train:(its) fat:8023,huon_prop_50_1_train:(its) fat:1
+huon_prop_50_1_train,(its) fat,Ono,kelok,huon_prop_50_1_train:(its) fat:8023,huon_prop_50_1_train:(its) fat:1
+huon_prop_50_1_train,(its) fat,Selepet,kelu,huon_prop_50_1_train:(its) fat:8023,huon_prop_50_1_train:(its) fat:1
+huon_prop_50_1_train,(its) fat,Somba-Siawari (Burum Dialect),kelak,huon_prop_50_1_train:(its) fat:8023,huon_prop_50_1_train:(its) fat:1
+huon_prop_50_1_train,(its) fat,Somba-Siawari (Mindik Dialect),kelak,huon_prop_50_1_train:(its) fat:8023,huon_prop_50_1_train:(its) fat:1
+huon_prop_50_1_train,(its) fat,Timbe,kelu,huon_prop_50_1_train:(its) fat:8023,huon_prop_50_1_train:(its) fat:1
+huon_prop_50_1_train,(its) fat,Tobo,kalak,huon_prop_50_1_train:(its) fat:8023,huon_prop_50_1_train:(its) fat:1
+huon_prop_50_1_train,dull,Mape,kimaŋine,huon_prop_50_1_train:dull:13742,huon_prop_50_1_train:dull:6
+huon_prop_50_1_train,dull,Mesem,kokŋ_kpiəkn̥,huon_prop_50_1_train:dull:14105,huon_prop_50_1_train:dull:5
+huon_prop_50_1_train,dull,Nabak,kuɡepin,huon_prop_50_1_train:dull:13728,huon_prop_50_1_train:dull:4
+huon_prop_50_1_train,dull,Ono,ŋetŋemidaine,huon_prop_50_1_train:dull:14083,huon_prop_50_1_train:dull:7
+huon_prop_50_1_train,dull,Selepet,palamŋe,huon_prop_50_1_train:dull:7999,huon_prop_50_1_train:dull:1
+huon_prop_50_1_train,dull,Somba-Siawari (Burum Dialect),mahamŋi,huon_prop_50_1_train:dull:14001,huon_prop_50_1_train:dull:1
+huon_prop_50_1_train,dull,Somba-Siawari (Mindik Dialect),dzatbatam,huon_prop_50_1_train:dull:13705,huon_prop_50_1_train:dull:3
+huon_prop_50_1_train,dull,Timbe,palamŋe,huon_prop_50_1_train:dull:7999,huon_prop_50_1_train:dull:1
+huon_prop_50_1_train,dull,Tobo,dzerakpa,huon_prop_50_1_train:dull:7912,huon_prop_50_1_train:dull:2
+huon_prop_50_1_train,lake,Dedua,dzokoŋ,huon_prop_50_1_train:lake:7793,huon_prop_50_1_train:lake:1
+huon_prop_50_1_train,lake,Kate,dzakaŋ,huon_prop_50_1_train:lake:7793,huon_prop_50_1_train:lake:1
+huon_prop_50_1_train,lake,Komba,deɡan,huon_prop_50_1_train:lake:7793,huon_prop_50_1_train:lake:1
+huon_prop_50_1_train,lake,Mape,dzaɡaŋ,huon_prop_50_1_train:lake:7793,huon_prop_50_1_train:lake:1
+huon_prop_50_1_train,lake,Nabak,ləmunəŋ,huon_prop_50_1_train:lake:7873,huon_prop_50_1_train:lake:5
+huon_prop_50_1_train,lake,Ono,namuŋ,huon_prop_50_1_train:lake:13879,huon_prop_50_1_train:lake:4
+huon_prop_50_1_train,lake,Selepet,deɡan,huon_prop_50_1_train:lake:7793,huon_prop_50_1_train:lake:1
+huon_prop_50_1_train,lake,Somba-Siawari (Burum Dialect),aŋɡa,huon_prop_50_1_train:lake:7793,huon_prop_50_1_train:lake:2
+huon_prop_50_1_train,lake,Somba-Siawari (Mindik Dialect),aŋɡa,huon_prop_50_1_train:lake:7793,huon_prop_50_1_train:lake:2
+huon_prop_50_1_train,lake,Timbe,batɡum,huon_prop_50_1_train:lake:13838,huon_prop_50_1_train:lake:3
+huon_prop_50_1_train,lake,Tobo,dzokam,huon_prop_50_1_train:lake:7793,huon_prop_50_1_train:lake:1
+huon_prop_50_1_train,(its) leaf,Dedua,mari,huon_prop_50_1_train:(its) leaf:14033,huon_prop_50_1_train:(its) leaf:5
+huon_prop_50_1_train,(its) leaf,Kate,rehac,huon_prop_50_1_train:(its) leaf:7892,huon_prop_50_1_train:(its) leaf:3
+huon_prop_50_1_train,(its) leaf,Komba,in,huon_prop_50_1_train:(its) leaf:7893,huon_prop_50_1_train:(its) leaf:1
+huon_prop_50_1_train,(its) leaf,Kube,hareŋ,huon_prop_50_1_train:(its) leaf:7891,huon_prop_50_1_train:(its) leaf:2
+huon_prop_50_1_train,(its) leaf,Mape,rekak,huon_prop_50_1_train:(its) leaf:7892,huon_prop_50_1_train:(its) leaf:3
+huon_prop_50_1_train,(its) leaf,Mesem,sin,huon_prop_50_1_train:(its) leaf:7893,huon_prop_50_1_train:(its) leaf:1
+huon_prop_50_1_train,(its) leaf,Nabak,sin,huon_prop_50_1_train:(its) leaf:7893,huon_prop_50_1_train:(its) leaf:1
+huon_prop_50_1_train,(its) leaf,Ono,meti,huon_prop_50_1_train:(its) leaf:13925,huon_prop_50_1_train:(its) leaf:4
+huon_prop_50_1_train,(its) leaf,Selepet,esen,huon_prop_50_1_train:(its) leaf:7893,huon_prop_50_1_train:(its) leaf:1
+huon_prop_50_1_train,(its) leaf,Somba-Siawari (Burum Dialect),sin,huon_prop_50_1_train:(its) leaf:7893,huon_prop_50_1_train:(its) leaf:1
+huon_prop_50_1_train,(its) leaf,Somba-Siawari (Mindik Dialect),sin,huon_prop_50_1_train:(its) leaf:7893,huon_prop_50_1_train:(its) leaf:1
+huon_prop_50_1_train,(its) leaf,Timbe,esen,huon_prop_50_1_train:(its) leaf:7893,huon_prop_50_1_train:(its) leaf:1
+huon_prop_50_1_train,(its) leaf,Tobo,karem,huon_prop_50_1_train:(its) leaf:7891,huon_prop_50_1_train:(its) leaf:2
+huon_prop_50_1_train,ashes,Borong,toːk,huon_prop_50_1_train:ashes:13823,huon_prop_50_1_train:ashes:4
+huon_prop_50_1_train,ashes,Dedua,hama,huon_prop_50_1_train:ashes:7784,huon_prop_50_1_train:ashes:2
+huon_prop_50_1_train,ashes,Komba,kau,huon_prop_50_1_train:ashes:7785,huon_prop_50_1_train:ashes:1
+huon_prop_50_1_train,ashes,Kube,homa,huon_prop_50_1_train:ashes:7784,huon_prop_50_1_train:ashes:2
+huon_prop_50_1_train,ashes,Mape,dzafe,huon_prop_50_1_train:ashes:7783,huon_prop_50_1_train:ashes:3
+huon_prop_50_1_train,ashes,Mesem,dzita,huon_prop_50_1_train:ashes:13717,huon_prop_50_1_train:ashes:3
+huon_prop_50_1_train,ashes,Nabak,kɔu,huon_prop_50_1_train:ashes:7785,huon_prop_50_1_train:ashes:1
+huon_prop_50_1_train,ashes,Ono,kau,huon_prop_50_1_train:ashes:7785,huon_prop_50_1_train:ashes:1
+huon_prop_50_1_train,ashes,Selepet,kau,huon_prop_50_1_train:ashes:7785,huon_prop_50_1_train:ashes:1
+huon_prop_50_1_train,ashes,Somba-Siawari (Burum Dialect),kau,huon_prop_50_1_train:ashes:7785,huon_prop_50_1_train:ashes:1
+huon_prop_50_1_train,ashes,Somba-Siawari (Mindik Dialect),kau,huon_prop_50_1_train:ashes:7785,huon_prop_50_1_train:ashes:1
+huon_prop_50_1_train,ashes,Timbe,kau,huon_prop_50_1_train:ashes:7785,huon_prop_50_1_train:ashes:1
+huon_prop_50_1_train,ashes,Tobo,kama,huon_prop_50_1_train:ashes:7784,huon_prop_50_1_train:ashes:2
+huon_prop_50_1_train,rain,Borong,koŋ,huon_prop_50_1_train:rain:13818,huon_prop_50_1_train:rain:3
+huon_prop_50_1_train,rain,Dedua,kia,huon_prop_50_1_train:rain:7897,huon_prop_50_1_train:rain:1
+huon_prop_50_1_train,rain,Kate,hoe,huon_prop_50_1_train:rain:7897,huon_prop_50_1_train:rain:1
+huon_prop_50_1_train,rain,Komba,map,huon_prop_50_1_train:rain:7898,huon_prop_50_1_train:rain:2
+huon_prop_50_1_train,rain,Kube,kia,huon_prop_50_1_train:rain:7897,huon_prop_50_1_train:rain:1
+huon_prop_50_1_train,rain,Mape,kue,huon_prop_50_1_train:rain:7897,huon_prop_50_1_train:rain:1
+huon_prop_50_1_train,rain,Mesem,ma,huon_prop_50_1_train:rain:7898,huon_prop_50_1_train:rain:2
+huon_prop_50_1_train,rain,Nabak,map,huon_prop_50_1_train:rain:7898,huon_prop_50_1_train:rain:2
+huon_prop_50_1_train,rain,Ono,koia,huon_prop_50_1_train:rain:7897,huon_prop_50_1_train:rain:1
+huon_prop_50_1_train,rain,Selepet,ɡelak,huon_prop_50_1_train:rain:13911,huon_prop_50_1_train:rain:5
+huon_prop_50_1_train,rain,Somba-Siawari (Burum Dialect),kie,huon_prop_50_1_train:rain:7897,huon_prop_50_1_train:rain:1
+huon_prop_50_1_train,rain,Somba-Siawari (Mindik Dialect),kie,huon_prop_50_1_train:rain:7897,huon_prop_50_1_train:rain:1
+huon_prop_50_1_train,rain,Timbe,tanak,huon_prop_50_1_train:rain:14065,huon_prop_50_1_train:rain:4
+huon_prop_50_1_train,rain,Tobo,kia,huon_prop_50_1_train:rain:7897,huon_prop_50_1_train:rain:1
+huon_prop_50_1_train,road,Dedua,siŋ,huon_prop_50_1_train:road:13953,huon_prop_50_1_train:road:7
+huon_prop_50_1_train,road,Kate,hata,huon_prop_50_1_train:road:14024,huon_prop_50_1_train:road:2
+huon_prop_50_1_train,road,Komba,matap,huon_prop_50_1_train:road:13766,huon_prop_50_1_train:road:2
+huon_prop_50_1_train,road,Kube,hena,huon_prop_50_1_train:road:8038,huon_prop_50_1_train:road:1
+huon_prop_50_1_train,road,Mape,kari,huon_prop_50_1_train:road:14110,huon_prop_50_1_train:road:6
+huon_prop_50_1_train,road,Mesem,kə,huon_prop_50_1_train:road:8038,huon_prop_50_1_train:road:5
+huon_prop_50_1_train,road,Nabak,set,huon_prop_50_1_train:road:13981,huon_prop_50_1_train:road:4
+huon_prop_50_1_train,road,Ono,numa,huon_prop_50_1_train:road:13926,huon_prop_50_1_train:road:3
+huon_prop_50_1_train,road,Selepet,ɡiop,huon_prop_50_1_train:road:13914,huon_prop_50_1_train:road:2
+huon_prop_50_1_train,road,Somba-Siawari (Burum Dialect),kana,huon_prop_50_1_train:road:8038,huon_prop_50_1_train:road:1
+huon_prop_50_1_train,road,Somba-Siawari (Mindik Dialect),kana,huon_prop_50_1_train:road:8038,huon_prop_50_1_train:road:1
+huon_prop_50_1_train,road,Timbe,dap,huon_prop_50_1_train:road:13856,huon_prop_50_1_train:road:2
+huon_prop_50_1_train,road,Tobo,kana,huon_prop_50_1_train:road:8038,huon_prop_50_1_train:road:1
+huon_prop_50_1_train,sand,Dedua,moŋɡeŋ,huon_prop_50_1_train:sand:7833,huon_prop_50_1_train:sand:2
+huon_prop_50_1_train,sand,Kate,moŋɡeŋ,huon_prop_50_1_train:sand:7833,huon_prop_50_1_train:sand:2
+huon_prop_50_1_train,sand,Kube,sakesa,huon_prop_50_1_train:sand:7832,huon_prop_50_1_train:sand:1
+huon_prop_50_1_train,sand,Mape,maɡeŋ,huon_prop_50_1_train:sand:7833,huon_prop_50_1_train:sand:2
+huon_prop_50_1_train,sand,Mesem,ɡaŋa,huon_prop_50_1_train:sand:14106,huon_prop_50_1_train:sand:5
+huon_prop_50_1_train,sand,Nabak,ɡambibit,huon_prop_50_1_train:sand:13987,huon_prop_50_1_train:sand:4
+huon_prop_50_1_train,sand,Ono,ɡbalak,huon_prop_50_1_train:sand:13934,huon_prop_50_1_train:sand:3
+huon_prop_50_1_train,sand,Selepet,sak,huon_prop_50_1_train:sand:7832,huon_prop_50_1_train:sand:1
+huon_prop_50_1_train,sand,Somba-Siawari (Burum Dialect),sak,huon_prop_50_1_train:sand:7832,huon_prop_50_1_train:sand:1
+huon_prop_50_1_train,sand,Somba-Siawari (Mindik Dialect),sakosiŋ,huon_prop_50_1_train:sand:7832,huon_prop_50_1_train:sand:1
+huon_prop_50_1_train,sand,Timbe,sak,huon_prop_50_1_train:sand:7832,huon_prop_50_1_train:sand:1
+huon_prop_50_1_train,sand,Tobo,sak,huon_prop_50_1_train:sand:7832,huon_prop_50_1_train:sand:1
+huon_prop_50_1_train,(its) claw,Borong,kosi,huon_prop_50_1_train:(its) claw:13824,huon_prop_50_1_train:(its) claw:10
+huon_prop_50_1_train,(its) claw,Dedua,boŋ,huon_prop_50_1_train:(its) claw:7920,huon_prop_50_1_train:(its) claw:2
+huon_prop_50_1_train,(its) claw,Kate,misiŋ,huon_prop_50_1_train:(its) claw:14098,huon_prop_50_1_train:(its) claw:11
+huon_prop_50_1_train,(its) claw,Komba,pakit,huon_prop_50_1_train:(its) claw:7921,huon_prop_50_1_train:(its) claw:1
+huon_prop_50_1_train,(its) claw,Kube,boŋsewe,huon_prop_50_1_train:(its) claw:7920,huon_prop_50_1_train:(its) claw:2
+huon_prop_50_1_train,(its) claw,Mape,jujuŋ,huon_prop_50_1_train:(its) claw:14016,huon_prop_50_1_train:(its) claw:9
+huon_prop_50_1_train,(its) claw,Mesem,dziŋɡəŋɡəŋ,huon_prop_50_1_train:(its) claw:14107,huon_prop_50_1_train:(its) claw:8
+huon_prop_50_1_train,(its) claw,Nabak,pəluk,huon_prop_50_1_train:(its) claw:13651,huon_prop_50_1_train:(its) claw:7
+huon_prop_50_1_train,(its) claw,Ono,zolip,huon_prop_50_1_train:(its) claw:13931,huon_prop_50_1_train:(its) claw:6
+huon_prop_50_1_train,(its) claw,Selepet,pekat,huon_prop_50_1_train:(its) claw:7921,huon_prop_50_1_train:(its) claw:1
+huon_prop_50_1_train,(its) claw,Somba-Siawari (Burum Dialect),kamba,huon_prop_50_1_train:(its) claw:13759,huon_prop_50_1_train:(its) claw:5
+huon_prop_50_1_train,(its) claw,Somba-Siawari (Mindik Dialect),kesat,huon_prop_50_1_train:(its) claw:13830,huon_prop_50_1_train:(its) claw:4
+huon_prop_50_1_train,(its) claw,Timbe,pekat,huon_prop_50_1_train:(its) claw:7921,huon_prop_50_1_train:(its) claw:1
+huon_prop_50_1_train,(its) claw,Tobo,kawan,huon_prop_50_1_train:(its) claw:13892,huon_prop_50_1_train:(its) claw:3
+huon_prop_50_1_train,snake,Kate,homa,huon_prop_50_1_train:snake:7719,huon_prop_50_1_train:snake:1
+huon_prop_50_1_train,snake,Komba,mulum,huon_prop_50_1_train:snake:13848,huon_prop_50_1_train:snake:7
+huon_prop_50_1_train,snake,Mesem,asɨ,huon_prop_50_1_train:snake:13681,huon_prop_50_1_train:snake:6
+huon_prop_50_1_train,snake,Nabak,nombe,huon_prop_50_1_train:snake:7717,huon_prop_50_1_train:snake:3
+huon_prop_50_1_train,snake,Ono,koma,huon_prop_50_1_train:snake:7719,huon_prop_50_1_train:snake:1
+huon_prop_50_1_train,snake,Selepet,habe,huon_prop_50_1_train:snake:13907,huon_prop_50_1_train:snake:5
+huon_prop_50_1_train,snake,Somba-Siawari (Burum Dialect),mokoleŋ,huon_prop_50_1_train:snake:7718,huon_prop_50_1_train:snake:2
+huon_prop_50_1_train,snake,Somba-Siawari (Mindik Dialect),mokoleŋ,huon_prop_50_1_train:snake:7718,huon_prop_50_1_train:snake:2
+huon_prop_50_1_train,snake,Timbe,niabi,huon_prop_50_1_train:snake:7717,huon_prop_50_1_train:snake:4
+huon_prop_50_1_train,snake,Tobo,kemala,huon_prop_50_1_train:snake:13673,huon_prop_50_1_train:snake:1
+huon_prop_50_1_train,(its) skin,Dedua,sebi,huon_prop_50_1_train:(its) skin:7959,huon_prop_50_1_train:(its) skin:1
+huon_prop_50_1_train,(its) skin,Kate,sahac,huon_prop_50_1_train:(its) skin:14031,huon_prop_50_1_train:(its) skin:3
+huon_prop_50_1_train,(its) skin,Komba,sak,huon_prop_50_1_train:(its) skin:7958,huon_prop_50_1_train:(its) skin:2
+huon_prop_50_1_train,(its) skin,Kube,sewira,huon_prop_50_1_train:(its) skin:7959,huon_prop_50_1_train:(its) skin:1
+huon_prop_50_1_train,(its) skin,Mape,madzu,huon_prop_50_1_train:(its) skin:14017,huon_prop_50_1_train:(its) skin:4
+huon_prop_50_1_train,(its) skin,Mesem,sək,huon_prop_50_1_train:(its) skin:7958,huon_prop_50_1_train:(its) skin:2
+huon_prop_50_1_train,(its) skin,Nabak,sək,huon_prop_50_1_train:(its) skin:7958,huon_prop_50_1_train:(its) skin:2
+huon_prop_50_1_train,(its) skin,Ono,solai,huon_prop_50_1_train:(its) skin:7957,huon_prop_50_1_train:(its) skin:1
+huon_prop_50_1_train,(its) skin,Selepet,hak,huon_prop_50_1_train:(its) skin:7958,huon_prop_50_1_train:(its) skin:2
+huon_prop_50_1_train,(its) skin,Somba-Siawari (Burum Dialect),sile,huon_prop_50_1_train:(its) skin:7959,huon_prop_50_1_train:(its) skin:1
+huon_prop_50_1_train,(its) skin,Somba-Siawari (Mindik Dialect),sele,huon_prop_50_1_train:(its) skin:7957,huon_prop_50_1_train:(its) skin:1
+huon_prop_50_1_train,(its) skin,Timbe,hak,huon_prop_50_1_train:(its) skin:7958,huon_prop_50_1_train:(its) skin:2
+huon_prop_50_1_train,(its) skin,Tobo,sawal,huon_prop_50_1_train:(its) skin:7959,huon_prop_50_1_train:(its) skin:3
+huon_prop_50_1_train,smoke,Borong,kaːsok,huon_prop_50_1_train:smoke:8035,huon_prop_50_1_train:smoke:1
+huon_prop_50_1_train,smoke,Dedua,husuk,huon_prop_50_1_train:smoke:8035,huon_prop_50_1_train:smoke:1
+huon_prop_50_1_train,smoke,Kate,hosac,huon_prop_50_1_train:smoke:8035,huon_prop_50_1_train:smoke:1
+huon_prop_50_1_train,smoke,Komba,mudo,huon_prop_50_1_train:smoke:13772,huon_prop_50_1_train:smoke:5
+huon_prop_50_1_train,smoke,Mesem,kese,huon_prop_50_1_train:smoke:8035,huon_prop_50_1_train:smoke:1
+huon_prop_50_1_train,smoke,Nabak,kesek,huon_prop_50_1_train:smoke:8035,huon_prop_50_1_train:smoke:1
+huon_prop_50_1_train,smoke,Ono,ŋaup,huon_prop_50_1_train:smoke:13935,huon_prop_50_1_train:smoke:4
+huon_prop_50_1_train,smoke,Selepet,utun,huon_prop_50_1_train:smoke:13965,huon_prop_50_1_train:smoke:3
+huon_prop_50_1_train,smoke,Somba-Siawari (Burum Dialect),kasak,huon_prop_50_1_train:smoke:8035,huon_prop_50_1_train:smoke:1
+huon_prop_50_1_train,smoke,Somba-Siawari (Mindik Dialect),kowak,huon_prop_50_1_train:smoke:8035,huon_prop_50_1_train:smoke:1
+huon_prop_50_1_train,smoke,Timbe,dawok,huon_prop_50_1_train:smoke:14043,huon_prop_50_1_train:smoke:2
+huon_prop_50_1_train,smoke,Tobo,kasak,huon_prop_50_1_train:smoke:8035,huon_prop_50_1_train:smoke:1
+huon_prop_50_1_train,that,Borong,lo,huon_prop_50_1_train:that:7899,huon_prop_50_1_train:that:1
+huon_prop_50_1_train,that,Dedua,jo,huon_prop_50_1_train:that:7899,huon_prop_50_1_train:that:1
+huon_prop_50_1_train,that,Kate,i,huon_prop_50_1_train:that:14025,huon_prop_50_1_train:that:3
+huon_prop_50_1_train,that,Komba,zo,huon_prop_50_1_train:that:7899,huon_prop_50_1_train:that:1
+huon_prop_50_1_train,that,Mape,a,huon_prop_50_1_train:that:13734,huon_prop_50_1_train:that:1
+huon_prop_50_1_train,that,Nabak,ke,huon_prop_50_1_train:that:13969,huon_prop_50_1_train:that:4
+huon_prop_50_1_train,that,Ono,eri,huon_prop_50_1_train:that:13779,huon_prop_50_1_train:that:3
+huon_prop_50_1_train,that,Selepet,ja,huon_prop_50_1_train:that:7899,huon_prop_50_1_train:that:1
+huon_prop_50_1_train,that,Somba-Siawari (Burum Dialect),me,huon_prop_50_1_train:that:7704,huon_prop_50_1_train:that:2
+huon_prop_50_1_train,that,Somba-Siawari (Mindik Dialect),me,huon_prop_50_1_train:that:7704,huon_prop_50_1_train:that:2
+huon_prop_50_1_train,that,Timbe,ida,huon_prop_50_1_train:that:14059,huon_prop_50_1_train:that:3
+huon_prop_50_1_train,that,Tobo,mi,huon_prop_50_1_train:that:7704,huon_prop_50_1_train:that:2
+huon_prop_50_1_train,they,Dedua,jeni,huon_prop_50_1_train:they:7950,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Kate,jaŋe,huon_prop_50_1_train:they:7948,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Kube,iŋeŋ,huon_prop_50_1_train:they:7949,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Mape,jaŋa,huon_prop_50_1_train:they:7948,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Mesem,lene,huon_prop_50_1_train:they:7952,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Nabak,ək,huon_prop_50_1_train:they:7953,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Ono,eŋe,huon_prop_50_1_train:they:7949,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Selepet,jak,huon_prop_50_1_train:they:7953,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Somba-Siawari (Burum Dialect),jeŋan,huon_prop_50_1_train:they:7951,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Somba-Siawari (Mindik Dialect),jeŋɡan,huon_prop_50_1_train:they:7951,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Timbe,jak,huon_prop_50_1_train:they:7952,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,they,Tobo,ini,huon_prop_50_1_train:they:7950,huon_prop_50_1_train:they:1
+huon_prop_50_1_train,tree,Dedua,ik,huon_prop_50_1_train:tree:8021,huon_prop_50_1_train:tree:2
+huon_prop_50_1_train,tree,Kate,jac,huon_prop_50_1_train:tree:7836,huon_prop_50_1_train:tree:3
+huon_prop_50_1_train,tree,Kube,ik,huon_prop_50_1_train:tree:8021,huon_prop_50_1_train:tree:2
+huon_prop_50_1_train,tree,Mesem,tə,huon_prop_50_1_train:tree:7835,huon_prop_50_1_train:tree:1
+huon_prop_50_1_train,tree,Nabak,təp,huon_prop_50_1_train:tree:7835,huon_prop_50_1_train:tree:1
+huon_prop_50_1_train,tree,Ono,eki,huon_prop_50_1_train:tree:13803,huon_prop_50_1_train:tree:6
+huon_prop_50_1_train,tree,Selepet,nak,huon_prop_50_1_train:tree:7834,huon_prop_50_1_train:tree:5
+huon_prop_50_1_train,tree,Somba-Siawari (Burum Dialect),ip,huon_prop_50_1_train:tree:8021,huon_prop_50_1_train:tree:1
+huon_prop_50_1_train,tree,Somba-Siawari (Mindik Dialect),ip,huon_prop_50_1_train:tree:8021,huon_prop_50_1_train:tree:1
+huon_prop_50_1_train,tree,Timbe,lawin,huon_prop_50_1_train:tree:14063,huon_prop_50_1_train:tree:4
+huon_prop_50_1_train,tree,Tobo,ip,huon_prop_50_1_train:tree:8021,huon_prop_50_1_train:tree:1

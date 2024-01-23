@@ -1,0 +1,441 @@
+db,concept,doculect,counterpart,fullCC,inferredCC
+chinese_1964_4_train,the firewood,Beijing,tʂʰai³⁵,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Beijing,pʰi²¹⁴₂₁tʂʰai⁰,chinese_1964_4_train:the firewood:523,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Changsha,tsai¹³,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Chaozhou,tsʰa⁵⁵,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Chengdu,tsʰai³¹,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Fuzhou,tsʰa⁵²₃₁løy²¹³,chinese_1964_4_train:the firewood:521,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Guangzhou,tʃʰai²¹,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Hefei,tʂʰɛ⁵⁵,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Hefei,pʰiəʔ⁴tʂʰɛ⁵⁵,chinese_1964_4_train:the firewood:523,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Jinan,xuə⁵⁵tʰou⁰,chinese_1964_4_train:the firewood:525,chinese_1964_4_train:the firewood:2
+chinese_1964_4_train,the firewood,Kunming,tsʰɛ³¹,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Meixian,tsʰai¹²,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Nanchang,tsʰai²⁴,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Shenyang,tsʰai³⁵xuo⁰,chinese_1964_4_train:the firewood:517,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Shenyang,pʰi²¹³₂₁tsʰai⁰,chinese_1964_4_train:the firewood:523,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Suzhou,zɒ²⁴₂₂bɛ³¹₃₃,chinese_1964_4_train:the firewood:518,chinese_1964_4_train:the firewood:3
+chinese_1964_4_train,the firewood,Suzhou,pʰiɪʔ⁴zɒ²⁴,chinese_1964_4_train:the firewood:523,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Wenzhou,za³¹,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:4
+chinese_1964_4_train,the firewood,Xiamen,tsʰa²⁴₃₃tsʰau⁵¹,chinese_1964_4_train:the firewood:519,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Xiamen,tsʰa²⁴₃₃te¹¹,chinese_1964_4_train:the firewood:520,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Xian,tsʰæ²⁴,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Yangjiang,ʃai⁴⁴³,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Yangzhou,tsʰɛ³¹,chinese_1964_4_train:the firewood:516,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,the firewood,Yangzhou,pʰiəʔ⁴tsʰɛ³⁴,chinese_1964_4_train:the firewood:523,chinese_1964_4_train:the firewood:1
+chinese_1964_4_train,big,Beijing,ta⁵¹,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Changsha,tai²¹,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Chaozhou,tua¹¹,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Chengdu,ta¹³,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Fuzhou,tuai²⁴²,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Guangzhou,tai²²,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Hefei,ta⁵³,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Jinan,ta²¹,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Kunming,ta¹³,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Meixian,tʰai⁴²,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Nanchang,tʰai³¹,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Shenyang,ta⁴¹,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Suzhou,dəu³¹,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Wenzhou,du¹¹,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Xiamen,tua³³,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Xian,tɑ⁴⁵,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Yangjiang,tai⁴⁵⁴,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,big,Yangzhou,tɑ⁵⁵,chinese_1964_4_train:big:53,chinese_1964_4_train:big:1
+chinese_1964_4_train,long,Beijing,tʂʰaŋ³⁵,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Changsha,tsan¹³,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Chaozhou,tɯῃ⁵⁵,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Chengdu,tsʰaŋ³¹,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Fuzhou,touŋ⁵²,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Guangzhou,tʃʰœŋ²¹,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Hefei,tʂʰɑ̃⁵⁵,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Jinan,tʂʰaŋ⁴²,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Kunming,tʂʰã³¹,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Meixian,tsʰɔŋ¹²,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Nanchang,tsʰɔŋ²⁴,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Shenyang,tsʰaŋ³⁵,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Suzhou,zaŋ²⁴,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Wenzhou,dʑi³¹,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Xiamen,tῃ²⁴,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Xian,tʂʰɑŋ²⁴,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Yangjiang,tʃʰiɛŋ⁴⁴³,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,long,Yangzhou,tsʰɑŋ³⁴,chinese_1964_4_train:long:453,chinese_1964_4_train:long:1
+chinese_1964_4_train,the tongue,Beijing,ʂə³⁵tʰou⁰,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the tongue,Changsha,sə²⁴tsɿ⁰,chinese_1964_4_train:the tongue:682,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the tongue,Chaozhou,tsiʔ⁴,chinese_1964_4_train:the tongue:680,chinese_1964_4_train:the tongue:2
+chinese_1964_4_train,the tongue,Chengdu,se³¹tʰər³¹₄₄,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the tongue,Fuzhou,tsʰui²¹³₄₄lieʔ⁴,chinese_1964_4_train:the tongue:686,chinese_1964_4_train:the tongue:2
+chinese_1964_4_train,the tongue,Guangzhou,lei²²,chinese_1964_4_train:the tongue:685,chinese_1964_4_train:the tongue:3
+chinese_1964_4_train,the tongue,Hefei,ʂɐʔ⁴tʰɯ⁰,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the tongue,Jinan,ʂə⁴²tʰou⁰,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the tongue,Kunming,ʂə³¹tʰəu³¹₄₄,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the tongue,Meixian,sat⁴ma¹²,chinese_1964_4_train:the tongue:683,chinese_1964_4_train:the tongue:6
+chinese_1964_4_train,the tongue,Meixian,li⁴²,chinese_1964_4_train:the tongue:685,chinese_1964_4_train:the tongue:3
+chinese_1964_4_train,the tongue,Nanchang,sɛt⁵tʰɛu²⁴,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the tongue,Shenyang,sə³⁵tʰou⁰,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the tongue,Suzhou,zɤʔ²³dʏ²⁴₂₁,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:5
+chinese_1964_4_train,the tongue,Wenzhou,kʰau⁴⁵ɦi¹²,chinese_1964_4_train:the tongue:684,chinese_1964_4_train:the tongue:4
+chinese_1964_4_train,the tongue,Xiamen,tsʰui¹¹₅₁tsiʔ⁵,chinese_1964_4_train:the tongue:686,chinese_1964_4_train:the tongue:2
+chinese_1964_4_train,the tongue,Xian,ʂə²⁴tʰou⁰,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the tongue,Yangjiang,lei⁴⁵⁴,chinese_1964_4_train:the tongue:685,chinese_1964_4_train:the tongue:3
+chinese_1964_4_train,the tongue,Yangzhou,ɕiəʔ⁴tʰɤɯ⁰,chinese_1964_4_train:the tongue:681,chinese_1964_4_train:the tongue:1
+chinese_1964_4_train,the mother,Beijing,ma⁵⁵ma⁰,chinese_1964_4_train:the mother:853,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Beijing,niaŋ³⁵,chinese_1964_4_train:the mother:854,chinese_1964_4_train:the mother:2
+chinese_1964_4_train,the mother,Changsha,ma³³ma³³,chinese_1964_4_train:the mother:853,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Chaozhou,a³³₂₃ma⁵⁵,chinese_1964_4_train:the mother:857,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Chaozhou,a³³₂₃nie⁵⁵,chinese_1964_4_train:the mother:858,chinese_1964_4_train:the mother:2
+chinese_1964_4_train,the mother,Chaozhou,a³³₂₃ne³³,chinese_1964_4_train:the mother:862,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Chaozhou,a³³₂₃ai⁵⁵,chinese_1964_4_train:the mother:863,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Chengdu,ma⁴⁴ma⁴⁴,chinese_1964_4_train:the mother:853,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Fuzhou,i⁴⁴ma⁴⁴,chinese_1964_4_train:the mother:868,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Fuzhou,i⁴⁴₅₂nɛ³¹,chinese_1964_4_train:the mother:869,chinese_1964_4_train:the mother:3
+chinese_1964_4_train,the mother,Fuzhou,nouŋ⁵²₃₁nɛ³¹,chinese_1964_4_train:the mother:855,chinese_1964_4_train:the mother:4
+chinese_1964_4_train,the mother,Guangzhou,ma⁵⁵₂₁ma⁵⁵,chinese_1964_4_train:the mother:853,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Guangzhou,lou²³mou²³₃₅,chinese_1964_4_train:the mother:866,chinese_1964_4_train:the mother:5
+chinese_1964_4_train,the mother,Hefei,ma²¹²,chinese_1964_4_train:the mother:852,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Jinan,ȵiaŋ⁴²,chinese_1964_4_train:the mother:854,chinese_1964_4_train:the mother:2
+chinese_1964_4_train,the mother,Kunming,ma⁵³,chinese_1964_4_train:the mother:852,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Kunming,ma⁴⁴ma⁴⁴,chinese_1964_4_train:the mother:853,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Meixian,a⁴⁴mɛ⁴⁴,chinese_1964_4_train:the mother:859,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Meixian,ɔi⁴⁴ɛ⁰,chinese_1964_4_train:the mother:865,chinese_1964_4_train:the mother:6
+chinese_1964_4_train,the mother,Nanchang,ṃ⁴²ma⁰,chinese_1964_4_train:the mother:856,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Nanchang,ȵiɔŋ⁵⁵,chinese_1964_4_train:the mother:854,chinese_1964_4_train:the mother:2
+chinese_1964_4_train,the mother,Shenyang,ma³³ma⁰,chinese_1964_4_train:the mother:853,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Suzhou,ṃ⁴⁴mɒ⁴⁴₂₁,chinese_1964_4_train:the mother:856,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Suzhou,ȵiaŋ²⁴,chinese_1964_4_train:the mother:854,chinese_1964_4_train:the mother:2
+chinese_1964_4_train,the mother,Wenzhou,a²³ma⁴⁵,chinese_1964_4_train:the mother:857,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Wenzhou,na⁴⁴,chinese_1964_4_train:the mother:864,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Xiamen,a⁵⁵₃₃bu⁵¹,chinese_1964_4_train:the mother:861,chinese_1964_4_train:the mother:7
+chinese_1964_4_train,the mother,Xiamen,bu⁵¹a⁵¹₁₁,chinese_1964_4_train:the mother:867,chinese_1964_4_train:the mother:8
+chinese_1964_4_train,the mother,Xiamen,lau³³₁₁bu⁵¹,chinese_1964_4_train:the mother:866,chinese_1964_4_train:the mother:9
+chinese_1964_4_train,the mother,Xian,mɑ²¹,chinese_1964_4_train:the mother:852,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Yangjiang,a³³ma²⁴,chinese_1964_4_train:the mother:857,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Yangjiang,a³³niɛŋ⁴⁴³,chinese_1964_4_train:the mother:858,chinese_1964_4_train:the mother:2
+chinese_1964_4_train,the mother,Yangjiang,a³³nai²¹,chinese_1964_4_train:the mother:860,chinese_1964_4_train:the mother:10
+chinese_1964_4_train,the mother,Yangzhou,mɑ³¹mɑ³¹,chinese_1964_4_train:the mother:853,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the mother,Yangzhou,ṃ³⁴mɑ³¹,chinese_1964_4_train:the mother:856,chinese_1964_4_train:the mother:1
+chinese_1964_4_train,the tail,Beijing,uei²¹⁴₂₁pa,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Changsha,uei⁴¹pa⁰,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Chaozhou,bue⁵³,chinese_1964_4_train:the tail:412,chinese_1964_4_train:the tail:3
+chinese_1964_4_train,the tail,Chengdu,uei⁵³per⁴⁴,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Chengdu,uei⁵³pa⁴⁴,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Fuzhou,mui³¹,chinese_1964_4_train:the tail:412,chinese_1964_4_train:the tail:2
+chinese_1964_4_train,the tail,Guangzhou,mei²³,chinese_1964_4_train:the tail:412,chinese_1964_4_train:the tail:2
+chinese_1964_4_train,the tail,Hefei,ui²⁴pa⁰,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Jinan,i⁵⁵pa⁰,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Kunming,ue⁵³pa⁴⁴,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Meixian,mi⁴⁴,chinese_1964_4_train:the tail:412,chinese_1964_4_train:the tail:4
+chinese_1964_4_train,the tail,Nanchang,ui²¹³pa⁴²,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Shenyang,i²¹³₂₁pa⁰,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Suzhou,mi³¹₂₂po⁴⁴,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:4
+chinese_1964_4_train,the tail,Wenzhou,mei⁴⁵po⁴⁴,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:2
+chinese_1964_4_train,the tail,Xiamen,be⁵¹,chinese_1964_4_train:the tail:412,chinese_1964_4_train:the tail:3
+chinese_1964_4_train,the tail,Xian,i⁵³pɑ⁰,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the tail,Yangjiang,mei²¹,chinese_1964_4_train:the tail:412,chinese_1964_4_train:the tail:2
+chinese_1964_4_train,the tail,Yangzhou,uəi⁴²pɑʔ⁴,chinese_1964_4_train:the tail:413,chinese_1964_4_train:the tail:1
+chinese_1964_4_train,the house,Beijing,faŋ³⁵tsɿ⁰,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Changsha,fan¹³tsɿ⁰,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Chaozhou,tsʰu²¹³,chinese_1964_4_train:the house:487,chinese_1964_4_train:the house:3
+chinese_1964_4_train,the house,Chengdu,faŋ³¹tsɿ⁵³,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Fuzhou,tsʰuɔ²¹³,chinese_1964_4_train:the house:487,chinese_1964_4_train:the house:3
+chinese_1964_4_train,the house,Guangzhou,ʊk⁵,chinese_1964_4_train:the house:485,chinese_1964_4_train:the house:2
+chinese_1964_4_train,the house,Hefei,fɑ̃⁵⁵tsə⁰,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Jinan,faŋ⁴²tsɿ⁰,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Kunming,fã³¹tsɿ⁵³,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Meixian,vuk²¹,chinese_1964_4_train:the house:485,chinese_1964_4_train:the house:2
+chinese_1964_4_train,the house,Nanchang,fɔŋ⁵⁵tsɿ⁰,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Shenyang,faŋ³⁵tsɿ⁰,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Suzhou,vɒŋ²⁴₂₂tsɿ⁴¹₄₄,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Suzhou,uɤʔ⁴,chinese_1964_4_train:the house:485,chinese_1964_4_train:the house:5
+chinese_1964_4_train,the house,Wenzhou,u²³duɔ²⁴,chinese_1964_4_train:the house:486,chinese_1964_4_train:the house:4
+chinese_1964_4_train,the house,Xiamen,tsʰu¹¹,chinese_1964_4_train:the house:487,chinese_1964_4_train:the house:3
+chinese_1964_4_train,the house,Xian,fɑŋ²⁴tsɿ⁰,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the house,Yangjiang,ʊk²⁴,chinese_1964_4_train:the house:485,chinese_1964_4_train:the house:2
+chinese_1964_4_train,the house,Yangzhou,fɑŋ³⁴tsɛ⁰,chinese_1964_4_train:the house:484,chinese_1964_4_train:the house:1
+chinese_1964_4_train,the stick,Beijing,kuai²¹⁴₂₁kuənr⁵¹,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Changsha,kuai⁴¹kuən⁵⁵,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Chaozhou,tɔŋ³⁵₂₁kak²¹,chinese_1964_4_train:the stick:573,chinese_1964_4_train:the stick:3
+chinese_1964_4_train,the stick,Chengdu,kuai⁵³kuər¹³,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Fuzhou,ky⁵²₃₁øyŋ²⁴²,chinese_1964_4_train:the stick:574,chinese_1964_4_train:the stick:9
+chinese_1964_4_train,the stick,Fuzhou,tuɔŋ²⁴²₃₁nuɔŋ²⁴²,chinese_1964_4_train:the stick:568,chinese_1964_4_train:the stick:8
+chinese_1964_4_train,the stick,Guangzhou,kwɐi³⁵tʃœŋ²²₃₅,chinese_1964_4_train:the stick:567,chinese_1964_4_train:the stick:7
+chinese_1964_4_train,the stick,Guangzhou,ʃi²²tɪk⁵,chinese_1964_4_train:the stick:572,chinese_1964_4_train:the stick:2
+chinese_1964_4_train,the stick,Hefei,kuɛ²⁴kun⁵³,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Jinan,kuɛ⁵⁵kuẽ²¹,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Kunming,kuɛ⁵³kuə̃¹³,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Meixian,kat⁴ɛ³¹kun⁴²,chinese_1964_4_train:the stick:571,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Nanchang,kuai²¹³kun⁵⁵,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Shenyang,kuai²¹³₂₁kuənr⁴¹,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Suzhou,kuɒ⁴¹zaŋ³¹₂₄,chinese_1964_4_train:the stick:567,chinese_1964_4_train:the stick:6
+chinese_1964_4_train,the stick,Suzhou,sɿ⁴⁴tiɪʔ⁴₂₁kʰɤʔ⁴₂₁,chinese_1964_4_train:the stick:569,chinese_1964_4_train:the stick:4
+chinese_1964_4_train,the stick,Wenzhou,buɔ²⁴tsɿ⁴²,chinese_1964_4_train:the stick:570,chinese_1964_4_train:the stick:5
+chinese_1964_4_train,the stick,Wenzhou,sɿ⁴⁴tei²³kʰɛ²³,chinese_1964_4_train:the stick:569,chinese_1964_4_train:the stick:4
+chinese_1964_4_train,the stick,Xiamen,tɔŋ³³₁₁kat³²,chinese_1964_4_train:the stick:573,chinese_1964_4_train:the stick:3
+chinese_1964_4_train,the stick,Xian,kuæ⁵³kuẽr⁴⁵,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,the stick,Yangjiang,ʃi⁴⁵⁴tɪk²⁴,chinese_1964_4_train:the stick:572,chinese_1964_4_train:the stick:2
+chinese_1964_4_train,the stick,Yangzhou,kuɛ⁴²kuəŋ⁰,chinese_1964_4_train:the stick:566,chinese_1964_4_train:the stick:1
+chinese_1964_4_train,to think (reflect),Beijing,ɕiaŋ²¹⁴,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Changsha,ɕian⁴¹,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Chaozhou,sĩẽ³⁵,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Chengdu,ɕiaŋ⁵³,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Fuzhou,suɔŋ²¹³,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Guangzhou,ʃœŋ³⁵,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Hefei,ɕiɑ̃²⁴,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Jinan,ɕiaŋ⁵⁵,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Kunming,ɕiã⁵³,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Meixian,siɔŋ³¹,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Nanchang,ɕiɔŋ²¹³,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Shenyang,ɕiaŋ²¹³,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Shenyang,ɕin³⁵sๅ⁰,chinese_1964_4_train:to think (reflect):44,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Suzhou,siaŋ⁴¹,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Wenzhou,ɕi⁴⁵,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Xiamen,sĩũ³³,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Xian,ɕiɑŋ⁵³,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Yangjiang,ɬiɛŋ²¹,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,to think (reflect),Yangzhou,ɕiɑŋ⁴²,chinese_1964_4_train:to think (reflect):43,chinese_1964_4_train:to think (reflect):1
+chinese_1964_4_train,full,Beijing,man²¹⁴,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Changsha,mõ⁴¹,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Chaozhou,mũã⁵³,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Chaozhou,tĩ³⁵,chinese_1964_4_train:full:80,chinese_1964_4_train:full:3
+chinese_1964_4_train,full,Chengdu,man⁵³,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Fuzhou,paʔ⁴,chinese_1964_4_train:full:81,chinese_1964_4_train:full:2
+chinese_1964_4_train,full,Guangzhou,mun²³,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Hefei,mʊ̃²⁴,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Jinan,mæ̃⁵⁵,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Kunming,mã⁵³,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Meixian,man⁴⁴,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Nanchang,mɔn²¹³,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Shenyang,man²¹³,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Suzhou,mø³¹,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Wenzhou,mø²⁴,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Xiamen,mũã⁵¹,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Xian,mæ̃⁵³,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Yangjiang,mei²⁴,chinese_1964_4_train:full:79,chinese_1964_4_train:full:1
+chinese_1964_4_train,full,Yangzhou,mõ⁴²,chinese_1964_4_train:full:78,chinese_1964_4_train:full:1
+chinese_1964_4_train,the hoof,Beijing,tʰi³⁵tsɿ⁰,chinese_1964_4_train:the hoof:400,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,the hoof,Changsha,ti¹³tsɿ⁰,chinese_1964_4_train:the hoof:400,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,the hoof,Chaozhou,toi⁵⁵,chinese_1964_4_train:the hoof:399,chinese_1964_4_train:the hoof:2
+chinese_1964_4_train,the hoof,Chengdu,tʰi³¹tsɿ⁵³,chinese_1964_4_train:the hoof:400,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,the hoof,Fuzhou,tɛ⁵²,chinese_1964_4_train:the hoof:399,chinese_1964_4_train:the hoof:2
+chinese_1964_4_train,the hoof,Guangzhou,tʰɐi²¹,chinese_1964_4_train:the hoof:399,chinese_1964_4_train:the hoof:2
+chinese_1964_4_train,the hoof,Hefei,tsʰɿ⁵⁵tʂɔ²⁴tsə⁰,chinese_1964_4_train:the hoof:401,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,the hoof,Jinan,tʰi⁴²teɿ⁰,chinese_1964_4_train:the hoof:400,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,the hoof,Kunming,tʰi³¹tsɿ⁵³,chinese_1964_4_train:the hoof:400,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,the hoof,Meixian,tʰɛ¹²ɛ⁰,chinese_1964_4_train:the hoof:402,chinese_1964_4_train:the hoof:2
+chinese_1964_4_train,the hoof,Nanchang,tʰi²⁴tsɿ⁰,chinese_1964_4_train:the hoof:400,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,the hoof,Shenyang,tʰi³⁵tsɿ⁰,chinese_1964_4_train:the hoof:400,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,the hoof,Suzhou,di²⁴,chinese_1964_4_train:the hoof:399,chinese_1964_4_train:the hoof:3
+chinese_1964_4_train,the hoof,Wenzhou,dei³¹,chinese_1964_4_train:the hoof:399,chinese_1964_4_train:the hoof:2
+chinese_1964_4_train,the hoof,Xiamen,tue²⁴,chinese_1964_4_train:the hoof:399,chinese_1964_4_train:the hoof:2
+chinese_1964_4_train,the hoof,Xian,tʰi²⁴tsɿ⁰,chinese_1964_4_train:the hoof:400,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,the hoof,Yangjiang,tʰɐi⁴⁴³,chinese_1964_4_train:the hoof:399,chinese_1964_4_train:the hoof:2
+chinese_1964_4_train,the hoof,Yangzhou,tʰi³⁴tsɛ⁰,chinese_1964_4_train:the hoof:400,chinese_1964_4_train:the hoof:1
+chinese_1964_4_train,inside,Beijing,li²¹⁴₂₁tʰou⁰,chinese_1964_4_train:inside:925,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Beijing,li²¹⁴₂₁pianr⁰,chinese_1964_4_train:inside:926,chinese_1964_4_train:inside:3
+chinese_1964_4_train,inside,Changsha,li⁴¹təu⁰,chinese_1964_4_train:inside:925,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Chaozhou,lai³⁵₂₁põĩ⁵⁵,chinese_1964_4_train:inside:938,chinese_1964_4_train:inside:2
+chinese_1964_4_train,inside,Chaozhou,tõĩ⁵³₂₄põĩ⁵⁵,chinese_1964_4_train:inside:932,chinese_1964_4_train:inside:4
+chinese_1964_4_train,inside,Chengdu,xəu¹³₅₃tʰəu³¹,chinese_1964_4_train:inside:930,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Chengdu,i⁵³tʰəu³¹,chinese_1964_4_train:inside:925,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Fuzhou,tie³¹₄₄lie²¹³,chinese_1964_4_train:inside:933,chinese_1964_4_train:inside:7
+chinese_1964_4_train,inside,Guangzhou,løy²³pin²²,chinese_1964_4_train:inside:929,chinese_1964_4_train:inside:2
+chinese_1964_4_train,inside,Guangzhou,jɐp²pin²²,chinese_1964_4_train:inside:936,chinese_1964_4_train:inside:6
+chinese_1964_4_train,inside,Hefei,zๅ²⁴tʰɯ⁰,chinese_1964_4_train:inside:925,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Jinan,li⁵⁵pɛr⁰,chinese_1964_4_train:inside:926,chinese_1964_4_train:inside:3
+chinese_1964_4_train,inside,Kunming,i⁵³ʂəu⁵³,chinese_1964_4_train:inside:927,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Meixian,ti⁴⁴pɔi⁴²,chinese_1964_4_train:inside:934,chinese_1964_4_train:inside:4
+chinese_1964_4_train,inside,Nanchang,li²¹³tʰɛu²⁴,chinese_1964_4_train:inside:925,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Shenyang,li²¹³₂₁tʰou⁰,chinese_1964_4_train:inside:925,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Suzhou,li³¹₂₂ɕiaŋ⁵¹³₄₄,chinese_1964_4_train:inside:928,chinese_1964_4_train:inside:3
+chinese_1964_4_train,inside,Wenzhou,tei⁴⁵mai¹¹,chinese_1964_4_train:inside:931,chinese_1964_4_train:inside:5
+chinese_1964_4_train,inside,Xiamen,lai³³₁₁bin³³,chinese_1964_4_train:inside:937,chinese_1964_4_train:inside:2
+chinese_1964_4_train,inside,Xian,li⁵³tʰou⁰,chinese_1964_4_train:inside:925,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Yangjiang,lei²¹tʰɐu⁴⁴³,chinese_1964_4_train:inside:925,chinese_1964_4_train:inside:1
+chinese_1964_4_train,inside,Yangzhou,li⁴²tʰɤɯ⁰,chinese_1964_4_train:inside:925,chinese_1964_4_train:inside:1
+chinese_1964_4_train,hard,Beijing,iŋ⁵¹,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Changsha,ŋən²¹,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Chaozhou,ŋe³⁵,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Chengdu,ŋən¹³,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Fuzhou,ŋaiŋ²⁴²,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Guangzhou,ŋaŋ²²,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Hefei,ʐən⁵³,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Jinan,iŋ²¹,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Kunming,ə̃¹³,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Meixian,ŋaŋ⁴²,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Nanchang,ŋaŋ³¹,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Shenyang,iŋ⁴¹,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Suzhou,ŋaŋ³¹,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Wenzhou,ŋɛ¹¹,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Xiamen,ŋĩ³³,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Xian,ȵiŋ⁴⁵,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Yangjiang,ŋaŋ⁴⁵⁴,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,hard,Yangzhou,iŋ⁵⁵,chinese_1964_4_train:hard:700,chinese_1964_4_train:hard:1
+chinese_1964_4_train,old (of person),Beijing,lau²¹⁴,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Changsha,lau⁴¹,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Chaozhou,lau³⁵,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Chengdu,nau⁵³,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Fuzhou,kuai⁴⁴,chinese_1964_4_train:old (of person):109,chinese_1964_4_train:old (of person):3
+chinese_1964_4_train,old (of person),Guangzhou,lou²³,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Hefei,nɔ²⁴,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):2
+chinese_1964_4_train,old (of person),Jinan,lɔ⁵⁵,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Kunming,lau⁵³,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Meixian,lau³¹,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Nanchang,lau²¹³,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Shenyang,lau²¹³,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Suzhou,læ³¹,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Wenzhou,lɜ²⁴,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Xiamen,lau³³,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Xian,lɑu⁵³,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Yangjiang,lou²¹,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,old (of person),Yangzhou,lɔ⁴²,chinese_1964_4_train:old (of person):108,chinese_1964_4_train:old (of person):1
+chinese_1964_4_train,the earthworm,Beijing,tɕʰy⁵⁵tɕʰin⁰,chinese_1964_4_train:the earthworm:1167,chinese_1964_4_train:the earthworm:1
+chinese_1964_4_train,the earthworm,Changsha,tsʰəu²⁴aɤn²¹tsɿ⁰,chinese_1964_4_train:the earthworm:1169,chinese_1964_4_train:the earthworm:4
+chinese_1964_4_train,the earthworm,Chaozhou,kau³⁵₂₁uŋ⁵³,chinese_1964_4_train:the earthworm:131,chinese_1964_4_train:the earthworm:2
+chinese_1964_4_train,the earthworm,Chengdu,tɕʰy³¹sər¹³,chinese_1964_4_train:the earthworm:1168,chinese_1964_4_train:the earthworm:1
+chinese_1964_4_train,the earthworm,Fuzhou,ti²⁴²₄₄lyŋ⁵²,chinese_1964_4_train:the earthworm:137,chinese_1964_4_train:the earthworm:3
+chinese_1964_4_train,the earthworm,Fuzhou,ka⁵²₃₁uŋ³¹,chinese_1964_4_train:the earthworm:131,chinese_1964_4_train:the earthworm:2
+chinese_1964_4_train,the earthworm,Guangzhou,wɔŋ²¹hyn³⁵,chinese_1964_4_train:the earthworm:68,chinese_1964_4_train:the earthworm:5
+chinese_1964_4_train,the earthworm,Hefei,tɕʰyəʔ⁴ʂən⁵³,chinese_1964_4_train:the earthworm:1168,chinese_1964_4_train:the earthworm:1
+chinese_1964_4_train,the earthworm,Jinan,tɕʰy²¹³ʂæ̃⁰,chinese_1964_4_train:the earthworm:1168,chinese_1964_4_train:the earthworm:1
+chinese_1964_4_train,the earthworm,Kunming,tɕʰiʂã¹³,chinese_1964_4_train:the earthworm:1168,chinese_1964_4_train:the earthworm:1
+chinese_1964_4_train,the earthworm,Meixian,tsʰuŋ¹²hian³¹,chinese_1964_4_train:the earthworm:50,chinese_1964_4_train:the earthworm:6
+chinese_1964_4_train,the earthworm,Nanchang,hɔn²⁴tɕin⁰tsɿ⁰,chinese_1964_4_train:the earthworm:31,chinese_1964_4_train:the earthworm:1
+chinese_1964_4_train,the earthworm,Shenyang,tɕʰy²¹³₂₁sə³⁵,chinese_1964_4_train:the earthworm:1170,chinese_1964_4_train:the earthworm:1
+chinese_1964_4_train,the earthworm,Suzhou,tɕʰioʔ⁴zø³¹₂₄,chinese_1964_4_train:the earthworm:1168,chinese_1964_4_train:the earthworm:1
+chinese_1964_4_train,the earthworm,Wenzhou,kʰuɔ⁴⁴ɕy⁴⁵,chinese_1964_4_train:the earthworm:3,chinese_1964_4_train:the earthworm:7
+chinese_1964_4_train,the earthworm,Xiamen,tɔ³³₁₁un⁵¹,chinese_1964_4_train:the earthworm:118,chinese_1964_4_train:the earthworm:8
+chinese_1964_4_train,the earthworm,Xian,iou²⁴iæ̃⁰,chinese_1964_4_train:the earthworm:1209,chinese_1964_4_train:the earthworm:9
+chinese_1964_4_train,the earthworm,Yangjiang,kʰau⁴⁴³nɐn²¹,chinese_1964_4_train:the earthworm:89,chinese_1964_4_train:the earthworm:2
+chinese_1964_4_train,the earthworm,Yangzhou,tɕʰiɔʔ⁴tɕʰiĩ⁵⁵,chinese_1964_4_train:the earthworm:1171,chinese_1964_4_train:the earthworm:1
+chinese_1964_4_train,to chew,Beijing,tɕiau³⁵,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Changsha,tɕio²⁴,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Chaozhou,pou¹¹,chinese_1964_4_train:to chew:1057,chinese_1964_4_train:to chew:5
+chinese_1964_4_train,to chew,Chengdu,tɕiau³¹,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Fuzhou,tsuɔʔ⁴,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Guangzhou,tʃiu²²,chinese_1964_4_train:to chew:1055,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Hefei,tɕiɔ⁵⁵,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Jinan,tɕiɔ⁴²,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Kunming,tɕio³¹,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Meixian,tsʰiau⁴²,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Nanchang,tɕiɔk⁵,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Shenyang,tɕiau³⁵.,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Suzhou,ziɒʔ²³,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Wenzhou,ɦia¹²,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:4
+chinese_1964_4_train,to chew,Xiamen,pɔ³³,chinese_1964_4_train:to chew:1057,chinese_1964_4_train:to chew:3
+chinese_1964_4_train,to chew,Xian,tɕyo²⁴,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to chew,Yangjiang,ŋai²⁴,chinese_1964_4_train:to chew:1056,chinese_1964_4_train:to chew:2
+chinese_1964_4_train,to chew,Yangzhou,tɕiɑʔ⁴,chinese_1964_4_train:to chew:1054,chinese_1964_4_train:to chew:1
+chinese_1964_4_train,to learn,Beijing,ɕye³⁵,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:1
+chinese_1964_4_train,to learn,Changsha,ɕio²⁴,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:1
+chinese_1964_4_train,to learn,Chaozhou,oʔ⁴,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:3
+chinese_1964_4_train,to learn,Chengdu,ɕyo³¹,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:1
+chinese_1964_4_train,to learn,Fuzhou,ɔʔ⁴,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:3
+chinese_1964_4_train,to learn,Guangzhou,hɔk²²,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:2
+chinese_1964_4_train,to learn,Hefei,ɕyɐʔ⁴,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:1
+chinese_1964_4_train,to learn,Jinan,ɕye⁴²,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:1
+chinese_1964_4_train,to learn,Kunming,ɕio³¹,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:1
+chinese_1964_4_train,to learn,Meixian,hɔk⁴,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:2
+chinese_1964_4_train,to learn,Nanchang,hɔk⁵,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:2
+chinese_1964_4_train,to learn,Shenyang,ɕiau³⁵,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:1
+chinese_1964_4_train,to learn,Suzhou,ɦoʔ²³,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:2
+chinese_1964_4_train,to learn,Wenzhou,ɦo¹²,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:2
+chinese_1964_4_train,to learn,Xiamen,oʔ⁵,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:3
+chinese_1964_4_train,to learn,Xian,ɕyo²⁴,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:1
+chinese_1964_4_train,to learn,Yangjiang,hɔk⁴⁵⁴,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:2
+chinese_1964_4_train,to learn,Yangzhou,ɕiɑʔ⁴,chinese_1964_4_train:to learn:671,chinese_1964_4_train:to learn:1
+chinese_1964_4_train,the meat,Beijing,ʐou⁵¹,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:1
+chinese_1964_4_train,the meat,Changsha,zeu²⁴,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:1
+chinese_1964_4_train,the meat,Chaozhou,nek⁴,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:2
+chinese_1964_4_train,the meat,Chengdu,zəu¹³,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:1
+chinese_1964_4_train,the meat,Fuzhou,nyʔ⁴,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:2
+chinese_1964_4_train,the meat,Guangzhou,jʊk²,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:2
+chinese_1964_4_train,the meat,Hefei,tʂu⁴⁴ʐəu¹³,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:1
+chinese_1964_4_train,the meat,Jinan,ʐou²¹,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:1
+chinese_1964_4_train,the meat,Kunming,ʐəu¹³,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:1
+chinese_1964_4_train,the meat,Meixian,ȵiɔk²¹,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:2
+chinese_1964_4_train,the meat,Nanchang,ȵiuk⁵,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:2
+chinese_1964_4_train,the meat,Shenyang,iou⁴¹,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:1
+chinese_1964_4_train,the meat,Suzhou,tsʮ⁴⁴ȵioʔ²³₂₁,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:3
+chinese_1964_4_train,the meat,Suzhou,ȵioʔ²³,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:2
+chinese_1964_4_train,the meat,Wenzhou,ȵiu¹²,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:2
+chinese_1964_4_train,the meat,Xiamen,baʔ³²,chinese_1964_4_train:the meat:472,chinese_1964_4_train:the meat:4
+chinese_1964_4_train,the meat,Xiamen,mãʔ³²,chinese_1964_4_train:the meat:472,chinese_1964_4_train:the meat:5
+chinese_1964_4_train,the meat,Xian,ʐou⁴⁵,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:1
+chinese_1964_4_train,the meat,Yangjiang,jʊk⁴⁵⁴,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:2
+chinese_1964_4_train,the meat,Yangzhou,lɤɯ⁵⁵,chinese_1964_4_train:the meat:471,chinese_1964_4_train:the meat:1
+chinese_1964_4_train,the way (road),Beijing,tɕie⁵⁵tau⁵¹,chinese_1964_4_train:the way (road):617,chinese_1964_4_train:the way (road):1
+chinese_1964_4_train,the way (road),Changsha,kai³³san²¹,chinese_1964_4_train:the way (road):620,chinese_1964_4_train:the way (road):3
+chinese_1964_4_train,the way (road),Chaozhou,koi³³₂₃lou¹¹,chinese_1964_4_train:the way (road):619,chinese_1964_4_train:the way (road):2
+chinese_1964_4_train,the way (road),Chengdu,kai⁴⁴tau¹³,chinese_1964_4_train:the way (road):617,chinese_1964_4_train:the way (road):1
+chinese_1964_4_train,the way (road),Fuzhou,kɛ⁴⁴₅₂lɔ²⁴²,chinese_1964_4_train:the way (road):617,chinese_1964_4_train:the way (road):2
+chinese_1964_4_train,the way (road),Guangzhou,kai⁵³tou²²,chinese_1964_4_train:the way (road):617,chinese_1964_4_train:the way (road):1
+chinese_1964_4_train,the way (road),Hefei,tɕiɛ²¹²,chinese_1964_4_train:the way (road):616,chinese_1964_4_train:the way (road):1
+chinese_1964_4_train,the way (road),Jinan,tɕiɛ²¹³tɔ²¹,chinese_1964_4_train:the way (road):617,chinese_1964_4_train:the way (road):1
+chinese_1964_4_train,the way (road),Kunming,kɛ⁴⁴ɕĩ⁴⁴,chinese_1964_4_train:the way (road):618,chinese_1964_4_train:the way (road):4
+chinese_1964_4_train,the way (road),Meixian,kiai⁴⁴lu⁴²,chinese_1964_4_train:the way (road):619,chinese_1964_4_train:the way (road):2
+chinese_1964_4_train,the way (road),Nanchang,kai⁴²tʰau³¹,chinese_1964_4_train:the way (road):617,chinese_1964_4_train:the way (road):1
+chinese_1964_4_train,the way (road),Shenyang,tɕie³³tau⁴¹,chinese_1964_4_train:the way (road):617,chinese_1964_4_train:the way (road):1
+chinese_1964_4_train,the way (road),Suzhou,kɒ⁴⁴,chinese_1964_4_train:the way (road):616,chinese_1964_4_train:the way (road):5
+chinese_1964_4_train,the way (road),Wenzhou,ka⁴⁴løy¹¹,chinese_1964_4_train:the way (road):619,chinese_1964_4_train:the way (road):2
+chinese_1964_4_train,the way (road),Xiamen,kue⁵⁵₃₃lɔ³³,chinese_1964_4_train:the way (road):619,chinese_1964_4_train:the way (road):6
+chinese_1964_4_train,the way (road),Xian,tɕie²¹tɑu⁴⁵,chinese_1964_4_train:the way (road):617,chinese_1964_4_train:the way (road):1
+chinese_1964_4_train,the way (road),Yangjiang,kai³³hɔŋ⁴⁵⁴,chinese_1964_4_train:the way (road):621,chinese_1964_4_train:the way (road):3
+chinese_1964_4_train,the way (road),Yangzhou,kɛ³¹,chinese_1964_4_train:the way (road):616,chinese_1964_4_train:the way (road):7
+chinese_1964_4_train,dark,Beijing,xei⁵⁵,chinese_1964_4_train:dark:88,chinese_1964_4_train:dark:1
+chinese_1964_4_train,dark,Changsha,ŋan⁵⁵,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:2
+chinese_1964_4_train,dark,Chaozhou,am²¹³,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:3
+chinese_1964_4_train,dark,Chengdu,xe³¹,chinese_1964_4_train:dark:88,chinese_1964_4_train:dark:1
+chinese_1964_4_train,dark,Fuzhou,aŋ²¹³,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:2
+chinese_1964_4_train,dark,Guangzhou,hɐk⁵,chinese_1964_4_train:dark:88,chinese_1964_4_train:dark:1
+chinese_1964_4_train,dark,Hefei,xɐʔ⁴,chinese_1964_4_train:dark:88,chinese_1964_4_train:dark:1
+chinese_1964_4_train,dark,Jinan,xei²¹³,chinese_1964_4_train:dark:88,chinese_1964_4_train:dark:1
+chinese_1964_4_train,dark,Jinan,ŋæ̃²¹,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:2
+chinese_1964_4_train,dark,Kunming,xə³¹,chinese_1964_4_train:dark:88,chinese_1964_4_train:dark:1
+chinese_1964_4_train,dark,Meixian,am⁴²,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:3
+chinese_1964_4_train,dark,Nanchang,ŋɔn⁵⁵,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:2
+chinese_1964_4_train,dark,Shenyang,an⁴¹,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:2
+chinese_1964_4_train,dark,Suzhou,ø⁵¹³,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:4
+chinese_1964_4_train,dark,Suzhou,hɤʔ⁴,chinese_1964_4_train:dark:88,chinese_1964_4_train:dark:1
+chinese_1964_4_train,dark,Wenzhou,ø¹²,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:4
+chinese_1964_4_train,dark,Xiamen,am¹¹,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:3
+chinese_1964_4_train,dark,Xian,ŋæ̃⁴⁵,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:2
+chinese_1964_4_train,dark,Yangjiang,ɐm²⁴,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:3
+chinese_1964_4_train,dark,Yangzhou,ɛ̃⁵⁵,chinese_1964_4_train:dark:90,chinese_1964_4_train:dark:2
+chinese_1964_4_train,dark,Yangzhou,xəʔ⁴,chinese_1964_4_train:dark:88,chinese_1964_4_train:dark:1
+chinese_1964_4_train,the spider,Beijing,tʂu⁵⁵tʂu⁰,chinese_1964_4_train:the spider:369,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Changsha,tsɿ³³tɕy³³tsɿ⁰,chinese_1964_4_train:the spider:375,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Chaozhou,ti³³₂₃tu³³,chinese_1964_4_train:the spider:374,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Chengdu,tse⁴⁴₃₁tsu⁴⁴,chinese_1964_4_train:the spider:374,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Fuzhou,tʰi⁴⁴ly⁴⁴,chinese_1964_4_train:the spider:374,chinese_1964_4_train:the spider:3
+chinese_1964_4_train,the spider,Guangzhou,kʰɐm²¹lou²¹₃₅,chinese_1964_4_train:the spider:379,chinese_1964_4_train:the spider:2
+chinese_1964_4_train,the spider,Hefei,tʂei²⁴tʂu²¹²,chinese_1964_4_train:the spider:374,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Jinan,ŋə⁴²laŋ⁴²tʂu²¹³tsɿ⁰,chinese_1964_4_train:the spider:370,chinese_1964_4_train:the spider:4
+chinese_1964_4_train,the spider,Jinan,ɕi⁵⁵tʂu²¹³tʂu⁰,chinese_1964_4_train:the spider:371,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Kunming,tʂʅ⁴⁴tʂu⁴⁴,chinese_1964_4_train:the spider:374,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Meixian,la¹²kʰia¹²,chinese_1964_4_train:the spider:378,chinese_1964_4_train:the spider:5
+chinese_1964_4_train,the spider,Nanchang,tsɿ⁴²tɕy⁴²,chinese_1964_4_train:the spider:374,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Shenyang,lai⁴¹lai⁴¹tsu³³,chinese_1964_4_train:the spider:373,chinese_1964_4_train:the spider:6
+chinese_1964_4_train,the spider,Suzhou,tsiɪʔ⁴tsʮ⁴⁴₃₅,chinese_1964_4_train:the spider:376,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Wenzhou,sɿ⁴⁴muɔ²⁴tsɿ⁴⁴tsɿ⁰,chinese_1964_4_train:the spider:377,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Xiamen,ti⁵⁵₃₃tu⁵⁵,chinese_1964_4_train:the spider:374,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Xian,pfu²¹pfu⁰,chinese_1964_4_train:the spider:369,chinese_1964_4_train:the spider:7
+chinese_1964_4_train,the spider,Yangjiang,kʰɐm⁴⁴³lou⁴⁴³,chinese_1964_4_train:the spider:379,chinese_1964_4_train:the spider:2
+chinese_1964_4_train,the spider,Yangzhou,tsɿ³¹tsu³¹,chinese_1964_4_train:the spider:374,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the spider,Yangzhou,ɕi⁵⁵ɕi⁵⁵tsu³¹tsɛ⁰,chinese_1964_4_train:the spider:372,chinese_1964_4_train:the spider:1
+chinese_1964_4_train,the wind,Beijing,fəŋ⁵⁵,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Changsha,xən³³,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Chaozhou,huaŋ³³,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Chengdu,foŋ⁴⁴,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Fuzhou,xuŋ⁴⁴,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Guangzhou,hʊŋ⁵³,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Hefei,fəŋ²¹²,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Jinan,fəŋ²¹³,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Kunming,foŋ⁴⁴,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Meixian,fuŋ⁴⁴,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Nanchang,fuŋ⁴²,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Shenyang,fəŋ³³,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Suzhou,foŋ⁴⁴,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Wenzhou,hoŋ⁴⁴,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Xiamen,hoŋ⁵⁵,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Xian,fəŋ²¹,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Yangjiang,hʊŋ³³,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1
+chinese_1964_4_train,the wind,Yangzhou,foŋ³¹,chinese_1964_4_train:the wind:746,chinese_1964_4_train:the wind:1

@@ -1,0 +1,438 @@
+language	iso_code	gloss	global_id	local_id	transcription	cognate_class	tokens	notes
+Beijing		black	163	163	xei⁵⁵	91	x e i ⁵⁵	
+Jinan		black	163	163	xei²¹³	91	x e i ²¹³	
+Shenyang		black	163	163	xei³³	91	x e i ³³	
+Xian		black	163	163	xei²¹	91	x e i ²¹	
+Chengdu		black	163	163	xe³¹	91	x e ³¹	
+Kunming		black	163	163	xə³¹	91	x ə ³¹	
+Hefei		black	163	163	xɐʔ⁴	91	x ɐ ʔ ⁴	
+Yangzhou		black	163	163	xəʔ⁴	91	x ə ʔ ⁴	
+Suzhou		black	163	163	hɤʔ⁴	91	h ɤ ʔ ⁴	
+Wenzhou		black	163	163	hɛ²³	91	h ɛ ²³	
+Changsha		black	163	163	xə²⁴	91	x ə ²⁴	
+Nanchang		black	163	163	hɛt⁵	91	h ɛ t ⁵	
+Nanchang		black	163	163	u⁴²	92	u ⁴²	
+Meixian		black	163	163	vu⁴⁴	92	v u ⁴⁴	
+Guangzhou		black	163	163	hɐk⁵	91	h ɐ k ⁵	
+Yangjiang		black	163	163	hɐk²⁴	91	h ɐ k ²⁴	
+Xiamen		black	163	163	ɔ⁵⁵	92	ɔ ⁵⁵	
+Chaozhou		black	163	163	ou³³	92	o u ³³	
+Fuzhou		black	163	163	u⁴⁴	92	u ⁴⁴	
+Beijing		dark	706	706	xei⁵⁵	88	x e i ⁵⁵	
+Jinan		dark	706	706	xei²¹³	88	x e i ²¹³	
+Jinan		dark	706	706	ŋæ̃²¹	90	ŋ æ̃ ∼ ²¹	
+Shenyang		dark	706	706	an⁴¹	90	a n ⁴¹	
+Xian		dark	706	706	ŋæ̃⁴⁵	90	ŋ æ̃ ∼ ⁴⁵	
+Chengdu		dark	706	706	xe³¹	88	x e ³¹	
+Kunming		dark	706	706	xə³¹	88	x ə ³¹	
+Hefei		dark	706	706	xɐʔ⁴	88	x ɐ ʔ ⁴	
+Yangzhou		dark	706	706	ɛ̃⁵⁵	90	ɛ̃ ∼ ⁵⁵	
+Yangzhou		dark	706	706	xəʔ⁴	88	x ə ʔ ⁴	
+Suzhou		dark	706	706	ø⁵¹³	90	ø ⁵¹³	
+Suzhou		dark	706	706	hɤʔ⁴	88	h ɤ ʔ ⁴	
+Wenzhou		dark	706	706	ø¹²	90	ø ¹²	
+Changsha		dark	706	706	ŋan⁵⁵	90	ŋ a n ⁵⁵	
+Nanchang		dark	706	706	ŋɔn⁵⁵	90	ŋ ɔ n ⁵⁵	
+Meixian		dark	706	706	am⁴²	90	a m ⁴²	
+Guangzhou		dark	706	706	hɐk⁵	88	h ɐ k ⁵	
+Yangjiang		dark	706	706	ɐm²⁴	90	ɐ m ²⁴	
+Xiamen		dark	706	706	am¹¹	90	a m ¹¹	
+Chaozhou		dark	706	706	am²¹³	90	a m ²¹³	
+Fuzhou		dark	706	706	aŋ²¹³	90	a ŋ ²¹³	
+Beijing		horizontal	2376	2376	xəŋ³⁵	83	x ə ŋ ³⁵	
+Jinan		horizontal	2376	2376	xəŋ⁴²	83	x ə ŋ ⁴²	
+Shenyang		horizontal	2376	2376	xəŋ³⁵	83	x ə ŋ ³⁵	
+Xian		horizontal	2376	2376	ɕye²⁴	84	ɕ y e ²⁴	
+Chengdu		horizontal	2376	2376	xuən³¹	83	x u ə n ³¹	
+Kunming		horizontal	2376	2376	xuə̃³¹	83	x u ə̃ ∼ ³¹	
+Hefei		horizontal	2376	2376	xʊ̃⁵⁵	83	x ʊ̃ ∼ ⁵⁵	
+Yangzhou		horizontal	2376	2376	xoŋ³⁴	83	x o ŋ ³⁴	
+Suzhou		horizontal	2376	2376	ɦuaŋ²⁴	83	ɦ u a ŋ ²⁴	
+Wenzhou		horizontal	2376	2376	viɛ³¹	83	v i ɛ ³¹	
+Changsha		horizontal	2376	2376	fən¹³	83	f ə n ¹³	
+Nanchang		horizontal	2376	2376	uaŋ⁵⁵	83	u a ŋ ⁵⁵	
+Meixian		horizontal	2376	2376	vaŋ¹²	83	v a ŋ ¹²	
+Guangzhou		horizontal	2376	2376	waŋ²¹	83	w a ŋ ²¹	
+Yangjiang		horizontal	2376	2376	waŋ⁴⁴³	83	w a ŋ ⁴⁴³	
+Xiamen		horizontal	2376	2376	hũãĩ²⁴	83	h ũ ã ĩ ∼ ²⁴	
+Chaozhou		horizontal	2376	2376	hũẽ⁵⁵	83	h ũ ẽ ∼ ⁵⁵	
+Fuzhou		horizontal	2376	2376	xuaŋ⁵²	83	x u a ŋ ⁵²	
+Beijing		salty	1091	1091	ɕian³⁵	173	ɕ i a n ³⁵	
+Beijing		salty	1091	1091	kʰou²¹⁴₂₁tʂuŋ⁵¹	174	kʰ o u ²¹⁴ ʈʂ u ŋ ⁵¹	
+Jinan		salty	1091	1091	ɕiæ̃⁴²	173	ɕ i æ̃ ∼ ⁴²	
+Shenyang		salty	1091	1091	ɕian³⁵	173	ɕ i a n ³⁵	
+Xian		salty	1091	1091	xæ̃²⁴	173	x æ̃ ∼ ²⁴	
+Chengdu		salty	1091	1091	xan³¹	173	x a n ³¹	
+Kunming		salty	1091	1091	ɕiɛ³¹	173	ɕ i ɛ ³¹	
+Hefei		salty	1091	1091	ɕiĩ⁵⁵	173	ɕ i ĩ ∼ ⁵⁵	
+Yangzhou		salty	1091	1091	xɛ̃³⁴	173	x ɛ̃ ∼ ³⁴	
+Suzhou		salty	1091	1091	ɦɛ²⁴	173	ɦ ɛ ²⁴	
+Wenzhou		salty	1091	1091	ɦa³¹	173	ɦ a ³¹	
+Changsha		salty	1091	1091	xan¹³	173	x a n ¹³	
+Nanchang		salty	1091	1091	han²⁴	173	h a n ²⁴	
+Meixian		salty	1091	1091	ham¹²	173	h a m ¹²	
+Guangzhou		salty	1091	1091	ham²¹	173	h a m ²¹	
+Yangjiang		salty	1091	1091	ham⁴⁴³	173	h a m ⁴⁴³	
+Xiamen		salty	1091	1091	kiam²⁴	173	k i a m ²⁴	
+Chaozhou		salty	1091	1091	kiəm⁵⁵	173	k i ə m ⁵⁵	
+Fuzhou		salty	1091	1091	keiŋ⁵²	173	k e i ŋ ⁵²	
+Beijing		small	1246	1246	ɕiau²¹⁴	54	ɕ i a u ²¹⁴	
+Jinan		small	1246	1246	ɕiɔ⁵⁵	54	ɕ i ɔ ⁵⁵	
+Shenyang		small	1246	1246	ɕiau²¹³	54	ɕ i a u ²¹³	
+Xian		small	1246	1246	ɕiɑu⁵³	54	ɕ i ɑ u ⁵³	
+Chengdu		small	1246	1246	ɕiau⁵³	54	ɕ i a u ⁵³	
+Kunming		small	1246	1246	ɕiau⁵³	54	ɕ i a u ⁵³	
+Hefei		small	1246	1246	ɕiɔ²⁴	54	ɕ i ɔ ²⁴	
+Yangzhou		small	1246	1246	ɕiɔ⁴²	54	ɕ i ɔ ⁴²	
+Suzhou		small	1246	1246	siæ⁴¹	54	s i æ ⁴¹	
+Wenzhou		small	1246	1246	sai⁴⁵	54	s a i ⁴⁵	
+Changsha		small	1246	1246	ɕi⁵⁵	55	ɕ i ⁵⁵	
+Changsha		small	1246	1246	ɕiau⁵⁵	54	ɕ i a u ⁵⁵	
+Nanchang		small	1246	1246	ɕi⁵⁵	55	ɕ i ⁵⁵	
+Nanchang		small	1246	1246	ɕiɛu²¹³	54	ɕ i ɛ u ²¹³	
+Meixian		small	1246	1246	sɛ⁴²	55	s ɛ ⁴²	
+Guangzhou		small	1246	1246	ʃɐi³³	55	ʃ ɐ i ³³	
+Yangjiang		small	1246	1246	ɬɐi²⁴	55	ɬ ɐ i ²⁴	
+Xiamen		small	1246	1246	sue¹¹	55	s u e ¹¹	
+Chaozhou		small	1246	1246	soi²¹³	55	s o i ²¹³	
+Fuzhou		small	1246	1246	nauŋ²⁴²	56	n a u ŋ ²⁴²	
+Fuzhou		small	1246	1246	sɛ²¹³	55	s ɛ ²¹³	
+Beijing		the earthworm	2350	2350	tɕʰy⁵⁵tɕʰin⁰	1167	tɕʰ y ⁵⁵ tɕʰ i n ⁰	
+Jinan		the earthworm	2350	2350	tɕʰy²¹³ʂæ̃⁰	1168	tɕʰ y ²¹³ ʂ æ̃ ∼ ⁰	
+Shenyang		the earthworm	2350	2350	tɕʰy²¹³₂₁sə³⁵	1170	tɕʰ y ²¹³ s ə ³⁵	
+Xian		the earthworm	2350	2350	iou²⁴iæ̃⁰	1209	i o u ²⁴ i æ̃ ∼ ⁰	
+Chengdu		the earthworm	2350	2350	tɕʰy³¹sər¹³	1168	tɕʰ y ³¹ s ə r ¹³	
+Kunming		the earthworm	2350	2350	tɕʰiʂã¹³	1168	tɕʰ i ⁰ ʂ ã ∼ ¹³	
+Hefei		the earthworm	2350	2350	tɕʰyəʔ⁴ʂən⁵³	1168	tɕʰ y ə ʔ ⁴ ʂ ə n ⁵³	
+Yangzhou		the earthworm	2350	2350	tɕʰiɔʔ⁴tɕʰiĩ⁵⁵	1171	tɕʰ i ɔ ʔ ⁴ tɕʰ i ĩ ∼ ⁵⁵	
+Suzhou		the earthworm	2350	2350	tɕʰioʔ⁴zø³¹₂₄	1168	tɕʰ i o ʔ ⁴ z ø ³¹	
+Wenzhou		the earthworm	2350	2350	kʰuɔ⁴⁴ɕy⁴⁵	3	kʰ u ɔ ⁴⁴ ɕ y ⁴⁵	
+Changsha		the earthworm	2350	2350	tsʰəu²⁴aɤn²¹tsɿ⁰	1169	tsʰ ə u ²⁴ a ɤ n ²¹ ts ɿ ⁰	
+Nanchang		the earthworm	2350	2350	hɔn²⁴tɕin⁰tsɿ⁰	31	h ɔ n ²⁴ tɕ i n ⁰ ts ɿ ⁰	
+Meixian		the earthworm	2350	2350	tsʰuŋ¹²hian³¹	50	tsʰ u ŋ ¹² h i a n ³¹	
+Guangzhou		the earthworm	2350	2350	wɔŋ²¹hyn³⁵	68	w ɔ ŋ ²¹ h y n ³⁵	
+Yangjiang		the earthworm	2350	2350	kʰau⁴⁴³nɐn²¹	89	kʰ a u ⁴⁴³ n ɐ n ²¹	
+Xiamen		the earthworm	2350	2350	tɔ³³₁₁un⁵¹	118	t ɔ ³³ u n ⁵¹	
+Chaozhou		the earthworm	2350	2350	kau³⁵₂₁uŋ⁵³	131	k a u ³⁵ u ŋ ⁵³	
+Fuzhou		the earthworm	2350	2350	ti²⁴²₄₄lyŋ⁵²	137	t i ²⁴² l y ŋ ⁵²	
+Fuzhou		the earthworm	2350	2350	ka⁵²₃₁uŋ³¹	131	k a ⁵² u ŋ ³¹	
+Beijing		the fingernail	1258	1258	tʂʅ²¹⁴₅₅tɕia⁰	727	ʈʂ ʅ ²¹⁴ tɕ i a ⁰	
+Jinan		the fingernail	1258	1258	tʂʅ⁵⁵₂₁₃tɕia⁰kɛ⁰	728	ʈʂ ʅ ⁵⁵ tɕ i a ⁰ k ɛ ⁰	
+Shenyang		the fingernail	1258	1258	sou²¹³₂₁tɕi²¹³₃₅tɕia⁰	732	s o u ²¹³ tɕ i ²¹³ tɕ i a ⁰	
+Xian		the fingernail	1258	1258	tsๅ⁵³₂₁tɕiɑ⁰	727	ts ɿ ⁵³ tɕ i ɑ ⁰	
+Chengdu		the fingernail	1258	1258	tsๅ⁵³tɕiər³¹	727	ts ɿ ⁵³ tɕ i ə r ³¹	
+Kunming		the fingernail	1258	1258	tʂʅ³¹tɕia³¹₄₄	727	ʈʂ ʅ ³¹ tɕ i a ³¹	
+Hefei		the fingernail	1258	1258	tʂʅ²⁴tɕiɐʔ⁴	727	ʈʂ ʅ ²⁴ tɕ i ɐ ʔ ⁴	
+Yangzhou		the fingernail	1258	1258	tsๅ⁴²kʰæʔ⁴	730	ts ɿ ⁴² kʰ æ ʔ ⁴	
+Suzhou		the fingernail	1258	1258	sʏ⁴¹tsiɪʔ⁴₂₁kʰaʔ⁴₂₁	734	s ʏ ⁴¹ ts i ɪ ʔ ⁴ kʰ a ʔ ⁴	
+Wenzhou		the fingernail	1258	1258	tsๅ⁴⁵ka²³	727	ts ɿ ⁴⁵ k a ²³	
+Changsha		the fingernail	1258	1258	tsๅ⁴¹ka²⁴tsๅ⁰	729	ts ɿ ⁴¹ k a ²⁴ ts ɿ ⁰	
+Nanchang		the fingernail	1258	1258	səu²¹³tsət⁵kat⁵	735	s ə u ²¹³ ts ə t ⁵ k a t ⁵	
+Meixian		the fingernail	1258	1258	su³¹tsๅ³¹kap²¹	732	s u ³¹ ts ɿ ³¹ k a p ²¹	
+Guangzhou		the fingernail	1258	1258	ʃɐu³⁵tʃi³⁵kap³³	732	ʃ ɐ u ³⁵ tʃ i ³⁵ k a p ³³	
+Yangjiang		the fingernail	1258	1258	ʃɐu²¹kap²¹	733	ʃ ɐ u ²¹ k a p ²¹	
+Xiamen		the fingernail	1258	1258	tsῃ⁵¹₅₅kaʔ³²	727	ts ŋ̍ ⁵¹ k a ʔ ³²	
+Chaozhou		the fingernail	1258	1258	tsɯŋ⁵³₂₄kaʔ²¹	727	ts ɯ ŋ ⁵³ k a ʔ ²¹	
+Fuzhou		the fingernail	1258	1258	tsieŋ³¹₄₄ŋaʔ²³	736	ts i e ŋ ³¹ ŋ a ʔ ²³	
+Beijing		the hail	609	609	pau³⁵tsɿ⁰	155	p a u ³⁵ ts ɿ ⁰	
+Jinan		the hail	609	609	pa⁴²tsɿ⁰	175	p a ⁴² ts ɿ ⁰	
+Shenyang		the hail	609	609	pau³⁵tsɿ⁰	155	p a u ³⁵ ts ɿ ⁰	
+Xian		the hail	609	609	pɑu²¹	154	p ɑ u ²¹	
+Chengdu		the hail	609	609	ɕye³¹tan¹³tsɿ⁵³	184	ɕ y e ³¹ t a n ¹³ ts ɿ ⁵³	
+Kunming		the hail	609	609	ɕie³¹pau³¹tsɿ⁵³	183	ɕ i e ³¹ p a u ³¹ ts ɿ ⁵³	
+Hefei		the hail	609	609	nən²⁴tsə⁰	200	n ə n ²⁴ ts ə ⁰	
+Yangzhou		the hail	609	609	piŋ³¹pɑʔ⁴tsɛ⁰	208	p i ŋ ³¹ p ɑ ʔ ⁴ ts ɛ ⁰	
+Suzhou		the hail	609	609	pin⁴⁴bæ³¹₂₁	207	p i n ⁴⁴ b æ ³¹	
+Wenzhou		the hail	609	609	liɛ³¹bo¹²	216	l i ɛ ³¹ b o ¹²	
+Changsha		the hail	609	609	pau⁵⁵	154	p a u ⁵⁵	
+Nanchang		the hail	609	609	pʰɔk⁵tsɿ⁰	155	pʰ ɔ k ⁵ ts ɿ ⁰	
+Meixian		the hail	609	609	pʰau⁴²ɛ⁰	156	pʰ a u ⁴² ɛ ⁰	
+Guangzhou		the hail	609	609	pɔk²²	154	p ɔ k ²²	
+Yangjiang		the hail	609	609	pʊk⁴⁵⁴	154	p ʊ k ⁴⁵⁴	
+Xiamen		the hail	609	609	pʰauʔ⁵	154	pʰ a u ʔ ⁵	
+Chaozhou		the hail	609	609	pʰak⁴	154	pʰ a k ⁴	
+Fuzhou		the hail	609	609	pʰøyʔ⁴	154	pʰ ø y ʔ ⁴	
+Beijing		the needle (for sewing)	1382	1382	tʂən⁵⁵	540	ʈʂ ə n ⁵⁵	
+Jinan		the needle (for sewing)	1382	1382	tʂẽ²¹³	540	ʈʂ ẽ ∼ ²¹³	
+Shenyang		the needle (for sewing)	1382	1382	tsən³³	540	ts ə n ³³	
+Xian		the needle (for sewing)	1382	1382	tʂẽ²¹	540	ʈʂ ẽ ∼ ²¹	
+Chengdu		the needle (for sewing)	1382	1382	tsən⁴⁴	540	ts ə n ⁴⁴	
+Kunming		the needle (for sewing)	1382	1382	tʂə̃⁴⁴	540	ʈʂ ə̃ ∼ ⁴⁴	
+Hefei		the needle (for sewing)	1382	1382	tʂən²¹²	540	ʈʂ ə n ²¹²	
+Yangzhou		the needle (for sewing)	1382	1382	tsəŋ³¹	540	ts ə ŋ ³¹	
+Suzhou		the needle (for sewing)	1382	1382	tsən⁴⁴	540	ts ə n ⁴⁴	
+Suzhou		the needle (for sewing)	1382	1382	in³¹₂₂siɪ⁵¹³₄₄	541	i n ³¹ s i ɪ ⁵¹³	
+Wenzhou		the needle (for sewing)	1382	1382	tsaŋ⁴⁴	540	ts a ŋ ⁴⁴	
+Changsha		the needle (for sewing)	1382	1382	tsən³³	540	ts ə n ³³	
+Nanchang		the needle (for sewing)	1382	1382	tsən⁴²	540	ts ə n ⁴²	
+Meixian		the needle (for sewing)	1382	1382	tsəm⁴⁴	540	ts ə m ⁴⁴	
+Guangzhou		the needle (for sewing)	1382	1382	tʃɐm⁵³	540	tʃ ɐ m ⁵³	
+Yangjiang		the needle (for sewing)	1382	1382	tʃɐm³³	540	tʃ ɐ m ³³	
+Xiamen		the needle (for sewing)	1382	1382	tsiam⁵⁵	540	ts i a m ⁵⁵	
+Chaozhou		the needle (for sewing)	1382	1382	tsam³³	540	ts a m ³³	
+Fuzhou		the needle (for sewing)	1382	1382	tseiŋ⁴⁴	540	ts e i ŋ ⁴⁴	
+Beijing		the snake	730	730	tʂʰaŋ³⁵tʂʰuŋ⁰	387	ʈʂʰ a ŋ ³⁵ ʈʂʰ u ŋ ⁰	
+Jinan		the snake	730	730	tʂʰaŋ⁴²tʂʰuŋ⁴²	387	ʈʂʰ a ŋ ⁴² ʈʂʰ u ŋ ⁴²	
+Shenyang		the snake	730	730	tʂʰaŋ³⁵tsʰuŋ⁰	387	ʈʂʰ a ŋ ³⁵ tsʰ u ŋ ⁰	
+Xian		the snake	730	730	tʂʰɑŋ²⁴pfʰəŋ⁰	387	ʈʂʰ ɑ ŋ ²⁴ pfʰ ə ŋ ⁰	
+Chengdu		the snake	730	730	se³¹	388	s e ³¹	
+Chengdu		the snake	730	730	tsʰaŋ³¹tsʰoŋ³¹	387	tsʰ a ŋ ³¹ tsʰ o ŋ ³¹	
+Kunming		the snake	730	730	tʂʰã³¹tʂʰoŋ³¹	387	ʈʂʰ ã ∼ ³¹ ʈʂʰ o ŋ ³¹	
+Hefei		the snake	730	730	ʂei⁵⁵	388	ʂ e i ⁵⁵	
+Yangzhou		the snake	730	730	ɕiɪ³⁴	388	ɕ i ɪ ³⁴	
+Suzhou		the snake	730	730	zo²⁴	388	z o ²⁴	
+Wenzhou		the snake	730	730	zei³¹	388	z e i ³¹	
+Changsha		the snake	730	730	sə¹³	388	s ə ¹³	
+Nanchang		the snake	730	730	sa⁵⁵	388	s a ⁵⁵	
+Meixian		the snake	730	730	sa¹²	388	s a ¹²	
+Guangzhou		the snake	730	730	ʃɛ²¹	388	ʃ ɛ ²¹	
+Yangjiang		the snake	730	730	ʃɛ⁴⁴³	388	ʃ ɛ ⁴⁴³	
+Xiamen		the snake	730	730	tsua²⁴	388	ts u a ²⁴	
+Chaozhou		the snake	730	730	tsua⁵⁵	388	ts u a ⁵⁵	
+Fuzhou		the snake	730	730	lau²⁴²₄₄lie⁵²	389	l a u ²⁴² l i e ⁵²	
+Beijing		the stallion (male horse)	936	936	kuŋ⁵⁵ma²¹⁴	317	k u ŋ ⁵⁵ m a ²¹⁴	
+Jinan		the stallion (male horse)	936	936	ɚ⁴²ma⁰	321	ə˞ ⁴² m a ⁰	
+Shenyang		the stallion (male horse)	936	936	ɚ³⁵ma²¹³₂₁tsɿ⁰	322	ə˞ ³⁵ m a ²¹³ ts ɿ ⁰	
+Xian		the stallion (male horse)	936	936	kuoŋ²¹mɑ⁵³	317	k u o ŋ ²¹ m ɑ ⁵³	
+Chengdu		the stallion (male horse)	936	936	koŋ⁴⁴ma⁵³	317	k o ŋ ⁴⁴ m a ⁵³	
+Kunming		the stallion (male horse)	936	936	koŋ⁴⁴ma⁵³	317	k o ŋ ⁴⁴ m a ⁵³	
+Hefei		the stallion (male horse)	936	936	kəŋ²¹²ma²⁴	317	k ə ŋ ²¹² m a ²⁴	
+Yangzhou		the stallion (male horse)	936	936	koŋ³¹mɑ⁴²	317	k o ŋ ³¹ m ɑ ⁴²	
+Suzhou		the stallion (male horse)	936	936	ioŋ²⁴₂₂mo³¹₃₃	323	i o ŋ ²⁴ m o ³¹	
+Wenzhou		the stallion (male horse)	936	936	ɦyoŋ³¹mo²⁴	323	ɦ y o ŋ ³¹ m o ²⁴	
+Changsha		the stallion (male horse)	936	936	kən³³tsɿ⁰	318	k ə n ³³ ts ɿ ⁰	
+Nanchang		the stallion (male horse)	936	936	kuŋ⁴²ma²¹³	317	k u ŋ ⁴² m a ²¹³	
+Meixian		the stallion (male horse)	936	936	ma⁴⁴ku³¹	320	m a ⁴⁴ k u ³¹	
+Guangzhou		the stallion (male horse)	936	936	ma²³kʊŋ⁵⁵	319	m a ²³ k ʊ ŋ ⁵⁵	
+Yangjiang		the stallion (male horse)	936	936	ma²¹kʊŋ³³	319	m a ²¹ k ʊ ŋ ³³	
+Xiamen		the stallion (male horse)	936	936	be⁵¹₅₅kaŋ⁵⁵	319	b e ⁵¹ k a ŋ ⁵⁵	
+Chaozhou		the stallion (male horse)	936	936	be⁵³₂₄kou⁵³₂₁	320	b e ⁵³ k o u ⁵³	
+Chaozhou		the stallion (male horse)	936	936	be⁵³₂₄kaŋ³³	319	b e ⁵³ k a ŋ ³³	
+Fuzhou		the stallion (male horse)	936	936	ma³¹øyŋ⁴⁴	319	m a ³¹ ø y ŋ ⁴⁴	
+Beijing		the stick	1295	1295	kuai²¹⁴₂₁kuənr⁵¹	566	k u a i ²¹⁴ k u ə n r ⁵¹	
+Jinan		the stick	1295	1295	kuɛ⁵⁵kuẽ²¹	566	k u ɛ ⁵⁵ k u ẽ ∼ ²¹	
+Shenyang		the stick	1295	1295	kuai²¹³₂₁kuənr⁴¹	566	k u a i ²¹³ k u ə n r ⁴¹	
+Xian		the stick	1295	1295	kuæ⁵³kuẽr⁴⁵	566	k u æ ⁵³ k u ẽ ∼ r ⁴⁵	
+Chengdu		the stick	1295	1295	kuai⁵³kuər¹³	566	k u a i ⁵³ k u ə r ¹³	
+Kunming		the stick	1295	1295	kuɛ⁵³kuə̃¹³	566	k u ɛ ⁵³ k u ə̃ ∼ ¹³	
+Hefei		the stick	1295	1295	kuɛ²⁴kun⁵³	566	k u ɛ ²⁴ k u n ⁵³	
+Yangzhou		the stick	1295	1295	kuɛ⁴²kuəŋ⁰	566	k u ɛ ⁴² k u ə ŋ ⁰	
+Suzhou		the stick	1295	1295	kuɒ⁴¹zaŋ³¹₂₄	567	k u ɒ ⁴¹ z a ŋ ³¹	
+Suzhou		the stick	1295	1295	sɿ⁴⁴tiɪʔ⁴₂₁kʰɤʔ⁴₂₁	569	s ɿ ⁴⁴ t i ɪ ʔ ⁴ kʰ ɤ ʔ ⁴	
+Wenzhou		the stick	1295	1295	buɔ²⁴tsɿ⁴²	570	b u ɔ ²⁴ ts ɿ ⁴²	
+Wenzhou		the stick	1295	1295	sɿ⁴⁴tei²³kʰɛ²³	569	s ɿ ⁴⁴ t e i ²³ kʰ ɛ ²³	
+Changsha		the stick	1295	1295	kuai⁴¹kuən⁵⁵	566	k u a i ⁴¹ k u ə n ⁵⁵	
+Nanchang		the stick	1295	1295	kuai²¹³kun⁵⁵	566	k u a i ²¹³ k u n ⁵⁵	
+Meixian		the stick	1295	1295	kat⁴ɛ³¹kun⁴²	571	k a t ⁴ ɛ ³¹ k u n ⁴²	
+Guangzhou		the stick	1295	1295	kwɐi³⁵tʃœŋ²²₃₅	567	k w ɐ i ³⁵ tʃ œ ŋ ²²	
+Guangzhou		the stick	1295	1295	ʃi²²tɪk⁵	572	ʃ i ²² t ɪ k ⁵	
+Yangjiang		the stick	1295	1295	ʃi⁴⁵⁴tɪk²⁴	572	ʃ i ⁴⁵⁴ t ɪ k ²⁴	
+Xiamen		the stick	1295	1295	tɔŋ³³₁₁kat³²	573	t ɔ ŋ ³³ k a t ³²	
+Chaozhou		the stick	1295	1295	tɔŋ³⁵₂₁kak²¹	573	t ɔ ŋ ³⁵ k a k ²¹	
+Fuzhou		the stick	1295	1295	ky⁵²₃₁øyŋ²⁴²	574	k y ⁵² ø y ŋ ²⁴²	
+Fuzhou		the stick	1295	1295	tuɔŋ²⁴²₃₁nuɔŋ²⁴²	568	t u ɔ ŋ ²⁴² n u ɔ ŋ ²⁴²	
+Beijing		the wood (material)	1803	1803	mu⁵¹tʰou⁰	607	m u ⁵¹ tʰ o u ⁰	
+Jinan		the wood (material)	1803	1803	mu²¹tʰou⁰	607	m u ²¹ tʰ o u ⁰	
+Shenyang		the wood (material)	1803	1803	mu⁴¹tʰou⁰	607	m u ⁴¹ tʰ o u ⁰	
+Xian		the wood (material)	1803	1803	mu²¹tʰou⁰	607	m u ²¹ tʰ o u ⁰	
+Chengdu		the wood (material)	1803	1803	mu³¹tʰəu³¹₄₄	607	m u ³¹ tʰ ə u ³¹	
+Kunming		the wood (material)	1803	1803	mu³¹tʰəu³¹₄₄	607	m u ³¹ tʰ ə u ³¹	
+Hefei		the wood (material)	1803	1803	məʔ⁴tʰɯ⁰	607	m ə ʔ ⁴ tʰ ɯ ⁰	
+Yangzhou		the wood (material)	1803	1803	mɔʔ⁴tʰɤɯ⁰	607	m ɔ ʔ ⁴ tʰ ɤ ɯ ⁰	
+Suzhou		the wood (material)	1803	1803	moʔ²³dʏ²⁴₂₁	607	m o ʔ ²³ d ʏ ²⁴	
+Wenzhou		the wood (material)	1803	1803	mo²³diu³¹	607	m o ²³ d i u ³¹	
+Changsha		the wood (material)	1803	1803	mo²⁴təu⁰	607	m o ²⁴ t ə u ⁰	
+Nanchang		the wood (material)	1803	1803	muk⁵tʰɛu²⁴	607	m u k ⁵ tʰ ɛ u ²⁴	
+Meixian		the wood (material)	1803	1803	muk²¹tʰɛu¹²	607	m u k ²¹ tʰ ɛ u ¹²	
+Guangzhou		the wood (material)	1803	1803	mʊk²	606	m ʊ k ²	
+Yangjiang		the wood (material)	1803	1803	mʊk⁴⁵⁴tʰɐu⁴⁴³	607	m ʊ k ⁴⁵⁴ tʰ ɐ u ⁴⁴³	
+Xiamen		the wood (material)	1803	1803	tsʰa²⁴₃₃tʰau²⁴	609	tsʰ a ²⁴ tʰ a u ²⁴	
+Chaozhou		the wood (material)	1803	1803	tsʰa⁵⁵	608	tsʰ a ⁵⁵	
+Fuzhou		the wood (material)	1803	1803	tsʰia⁵²₃₁lau⁵²	609	tsʰ i a ⁵² l a u ⁵²	
+Beijing		to cry (weep)	1839	1839	kʰu⁵⁵	1178	kʰ u ⁵⁵	
+Jinan		to cry (weep)	1839	1839	kʰu²¹³	1178	kʰ u ²¹³	
+Shenyang		to cry (weep)	1839	1839	kʰu³³	1178	kʰ u ³³	
+Xian		to cry (weep)	1839	1839	kʰu²¹	1178	kʰ u ²¹	
+Chengdu		to cry (weep)	1839	1839	kʰu³¹	1178	kʰ u ³¹	
+Kunming		to cry (weep)	1839	1839	kʰu³¹	1178	kʰ u ³¹	
+Hefei		to cry (weep)	1839	1839	kʰuɐʔ⁴	1178	kʰ u ɐ ʔ ⁴	
+Yangzhou		to cry (weep)	1839	1839	kʰɔʔ⁴	1178	kʰ ɔ ʔ ⁴	
+Suzhou		to cry (weep)	1839	1839	kʰoʔ⁴	1178	kʰ o ʔ ⁴	
+Wenzhou		to cry (weep)	1839	1839	kʰu²³	1178	kʰ u ²³	
+Changsha		to cry (weep)	1839	1839	kʰu²⁴	1178	kʰ u ²⁴	
+Nanchang		to cry (weep)	1839	1839	tɕiɛu⁵⁵	1179	tɕ i ɛ u ⁵⁵	
+Nanchang		to cry (weep)	1839	1839	kʰuk⁵	1178	kʰ u k ⁵	
+Meixian		to cry (weep)	1839	1839	kiau⁴²	1179	k i a u ⁴²	
+Guangzhou		to cry (weep)	1839	1839	hʊk⁵	1178	h ʊ k ⁵	
+Yangjiang		to cry (weep)	1839	1839	hʊk²⁴	1178	h ʊ k ²⁴	
+Xiamen		to cry (weep)	1839	1839	kʰiau¹¹	1180	kʰ i a u ¹¹	
+Xiamen		to cry (weep)	1839	1839	hau⁵¹	1181	h a u ⁵¹	
+Chaozhou		to cry (weep)	1839	1839	kʰau²¹³	1182	kʰ a u ²¹³	
+Fuzhou		to cry (weep)	1839	1839	tʰie⁵²	1183	tʰ i e ⁵²	
+Beijing		to hide (conceal)	2486	2486	tsʰaŋ³⁵	1134	tsʰ a ŋ ³⁵	
+Jinan		to hide (conceal)	2486	2486	tsʰaŋ⁴²	1134	tsʰ a ŋ ⁴²	
+Shenyang		to hide (conceal)	2486	2486	tsʰaŋ³⁵	1134	tsʰ a ŋ ³⁵	
+Shenyang		to hide (conceal)	2486	2486	mau³³	1135	m a u ³³	
+Xian		to hide (conceal)	2486	2486	tɕʰiɑŋ²⁴	1134	tɕʰ i ɑ ŋ ²⁴	
+Chengdu		to hide (conceal)	2486	2486	to⁵³	1136	t o ⁵³	
+Kunming		to hide (conceal)	2486	2486	tuo⁵³	1136	t u o ⁵³	
+Hefei		to hide (conceal)	2486	2486	tɕʰiɑ̃⁵⁵	1134	tɕʰ i ɑ̃ ∼ ⁵⁵	
+Yangzhou		to hide (conceal)	2486	2486	to⁴²	1136	t o ⁴²	
+Suzhou		to hide (conceal)	2486	2486	tø²⁴	1137	t ø ²⁴	
+Wenzhou		to hide (conceal)	2486	2486	ɕyo²³	1139	ɕ y o ²³	
+Changsha		to hide (conceal)	2486	2486	to⁴¹	1136	t o ⁴¹	
+Nanchang		to hide (conceal)	2486	2486	tɔ²¹³	1136	t ɔ ²¹³	
+Meixian		to hide (conceal)	2486	2486	kʰɔŋ⁴²	1140	kʰ ɔ ŋ ⁴²	
+Guangzhou		to hide (conceal)	2486	2486	nei²¹mai²¹	1141	n e i ²¹ m a i ²¹	
+Yangjiang		to hide (conceal)	2486	2486	nei²⁴	1142	n e i ²⁴	
+Yangjiang		to hide (conceal)	2486	2486	pʊk⁴⁵⁴	1143	p ʊ k ⁴⁵⁴	
+Xiamen		to hide (conceal)	2486	2486	kʰῃ¹¹	1140	kʰ ŋ̍ ¹¹	
+Xiamen		to hide (conceal)	2486	2486	biʔ³²	1144	b i ʔ ³²	
+Chaozhou		to hide (conceal)	2486	2486	tiəm²¹³	1145	t i ə m ²¹³	
+Chaozhou		to hide (conceal)	2486	2486	biʔ²¹	1144	b i ʔ ²¹	
+Fuzhou		to hide (conceal)	2486	2486	kʰouʔ²³	1146	kʰ o u ʔ ²³	
+Fuzhou		to hide (conceal)	2486	2486	miŋ⁴⁴	1147	m i ŋ ⁴⁴	
+Beijing		to hold	1448	1448	na³⁵	1063	n a ³⁵	
+Jinan		to hold	1448	1448	na⁴²	1063	n a ⁴²	
+Shenyang		to hold	1448	1448	na³⁵	1063	n a ³⁵	
+Xian		to hold	1448	1448	nɑ²⁴	1063	n ɑ ²⁴	
+Chengdu		to hold	1448	1448	na³¹	1063	n a ³¹	
+Kunming		to hold	1448	1448	na³¹	1063	n a ³¹	
+Hefei		to hold	1448	1448	na⁵⁵	1063	n a ⁵⁵	
+Yangzhou		to hold	1448	1448	lɑ³⁴	1063	l ɑ ³⁴	
+Suzhou		to hold	1448	1448	no²⁴	1063	n o ²⁴	
+Wenzhou		to hold	1448	1448	to⁴⁵	1065	t o ⁴⁵	
+Wenzhou		to hold	1448	1448	tso⁴⁵	1066	ts o ⁴⁵	
+Wenzhou		to hold	1448	1448	tɕyo²³	1067	tɕ y o ²³	
+Changsha		to hold	1448	1448	la³³	1063	l a ³³	
+Nanchang		to hold	1448	1448	lak⁵	1068	l a k ⁵	
+Meixian		to hold	1448	1448	na⁴⁴	1063	n a ⁴⁴	
+Guangzhou		to hold	1448	1448	lɔ³⁵	1069	l ɔ ³⁵	
+Guangzhou		to hold	1448	1448	nɪŋ⁵³	1070	n ɪ ŋ ⁵³	
+Yangjiang		to hold	1448	1448	nɪŋ²⁴	1070	n ɪ ŋ ²⁴	
+Xiamen		to hold	1448	1448	tʰeʔ⁵	1071	tʰ e ʔ ⁵	
+Chaozhou		to hold	1448	1448	kʰieʔ⁴	1072	kʰ i e ʔ ⁴	
+Fuzhou		to hold	1448	1448	nieŋ⁴⁴	1073	n i e ŋ ⁴⁴	
+Beijing		to lie down	215	215	tʰaŋ²¹⁴	1125	tʰ a ŋ ²¹⁴	
+Jinan		to lie down	215	215	tʰaŋ⁵⁵	1125	tʰ a ŋ ⁵⁵	
+Shenyang		to lie down	215	215	tʰaŋ²¹³	1125	tʰ a ŋ ²¹³	
+Xian		to lie down	215	215	tʰɑŋ⁵³	1125	tʰ ɑ ŋ ⁵³	
+Chengdu		to lie down	215	215	tʰaŋ⁵³	1125	tʰ a ŋ ⁵³	
+Kunming		to lie down	215	215	tʰã⁵³	1125	tʰ ã ∼ ⁵³	
+Hefei		to lie down	215	215	tʰɑ̃²⁴	1125	tʰ ɑ̃ ∼ ²⁴	
+Yangzhou		to lie down	215	215	tʰɑŋ⁴²	1125	tʰ ɑ ŋ ⁴²	
+Suzhou		to lie down	215	215	kʰuən⁵¹³	1126	kʰ u ə n ⁵¹³	
+Suzhou		to lie down	215	215	gɛ³¹	1127	g ɛ ³¹	
+Wenzhou		to lie down	215	215	fa⁴⁴	1128	f a ⁴⁴	
+Changsha		to lie down	215	215	tʰan⁴¹	1125	tʰ a n ⁴¹	
+Nanchang		to lie down	215	215	tʰɔŋ²¹³	1125	tʰ ɔ ŋ ²¹³	
+Meixian		to lie down	215	215	min¹²	1129	m i n ¹²	
+Guangzhou		to lie down	215	215	fɐn³³	1130	f ɐ n ³³	
+Yangjiang		to lie down	215	215	ʃui⁴⁵⁴	1131	ʃ u i ⁴⁵⁴	
+Xiamen		to lie down	215	215	to⁵¹	1132	t o ⁵¹	
+Chaozhou		to lie down	215	215	to⁵³	1132	t o ⁵³	
+Chaozhou		to lie down	215	215	kũã²¹³	1133	k ũ ã ∼ ²¹³	
+Fuzhou		to lie down	215	215	tɔ³¹	1132	t ɔ ³¹	
+Beijing		to marry (a man marries a woman)	2164	2164	tɕʰy²¹⁴₂₁ɕi³⁵fur⁰	1215	tɕʰ y ²¹⁴ ɕ i ³⁵ f u r ⁰	
+Jinan		to marry (a man marries a woman)	2164	2164	tɕʰy⁵⁵ɕi²¹fur⁰	1220	tɕʰ y ⁵⁵ ɕ i ²¹ f u r ⁰	
+Jinan		to marry (a man marries a woman)	2164	2164	tɕʰy⁵⁵tɕʰiẽ²¹³	1216	tɕʰ y ⁵⁵ tɕʰ i ẽ ∼ ²¹³	
+Shenyang		to marry (a man marries a woman)	2164	2164	tɕʰy²¹³₂₁ɕi³⁵fur⁰	1215	tɕʰ y ²¹³ ɕ i ³⁵ f u r ⁰	
+Xian		to marry (a man marries a woman)	2164	2164	tɕʰy⁵³ɕi²¹fur⁰	1215	tɕʰ y ⁵³ ɕ i ²¹ f u r ⁰	
+Chengdu		to marry (a man marries a woman)	2164	2164	tɕie³¹pʰo³¹ȵiaŋ³¹₄₄	1221	tɕ i e ³¹ pʰ o ³¹ nʲ i a ŋ ³¹	
+Kunming		to marry (a man marries a woman)	2164	2164	tʰau⁵³ɕi¹³fu¹³	1222	tʰ a u ⁵³ ɕ i ¹³ f u ¹³	
+Hefei		to marry (a man marries a woman)	2164	2164	tɕʰy²⁴tɕʰin²¹²	1216	tɕʰ y ²⁴ tɕʰ i n ²¹²	
+Hefei		to marry (a man marries a woman)	2164	2164	ʂɯ²¹²tɕʰin²¹²	1226	ʂ ɯ ²¹² tɕʰ i n ²¹²	
+Yangzhou		to marry (a man marries a woman)	2164	2164	tɕʰy⁴²tɕʰiŋ³¹	1216	tɕʰ y ⁴² tɕʰ i ŋ ³¹	
+Suzhou		to marry (a man marries a woman)	2164	2164	tsʰi⁴¹tsʰin⁴⁴₃₅	1216	tsʰ i ⁴¹ tsʰ i n ⁴⁴	
+Suzhou		to marry (a man marries a woman)	2164	2164	tʰæ⁴¹kɒ⁴⁴siæ⁴¹₂₁	1224	tʰ æ ⁴¹ k ɒ ⁴⁴ s i æ ⁴¹	
+Wenzhou		to marry (a man marries a woman)	2164	2164	tsʰau⁴⁵tsʰaŋ⁴⁴	1227	tsʰ a u ⁴⁵ tsʰ a ŋ ⁴⁴	
+Changsha		to marry (a man marries a woman)	2164	2164	tʰau⁴¹tɕʰin³³	1223	tʰ a u ⁴¹ tɕʰ i n ³³	
+Changsha		to marry (a man marries a woman)	2164	2164	səu³³tɕʰin³³	1226	s ə u ³³ tɕʰ i n ³³	
+Nanchang		to marry (a man marries a woman)	2164	2164	tɕʰy²¹³tɕʰin⁴²	1216	tɕʰ y ²¹³ tɕʰ i n ⁴²	
+Nanchang		to marry (a man marries a woman)	2164	2164	tʰau²¹³lau²¹³pʰɔ²⁴	1225	tʰ a u ²¹³ l a u ²¹³ pʰ ɔ ²⁴	
+Meixian		to marry (a man marries a woman)	2164	2164	tʰau³¹lau³¹pʰɔ¹²	1225	tʰ a u ³¹ l a u ³¹ pʰ ɔ ¹²	
+Guangzhou		to marry (a man marries a woman)	2164	2164	tʃʰøy³⁵lou²³pʰɔ²¹	1217	tʃʰ ø y ³⁵ l o u ²³ pʰ ɔ ²¹	
+Yangjiang		to marry (a man marries a woman)	2164	2164	lɔ²¹lɔu²¹pʰɔ⁴⁴³	1228	l ɔ ²¹ l ɔ u ²¹ pʰ ɔ ⁴⁴³	
+Xiamen		to marry (a man marries a woman)	2164	2164	tsʰua³³₁₁bɔ⁵¹	1218	tsʰ u a ³³ b ɔ ⁵¹	
+Xiamen		to marry (a man marries a woman)	2164	2164	tsʰua³³₁₁laŋ²⁴	1219	tsʰ u a ³³ l a ŋ ²⁴	
+Chaozhou		to marry (a man marries a woman)	2164	2164	tsʰua¹¹₁₂bou⁵³	1218	tsʰ u a ¹¹ b o u ⁵³	
+Fuzhou		to marry (a man marries a woman)	2164	2164	tʰɔ³¹ziŋ⁴⁴	1223	tʰ ɔ ³¹ z i ŋ ⁴⁴	
+Beijing		to rainbow	1733	1733	kaŋ⁵¹	425	k a ŋ ⁵¹	
+Jinan		to rainbow	1733	1733	tɕiaŋ²¹	425	tɕ i a ŋ ²¹	
+Shenyang		to rainbow	1733	1733	kaŋ⁴¹	425	k a ŋ ⁴¹	
+Xian		to rainbow	1733	1733	tɕiɑŋ⁴⁵	425	tɕ i ɑ ŋ ⁴⁵	
+Chengdu		to rainbow	1733	1733	kaŋ¹³	425	k a ŋ ¹³	
+Kunming		to rainbow	1733	1733	kã¹³	425	k ã ∼ ¹³	
+Yangzhou		to rainbow	1733	1733	kɑŋ⁵⁵	425	k ɑ ŋ ⁵⁵	
+Suzhou		to rainbow	1733	1733	hʏ⁵¹³	426	h ʏ ⁵¹³	
+Suzhou		to rainbow	1733	1733	kɒŋ⁵¹³	425	k ɒ ŋ ⁵¹³	
+Wenzhou		to rainbow	1733	1733	hau⁴²	426	h a u ⁴²	
+Changsha		to rainbow	1733	1733	kan⁵⁵	425	k a n ⁵⁵	
+Nanchang		to rainbow	1733	1733	kɔŋ⁵⁵	425	k ɔ ŋ ⁵⁵	
+Meixian		to rainbow	1733	1733	kʰiuŋ⁴²	425	kʰ i u ŋ ⁴²	
+Guangzhou		to rainbow	1733	1733	kɔŋ³³	425	k ɔ ŋ ³³	
+Yangjiang		to rainbow	1733	1733	pʰɔ²⁴pʰʊŋ⁴⁴³	427	pʰ ɔ ²⁴ pʰ ʊ ŋ ⁴⁴³	
+Yangjiang		to rainbow	1733	1733	wɔk⁴⁵⁴ji²¹	428	w ɔ k ⁴⁵⁴ j i ²¹	
+Xiamen		to rainbow	1733	1733	kʰiŋ³³	425	kʰ i ŋ ³³	
+Chaozhou		to rainbow	1733	1733	kʰeŋ³⁵	425	kʰ e ŋ ³⁵	
+Fuzhou		to rainbow	1733	1733	kʰøyŋ²⁴²	425	kʰ ø y ŋ ²⁴²	
+Hefei		to rainbow	1733	1733	tɕiɑ̃⁵³	425	tɕ i ɑ̃ ∼ ⁵³	
+Beijing		to scratch	1436	1436	nau³⁵iaŋ²¹⁴	21	n a u ³⁵ i a ŋ ²¹⁴	
+Beijing		to scratch	1436	1436	kʰuai²¹⁴₃₅iaŋ²¹⁴	22	kʰ u a i ²¹⁴ i a ŋ ²¹⁴	
+Jinan		to scratch	1436	1436	kʰuɛ⁵⁵iaŋ⁵⁵iaŋ⁰	23	kʰ u ɛ ⁵⁵ i a ŋ ⁵⁵ i a ŋ ⁰	
+Shenyang		to scratch	1436	1436	nau³⁵iaŋ²¹³	21	n a u ³⁵ i a ŋ ²¹³	
+Xian		to scratch	1436	1436	tsɑu²¹iɑŋ⁵³	24	ts ɑ u ²¹ i ɑ ŋ ⁵³	
+Chengdu		to scratch	1436	1436	kʰəu⁴⁴iaŋ⁵³	25	kʰ ə u ⁴⁴ i a ŋ ⁵³	
+Kunming		to scratch	1436	1436	tʂua⁴⁴iã⁵³	24	ʈʂ u a ⁴⁴ i ã ∼ ⁵³	
+Hefei		to scratch	1436	1436	tʂua²¹²iɑ̃²⁴	24	ʈʂ u a ²¹² i ɑ̃ ∼ ²⁴	
+Yangzhou		to scratch	1436	1436	tsuɑ³¹iɑŋ⁴²	24	ts u ɑ ³¹ i ɑ ŋ ⁴²	
+Suzhou		to scratch	1436	1436	tsæ⁴⁴iaŋ³¹	26	ts æ ⁴⁴ i a ŋ ³¹	
+Wenzhou		to scratch	1436	1436	bo³¹ɦi²⁴	27	b o ³¹ ɦ i ²⁴	
+Changsha		to scratch	1436	1436	tɕya³³ian⁴¹	24	tɕ y a ³³ i a n ⁴¹	
+Nanchang		to scratch	1436	1436	tsɛ⁴²iɔŋ²¹³	26	ts ɛ ⁴² i ɔ ŋ ²¹³	
+Meixian		to scratch	1436	1436	ja³¹jɔŋ⁴¹	28	j a ³¹ j ɔ ŋ ⁴¹	
+Guangzhou		to scratch	1436	1436	ŋɐu⁵³hɐn²²	29	ŋ ɐ u ⁵³ h ɐ n ²²	
+Yangjiang		to scratch	1436	1436	jɐu³³jiɛŋ²¹	30	j ɐ u ³³ j i ɛ ŋ ²¹	
+Xiamen		to scratch	1436	1436	pe³³tsĩũ³³	27	p e ³³ ts ĩ ũ ∼ ³³	
+Chaozhou		to scratch	1436	1436	pe⁵⁵₂₁₃tsĩẽ³⁵	27	p e ⁵⁵ ts ĩ ẽ ∼ ³⁵	
+Fuzhou		to scratch	1436	1436	pa⁵²₃₁louŋ²⁴²	27	p a ⁵² l o u ŋ ²⁴²	
+Beijing		to sleep	1585	1585	ʂuei⁵¹tɕiau⁵¹	10	ʂ u e i ⁵¹ tɕ i a u ⁵¹	
+Jinan		to sleep	1585	1585	ʂuei²¹tɕiɔ²¹	10	ʂ u e i ²¹ tɕ i ɔ ²¹	
+Shenyang		to sleep	1585	1585	suei⁴¹tɕiau⁴¹	10	s u e i ⁴¹ tɕ i a u ⁴¹	
+Xian		to sleep	1585	1585	fei⁴⁵tɕiɑu⁴⁵	10	f e i ⁴⁵ tɕ i ɑ u ⁴⁵	
+Xian		to sleep	1585	1585	kʰə²¹fei⁰	13	kʰ ə ²¹ f e i ⁰	
+Chengdu		to sleep	1585	1585	suei¹³kʰo³¹suei¹³	11	s u e i ¹³ kʰ o ³¹ s u e i ¹³	
+Kunming		to sleep	1585	1585	ʂue¹³tɕiau¹³	10	ʂ u e ¹³ tɕ i a u ¹³	
+Hefei		to sleep	1585	1585	ʂui⁵³tɕiɔ⁵³	10	ʂ u i ⁵³ tɕ i ɔ ⁵³	
+Yangzhou		to sleep	1585	1585	suəi⁵⁵kɔ⁵⁵	10	s u ə i ⁵⁵ k ɔ ⁵⁵	
+Suzhou		to sleep	1585	1585	kʰuən⁵¹³₄₄kæ⁵¹³₂₁	15	kʰ u ə n ⁵¹³ k æ ⁵¹³	
+Wenzhou		to sleep	1585	1585	kʰy⁴²	14	kʰ y ⁴²	
+Changsha		to sleep	1585	1585	kʰuən⁵⁵kau⁵⁵	15	kʰ u ə n ⁵⁵ k a u ⁵⁵	
+Nanchang		to sleep	1585	1585	kʰun²¹³kau⁵⁵	15	kʰ u n ²¹³ k a u ⁵⁵	
+Meixian		to sleep	1585	1585	sɔi⁴²muk²¹	12	s ɔ i ⁴² m u k ²¹	
+Guangzhou		to sleep	1585	1585	fɐn³³kau³³	17	f ɐ n ³³ k a u ³³	
+Yangjiang		to sleep	1585	1585	fɐn²⁴	16	f ɐ n ²⁴	
+Xiamen		to sleep	1585	1585	kʰun¹¹	14	kʰ u n ¹¹	
+Xiamen		to sleep	1585	1585	ka⁵⁵₃₃tsue³³	18	k a ⁵⁵ ts u e ³³	
+Chaozhou		to sleep	1585	1585	uk⁴	19	u k ⁴	
+Chaozhou		to sleep	1585	1585	ĩ⁵⁵	20	ĩ ∼ ⁵⁵	
+Fuzhou		to sleep	1585	1585	kʰouŋ²¹³	14	kʰ o u ŋ ²¹³	
+Beijing		to stand	1442	1442	tʂan⁵¹	1121	ʈʂ a n ⁵¹	
+Jinan		to stand	1442	1442	tʂæ̃²¹	1121	ʈʂ æ̃ ∼ ²¹	
+Shenyang		to stand	1442	1442	tsan⁴¹	1121	ts a n ⁴¹	
+Xian		to stand	1442	1442	tsæ̃⁴⁵	1121	ts æ̃ ∼ ⁴⁵	
+Chengdu		to stand	1442	1442	tsan¹³	1121	ts a n ¹³	
+Kunming		to stand	1442	1442	tʂã¹³	1121	ʈʂ ã ∼ ¹³	
+Hefei		to stand	1442	1442	tʂæ̃⁵³	1121	ʈʂ æ̃ ∼ ⁵³	
+Yangzhou		to stand	1442	1442	tsɛ̃⁵⁵	1121	ts ɛ̃ ∼ ⁵⁵	
+Suzhou		to stand	1442	1442	liɪʔ²³	1122	l i ɪ ʔ ²³	
+Wenzhou		to stand	1442	1442	gɛ²⁴	1123	g ɛ ²⁴	
+Changsha		to stand	1442	1442	tsan²¹	1121	ts a n ²¹	
+Nanchang		to stand	1442	1442	tsan⁵⁵	1121	ts a n ⁵⁵	
+Nanchang		to stand	1442	1442	tɕʰi³¹	1124	tɕʰ i ³¹	
+Meixian		to stand	1442	1442	kʰi⁴⁴	1124	kʰ i ⁴⁴	
+Guangzhou		to stand	1442	1442	kʰei²³	1124	kʰ e i ²³	
+Yangjiang		to stand	1442	1442	kʰei²¹	1124	kʰ e i ²¹	
+Xiamen		to stand	1442	1442	kʰia³³	1124	kʰ i a ³³	
+Chaozhou		to stand	1442	1442	kʰia³⁵	1124	kʰ i a ³⁵	
+Fuzhou		to stand	1442	1442	kʰie²⁴²	1124	kʰ i e ²⁴²	

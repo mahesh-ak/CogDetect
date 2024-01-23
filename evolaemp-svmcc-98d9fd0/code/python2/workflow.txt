@@ -1,0 +1,74 @@
+!!! Note that the scripts in this folder expect Python2!!!
+
+
+python prepareData.py
+---------------------
+  This script collects pieces of information from the original word lists,
+  from output/samples and from output/targets, computes the values for feature 7
+  and combines every into a dataframe with the columns
+  - gloss
+  - l1 (language 1)
+  - w1 (word 1)
+  - l2
+  - w2
+  - cc1 (goldstandard cognate class of word 1)
+  - cc2 (goldstandard cognate class of word 2)
+  - feature1,...,feature7
+  - u'lexstat_simAA', u'lexstat_simBB', u'lexstat_simAB', (lexstat similarities 
+    between word 1 and itself, word 2 and itself, and between word 1 and word 2)
+  - db (name of the database where the two items come from)
+  
+  The result is written into two csv files, trainingData.csv and testData.csv.
+
+  requirements:
+  - numpy
+  - pandas
+  - collections
+  - re
+
+
+python svmInference.py
+----------------------
+  This script reads the vectors from trainingData.csv and testData.csv
+  and performs SVM-based automatic cognate detection as described in the paper.
+  For each dataset db from the training data, the SVM is trained with the 
+  all training data not from db. For test data, all training data are used
+  for training the SVM
+
+  The script expects a dictionary "./inferredCC", and it writes for each datasets
+  a word list with both goldstandard cognate class assignments and automatically 
+  inferred class labels into this directory. These wordlists are stored as
+  csv files with the column names
+  - db (name of the dataset)
+  - concept (a.k.a. gloss)
+  - doculect (a.k.a. language)
+  - counterpart (a.k.a. word)
+  - fullCC (goldstandard cognate class labels, combined with concept name
+    to avoid identical names across concepts)
+  - inferredCC (automatically inferred cluster labels)
+
+  requirements:
+  - numpy
+  - pandas
+  - sklearn
+  - multiprocessing
+  - igraph
+  - collections
+
+python lexstatClustering.py
+---------------------------
+  This script first reads in the word lists in 'sets/.../output', brings them
+  into a format LingPy understands (including tokenization), and writes them into
+  the directories 'reformattedData/ipa' or 'reformattedData/asjp', depending
+  on the transcription format.
+  Then the script performs LexStat cognate recognition with infomap clustering
+  and writes the results into the directory 'lexstatCC_IM'.
+  
+  requirements:
+  - numpy
+  - igraph
+  - codecs
+  - re
+  - pandas
+  - lingpy
+  - sklearn

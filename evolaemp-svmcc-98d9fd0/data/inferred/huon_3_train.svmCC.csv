@@ -1,0 +1,210 @@
+db,concept,doculect,counterpart,fullCC,inferredCC
+huon_3_train,(its) hair,Borong,dzui,huon_3_train:(its) hair:8000,huon_3_train:(its) hair:1
+huon_3_train,(its) hair,Komba,samot,huon_3_train:(its) hair:8002,huon_3_train:(its) hair:2
+huon_3_train,(its) hair,Kube,dzu,huon_3_train:(its) hair:8000,huon_3_train:(its) hair:1
+huon_3_train,(its) hair,Mape,kaŋdzaŋ,huon_3_train:(its) hair:14008,huon_3_train:(its) hair:3
+huon_3_train,(its) hair,Mesem,dzup,huon_3_train:(its) hair:8000,huon_3_train:(its) hair:1
+huon_3_train,(its) hair,Nabak,dzup,huon_3_train:(its) hair:8000,huon_3_train:(its) hair:1
+huon_3_train,(its) hair,Ono,dzou,huon_3_train:(its) hair:8000,huon_3_train:(its) hair:1
+huon_3_train,(its) hair,Selepet,somot,huon_3_train:(its) hair:8002,huon_3_train:(its) hair:2
+huon_3_train,(its) hair,Somba-Siawari (Burum Dialect),dzup,huon_3_train:(its) hair:8000,huon_3_train:(its) hair:1
+huon_3_train,(its) hair,Somba-Siawari (Mindik Dialect),dzup,huon_3_train:(its) hair:8000,huon_3_train:(its) hair:1
+huon_3_train,(its) hair,Timbe,dumut,huon_3_train:(its) hair:8002,huon_3_train:(its) hair:2
+huon_3_train,(its) hair,Tobo,dzu,huon_3_train:(its) hair:8000,huon_3_train:(its) hair:1
+huon_3_train,I,Borong,ni,huon_3_train:I:7844,huon_3_train:I:1
+huon_3_train,I,Dedua,ni,huon_3_train:I:7844,huon_3_train:I:1
+huon_3_train,I,Kate,no,huon_3_train:I:7845,huon_3_train:I:1
+huon_3_train,I,Komba,na,huon_3_train:I:7845,huon_3_train:I:1
+huon_3_train,I,Kube,ni,huon_3_train:I:7844,huon_3_train:I:1
+huon_3_train,I,Mape,no,huon_3_train:I:7845,huon_3_train:I:1
+huon_3_train,I,Mesem,na,huon_3_train:I:7845,huon_3_train:I:1
+huon_3_train,I,Nabak,nəŋ,huon_3_train:I:7845,huon_3_train:I:1
+huon_3_train,I,Ono,na,huon_3_train:I:7845,huon_3_train:I:1
+huon_3_train,I,Selepet,na,huon_3_train:I:7845,huon_3_train:I:1
+huon_3_train,I,Somba-Siawari (Burum Dialect),ni,huon_3_train:I:7844,huon_3_train:I:1
+huon_3_train,I,Somba-Siawari (Mindik Dialect),ni,huon_3_train:I:7844,huon_3_train:I:1
+huon_3_train,I,Timbe,na,huon_3_train:I:7845,huon_3_train:I:1
+huon_3_train,I,Tobo,ni,huon_3_train:I:7844,huon_3_train:I:1
+huon_3_train,(its) heart,Borong,bakota,huon_3_train:(its) heart:13949,huon_3_train:(its) heart:10
+huon_3_train,(its) heart,Dedua,woso_honduŋ,huon_3_train:(its) heart:13958,huon_3_train:(its) heart:2
+huon_3_train,(its) heart,Kate,bu_handaŋ,huon_3_train:(its) heart:13756,huon_3_train:(its) heart:2
+huon_3_train,(its) heart,Kube,weboɡokme,huon_3_train:(its) heart:13711,huon_3_train:(its) heart:9
+huon_3_train,(its) heart,Mape,maki_karuŋ,huon_3_train:(its) heart:14011,huon_3_train:(its) heart:8
+huon_3_train,(its) heart,Mesem,wembə_kət,huon_3_train:(its) heart:13719,huon_3_train:(its) heart:7
+huon_3_train,(its) heart,Nabak,ɡum_kət,huon_3_train:(its) heart:14074,huon_3_train:(its) heart:6
+huon_3_train,(its) heart,Ono,kombaŋi,huon_3_train:(its) heart:13806,huon_3_train:(its) heart:5
+huon_3_train,(its) heart,Selepet,kabiam,huon_3_train:(its) heart:7987,huon_3_train:(its) heart:4
+huon_3_train,(its) heart,Somba-Siawari (Burum Dialect),wel_bat,huon_3_train:(its) heart:7984,huon_3_train:(its) heart:1
+huon_3_train,(its) heart,Somba-Siawari (Mindik Dialect),wel_bat,huon_3_train:(its) heart:7984,huon_3_train:(its) heart:1
+huon_3_train,(its) heart,Timbe,okot,huon_3_train:(its) heart:14056,huon_3_train:(its) heart:3
+huon_3_train,(its) heart,Tobo,wei_bat,huon_3_train:(its) heart:7984,huon_3_train:(its) heart:1
+huon_3_train,new,Borong,ɡbilia,huon_3_train:new:7815,huon_3_train:new:1
+huon_3_train,new,Dedua,ɡboria,huon_3_train:new:7815,huon_3_train:new:1
+huon_3_train,new,Kate,ɡbaricne,huon_3_train:new:7815,huon_3_train:new:1
+huon_3_train,new,Komba,irakŋa,huon_3_train:new:7816,huon_3_train:new:2
+huon_3_train,new,Kube,ɡberia,huon_3_train:new:7815,huon_3_train:new:1
+huon_3_train,new,Mape,ɡbaine,huon_3_train:new:7815,huon_3_train:new:3
+huon_3_train,new,Mesem,ɡorəŋ,huon_3_train:new:13690,huon_3_train:new:5
+huon_3_train,new,Nabak,arakŋəŋ,huon_3_train:new:7816,huon_3_train:new:2
+huon_3_train,new,Ono,wele,huon_3_train:new:13797,huon_3_train:new:4
+huon_3_train,new,Selepet,aiŋe,huon_3_train:new:13908,huon_3_train:new:3
+huon_3_train,new,Somba-Siawari (Burum Dialect),dalakŋi,huon_3_train:new:7816,huon_3_train:new:2
+huon_3_train,new,Somba-Siawari (Mindik Dialect),dalakŋi,huon_3_train:new:7816,huon_3_train:new:2
+huon_3_train,new,Timbe,irakŋe,huon_3_train:new:7816,huon_3_train:new:2
+huon_3_train,new,Tobo,ɡbilik,huon_3_train:new:7815,huon_3_train:new:1
+huon_3_train,(its) eye,Borong,dzaː,huon_3_train:(its) eye:7863,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Kate,dzaŋe,huon_3_train:(its) eye:7865,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Komba,si,huon_3_train:(its) eye:7863,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Kube,kiwa,huon_3_train:(its) eye:7864,huon_3_train:(its) eye:2
+huon_3_train,(its) eye,Mesem,dzi,huon_3_train:(its) eye:7863,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Nabak,dzi,huon_3_train:(its) eye:7863,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Ono,dei,huon_3_train:(its) eye:7863,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Selepet,sen,huon_3_train:(its) eye:7863,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Somba-Siawari (Burum Dialect),dze,huon_3_train:(its) eye:7863,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Somba-Siawari (Mindik Dialect),dze,huon_3_train:(its) eye:7863,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Timbe,dewun,huon_3_train:(its) eye:14052,huon_3_train:(its) eye:1
+huon_3_train,(its) eye,Tobo,kpat,huon_3_train:(its) eye:13891,huon_3_train:(its) eye:3
+huon_3_train,(he) counts,Borong,weːŋɡo,huon_3_train:(he) counts:13994,huon_3_train:(he) counts:4
+huon_3_train,(he) counts,Nabak,makundzi,huon_3_train:(he) counts:13733,huon_3_train:(he) counts:3
+huon_3_train,(he) counts,Ono,dapori,huon_3_train:(he) counts:13778,huon_3_train:(he) counts:2
+huon_3_train,(he) counts,Selepet,saliku,huon_3_train:(he) counts:7696,huon_3_train:(he) counts:5
+huon_3_train,(he) counts,Somba-Siawari (Burum Dialect),ojen,huon_3_train:(he) counts:7698,huon_3_train:(he) counts:1
+huon_3_train,(he) counts,Somba-Siawari (Mindik Dialect),ojon,huon_3_train:(he) counts:7698,huon_3_train:(he) counts:1
+huon_3_train,(he) counts,Timbe,ojaŋ,huon_3_train:(he) counts:7698,huon_3_train:(he) counts:1
+huon_3_train,(he) counts,Tobo,ojon,huon_3_train:(he) counts:7698,huon_3_train:(he) counts:1
+huon_3_train,(he) stands,Borong,nan ,huon_3_train:(he) stands:7670,huon_3_train:(he) stands:2
+huon_3_train,(he) stands,Dedua,nan ,huon_3_train:(he) stands:7670,huon_3_train:(he) stands:2
+huon_3_train,(he) stands,Kate,doma,huon_3_train:(he) stands:7671,huon_3_train:(he) stands:3
+huon_3_train,(he) stands,Komba,kin,huon_3_train:(he) stands:7669,huon_3_train:(he) stands:1
+huon_3_train,(he) stands,Kube,nan ,huon_3_train:(he) stands:7670,huon_3_train:(he) stands:2
+huon_3_train,(he) stands,Mape,dimi,huon_3_train:(he) stands:7671,huon_3_train:(he) stands:3
+huon_3_train,(he) stands,Nabak,ta,huon_3_train:(he) stands:7672,huon_3_train:(he) stands:5
+huon_3_train,(he) stands,Ono,okore,huon_3_train:(he) stands:14088,huon_3_train:(he) stands:4
+huon_3_train,(he) stands,Selepet,kin,huon_3_train:(he) stands:7669,huon_3_train:(he) stands:1
+huon_3_train,(he) stands,Somba-Siawari (Burum Dialect),kin,huon_3_train:(he) stands:7669,huon_3_train:(he) stands:1
+huon_3_train,(he) stands,Somba-Siawari (Mindik Dialect),kin,huon_3_train:(he) stands:7669,huon_3_train:(he) stands:1
+huon_3_train,(he) stands,Timbe,kin,huon_3_train:(he) stands:7669,huon_3_train:(he) stands:1
+huon_3_train,(he) stands,Tobo,nan ,huon_3_train:(he) stands:7670,huon_3_train:(he) stands:2
+huon_3_train,(he) pushes,Dedua,tuŋɡe,huon_3_train:(he) pushes:7875,huon_3_train:(he) pushes:2
+huon_3_train,(he) pushes,Kate,tuŋke,huon_3_train:(he) pushes:7875,huon_3_train:(he) pushes:2
+huon_3_train,(he) pushes,Komba,maːti,huon_3_train:(he) pushes:13867,huon_3_train:(he) pushes:10
+huon_3_train,(he) pushes,Kube,iɡokɡe,huon_3_train:(he) pushes:13707,huon_3_train:(he) pushes:9
+huon_3_train,(he) pushes,Mesem,otəɡə,huon_3_train:(he) pushes:13695,huon_3_train:(he) pushes:8
+huon_3_train,(he) pushes,Nabak,ɔtɔpe,huon_3_train:(he) pushes:13982,huon_3_train:(he) pushes:7
+huon_3_train,(he) pushes,Ono,bira,huon_3_train:(he) pushes:13940,huon_3_train:(he) pushes:6
+huon_3_train,(he) pushes,Selepet,hapun,huon_3_train:(he) pushes:13967,huon_3_train:(he) pushes:5
+huon_3_train,(he) pushes,Somba-Siawari (Burum Dialect),kpetalian,huon_3_train:(he) pushes:13698,huon_3_train:(he) pushes:1
+huon_3_train,(he) pushes,Somba-Siawari (Mindik Dialect),meakpo,huon_3_train:(he) pushes:13877,huon_3_train:(he) pushes:4
+huon_3_train,(he) pushes,Timbe,hokok,huon_3_train:(he) pushes:14041,huon_3_train:(he) pushes:3
+huon_3_train,(he) pushes,Tobo,kpeati,huon_3_train:(he) pushes:13674,huon_3_train:(he) pushes:1
+huon_3_train,(he) pulls,Dedua,tae,huon_3_train:(he) pulls:13955,huon_3_train:(he) pulls:2
+huon_3_train,(he) pulls,Kate,fare,huon_3_train:(he) pulls:7680,huon_3_train:(he) pulls:1
+huon_3_train,(he) pulls,Komba,oloŋ,huon_3_train:(he) pulls:7811,huon_3_train:(he) pulls:3
+huon_3_train,(he) pulls,Kube,feɡle,huon_3_train:(he) pulls:13709,huon_3_train:(he) pulls:1
+huon_3_train,(he) pulls,Mape,furuɡa,huon_3_train:(he) pulls:7680,huon_3_train:(he) pulls:4
+huon_3_train,(he) pulls,Mesem,menda,huon_3_train:(he) pulls:7679,huon_3_train:(he) pulls:2
+huon_3_train,(he) pulls,Nabak,mandai,huon_3_train:(he) pulls:7679,huon_3_train:(he) pulls:2
+huon_3_train,(he) pulls,Ono,woraŋ,huon_3_train:(he) pulls:7811,huon_3_train:(he) pulls:3
+huon_3_train,(he) pulls,Selepet,dai,huon_3_train:(he) pulls:13966,huon_3_train:(he) pulls:2
+huon_3_train,(he) pulls,Somba-Siawari (Burum Dialect),ara,huon_3_train:(he) pulls:7811,huon_3_train:(he) pulls:1
+huon_3_train,(he) pulls,Somba-Siawari (Mindik Dialect),hara,huon_3_train:(he) pulls:7811,huon_3_train:(he) pulls:1
+huon_3_train,(he) pulls,Timbe,oloŋak,huon_3_train:(he) pulls:7811,huon_3_train:(he) pulls:3
+huon_3_train,(he) pulls,Tobo,masal,huon_3_train:(he) pulls:13671,huon_3_train:(he) pulls:5
+huon_3_train,man,Borong,edzak,huon_3_train:man:13995,huon_3_train:man:4
+huon_3_train,man,Dedua,ŋik,huon_3_train:man:7700,huon_3_train:man:1
+huon_3_train,man,Kate,ŋic,huon_3_train:man:7700,huon_3_train:man:1
+huon_3_train,man,Kube,ik,huon_3_train:man:7700,huon_3_train:man:1
+huon_3_train,man,Mape,ŋik,huon_3_train:man:7700,huon_3_train:man:1
+huon_3_train,man,Mesem,a,huon_3_train:man:7701,huon_3_train:man:3
+huon_3_train,man,Nabak,an,huon_3_train:man:7701,huon_3_train:man:3
+huon_3_train,man,Ono,ŋei,huon_3_train:man:7700,huon_3_train:man:1
+huon_3_train,man,Selepet,lok,huon_3_train:man:7702,huon_3_train:man:2
+huon_3_train,man,Somba-Siawari (Burum Dialect),atsi,huon_3_train:man:13701,huon_3_train:man:7
+huon_3_train,man,Somba-Siawari (Mindik Dialect),aiwi,huon_3_train:man:13832,huon_3_train:man:6
+huon_3_train,man,Timbe,luak,huon_3_train:man:7702,huon_3_train:man:2
+huon_3_train,man,Tobo,ip,huon_3_train:man:7700,huon_3_train:man:5
+huon_3_train,red,Borong,osoɡa,huon_3_train:red:13947,huon_3_train:red:5
+huon_3_train,red,Dedua,sak_sak,huon_3_train:red:14036,huon_3_train:red:10
+huon_3_train,red,Komba,kuriŋ,huon_3_train:red:7803,huon_3_train:red:2
+huon_3_train,red,Kube,pesia,huon_3_train:red:7802,huon_3_train:red:3
+huon_3_train,red,Mape,babaroŋ,huon_3_train:red:7801,huon_3_train:red:9
+huon_3_train,red,Mesem,kukŋ,huon_3_train:red:13696,huon_3_train:red:8
+huon_3_train,red,Nabak,ŋaməŋ,huon_3_train:red:13662,huon_3_train:red:7
+huon_3_train,red,Ono,weŋemka,huon_3_train:red:13790,huon_3_train:red:4
+huon_3_train,red,Selepet,kuriŋ,huon_3_train:red:7803,huon_3_train:red:2
+huon_3_train,red,Somba-Siawari (Burum Dialect),pisikŋi,huon_3_train:red:7802,huon_3_train:red:1
+huon_3_train,red,Somba-Siawari (Mindik Dialect),pasikŋi,huon_3_train:red:7802,huon_3_train:red:1
+huon_3_train,red,Timbe,ɡilamŋe,huon_3_train:red:14058,huon_3_train:red:6
+huon_3_train,red,Tobo,pasaha,huon_3_train:red:7802,huon_3_train:red:3
+huon_3_train,left (side),Dedua,kana,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,left (side),Komba,kane,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,left (side),Mape,kpana,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,left (side),Mesem,kana,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,left (side),Nabak,kanen,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,left (side),Ono,wesi,huon_3_train:left (side):13944,huon_3_train:left (side):2
+huon_3_train,left (side),Selepet,kane,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,left (side),Somba-Siawari (Burum Dialect),kpani,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,left (side),Somba-Siawari (Mindik Dialect),kani,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,left (side),Timbe,kane,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,left (side),Tobo,kpana,huon_3_train:left (side):7714,huon_3_train:left (side):1
+huon_3_train,road,Dedua,siŋ,huon_3_train:road:13953,huon_3_train:road:8
+huon_3_train,road,Kate,hata,huon_3_train:road:14024,huon_3_train:road:2
+huon_3_train,road,Komba,matap,huon_3_train:road:13766,huon_3_train:road:2
+huon_3_train,road,Kube,hena,huon_3_train:road:8038,huon_3_train:road:1
+huon_3_train,road,Mape,kari,huon_3_train:road:14110,huon_3_train:road:7
+huon_3_train,road,Mesem,kə,huon_3_train:road:8038,huon_3_train:road:6
+huon_3_train,road,Nabak,set,huon_3_train:road:13981,huon_3_train:road:5
+huon_3_train,road,Ono,numa,huon_3_train:road:13926,huon_3_train:road:4
+huon_3_train,road,Selepet,ɡiop,huon_3_train:road:13914,huon_3_train:road:3
+huon_3_train,road,Somba-Siawari (Burum Dialect),kana,huon_3_train:road:8038,huon_3_train:road:1
+huon_3_train,road,Somba-Siawari (Mindik Dialect),kana,huon_3_train:road:8038,huon_3_train:road:1
+huon_3_train,road,Timbe,dap,huon_3_train:road:13856,huon_3_train:road:2
+huon_3_train,road,Tobo,kana,huon_3_train:road:8038,huon_3_train:road:1
+huon_3_train,sand,Dedua,moŋɡeŋ,huon_3_train:sand:7833,huon_3_train:sand:2
+huon_3_train,sand,Kate,moŋɡeŋ,huon_3_train:sand:7833,huon_3_train:sand:2
+huon_3_train,sand,Kube,sakesa,huon_3_train:sand:7832,huon_3_train:sand:1
+huon_3_train,sand,Mape,maɡeŋ,huon_3_train:sand:7833,huon_3_train:sand:2
+huon_3_train,sand,Mesem,ɡaŋa,huon_3_train:sand:14106,huon_3_train:sand:5
+huon_3_train,sand,Nabak,ɡambibit,huon_3_train:sand:13987,huon_3_train:sand:4
+huon_3_train,sand,Ono,ɡbalak,huon_3_train:sand:13934,huon_3_train:sand:3
+huon_3_train,sand,Selepet,sak,huon_3_train:sand:7832,huon_3_train:sand:1
+huon_3_train,sand,Somba-Siawari (Burum Dialect),sak,huon_3_train:sand:7832,huon_3_train:sand:1
+huon_3_train,sand,Somba-Siawari (Mindik Dialect),sakosiŋ,huon_3_train:sand:7832,huon_3_train:sand:1
+huon_3_train,sand,Timbe,sak,huon_3_train:sand:7832,huon_3_train:sand:1
+huon_3_train,sand,Tobo,sak,huon_3_train:sand:7832,huon_3_train:sand:1
+huon_3_train,smoke,Borong,kaːsok,huon_3_train:smoke:8035,huon_3_train:smoke:1
+huon_3_train,smoke,Dedua,husuk,huon_3_train:smoke:8035,huon_3_train:smoke:1
+huon_3_train,smoke,Kate,hosac,huon_3_train:smoke:8035,huon_3_train:smoke:1
+huon_3_train,smoke,Komba,mudo,huon_3_train:smoke:13772,huon_3_train:smoke:2
+huon_3_train,smoke,Mesem,kese,huon_3_train:smoke:8035,huon_3_train:smoke:1
+huon_3_train,smoke,Nabak,kesek,huon_3_train:smoke:8035,huon_3_train:smoke:1
+huon_3_train,smoke,Ono,ŋaup,huon_3_train:smoke:13935,huon_3_train:smoke:3
+huon_3_train,smoke,Selepet,utun,huon_3_train:smoke:13965,huon_3_train:smoke:2
+huon_3_train,smoke,Somba-Siawari (Burum Dialect),kasak,huon_3_train:smoke:8035,huon_3_train:smoke:1
+huon_3_train,smoke,Somba-Siawari (Mindik Dialect),kowak,huon_3_train:smoke:8035,huon_3_train:smoke:1
+huon_3_train,smoke,Timbe,dawok,huon_3_train:smoke:14043,huon_3_train:smoke:4
+huon_3_train,smoke,Tobo,kasak,huon_3_train:smoke:8035,huon_3_train:smoke:1
+huon_3_train,wind,Dedua,firaŋ,huon_3_train:wind:13748,huon_3_train:wind:4
+huon_3_train,wind,Kate,maŋaŋ,huon_3_train:wind:7854,huon_3_train:wind:3
+huon_3_train,wind,Komba,berom,huon_3_train:wind:7883,huon_3_train:wind:2
+huon_3_train,wind,Kube,rufuk,huon_3_train:wind:7852,huon_3_train:wind:1
+huon_3_train,wind,Mape,maŋuŋ,huon_3_train:wind:7854,huon_3_train:wind:3
+huon_3_train,wind,Nabak,tɔɡɔ,huon_3_train:wind:7869,huon_3_train:wind:7
+huon_3_train,wind,Ono,momo,huon_3_train:wind:7890,huon_3_train:wind:6
+huon_3_train,wind,Selepet,berom,huon_3_train:wind:7883,huon_3_train:wind:2
+huon_3_train,wind,Somba-Siawari (Burum Dialect),luhut,huon_3_train:wind:7890,huon_3_train:wind:1
+huon_3_train,wind,Somba-Siawari (Mindik Dialect),luhut,huon_3_train:wind:7890,huon_3_train:wind:1
+huon_3_train,wind,Timbe,seru,huon_3_train:wind:13862,huon_3_train:wind:5
+huon_3_train,wind,Tobo,luhut,huon_3_train:wind:7852,huon_3_train:wind:1
+huon_3_train,woman,Dedua,ŋak,huon_3_train:woman:7724,huon_3_train:woman:2
+huon_3_train,woman,Kate,ŋokac,huon_3_train:woman:7724,huon_3_train:woman:2
+huon_3_train,woman,Komba,aban,huon_3_train:woman:7723,huon_3_train:woman:1
+huon_3_train,woman,Kube,embak,huon_3_train:woman:7723,huon_3_train:woman:1
+huon_3_train,woman,Mape,ŋiɡok,huon_3_train:woman:7724,huon_3_train:woman:2
+huon_3_train,woman,Nabak,imbi,huon_3_train:woman:7723,huon_3_train:woman:1
+huon_3_train,woman,Ono,ŋerep,huon_3_train:woman:14090,huon_3_train:woman:3
+huon_3_train,woman,Selepet,ibi,huon_3_train:woman:7723,huon_3_train:woman:1
+huon_3_train,woman,Somba-Siawari (Burum Dialect),ambi,huon_3_train:woman:7723,huon_3_train:woman:1
+huon_3_train,woman,Somba-Siawari (Mindik Dialect),ambi,huon_3_train:woman:7723,huon_3_train:woman:1
+huon_3_train,woman,Timbe,abai,huon_3_train:woman:7723,huon_3_train:woman:1
+huon_3_train,woman,Tobo,embat,huon_3_train:woman:7723,huon_3_train:woman:1

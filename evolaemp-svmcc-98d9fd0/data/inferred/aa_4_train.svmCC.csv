@@ -1,0 +1,1501 @@
+db,concept,doculect,counterpart,fullCC,inferredCC
+aa_4_train,"I, me",Alak,ʔal,"aa_4_train:I, me:9","aa_4_train:I, me:1"
+aa_4_train,"I, me",Bahnar-Golar,ʔiɲ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Bahnar-Kontum,ʔiɲ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Bahnar-Pleiku,ʔiɲ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Brao,ʔaj,"aa_4_train:I, me:10","aa_4_train:I, me:1"
+aa_4_train,"I, me",Bru-Talan,kɨː,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Bru-Ubon,kɤw,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Bugan,ɔ̱³¹,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Car,cin,"aa_4_train:I, me:7","aa_4_train:I, me:1"
+aa_4_train,"I, me",Cua,go,"aa_4_train:I, me:11","aa_4_train:I, me:2"
+aa_4_train,"I, me",Gorum,miŋ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Halang,ʔau,"aa_4_train:I, me:10","aa_4_train:I, me:1"
+aa_4_train,"I, me",Idu,naʔɛ̰̂ːŋ,"aa_4_train:I, me:5","aa_4_train:I, me:1"
+aa_4_train,"I, me",In,kɨː,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Jeh,ʔaw,"aa_4_train:I, me:10","aa_4_train:I, me:1"
+aa_4_train,"I, me",Jru-Laven,ʔaːj,"aa_4_train:I, me:10","aa_4_train:I, me:1"
+aa_4_train,"I, me",Karii,tɛːʔ,"aa_4_train:I, me:8","aa_4_train:I, me:1"
+aa_4_train,"I, me",Katang,kaw,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Katu-AnDiem,kuː,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Kharia,iŋ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Khmer-Standard,kʰɲum,"aa_4_train:I, me:4","aa_4_train:I, me:2"
+aa_4_train,"I, me",Khmer-Surin,ʔaɲ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Khmu-Cuang,ʔoʔ,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Khmu-Yuan,ʔòʔ,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Kui(Huffman1979),kʌw,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Kui(Sriwises1978),kaw,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Kui(Sriwises1978),haj,"aa_4_train:I, me:12","aa_4_train:I, me:1"
+aa_4_train,"I, me",Lawa(Ratanakul),ʔe,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Mal-T'in,ʔəɲ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",ManMet,ɔʔ⁵³,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Mang,ʔuː⁴,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Mankong,kɨ̤ʔ,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Mnong-Rölöm,ʔaɲ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Mon,ʔoa,"aa_4_train:I, me:6","aa_4_train:I, me:1"
+aa_4_train,"I, me",Nancowri,ca,"aa_4_train:I, me:7","aa_4_train:I, me:1"
+aa_4_train,"I, me",Nancowri,cɯa,"aa_4_train:I, me:7","aa_4_train:I, me:3"
+aa_4_train,"I, me",Nge',kəw,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Nyaheun,ʔaː,"aa_4_train:I, me:10","aa_4_train:I, me:1"
+aa_4_train,"I, me",Nyahkur,wɛ́j,"aa_4_train:I, me:6","aa_4_train:I, me:1"
+aa_4_train,"I, me",Pacoh,kɯː,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Palaung-Dara'ang,Ɂo,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Palaung-Kalaw,ʔowniː,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Palaung-Namhsan,ʔɔ,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Pnar,ʔɔ,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Rengao,ʔaw,"aa_4_train:I, me:10","aa_4_train:I, me:1"
+aa_4_train,"I, me",Riang-Sak,ʔoʔ¹,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Ruc,ho,"aa_4_train:I, me:8","aa_4_train:I, me:1"
+aa_4_train,"I, me",Santali,ʔɤʔ,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,"I, me",Sedang,ʔaw,"aa_4_train:I, me:10","aa_4_train:I, me:1"
+aa_4_train,"I, me",So-Khammouane,ŋko̤aʔ,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",So-SakonNakhon,ŋkɑ̤ʔ,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",So-SakonNakhon,hiʔ,"aa_4_train:I, me:12","aa_4_train:I, me:1"
+aa_4_train,"I, me",Sora,iɲ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Sora,ɲen,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Souei-Saravan,kɨː,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Sre,ʔaɲ,"aa_4_train:I, me:1","aa_4_train:I, me:1"
+aa_4_train,"I, me",Stieng,hej,"aa_4_train:I, me:12","aa_4_train:I, me:1"
+aa_4_train,"I, me",TaOi,kɨː,"aa_4_train:I, me:2","aa_4_train:I, me:2"
+aa_4_train,"I, me",Wa-Praok,aə,"aa_4_train:I, me:3","aa_4_train:I, me:1"
+aa_4_train,rice (cooked),Alak,paːj,aa_4_train:rice (cooked):1778,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Bahnar-Golar,pɔːr,aa_4_train:rice (cooked):1794,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Bahnar-Kontum,pɔːr,aa_4_train:rice (cooked):1794,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Bahnar-Pleiku,pɔːr,aa_4_train:rice (cooked):1794,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Bahnar-Pleiku,məh,aa_4_train:rice (cooked):1796,aa_4_train:rice (cooked):6
+aa_4_train,rice (cooked),Brao,puar,aa_4_train:rice (cooked):1794,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Bru-Talan,doˀoj,aa_4_train:rice (cooked):1775,aa_4_train:rice (cooked):2
+aa_4_train,rice (cooked),Bru-Ubon,doːj,aa_4_train:rice (cooked):1775,aa_4_train:rice (cooked):2
+aa_4_train,rice (cooked),Bugan,fɛi³³,aa_4_train:rice (cooked):1781,aa_4_train:rice (cooked):8
+aa_4_train,rice (cooked),Car,tahɔksãːjʔãː,aa_4_train:rice (cooked):1790,aa_4_train:rice (cooked):9
+aa_4_train,rice (cooked),Cua,pʌŋ,aa_4_train:rice (cooked):1797,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Gorum,gagaʔ,aa_4_train:rice (cooked):1784,aa_4_train:rice (cooked):3
+aa_4_train,rice (cooked),Gorum,taŋk,aa_4_train:rice (cooked):1785,aa_4_train:rice (cooked):10
+aa_4_train,rice (cooked),Gorum,go̰saŋ,aa_4_train:rice (cooked):1786,aa_4_train:rice (cooked):4
+aa_4_train,rice (cooked),Halang,pɔar,aa_4_train:rice (cooked):1794,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Idu,pâ̰ː,aa_4_train:rice (cooked):1773,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),In,do̰ːj,aa_4_train:rice (cooked):1775,aa_4_train:rice (cooked):2
+aa_4_train,rice (cooked),Jeh,pɔːl,aa_4_train:rice (cooked):1794,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Jru-Laven,ʔʌːp,aa_4_train:rice (cooked):1798,aa_4_train:rice (cooked):3
+aa_4_train,rice (cooked),Karii,nan ,aa_4_train:rice (cooked):1793,aa_4_train:rice (cooked):11
+aa_4_train,rice (cooked),Katang,doːj,aa_4_train:rice (cooked):1775,aa_4_train:rice (cooked):2
+aa_4_train,rice (cooked),Katu-AnDiem,canaː,aa_4_train:rice (cooked):1782,aa_4_train:rice (cooked):4
+aa_4_train,rice (cooked),Kharia,pɛʔ,aa_4_train:rice (cooked):1787,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Khasi,ɟaː,aa_4_train:rice (cooked):1777,aa_4_train:rice (cooked):4
+aa_4_train,rice (cooked),Khmer-Standard,baːj,aa_4_train:rice (cooked):1778,aa_4_train:rice (cooked):5
+aa_4_train,rice (cooked),Khmer-Surin,baːj,aa_4_train:rice (cooked):1778,aa_4_train:rice (cooked):5
+aa_4_train,rice (cooked),Khmu-Cuang,mah,aa_4_train:rice (cooked):1779,aa_4_train:rice (cooked):6
+aa_4_train,rice (cooked),Khmu-Yuan,màh,aa_4_train:rice (cooked):1779,aa_4_train:rice (cooked):6
+aa_4_train,rice (cooked),Kui(Huffman1979),doːj,aa_4_train:rice (cooked):1775,aa_4_train:rice (cooked):2
+aa_4_train,rice (cooked),Kui(Sriwises1978),doːj,aa_4_train:rice (cooked):1775,aa_4_train:rice (cooked):2
+aa_4_train,rice (cooked),Lawa(Ratanakul),ʔaop,aa_4_train:rice (cooked):1798,aa_4_train:rice (cooked):3
+aa_4_train,rice (cooked),Mal-T'in,saː,aa_4_train:rice (cooked):1780,aa_4_train:rice (cooked):4
+aa_4_train,rice (cooked),ManMet,up⁵³,aa_4_train:rice (cooked):1798,aa_4_train:rice (cooked):3
+aa_4_train,rice (cooked),Mang,θaː⁶,aa_4_train:rice (cooked):1780,aa_4_train:rice (cooked):4
+aa_4_train,rice (cooked),Mankong,dɔːj,aa_4_train:rice (cooked):1775,aa_4_train:rice (cooked):2
+aa_4_train,rice (cooked),Mnong-Rölöm,pieŋ,aa_4_train:rice (cooked):1797,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Mon,pəŋ,aa_4_train:rice (cooked):1783,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Nge',pʌːj,aa_4_train:rice (cooked):1778,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Nyaheun,puan,aa_4_train:rice (cooked):1794,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Nyahkur,póːŋ,aa_4_train:rice (cooked):1783,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Palaung-Dara'ang,bom,aa_4_train:rice (cooked):1791,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Palaung-Kalaw,ɓouŋ,aa_4_train:rice (cooked):1791,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Palaung-Namhsan,pɔm,aa_4_train:rice (cooked):1791,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Pnar,ʤa,aa_4_train:rice (cooked):1777,aa_4_train:rice (cooked):4
+aa_4_train,rice (cooked),Rengao,pɔːr,aa_4_train:rice (cooked):1794,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Riang-Sak,kɑj¹,aa_4_train:rice (cooked):1792,aa_4_train:rice (cooked):5
+aa_4_train,rice (cooked),Ruc,kəːm,aa_4_train:rice (cooked):1795,aa_4_train:rice (cooked):7
+aa_4_train,rice (cooked),Santali,daka,aa_4_train:rice (cooked):1788,aa_4_train:rice (cooked):3
+aa_4_train,rice (cooked),Sedang,ba̰w,aa_4_train:rice (cooked):1774,aa_4_train:rice (cooked):5
+aa_4_train,rice (cooked),So-Khammouane,ʔawa̤h,aa_4_train:rice (cooked):1776,aa_4_train:rice (cooked):3
+aa_4_train,rice (cooked),So-SakonNakhon,ʔawa̤h,aa_4_train:rice (cooked):1776,aa_4_train:rice (cooked):3
+aa_4_train,rice (cooked),Sora,ˈbɑːbɑː,aa_4_train:rice (cooked):1773,aa_4_train:rice (cooked):5
+aa_4_train,rice (cooked),Sora,ɖarəɟ,aa_4_train:rice (cooked):1789,aa_4_train:rice (cooked):12
+aa_4_train,rice (cooked),Souei-Saravan,doːj,aa_4_train:rice (cooked):1775,aa_4_train:rice (cooked):2
+aa_4_train,rice (cooked),Sre,piaŋ,aa_4_train:rice (cooked):1797,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),Stieng,piaŋ,aa_4_train:rice (cooked):1797,aa_4_train:rice (cooked):1
+aa_4_train,rice (cooked),TaOi,doːj,aa_4_train:rice (cooked):1775,aa_4_train:rice (cooked):2
+aa_4_train,rice (cooked),Vietnamese,cơm,aa_4_train:rice (cooked):1795,aa_4_train:rice (cooked):7
+aa_4_train,rice (cooked),Wa-Praok,ʔɯp,aa_4_train:rice (cooked):1798,aa_4_train:rice (cooked):3
+aa_4_train,rice (cooked),War-Lamin,tji,aa_4_train:rice (cooked):1777,aa_4_train:rice (cooked):13
+aa_4_train,road/path,Alak,ntuːŋ,aa_4_train:road/path:1880,aa_4_train:road/path:1
+aa_4_train,road/path,Bahnar-Golar,trɔːŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Bahnar-Kontum,trɔːŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Bahnar-Pleiku,trɔːŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Brao,truːŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Bru-Talan,kərnaˀa,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Bru-Ubon,rənaː,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Bugan,ho⁵⁵ʦu³³,aa_4_train:road/path:1872,aa_4_train:road/path:14
+aa_4_train,road/path,Car,kanɾəːna,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Cua,truək,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Gorum,kuroŋ,aa_4_train:road/path:1868,aa_4_train:road/path:1
+aa_4_train,road/path,Halang,trɔaŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Idu,kʰrûŋ̱,aa_4_train:road/path:1868,aa_4_train:road/path:1
+aa_4_train,road/path,In,kʰanun,aa_4_train:road/path:1862,aa_4_train:road/path:2
+aa_4_train,road/path,Jeh,trṳaŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Jru-Laven,truoŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Karii,kuraːʔ,aa_4_train:road/path:1861,aa_4_train:road/path:6
+aa_4_train,road/path,Katang,kʰənʊn,aa_4_train:road/path:1862,aa_4_train:road/path:2
+aa_4_train,road/path,Katu-AnDiem,kalʌŋ,aa_4_train:road/path:1878,aa_4_train:road/path:2
+aa_4_train,road/path,Katu-AnDiem,canoː,aa_4_train:road/path:1863,aa_4_train:road/path:10
+aa_4_train,road/path,Kharia,goʔɖɟhuŋ,aa_4_train:road/path:1875,aa_4_train:road/path:7
+aa_4_train,road/path,Kharia,saɽak,aa_4_train:road/path:1874,aa_4_train:road/path:3
+aa_4_train,road/path,Khasi,lnti,aa_4_train:road/path:1864,aa_4_train:road/path:5
+aa_4_train,road/path,Khmer-Standard,pləw,aa_4_train:road/path:1867,aa_4_train:road/path:8
+aa_4_train,road/path,Khmer-Standard,tnɑl,aa_4_train:road/path:1866,aa_4_train:road/path:9
+aa_4_train,road/path,Khmer-Surin,tʰnɑl,aa_4_train:road/path:1866,aa_4_train:road/path:9
+aa_4_train,road/path,Khmer-Surin,pʰlʌw,aa_4_train:road/path:1867,aa_4_train:road/path:8
+aa_4_train,road/path,Khmu-Cuang,ŋɔːr,aa_4_train:road/path:1869,aa_4_train:road/path:4
+aa_4_train,road/path,Khmu-Yuan,ŋɔ̀ːr,aa_4_train:road/path:1869,aa_4_train:road/path:4
+aa_4_train,road/path,Kui(Huffman1979),kənaː,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Kui(Sriwises1978),kənaː,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Lawa(Ratanakul),kjaʔ,aa_4_train:road/path:1861,aa_4_train:road/path:6
+aa_4_train,road/path,Mal-T'in,jɔːŋ,aa_4_train:road/path:1868,aa_4_train:road/path:11
+aa_4_train,road/path,Mal-T'in,lúː,aa_4_train:road/path:1870,aa_4_train:road/path:5
+aa_4_train,road/path,Mal-T'in,sɔːk,aa_4_train:road/path:1871,aa_4_train:road/path:3
+aa_4_train,road/path,ManMet,aɣɔŋ³¹,aa_4_train:road/path:1868,aa_4_train:road/path:12
+aa_4_train,road/path,Mang,ʑaː¹,aa_4_train:road/path:1861,aa_4_train:road/path:3
+aa_4_train,road/path,Mankong,rənaː,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Mnong-Rölöm,troːŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Mon,klɑŋ,aa_4_train:road/path:1878,aa_4_train:road/path:1
+aa_4_train,road/path,Nancowri,kaji,aa_4_train:road/path:1861,aa_4_train:road/path:13
+aa_4_train,road/path,Nancowri,kejawa,aa_4_train:road/path:1861,aa_4_train:road/path:6
+aa_4_train,road/path,Nge',karnaː,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Nyaheun,truoŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Nyahkur,trɤ́w,aa_4_train:road/path:1873,aa_4_train:road/path:1
+aa_4_train,road/path,Pacoh,kərnaː,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Palaung-Dara'ang,nteɲ,aa_4_train:road/path:1877,aa_4_train:road/path:1
+aa_4_train,road/path,Palaung-Kalaw,nteːŋ,aa_4_train:road/path:1877,aa_4_train:road/path:1
+aa_4_train,road/path,Palaung-Namhsan,deŋ,aa_4_train:road/path:1877,aa_4_train:road/path:1
+aa_4_train,road/path,Pnar,luti,aa_4_train:road/path:1864,aa_4_train:road/path:5
+aa_4_train,road/path,Rengao,trɔːŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,Riang-Sak,rɤŋ²ɗeŋ¹,aa_4_train:road/path:1877,aa_4_train:road/path:1
+aa_4_train,road/path,Santali,hɔr,aa_4_train:road/path:1861,aa_4_train:road/path:4
+aa_4_train,road/path,Sedang,trɔ̰əŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,So-Khammouane,rənaː,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,So-SakonNakhon,rənaː,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Sora,ɡɔdtaŋ,aa_4_train:road/path:1868,aa_4_train:road/path:7
+aa_4_train,road/path,Sora,ˈtɑŋɡoːr,aa_4_train:road/path:1876,aa_4_train:road/path:4
+aa_4_train,road/path,Souei-Saravan,kʰənaː,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Sre,guŋ,aa_4_train:road/path:1860,aa_4_train:road/path:1
+aa_4_train,road/path,Stieng,trɔːŋ,aa_4_train:road/path:1879,aa_4_train:road/path:1
+aa_4_train,road/path,TaOi,kʰənun,aa_4_train:road/path:1861,aa_4_train:road/path:2
+aa_4_train,road/path,Vietnamese,sá,aa_4_train:road/path:1861,aa_4_train:road/path:3
+aa_4_train,road/path,Wa-Praok,kraʔ,aa_4_train:road/path:1861,aa_4_train:road/path:6
+aa_4_train,road/path,War-Lamin,sərɒk,aa_4_train:road/path:1865,aa_4_train:road/path:3
+aa_4_train,root,Alak,rɛːh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Bahnar-Golar,rəh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Bahnar-Kontum,rəh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Bahnar-Pleiku,rəh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Brao,riax,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Bru-Talan,riˀajh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Bru-Ubon,re̤ːh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Bugan,ɣa̱ɯ̱¹³,aa_4_train:root:1881,aa_4_train:root:8
+aa_4_train,root,Car,reh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Cua,reah,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Gorum,unloˀb,aa_4_train:root:1885,aa_4_train:root:7
+aa_4_train,root,Halang,riəh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Idu,rîə,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,In,rḭajh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Jeh,riaç,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Jru-Laven,rias,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Karii,lɛːrh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Katang,riːeh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Katu-AnDiem,rieh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Kharia,ɟuˑˀɖ,aa_4_train:root:1886,aa_4_train:root:2
+aa_4_train,root,Khasi,tɨnraːj,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Khmer-Standard,rɨh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Khmer-Surin,rɯh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Khmu-Cuang,riəs,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Khmu-Yuan,rìas,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Kui(Huffman1979),lɛ̤h,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Kui(Sriwises1978),rɛ̀h,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Lawa(Ratanakul),ɣɛh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Mal-T'in,kiəs,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,ManMet,ɡɛh³¹seʔ⁵³,aa_4_train:root:1881,aa_4_train:root:6
+aa_4_train,root,Mankong,re̤ːh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Mnong-Rölöm,rɛh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Mon,rə̀h,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Nancowri,jiah,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Nge',rias,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Nyaheun,riah,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Nyahkur,rìh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Pacoh,rḭas,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Palaung-Dara'ang,riah,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Palaung-Kalaw,riahhəj,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Palaung-Namhsan,riər,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Pnar,treː,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Rengao,rih,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Riang-Sak,rias²,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Ruc,liɛlʰ¹,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Santali,səɽim,aa_4_train:root:1882,aa_4_train:root:5
+aa_4_train,root,Santali,rehet˺,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Sedang,rɛj,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,So-Khammouane,re̤h,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,So-SakonNakhon,re̤h,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Sora,ɟʔed,aa_4_train:root:1884,aa_4_train:root:2
+aa_4_train,root,Souei-Saravan,rɛːh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Sre,rias,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Stieng,drieh,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,TaOi,rias,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Vietnamese,rễ,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Wa-Praok,ri̤ah,aa_4_train:root:1881,aa_4_train:root:1
+aa_4_train,root,Wa-Praok,num,aa_4_train:root:1881,aa_4_train:root:4
+aa_4_train,root,War-Lamin,ʃit,aa_4_train:root:1883,aa_4_train:root:3
+aa_4_train,sand,Alak,pʻahaːc,aa_4_train:sand:1937,aa_4_train:sand:1
+aa_4_train,sand,Brao,pʰaːc,aa_4_train:sand:1937,aa_4_train:sand:1
+aa_4_train,sand,Bru-Ubon,səŋaːc,aa_4_train:sand:1942,aa_4_train:sand:3
+aa_4_train,sand,Bugan,e⁵⁵e⁵⁵,aa_4_train:sand:1930,aa_4_train:sand:17
+aa_4_train,sand,Car,kujjajjə,aa_4_train:sand:1934,aa_4_train:sand:9
+aa_4_train,sand,Gorum,lakiɟ,aa_4_train:sand:1923,aa_4_train:sand:5
+aa_4_train,sand,Idu,hàŋká̰ːj,aa_4_train:sand:1923,aa_4_train:sand:2
+aa_4_train,sand,In,həkaːjʔ,aa_4_train:sand:1923,aa_4_train:sand:2
+aa_4_train,sand,Jru-Laven,pʰaːc,aa_4_train:sand:1937,aa_4_train:sand:1
+aa_4_train,sand,Karii,karàːŋ,aa_4_train:sand:1938,aa_4_train:sand:4
+aa_4_train,sand,Katang,həŋaːjʔ,aa_4_train:sand:1942,aa_4_train:sand:2
+aa_4_train,sand,Kharia,rɔkɛˀɖ,aa_4_train:sand:1923,aa_4_train:sand:5
+aa_4_train,sand,Khasi,ʃʔiap,aa_4_train:sand:1926,aa_4_train:sand:7
+aa_4_train,sand,Khmer-Standard,kʰsac,aa_4_train:sand:1939,aa_4_train:sand:3
+aa_4_train,sand,Khmer-Surin,ksac,aa_4_train:sand:1939,aa_4_train:sand:3
+aa_4_train,sand,Khmu-Cuang,sreh,aa_4_train:sand:1928,aa_4_train:sand:6
+aa_4_train,sand,Khmu-Yuan,créːs,aa_4_train:sand:1928,aa_4_train:sand:6
+aa_4_train,sand,Kui(Huffman1979),səŋkaːc,aa_4_train:sand:1923,aa_4_train:sand:3
+aa_4_train,sand,Kui(Sriwises1978),skaːc,aa_4_train:sand:1923,aa_4_train:sand:3
+aa_4_train,sand,Lawa(Ratanakul),hmaic,aa_4_train:sand:1935,aa_4_train:sand:1
+aa_4_train,sand,Mal-T'in,kʰaːŋ,aa_4_train:sand:1929,aa_4_train:sand:4
+aa_4_train,sand,ManMet,asat³³,aa_4_train:sand:1939,aa_4_train:sand:10
+aa_4_train,sand,Mang,ʔaː²mat⁷,aa_4_train:sand:1931,aa_4_train:sand:1
+aa_4_train,sand,Mankong,səŋaːjʔ,aa_4_train:sand:1942,aa_4_train:sand:2
+aa_4_train,sand,Mon,hatɑɛ,aa_4_train:sand:1932,aa_4_train:sand:8
+aa_4_train,sand,Nancowri,jaja,aa_4_train:sand:1934,aa_4_train:sand:9
+aa_4_train,sand,Nge',hankɛɲ,aa_4_train:sand:1924,aa_4_train:sand:2
+aa_4_train,sand,Nyaheun,pʰaːc,aa_4_train:sand:1937,aa_4_train:sand:1
+aa_4_train,sand,Nyahkur,háːt,aa_4_train:sand:1933,aa_4_train:sand:8
+aa_4_train,sand,Palaung-Dara'ang,kahajʔ,aa_4_train:sand:1939,aa_4_train:sand:2
+aa_4_train,sand,Palaung-Kalaw,kʰrop,aa_4_train:sand:1936,aa_4_train:sand:11
+aa_4_train,sand,Pnar,ʔucʰʔiap,aa_4_train:sand:1926,aa_4_train:sand:7
+aa_4_train,sand,Ruc,təkác,aa_4_train:sand:1923,aa_4_train:sand:3
+aa_4_train,sand,Santali,gitil,aa_4_train:sand:1932,aa_4_train:sand:12
+aa_4_train,sand,Sedang,prɛj,aa_4_train:sand:1940,aa_4_train:sand:13
+aa_4_train,sand,So-SakonNakhon,jaːŋ,aa_4_train:sand:1925,aa_4_train:sand:4
+aa_4_train,sand,Sora,lʌkɨɟ,aa_4_train:sand:1923,aa_4_train:sand:5
+aa_4_train,sand,Sre,bras,aa_4_train:sand:1940,aa_4_train:sand:6
+aa_4_train,sand,Stieng,kərʃɛː,aa_4_train:sand:1941,aa_4_train:sand:14
+aa_4_train,sand,TaOi,həkaːjʔ,aa_4_train:sand:1923,aa_4_train:sand:2
+aa_4_train,sand,Vietnamese,cát,aa_4_train:sand:1923,aa_4_train:sand:15
+aa_4_train,sand,Wa-Praok,mʰac,aa_4_train:sand:1935,aa_4_train:sand:1
+aa_4_train,sand,War-Lamin,sərvʊ,aa_4_train:sand:1927,aa_4_train:sand:16
+aa_4_train,shame/ashamed,Bahnar-Kontum,kədəʔ,aa_4_train:shame/ashamed:2040,aa_4_train:shame/ashamed:3
+aa_4_train,shame/ashamed,Bahnar-Pleiku,kədəʔ,aa_4_train:shame/ashamed:2040,aa_4_train:shame/ashamed:3
+aa_4_train,shame/ashamed,Bru-Talan,kədaˀah,aa_4_train:shame/ashamed:2040,aa_4_train:shame/ashamed:3
+aa_4_train,shame/ashamed,Bru-Ubon,kumaːl,aa_4_train:shame/ashamed:2041,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Cua,kamɨːl,aa_4_train:shame/ashamed:2041,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Gorum,guroˀɟ,aa_4_train:shame/ashamed:2031,aa_4_train:shame/ashamed:5
+aa_4_train,shame/ashamed,Halang,kəʔmaːs,aa_4_train:shame/ashamed:2043,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Idu,krâ̰ːɲ,aa_4_train:shame/ashamed:2026,aa_4_train:shame/ashamed:2
+aa_4_train,shame/ashamed,Jeh,kəmajh,aa_4_train:shame/ashamed:2043,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Jru-Laven,kmaːl,aa_4_train:shame/ashamed:2041,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Karii,kuleː,aa_4_train:shame/ashamed:2037,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Katang,kəmaːl,aa_4_train:shame/ashamed:2041,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Katu-AnDiem,kaciːt,aa_4_train:shame/ashamed:2019,aa_4_train:shame/ashamed:4
+aa_4_train,shame/ashamed,Katu-AnDiem,tapanuː,aa_4_train:shame/ashamed:2020,aa_4_train:shame/ashamed:9
+aa_4_train,shame/ashamed,Kharia,ˈɡiɔl,aa_4_train:shame/ashamed:2030,aa_4_train:shame/ashamed:21
+aa_4_train,shame/ashamed,Khasi,kʰeinburom,aa_4_train:shame/ashamed:2024,aa_4_train:shame/ashamed:10
+aa_4_train,shame/ashamed,Khmer-Standard,crəɲ,aa_4_train:shame/ashamed:2021,aa_4_train:shame/ashamed:2
+aa_4_train,shame/ashamed,Khmer-Standard,kmah,aa_4_train:shame/ashamed:2043,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Khmu-Cuang,raːm,aa_4_train:shame/ashamed:2027,aa_4_train:shame/ashamed:11
+aa_4_train,shame/ashamed,Khmu-Cuang,ʔɛːɲ,aa_4_train:shame/ashamed:2028,aa_4_train:shame/ashamed:2
+aa_4_train,shame/ashamed,Khmu-Yuan,ʔə̀ːɲ,aa_4_train:shame/ashamed:2028,aa_4_train:shame/ashamed:2
+aa_4_train,shame/ashamed,Kui(Huffman1979),tʰrɑŋ,aa_4_train:shame/ashamed:2021,aa_4_train:shame/ashamed:2
+aa_4_train,shame/ashamed,Kui(Sriwises1978),sɑŋ,aa_4_train:shame/ashamed:2021,aa_4_train:shame/ashamed:2
+aa_4_train,shame/ashamed,Lawa(Ratanakul),naʔ,aa_4_train:shame/ashamed:2034,aa_4_train:shame/ashamed:12
+aa_4_train,shame/ashamed,ManMet,ȵɔŋ³¹kan³¹,aa_4_train:shame/ashamed:2039,aa_4_train:shame/ashamed:13
+aa_4_train,shame/ashamed,Mankong,kumaːl,aa_4_train:shame/ashamed:2041,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Mnong-Rölöm,ɟiːtoːr,aa_4_train:shame/ashamed:2044,aa_4_train:shame/ashamed:14
+aa_4_train,shame/ashamed,Mnong-Rölöm,preːŋ,aa_4_train:shame/ashamed:2042,aa_4_train:shame/ashamed:2
+aa_4_train,shame/ashamed,Mon,twa,aa_4_train:shame/ashamed:2029,aa_4_train:shame/ashamed:8
+aa_4_train,shame/ashamed,Nancowri,dalŋato,aa_4_train:shame/ashamed:2033,aa_4_train:shame/ashamed:15
+aa_4_train,shame/ashamed,Nge',kamaːs,aa_4_train:shame/ashamed:2043,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Nyaheun,mmaːw,aa_4_train:shame/ashamed:2041,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Nyahkur,kʰwàːʔ,aa_4_train:shame/ashamed:2029,aa_4_train:shame/ashamed:8
+aa_4_train,shame/ashamed,Pacoh,ʔaciət,aa_4_train:shame/ashamed:2019,aa_4_train:shame/ashamed:4
+aa_4_train,shame/ashamed,Palaung-Dara'ang,saːj,aa_4_train:shame/ashamed:2035,aa_4_train:shame/ashamed:6
+aa_4_train,shame/ashamed,Palaung-Kalaw,saːj,aa_4_train:shame/ashamed:2035,aa_4_train:shame/ashamed:6
+aa_4_train,shame/ashamed,Palaung-Namhsan,kəse,aa_4_train:shame/ashamed:2035,aa_4_train:shame/ashamed:3
+aa_4_train,shame/ashamed,Pnar,sɲiawsarɔm,aa_4_train:shame/ashamed:2025,aa_4_train:shame/ashamed:16
+aa_4_train,shame/ashamed,Rengao,kəmɛç,aa_4_train:shame/ashamed:2043,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,Riang-Sak,kᵊseʔ¹,aa_4_train:shame/ashamed:2035,aa_4_train:shame/ashamed:3
+aa_4_train,shame/ashamed,Santali,laɟaw,aa_4_train:shame/ashamed:2032,aa_4_train:shame/ashamed:17
+aa_4_train,shame/ashamed,Sedang,kəmɛj,aa_4_train:shame/ashamed:2043,aa_4_train:shame/ashamed:1
+aa_4_train,shame/ashamed,So-Khammouane,rəpi̤əŋ,aa_4_train:shame/ashamed:2022,aa_4_train:shame/ashamed:7
+aa_4_train,shame/ashamed,So-SakonNakhon,ləpi̤əŋ,aa_4_train:shame/ashamed:2022,aa_4_train:shame/ashamed:7
+aa_4_train,shame/ashamed,Sora,ɡʌrɔɟ,aa_4_train:shame/ashamed:2031,aa_4_train:shame/ashamed:5
+aa_4_train,shame/ashamed,Souei-Saravan,srɔŋ,aa_4_train:shame/ashamed:2021,aa_4_train:shame/ashamed:2
+aa_4_train,shame/ashamed,Sre,basil,aa_4_train:shame/ashamed:2045,aa_4_train:shame/ashamed:18
+aa_4_train,shame/ashamed,TaOi,kədaːh,aa_4_train:shame/ashamed:2023,aa_4_train:shame/ashamed:3
+aa_4_train,shame/ashamed,Vietnamese,xâuhổ,aa_4_train:shame/ashamed:2038,aa_4_train:shame/ashamed:19
+aa_4_train,shame/ashamed,Wa-Praok,ka̤c,aa_4_train:shame/ashamed:2036,aa_4_train:shame/ashamed:4
+aa_4_train,shame/ashamed,War-Lamin,mərʊə,aa_4_train:shame/ashamed:2024,aa_4_train:shame/ashamed:20
+aa_4_train,sharp (edged),Alak,muːt,aa_4_train:sharp (edged):2072,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Alak,cəkaːr,aa_4_train:sharp (edged):2075,aa_4_train:sharp (edged):5
+aa_4_train,sharp (edged),Bahnar-Golar,haːn,aa_4_train:sharp (edged):2076,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),Bahnar-Kontum,haːn,aa_4_train:sharp (edged):2076,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),Bahnar-Pleiku,haːn,aa_4_train:sharp (edged):2076,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),Brao,mut,aa_4_train:sharp (edged):2072,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Bru-Talan,bak,aa_4_train:sharp (edged):2051,aa_4_train:sharp (edged):4
+aa_4_train,sharp (edged),Bru-Ubon,plaː,aa_4_train:sharp (edged):2050,aa_4_train:sharp (edged):7
+aa_4_train,sharp (edged),Bugan,kʰa⁵⁵,aa_4_train:sharp (edged):2059,aa_4_train:sharp (edged):10
+aa_4_train,sharp (edged),Car,səcɲakuː,aa_4_train:sharp (edged):2066,aa_4_train:sharp (edged):11
+aa_4_train,sharp (edged),Cua,pujʔ,aa_4_train:sharp (edged):2078,aa_4_train:sharp (edged):4
+aa_4_train,sharp (edged),Gorum,asuˀb,aa_4_train:sharp (edged):2062,aa_4_train:sharp (edged):6
+aa_4_train,sharp (edged),Halang,ruːt,aa_4_train:sharp (edged):2046,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Idu,dàmbâ̰ːr,aa_4_train:sharp (edged):2056,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),In,bak,aa_4_train:sharp (edged):2051,aa_4_train:sharp (edged):4
+aa_4_train,sharp (edged),Jeh,plaːɟɛːj,aa_4_train:sharp (edged):2050,aa_4_train:sharp (edged):7
+aa_4_train,sharp (edged),Jru-Laven,muːt,aa_4_train:sharp (edged):2072,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Karii,loːɲ,aa_4_train:sharp (edged):2070,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Katang,blaː,aa_4_train:sharp (edged):2050,aa_4_train:sharp (edged):4
+aa_4_train,sharp (edged),Katu-AnDiem,ləp,aa_4_train:sharp (edged):2052,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Katu-AnDiem,dik,aa_4_train:sharp (edged):2053,aa_4_train:sharp (edged):9
+aa_4_train,sharp (edged),Kharia,ɟɑˀɖ,aa_4_train:sharp (edged):2063,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Kharia,cokh,aa_4_train:sharp (edged):2064,aa_4_train:sharp (edged):5
+aa_4_train,sharp (edged),Khasi,nep,aa_4_train:sharp (edged):2052,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Khmer-Standard,mut,aa_4_train:sharp (edged):2072,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Khmer-Surin,mut,aa_4_train:sharp (edged):2072,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Khmu-Cuang,ʔoh,aa_4_train:sharp (edged):2057,aa_4_train:sharp (edged):8
+aa_4_train,sharp (edged),Khmu-Yuan,ʔòh,aa_4_train:sharp (edged):2057,aa_4_train:sharp (edged):8
+aa_4_train,sharp (edged),Kui(Huffman1979),ləhiəŋ,aa_4_train:sharp (edged):2054,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),Kui(Sriwises1978),bɨʔ,aa_4_train:sharp (edged):2051,aa_4_train:sharp (edged):4
+aa_4_train,sharp (edged),Lawa(Ratanakul),lɔm,aa_4_train:sharp (edged):2060,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Mal-T'in,lən,aa_4_train:sharp (edged):2058,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),ManMet,lɤp⁵³,aa_4_train:sharp (edged):2052,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Mang,lɔm⁴,aa_4_train:sharp (edged):2060,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Mnong-Rölöm,briʔ,aa_4_train:sharp (edged):2047,aa_4_train:sharp (edged):4
+aa_4_train,sharp (edged),Mnong-Rölöm,cʰip,aa_4_train:sharp (edged):2048,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Mnong-Rölöm,cak,aa_4_train:sharp (edged):2049,aa_4_train:sharp (edged):5
+aa_4_train,sharp (edged),Mon,keak,aa_4_train:sharp (edged):2061,aa_4_train:sharp (edged):5
+aa_4_train,sharp (edged),Nancowri,ʃoŋ,aa_4_train:sharp (edged):2067,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),Nge',bak,aa_4_train:sharp (edged):2051,aa_4_train:sharp (edged):4
+aa_4_train,sharp (edged),Nge',hɛŋ,aa_4_train:sharp (edged):2074,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),Nyaheun,plaː,aa_4_train:sharp (edged):2050,aa_4_train:sharp (edged):7
+aa_4_train,sharp (edged),Nyahkur,lɔ̀ːp,aa_4_train:sharp (edged):2052,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Pacoh,hɛŋ,aa_4_train:sharp (edged):2074,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),Palaung-Dara'ang,lăm,aa_4_train:sharp (edged):2060,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Palaung-Kalaw,suaʔ,aa_4_train:sharp (edged):2068,aa_4_train:sharp (edged):6
+aa_4_train,sharp (edged),Palaung-Namhsan,ləm,aa_4_train:sharp (edged):2060,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Pnar,nɛp,aa_4_train:sharp (edged):2055,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),Rengao,haːn,aa_4_train:sharp (edged):2076,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),Riang-Sak,kut²,aa_4_train:sharp (edged):2069,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Ruc,lɨ́ːk,aa_4_train:sharp (edged):2073,aa_4_train:sharp (edged):9
+aa_4_train,sharp (edged),Santali,laser,aa_4_train:sharp (edged):2065,aa_4_train:sharp (edged):12
+aa_4_train,sharp (edged),Sedang,hḛn,aa_4_train:sharp (edged):2076,aa_4_train:sharp (edged):3
+aa_4_train,sharp (edged),So-SakonNakhon,bɨk,aa_4_train:sharp (edged):2051,aa_4_train:sharp (edged):4
+aa_4_train,sharp (edged),Sora,ənəsɨb,aa_4_train:sharp (edged):2062,aa_4_train:sharp (edged):6
+aa_4_train,sharp (edged),Sre,sout,aa_4_train:sharp (edged):2077,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Stieng,cʰoːt,aa_4_train:sharp (edged):2077,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),TaOi,bak,aa_4_train:sharp (edged):2051,aa_4_train:sharp (edged):4
+aa_4_train,sharp (edged),Vietnamese,vót,aa_4_train:sharp (edged):2071,aa_4_train:sharp (edged):2
+aa_4_train,sharp (edged),Wa-Praok,lɔ̤m,aa_4_train:sharp (edged):2060,aa_4_train:sharp (edged):1
+aa_4_train,sharp (edged),War-Lamin,nep,aa_4_train:sharp (edged):2055,aa_4_train:sharp (edged):1
+aa_4_train,six,Alak,taraw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Bahnar-Golar,tədrɔw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Bahnar-Kontum,tədrɔw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Bahnar-Pleiku,tədrɔw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Bahnar-Pleiku,drɔw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Brao,traw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Bru-Talan,təpat,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Bru-Ubon,təpa̤t,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Bugan,pi̱o̱³³,aa_4_train:six:2097,aa_4_train:six:12
+aa_4_train,six,Car,tinfuəl,aa_4_train:six:2102,aa_4_train:six:3
+aa_4_train,six,Cua,kadrow,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Gorum,turgi,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Halang,drədraw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Idu,hàntṳ́ɛ,aa_4_train:six:2100,aa_4_train:six:7
+aa_4_train,six,In,təpat,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Jeh,tədraw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Jru-Laven,traw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Karii,prawʔ,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Katang,təpɨat,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Katu-AnDiem,sapat,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Kharia,ˈtibhru,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Khasi,hnriew,aa_4_train:six:2097,aa_4_train:six:4
+aa_4_train,six,Khmer-Standard,prammuəj,aa_4_train:six:2099,aa_4_train:six:8
+aa_4_train,six,Khmu-Cuang,tɔːl,aa_4_train:six:2100,aa_4_train:six:3
+aa_4_train,six,Kui(Huffman1979),təpa̤t,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Kui(Sriwises1978),təpàt,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Lawa(Ratanakul),lɛh,aa_4_train:six:2103,aa_4_train:six:6
+aa_4_train,six,ManMet,tʰɔn³¹,aa_4_train:six:2100,aa_4_train:six:3
+aa_4_train,six,Mang,ʑɔm²,aa_4_train:six:2101,aa_4_train:six:9
+aa_4_train,six,Mankong,təpa̤t,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Mnong-Rölöm,prɔː,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Mon,karaɔ,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Nancowri,tafúal,aa_4_train:six:2102,aa_4_train:six:3
+aa_4_train,six,Nge',tapʌat,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Nyaheun,troː,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Nyahkur,tráw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Pacoh,tupat,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Palaung-Dara'ang,ndɔ,aa_4_train:six:2100,aa_4_train:six:10
+aa_4_train,six,Palaung-Kalaw,ɗawɓok,aa_4_train:six:2100,aa_4_train:six:11
+aa_4_train,six,Palaung-Namhsan,tɔr,aa_4_train:six:2100,aa_4_train:six:3
+aa_4_train,six,Pnar,hnru,aa_4_train:six:2097,aa_4_train:six:4
+aa_4_train,six,Rengao,tədruː,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Riang-Sak,tual¹,aa_4_train:six:2100,aa_4_train:six:3
+aa_4_train,six,Ruc,ʃaw³,aa_4_train:six:2097,aa_4_train:six:5
+aa_4_train,six,Santali,turuj,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Sedang,tədro̰w,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,So-Khammouane,təpa̤t,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,So-SakonNakhon,təpa̤t,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Sora,tudru,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Souei-Saravan,təpʽat,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Sre,praw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,Stieng,praw,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,six,TaOi,təpat,aa_4_train:six:2098,aa_4_train:six:2
+aa_4_train,six,Vietnamese,sáu,aa_4_train:six:2097,aa_4_train:six:5
+aa_4_train,six,Wa-Praok,li̤a,aa_4_train:six:2103,aa_4_train:six:6
+aa_4_train,six,War-Lamin,tʰrou,aa_4_train:six:2097,aa_4_train:six:1
+aa_4_train,belly/stomach,Alak,klaːk,aa_4_train:belly/stomach:235,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Bahnar-Golar,klaːk,aa_4_train:belly/stomach:235,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Bahnar-Kontum,klaːk,aa_4_train:belly/stomach:235,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Bahnar-Pleiku,klaːk,aa_4_train:belly/stomach:235,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Brao,pədiw,aa_4_train:belly/stomach:236,aa_4_train:belly/stomach:5
+aa_4_train,belly/stomach,Bru-Talan,pəːm,aa_4_train:belly/stomach:219,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Bru-Talan,krəpuŋʔoˀoʔ,aa_4_train:belly/stomach:220,aa_4_train:belly/stomach:7
+aa_4_train,belly/stomach,Bru-Ubon,pṳŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Car,ʔac,aa_4_train:belly/stomach:214,aa_4_train:belly/stomach:6
+aa_4_train,belly/stomach,Cua,bʌŋ,aa_4_train:belly/stomach:237,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Halang,bətuk,aa_4_train:belly/stomach:215,aa_4_train:belly/stomach:5
+aa_4_train,belly/stomach,Idu,pûm,aa_4_train:belly/stomach:226,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,In,pʰuŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Jeh,pədo̤k,aa_4_train:belly/stomach:215,aa_4_train:belly/stomach:5
+aa_4_train,belly/stomach,Jeh,klaːk,aa_4_train:belly/stomach:235,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Jru-Laven,klaːk,aa_4_train:belly/stomach:235,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Karii,kudɨ̀l,aa_4_train:belly/stomach:236,aa_4_train:belly/stomach:3
+aa_4_train,belly/stomach,Katang,puŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Katang,ʔoːʔ,aa_4_train:belly/stomach:220,aa_4_train:belly/stomach:7
+aa_4_train,belly/stomach,Katu-AnDiem,paluŋ,aa_4_train:belly/stomach:221,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Kharia,laiʔɟ,aa_4_train:belly/stomach:230,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Khasi,kpɔʔ,aa_4_train:belly/stomach:224,aa_4_train:belly/stomach:4
+aa_4_train,belly/stomach,Khmer-Standard,puŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Khmer-Surin,puah,aa_4_train:belly/stomach:225,aa_4_train:belly/stomach:4
+aa_4_train,belly/stomach,Khmu-Cuang,luːj,aa_4_train:belly/stomach:227,aa_4_train:belly/stomach:8
+aa_4_train,belly/stomach,Khmu-Yuan,ktúh,aa_4_train:belly/stomach:228,aa_4_train:belly/stomach:3
+aa_4_train,belly/stomach,Kui(Huffman1979),pṳŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Kui(Sriwises1978),pʰùŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Lawa(Ratanakul),viək,aa_4_train:belly/stomach:232,aa_4_train:belly/stomach:9
+aa_4_train,belly/stomach,Mal-T'in,mpʰul,aa_4_train:belly/stomach:229,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,ManMet,tɤn¹³,aa_4_train:belly/stomach:216,aa_4_train:belly/stomach:10
+aa_4_train,belly/stomach,Mang,ɗøː⁶,aa_4_train:belly/stomach:236,aa_4_train:belly/stomach:11
+aa_4_train,belly/stomach,Mankong,pṳŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Mnong-Rölöm,kʰuŋ,aa_4_train:belly/stomach:217,aa_4_train:belly/stomach:3
+aa_4_train,belly/stomach,Mnong-Rölöm,ndɨːl,aa_4_train:belly/stomach:236,aa_4_train:belly/stomach:3
+aa_4_train,belly/stomach,Mon,pɜ̀ŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Nancowri,wíaŋ,aa_4_train:belly/stomach:231,aa_4_train:belly/stomach:12
+aa_4_train,belly/stomach,Nge',roːc,aa_4_train:belly/stomach:222,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Nyaheun,klaːk,aa_4_train:belly/stomach:235,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Nyahkur,pʰùŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Pacoh,pallúng,aa_4_train:belly/stomach:221,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Palaung-Dara'ang,văc,aa_4_train:belly/stomach:233,aa_4_train:belly/stomach:6
+aa_4_train,belly/stomach,Palaung-Kalaw,vat,aa_4_train:belly/stomach:233,aa_4_train:belly/stomach:6
+aa_4_train,belly/stomach,Palaung-Namhsan,wɛʔ,aa_4_train:belly/stomach:233,aa_4_train:belly/stomach:13
+aa_4_train,belly/stomach,Pnar,kpɔʔ,aa_4_train:belly/stomach:224,aa_4_train:belly/stomach:4
+aa_4_train,belly/stomach,Rengao,pədṳk,aa_4_train:belly/stomach:215,aa_4_train:belly/stomach:5
+aa_4_train,belly/stomach,Riang-Sak,kiŋ¹kɤm¹,aa_4_train:belly/stomach:234,aa_4_train:belly/stomach:14
+aa_4_train,belly/stomach,Ruc,kudəl¹,aa_4_train:belly/stomach:236,aa_4_train:belly/stomach:3
+aa_4_train,belly/stomach,Santali,lac˺,aa_4_train:belly/stomach:230,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,Sedang,kleə,aa_4_train:belly/stomach:235,aa_4_train:belly/stomach:2
+aa_4_train,belly/stomach,So-Khammouane,pṳŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,So-SakonNakhon,mpuŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,So-SakonNakhon,ntea̤,aa_4_train:belly/stomach:223,aa_4_train:belly/stomach:15
+aa_4_train,belly/stomach,Sora,puŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Sora,kəmpúŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Souei-Saravan,pʽuŋkənuŋ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Sre,kəndul,aa_4_train:belly/stomach:236,aa_4_train:belly/stomach:3
+aa_4_train,belly/stomach,Stieng,kəndɨl,aa_4_train:belly/stomach:236,aa_4_train:belly/stomach:3
+aa_4_train,belly/stomach,TaOi,mpuŋʔoːʔ,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:7
+aa_4_train,belly/stomach,Vietnamese,bụng,aa_4_train:belly/stomach:218,aa_4_train:belly/stomach:1
+aa_4_train,belly/stomach,Wa-Praok,tṳ,aa_4_train:belly/stomach:236,aa_4_train:belly/stomach:16
+aa_4_train,belly/stomach,War-Lamin,pɔʔ,aa_4_train:belly/stomach:224,aa_4_train:belly/stomach:4
+aa_4_train,sun/day,Alak,matpʻrah,aa_4_train:sun/day:2288,aa_4_train:sun/day:4
+aa_4_train,sun/day,Bahnar-Golar,nar,aa_4_train:sun/day:2289,aa_4_train:sun/day:5
+aa_4_train,sun/day,Bahnar-Kontum,nar,aa_4_train:sun/day:2289,aa_4_train:sun/day:5
+aa_4_train,sun/day,Bahnar-Pleiku,ʔnar,aa_4_train:sun/day:2289,aa_4_train:sun/day:5
+aa_4_train,sun/day,Brao,təŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Bru-Talan,rembaˀaŋ,aa_4_train:sun/day:2272,aa_4_train:sun/day:7
+aa_4_train,sun/day,Bru-Talan,təŋaːj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Bru-Ubon,mənaːŋ,aa_4_train:sun/day:2292,aa_4_train:sun/day:2
+aa_4_train,sun/day,Bru-Ubon,təŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Bugan,laɯ⁵⁵,aa_4_train:sun/day:2277,aa_4_train:sun/day:8
+aa_4_train,sun/day,Car,tawe,aa_4_train:sun/day:2284,aa_4_train:sun/day:9
+aa_4_train,sun/day,Car,sakaːmə,aa_4_train:sun/day:2285,aa_4_train:sun/day:10
+aa_4_train,sun/day,Cua,hŋɨj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Gorum,zaʔɖiŋ,aa_4_train:sun/day:2281,aa_4_train:sun/day:11
+aa_4_train,sun/day,Halang,ŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Idu,caŋâ̤j,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Idu,bɨ̰̂ː,aa_4_train:sun/day:2275,aa_4_train:sun/day:12
+aa_4_train,sun/day,In,mənta̰ːŋ,aa_4_train:sun/day:2292,aa_4_train:sun/day:2
+aa_4_train,sun/day,Jeh,matŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Jeh,ŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Jru-Laven,tŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Karii,matkoːl,aa_4_train:sun/day:2287,aa_4_train:sun/day:4
+aa_4_train,sun/day,Katang,mənaːŋ,aa_4_train:sun/day:2292,aa_4_train:sun/day:2
+aa_4_train,sun/day,Katu-AnDiem,taŋaːj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Katu-AnDiem,carɔŋ,aa_4_train:sun/day:2273,aa_4_train:sun/day:13
+aa_4_train,sun/day,Kharia,beɽo,aa_4_train:sun/day:2280,aa_4_train:sun/day:14
+aa_4_train,sun/day,Kharia,tumˈbɔʔ,aa_4_train:sun/day:2282,aa_4_train:sun/day:15
+aa_4_train,sun/day,Khasi,sŋi,aa_4_train:sun/day:2290,aa_4_train:sun/day:3
+aa_4_train,sun/day,Khmer-Standard,tŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Khmer-Surin,tʰŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Khmu-Cuang,matbriʔ,aa_4_train:sun/day:2276,aa_4_train:sun/day:4
+aa_4_train,sun/day,Khmu-Yuan,màtprìʔ,aa_4_train:sun/day:2276,aa_4_train:sun/day:4
+aa_4_train,sun/day,Kui(Huffman1979),mənea̤ŋ,aa_4_train:sun/day:2292,aa_4_train:sun/day:2
+aa_4_train,sun/day,Kui(Huffman1979),təŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Kui(Sriwises1978),mənìaŋ,aa_4_train:sun/day:2292,aa_4_train:sun/day:2
+aa_4_train,sun/day,Kui(Sriwises1978),təŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Lawa(Ratanakul),səŋeʔ,aa_4_train:sun/day:2290,aa_4_train:sun/day:3
+aa_4_train,sun/day,Mal-T'in,ŋeʔ,aa_4_train:sun/day:2290,aa_4_train:sun/day:3
+aa_4_train,sun/day,ManMet,ŋai³¹ŋiʔ⁵³,aa_4_train:sun/day:2290,aa_4_train:sun/day:16
+aa_4_train,sun/day,Mang,ʑuaŋ⁶,aa_4_train:sun/day:2278,aa_4_train:sun/day:17
+aa_4_train,sun/day,Mang,niː⁶,aa_4_train:sun/day:2279,aa_4_train:sun/day:3
+aa_4_train,sun/day,Mankong,ma̤tmənaːŋ,aa_4_train:sun/day:2292,aa_4_train:sun/day:2
+aa_4_train,sun/day,Mnong-Rölöm,naːr,aa_4_train:sun/day:2289,aa_4_train:sun/day:5
+aa_4_train,sun/day,Mon,ŋoa,aa_4_train:sun/day:2290,aa_4_train:sun/day:18
+aa_4_train,sun/day,Nancowri,heŋ,aa_4_train:sun/day:2286,aa_4_train:sun/day:19
+aa_4_train,sun/day,Nge',matmbaːŋ,aa_4_train:sun/day:2272,aa_4_train:sun/day:2
+aa_4_train,sun/day,Nge',taŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Nyaheun,nɨeː,aa_4_train:sun/day:2289,aa_4_train:sun/day:3
+aa_4_train,sun/day,Nyahkur,hã́j,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Pacoh,matpuəʔ,aa_4_train:sun/day:2274,aa_4_train:sun/day:4
+aa_4_train,sun/day,Pacoh,ʔiŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Palaung-Dara'ang,saŋε,aa_4_train:sun/day:2290,aa_4_train:sun/day:3
+aa_4_train,sun/day,Palaung-Kalaw,saŋɛː,aa_4_train:sun/day:2290,aa_4_train:sun/day:3
+aa_4_train,sun/day,Palaung-Namhsan,səŋi,aa_4_train:sun/day:2290,aa_4_train:sun/day:3
+aa_4_train,sun/day,Pnar,sŋi,aa_4_train:sun/day:2290,aa_4_train:sun/day:3
+aa_4_train,sun/day,Rengao,ma̤thi,aa_4_train:sun/day:2291,aa_4_train:sun/day:4
+aa_4_train,sun/day,Riang-Sak,sᵊŋjiʔ²,aa_4_train:sun/day:2290,aa_4_train:sun/day:3
+aa_4_train,sun/day,Ruc,mᵊʌ́tpləːj,aa_4_train:sun/day:2276,aa_4_train:sun/day:4
+aa_4_train,sun/day,Santali,siɲcãdo,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Sedang,hãi,aa_4_train:sun/day:2291,aa_4_train:sun/day:1
+aa_4_train,sun/day,So-Khammouane,mənaːŋ,aa_4_train:sun/day:2292,aa_4_train:sun/day:2
+aa_4_train,sun/day,So-Khammouane,siŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,So-SakonNakhon,mənaːŋ,aa_4_train:sun/day:2292,aa_4_train:sun/day:2
+aa_4_train,sun/day,So-SakonNakhon,siŋaj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Sora,ujuŋ,aa_4_train:sun/day:2283,aa_4_train:sun/day:6
+aa_4_train,sun/day,Souei-Saravan,matməlaːŋ,aa_4_train:sun/day:2292,aa_4_train:sun/day:2
+aa_4_train,sun/day,Sre,ŋaːj,aa_4_train:sun/day:2290,aa_4_train:sun/day:1
+aa_4_train,sun/day,Stieng,nar,aa_4_train:sun/day:2289,aa_4_train:sun/day:5
+aa_4_train,sun/day,TaOi,rəmpaːŋ,aa_4_train:sun/day:2272,aa_4_train:sun/day:7
+aa_4_train,sun/day,Vietnamese,ngày,aa_4_train:sun/day:2290,aa_4_train:sun/day:20
+aa_4_train,sun/day,Vietnamese,mặttrời,aa_4_train:sun/day:2276,aa_4_train:sun/day:4
+aa_4_train,sun/day,Wa-Praok,sŋa̤iʔ,aa_4_train:sun/day:2290,aa_4_train:sun/day:3
+aa_4_train,sun/day,War-Lamin,njʊŋa,aa_4_train:sun/day:2290,aa_4_train:sun/day:6
+aa_4_train,bitter,Alak,ʔjaŋ,aa_4_train:bitter:249,aa_4_train:bitter:1
+aa_4_train,bitter,Bahnar-Golar,taŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Bahnar-Kontum,taŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Bahnar-Pleiku,taŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Bahnar-Pleiku,haːr,aa_4_train:bitter:251,aa_4_train:bitter:1
+aa_4_train,bitter,Brao,daŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Bru-Talan,taŋʔ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Bru-Ubon,ntaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Bugan,ʦa̱ŋ³³,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Car,taːŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Cua,ʔwalʔwal,aa_4_train:bitter:252,aa_4_train:bitter:5
+aa_4_train,bitter,Gorum,asaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Halang,ʔɲaŋ,aa_4_train:bitter:249,aa_4_train:bitter:1
+aa_4_train,bitter,Idu,câ̰ŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,In,taŋˀ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Jeh,ʔɲaŋ,aa_4_train:bitter:249,aa_4_train:bitter:1
+aa_4_train,bitter,Jru-Laven,ʔtaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Karii,taŋʔ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Katang,ntaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Katu-AnDiem,taŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Kharia,ɔˈsɔŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Khasi,ktʰaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Khmer-Standard,lwiːŋ,aa_4_train:bitter:248,aa_4_train:bitter:2
+aa_4_train,bitter,Khmer-Surin,lwiːɲ,aa_4_train:bitter:248,aa_4_train:bitter:2
+aa_4_train,bitter,Khmu-Cuang,caŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Khmu-Yuan,cáŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Kui(Huffman1979),taŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Kui(Sriwises1978),taŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Lawa(Ratanakul),sɔŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Mal-T'in,saŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,ManMet,săŋ⁵⁵,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Mang,θaŋ²ʔɨən,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Mankong,ntaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Mnong-Rölöm,taŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Mon,kataŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Nancowri,teak,aa_4_train:bitter:247,aa_4_train:bitter:1
+aa_4_train,bitter,Nge',taŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Nyaheun,daŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Nyahkur,kətáŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Pacoh,ʔataŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Palaung-Dara'ang,sɔŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Palaung-Kalaw,msɔk,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Palaung-Namhsan,səŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Pnar,ktʰaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Rengao,ʦaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Riang-Sak,tjaŋ¹,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Ruc,ʔətá̰ŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Santali,heber,aa_4_train:bitter:253,aa_4_train:bitter:4
+aa_4_train,bitter,Sedang,sa̰ŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,So-Khammouane,ntaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,So-SakonNakhon,ntaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Sora,ʌsaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Sre,bətaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Stieng,taŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,TaOi,taŋˀ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,Vietnamese,đắng,aa_4_train:bitter:250,aa_4_train:bitter:3
+aa_4_train,bitter,Wa-Praok,soŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,bitter,War-Lamin,kʃaŋ,aa_4_train:bitter:250,aa_4_train:bitter:1
+aa_4_train,to climb/ascend,Alak,tʻɨk,aa_4_train:to climb/ascend:2530,aa_4_train:to climb/ascend:4
+aa_4_train,to climb/ascend,Bahnar-Golar,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Bahnar-Kontum,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Bahnar-Pleiku,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Brao,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Bru-Talan,cʰɔˀɔh,aa_4_train:to climb/ascend:2532,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Bru-Ubon,sɔh,aa_4_train:to climb/ascend:2532,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Bugan,to̱³⁵,aa_4_train:to climb/ascend:2516,aa_4_train:to climb/ascend:5
+aa_4_train,to climb/ascend,Car,jɔhlə,aa_4_train:to climb/ascend:2510,aa_4_train:to climb/ascend:8
+aa_4_train,to climb/ascend,Cua,gamaːk,aa_4_train:to climb/ascend:2528,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Cua,sɔːt,aa_4_train:to climb/ascend:2529,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Gorum,ɖa̰j,aa_4_train:to climb/ascend:2519,aa_4_train:to climb/ascend:4
+aa_4_train,to climb/ascend,Halang,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Idu,pǐːn,aa_4_train:to climb/ascend:2506,aa_4_train:to climb/ascend:3
+aa_4_train,to climb/ascend,In,sɔ̰ːh,aa_4_train:to climb/ascend:2532,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,In,piːn,aa_4_train:to climb/ascend:2506,aa_4_train:to climb/ascend:3
+aa_4_train,to climb/ascend,Jeh,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Jeh,da̤k,aa_4_train:to climb/ascend:2530,aa_4_train:to climb/ascend:4
+aa_4_train,to climb/ascend,Jru-Laven,haw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Karii,takə̀ːh,aa_4_train:to climb/ascend:2526,aa_4_train:to climb/ascend:4
+aa_4_train,to climb/ascend,Katang,sɔh,aa_4_train:to climb/ascend:2532,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Katu-AnDiem,juːr,aa_4_train:to climb/ascend:2507,aa_4_train:to climb/ascend:9
+aa_4_train,to climb/ascend,Katu-AnDiem,ʄɑk,aa_4_train:to climb/ascend:2508,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Kharia,ɖɛˀb,aa_4_train:to climb/ascend:2519,aa_4_train:to climb/ascend:10
+aa_4_train,to climb/ascend,Khasi,kiew,aa_4_train:to climb/ascend:2512,aa_4_train:to climb/ascend:6
+aa_4_train,to climb/ascend,Khmer-Standard,laəŋ,aa_4_train:to climb/ascend:2513,aa_4_train:to climb/ascend:3
+aa_4_train,to climb/ascend,Khmer-Surin,lʌːŋ,aa_4_train:to climb/ascend:2513,aa_4_train:to climb/ascend:3
+aa_4_train,to climb/ascend,Khmu-Cuang,kʰɨən,aa_4_train:to climb/ascend:2514,aa_4_train:to climb/ascend:7
+aa_4_train,to climb/ascend,Khmu-Yuan,kàː,aa_4_train:to climb/ascend:2515,aa_4_train:to climb/ascend:6
+aa_4_train,to climb/ascend,Khmu-Yuan,kʰɨ́ːn,aa_4_train:to climb/ascend:2514,aa_4_train:to climb/ascend:7
+aa_4_train,to climb/ascend,Kui(Huffman1979),sɑh,aa_4_train:to climb/ascend:2532,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Kui(Sriwises1978),sɔh,aa_4_train:to climb/ascend:2532,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Lawa(Ratanakul),haok,aa_4_train:to climb/ascend:2522,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Mal-T'in,ŋkɔn,aa_4_train:to climb/ascend:2514,aa_4_train:to climb/ascend:7
+aa_4_train,to climb/ascend,ManMet,sa³⁵,aa_4_train:to climb/ascend:2523,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Mang,ʔyː²,aa_4_train:to climb/ascend:2517,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Mankong,saːw,aa_4_train:to climb/ascend:2523,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Mnong-Rölöm,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Mon,tɒn,aa_4_train:to climb/ascend:2518,aa_4_train:to climb/ascend:5
+aa_4_train,to climb/ascend,Nancowri,ʔɔle,aa_4_train:to climb/ascend:2521,aa_4_train:to climb/ascend:3
+aa_4_train,to climb/ascend,Nge',sɑh,aa_4_train:to climb/ascend:2532,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Nyaheun,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Nyahkur,tún,aa_4_train:to climb/ascend:2518,aa_4_train:to climb/ascend:5
+aa_4_train,to climb/ascend,Pacoh,tikɯh,aa_4_train:to climb/ascend:2509,aa_4_train:to climb/ascend:4
+aa_4_train,to climb/ascend,Palaung-Dara'ang,houɁ,aa_4_train:to climb/ascend:2522,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Palaung-Kalaw,hawʔ,aa_4_train:to climb/ascend:2522,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Palaung-Namhsan,hɔʔ,aa_4_train:to climb/ascend:2522,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Pnar,ku,aa_4_train:to climb/ascend:2512,aa_4_train:to climb/ascend:6
+aa_4_train,to climb/ascend,Rengao,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Riang-Sak,rɔ²,aa_4_train:to climb/ascend:2524,aa_4_train:to climb/ascend:11
+aa_4_train,to climb/ascend,Riang-Sak,tᵊkial²,aa_4_train:to climb/ascend:2525,aa_4_train:to climb/ascend:12
+aa_4_train,to climb/ascend,Ruc,liːŋ¹,aa_4_train:to climb/ascend:2527,aa_4_train:to climb/ascend:3
+aa_4_train,to climb/ascend,Santali,deɟoʔ,aa_4_train:to climb/ascend:2519,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Sedang,hɛ̰o,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,So-Khammouane,cɔːn,aa_4_train:to climb/ascend:2510,aa_4_train:to climb/ascend:5
+aa_4_train,to climb/ascend,So-SakonNakhon,cɔːn,aa_4_train:to climb/ascend:2510,aa_4_train:to climb/ascend:5
+aa_4_train,to climb/ascend,Sora,daɟ,aa_4_train:to climb/ascend:2519,aa_4_train:to climb/ascend:4
+aa_4_train,to climb/ascend,Sora,əkar,aa_4_train:to climb/ascend:2520,aa_4_train:to climb/ascend:6
+aa_4_train,to climb/ascend,Souei-Saravan,sɔh,aa_4_train:to climb/ascend:2532,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Sre,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,Stieng,haːw,aa_4_train:to climb/ascend:2531,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,TaOi,ɟɔŋ,aa_4_train:to climb/ascend:2511,aa_4_train:to climb/ascend:2
+aa_4_train,to climb/ascend,Vietnamese,lên,aa_4_train:to climb/ascend:2527,aa_4_train:to climb/ascend:3
+aa_4_train,to climb/ascend,Wa-Praok,haɔk,aa_4_train:to climb/ascend:2522,aa_4_train:to climb/ascend:1
+aa_4_train,to climb/ascend,War-Lamin,kʊ,aa_4_train:to climb/ascend:2512,aa_4_train:to climb/ascend:6
+aa_4_train,to descend,Alak,cruːs,aa_4_train:to descend:2609,aa_4_train:to descend:1
+aa_4_train,to descend,Bahnar-Golar,ɟuːr,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Bahnar-Kontum,ɟuːr,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Bahnar-Pleiku,ɟuːr,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Brao,tɨːx,aa_4_train:to descend:2611,aa_4_train:to descend:3
+aa_4_train,to descend,Bru-Talan,cʰɛˀɛŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Bru-Ubon,sɛːŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Car,jɔːnti,aa_4_train:to descend:2604,aa_4_train:to descend:15
+aa_4_train,to descend,Cua,ʔalʌh,aa_4_train:to descend:2608,aa_4_train:to descend:4
+aa_4_train,to descend,Gorum,maŋta,aa_4_train:to descend:2600,aa_4_train:to descend:14
+aa_4_train,to descend,Halang,ɟur,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Idu,lɔ́çgancṳ́ɛ,aa_4_train:to descend:2597,aa_4_train:to descend:13
+aa_4_train,to descend,In,sɛ̰ːŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Jeh,ɟɔ̤l,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Jru-Laven,tieh,aa_4_train:to descend:2611,aa_4_train:to descend:3
+aa_4_train,to descend,Karii,cìːh,aa_4_train:to descend:2599,aa_4_train:to descend:3
+aa_4_train,to descend,Katang,seːŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Katu-AnDiem,ɟarɨəp,aa_4_train:to descend:2593,aa_4_train:to descend:12
+aa_4_train,to descend,Kharia,are,aa_4_train:to descend:2601,aa_4_train:to descend:11
+aa_4_train,to descend,Khasi,hiar,aa_4_train:to descend:2594,aa_4_train:to descend:5
+aa_4_train,to descend,Khmer-Standard,coh,aa_4_train:to descend:2596,aa_4_train:to descend:1
+aa_4_train,to descend,Khmu-Cuang,ɟuːr,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Khmu-Yuan,cùːr,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Kui(Huffman1979),sɛːŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Kui(Sriwises1978),sɛːɲ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Lawa(Ratanakul),ləih,aa_4_train:to descend:2606,aa_4_train:to descend:4
+aa_4_train,to descend,Mal-T'in,kʰihcuː,aa_4_train:to descend:2610,aa_4_train:to descend:10
+aa_4_train,to descend,ManMet,lɔŋ³⁵le³⁵,aa_4_train:to descend:2606,aa_4_train:to descend:9
+aa_4_train,to descend,Mang,tam¹,aa_4_train:to descend:2598,aa_4_train:to descend:8
+aa_4_train,to descend,Mankong,sɛːŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Mnong-Rölöm,ɟɨr,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Mon,cih,aa_4_train:to descend:2599,aa_4_train:to descend:3
+aa_4_train,to descend,Nancowri,ciat,aa_4_train:to descend:2605,aa_4_train:to descend:3
+aa_4_train,to descend,Nge',siɛr,aa_4_train:to descend:2594,aa_4_train:to descend:2
+aa_4_train,to descend,Nyaheun,tieh,aa_4_train:to descend:2611,aa_4_train:to descend:3
+aa_4_train,to descend,Nyahkur,cíh,aa_4_train:to descend:2599,aa_4_train:to descend:3
+aa_4_train,to descend,Pacoh,sḭar,aa_4_train:to descend:2594,aa_4_train:to descend:5
+aa_4_train,to descend,Palaung-Namhsan,leh,aa_4_train:to descend:2606,aa_4_train:to descend:4
+aa_4_train,to descend,Pnar,hiar,aa_4_train:to descend:2594,aa_4_train:to descend:5
+aa_4_train,to descend,Rengao,ɟṳːr,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Riang-Sak,tjuːr²,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Ruc,ʃʳuò̰ŋ,aa_4_train:to descend:2607,aa_4_train:to descend:2
+aa_4_train,to descend,Santali,ãɽgo,aa_4_train:to descend:2602,aa_4_train:to descend:7
+aa_4_train,to descend,Sedang,cu,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,So-Khammouane,sɛːŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,So-SakonNakhon,sɛːŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Sora,ləɖsɔ,aa_4_train:to descend:2603,aa_4_train:to descend:4
+aa_4_train,to descend,Souei-Saravan,sɛːŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Sre,ɟur,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,Stieng,ɟur,aa_4_train:to descend:2610,aa_4_train:to descend:1
+aa_4_train,to descend,TaOi,sɛːŋ,aa_4_train:to descend:2592,aa_4_train:to descend:2
+aa_4_train,to descend,Vietnamese,xuống,aa_4_train:to descend:2607,aa_4_train:to descend:2
+aa_4_train,to descend,Wa-Praok,li̤h,aa_4_train:to descend:2606,aa_4_train:to descend:4
+aa_4_train,to descend,War-Lamin,psa,aa_4_train:to descend:2595,aa_4_train:to descend:6
+aa_4_train,to dig,Alak,ciːr,aa_4_train:to dig:2644,aa_4_train:to dig:4
+aa_4_train,to dig,Bahnar-Golar,siːr,aa_4_train:to dig:2644,aa_4_train:to dig:4
+aa_4_train,to dig,Bahnar-Kontum,siːr,aa_4_train:to dig:2644,aa_4_train:to dig:4
+aa_4_train,to dig,Bahnar-Pleiku,siːr,aa_4_train:to dig:2644,aa_4_train:to dig:4
+aa_4_train,to dig,Brao,cah,aa_4_train:to dig:2645,aa_4_train:to dig:2
+aa_4_train,to dig,Bru-Talan,pic,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Bru-Talan,kəcɔˀɔh,aa_4_train:to dig:2628,aa_4_train:to dig:7
+aa_4_train,to dig,Bru-Talan,kaˀaj,aa_4_train:to dig:2629,aa_4_train:to dig:3
+aa_4_train,to dig,Bru-Ubon,piʔ,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Bugan,pou³¹,aa_4_train:to dig:2633,aa_4_train:to dig:6
+aa_4_train,to dig,Car,kacuat,aa_4_train:to dig:2637,aa_4_train:to dig:7
+aa_4_train,to dig,Cua,siːl,aa_4_train:to dig:2644,aa_4_train:to dig:4
+aa_4_train,to dig,Gorum,loʔ,aa_4_train:to dig:2637,aa_4_train:to dig:5
+aa_4_train,to dig,Gorum,gaj,aa_4_train:to dig:2635,aa_4_train:to dig:3
+aa_4_train,to dig,Halang,ci̤ər,aa_4_train:to dig:2644,aa_4_train:to dig:4
+aa_4_train,to dig,Idu,pák,aa_4_train:to dig:2631,aa_4_train:to dig:1
+aa_4_train,to dig,In,ka̰ːj,aa_4_train:to dig:2629,aa_4_train:to dig:3
+aa_4_train,to dig,Jeh,be̤t,aa_4_train:to dig:2647,aa_4_train:to dig:1
+aa_4_train,to dig,Jru-Laven,cah,aa_4_train:to dig:2645,aa_4_train:to dig:2
+aa_4_train,to dig,Karii,pə̀ːk,aa_4_train:to dig:2631,aa_4_train:to dig:1
+aa_4_train,to dig,Katang,piʔ,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Katang,kaːj,aa_4_train:to dig:2629,aa_4_train:to dig:3
+aa_4_train,to dig,Katu-AnDiem,pec,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Kharia,lae,aa_4_train:to dig:2636,aa_4_train:to dig:5
+aa_4_train,to dig,Khasi,tiʔ,aa_4_train:to dig:2630,aa_4_train:to dig:2
+aa_4_train,to dig,Khmer-Standard,ciːɁ,aa_4_train:to dig:2646,aa_4_train:to dig:2
+aa_4_train,to dig,Khmer-Surin,ʨiːɁ,aa_4_train:to dig:2646,aa_4_train:to dig:2
+aa_4_train,to dig,Khmu-Cuang,kʰɨəŋ,aa_4_train:to dig:2632,aa_4_train:to dig:3
+aa_4_train,to dig,Khmu-Yuan,kʰɨ́aŋ,aa_4_train:to dig:2632,aa_4_train:to dig:3
+aa_4_train,to dig,Kui(Huffman1979),pec,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Kui(Sriwises1978),pec,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Lawa(Ratanakul),kaoŋ,aa_4_train:to dig:2632,aa_4_train:to dig:3
+aa_4_train,to dig,Mal-T'in,pʰək,aa_4_train:to dig:2631,aa_4_train:to dig:1
+aa_4_train,to dig,ManMet,bok⁵³,aa_4_train:to dig:2631,aa_4_train:to dig:1
+aa_4_train,to dig,Mang,puːŋ⁴,aa_4_train:to dig:2633,aa_4_train:to dig:6
+aa_4_train,to dig,Mang,taːn¹teː⁶,aa_4_train:to dig:2634,aa_4_train:to dig:8
+aa_4_train,to dig,Mankong,kaːj,aa_4_train:to dig:2629,aa_4_train:to dig:3
+aa_4_train,to dig,Mankong,pi̤ʔ,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Mnong-Rölöm,kuç,aa_4_train:to dig:2642,aa_4_train:to dig:9
+aa_4_train,to dig,Mnong-Rölöm,siːr,aa_4_train:to dig:2644,aa_4_train:to dig:4
+aa_4_train,to dig,Mon,bɑk,aa_4_train:to dig:2631,aa_4_train:to dig:1
+aa_4_train,to dig,Nancowri,ʔul,aa_4_train:to dig:2638,aa_4_train:to dig:10
+aa_4_train,to dig,Nge',pic,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Nyaheun,cah,aa_4_train:to dig:2645,aa_4_train:to dig:2
+aa_4_train,to dig,Nyahkur,cíːr,aa_4_train:to dig:2644,aa_4_train:to dig:4
+aa_4_train,to dig,Pacoh,piʔ,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Palaung-Dara'ang,gə̆h,aa_4_train:to dig:2643,aa_4_train:to dig:7
+aa_4_train,to dig,Palaung-Namhsan,kɯŋ,aa_4_train:to dig:2632,aa_4_train:to dig:3
+aa_4_train,to dig,Pnar,tiʔ,aa_4_train:to dig:2630,aa_4_train:to dig:2
+aa_4_train,to dig,Rengao,cɔːj,aa_4_train:to dig:2625,aa_4_train:to dig:2
+aa_4_train,to dig,Riang-Sak,lak²,aa_4_train:to dig:2639,aa_4_train:to dig:5
+aa_4_train,to dig,Ruc,tuːɲ²,aa_4_train:to dig:2640,aa_4_train:to dig:6
+aa_4_train,to dig,Santali,la,aa_4_train:to dig:2636,aa_4_train:to dig:5
+aa_4_train,to dig,Sedang,ciə,aa_4_train:to dig:2644,aa_4_train:to dig:2
+aa_4_train,to dig,So-Khammouane,pi̤c,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,So-SakonNakhon,pi̤t,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Sora,ɡaɟ,aa_4_train:to dig:2635,aa_4_train:to dig:3
+aa_4_train,to dig,Souei-Saravan,pʽic,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Sre,taː,aa_4_train:to dig:2626,aa_4_train:to dig:2
+aa_4_train,to dig,Stieng,sir,aa_4_train:to dig:2644,aa_4_train:to dig:4
+aa_4_train,to dig,TaOi,pic,aa_4_train:to dig:2627,aa_4_train:to dig:1
+aa_4_train,to dig,Vietnamese,đào,aa_4_train:to dig:2641,aa_4_train:to dig:11
+aa_4_train,to dig,Wa-Praok,kaɔŋ,aa_4_train:to dig:2632,aa_4_train:to dig:3
+aa_4_train,to dig,War-Lamin,tɪəʔ,aa_4_train:to dig:2630,aa_4_train:to dig:2
+aa_4_train,to extinguish/put out,Alak,mpat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Bahnar-Golar,tək,aa_4_train:to extinguish/put out:2709,aa_4_train:to extinguish/put out:5
+aa_4_train,to extinguish/put out,Bahnar-Kontum,pəpăt,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Bahnar-Pleiku,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Bahnar-Pleiku,tək,aa_4_train:to extinguish/put out:2709,aa_4_train:to extinguish/put out:5
+aa_4_train,to extinguish/put out,Brao,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Bru-Talan,həmpat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Bru-Ubon,ʔaːpat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Bugan,mʦa̱³³,aa_4_train:to extinguish/put out:2699,aa_4_train:to extinguish/put out:6
+aa_4_train,to extinguish/put out,Car,haɲaŋ,aa_4_train:to extinguish/put out:2702,aa_4_train:to extinguish/put out:4
+aa_4_train,to extinguish/put out,Cua,pʌt,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Gorum,poŋiˀd,aa_4_train:to extinguish/put out:2701,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Halang,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Idu,gabíət,aa_4_train:to extinguish/put out:2698,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,In,həmpat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Jeh,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Jru-Laven,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Karii,basət,aa_4_train:to extinguish/put out:2708,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Katang,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Katu-AnDiem,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Kharia,moˀbliˀb,aa_4_train:to extinguish/put out:2700,aa_4_train:to extinguish/put out:3
+aa_4_train,to extinguish/put out,Khasi,lip,aa_4_train:to extinguish/put out:2713,aa_4_train:to extinguish/put out:3
+aa_4_train,to extinguish/put out,Khmer-Standard,lʊət,aa_4_train:to extinguish/put out:2697,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Khmer-Surin,luat,aa_4_train:to extinguish/put out:2697,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Khmu-Cuang,biːt,aa_4_train:to extinguish/put out:2698,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Khmu-Yuan,pńpìːt,aa_4_train:to extinguish/put out:2698,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Kui(Huffman1979),kəsat,aa_4_train:to extinguish/put out:2712,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Kui(Sriwises1978),kəsat,aa_4_train:to extinguish/put out:2712,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Lawa(Ratanakul),ʔɲɨt,aa_4_train:to extinguish/put out:2705,aa_4_train:to extinguish/put out:2
+aa_4_train,to extinguish/put out,Mal-T'in,mpʰət,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Mankong,cuːjh,aa_4_train:to extinguish/put out:2711,aa_4_train:to extinguish/put out:7
+aa_4_train,to extinguish/put out,Mnong-Rölöm,kʰɨtʔɨːɲ,aa_4_train:to extinguish/put out:2711,aa_4_train:to extinguish/put out:8
+aa_4_train,to extinguish/put out,Mon,plɒt,aa_4_train:to extinguish/put out:2704,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Nancowri,ɲaphaŋa,aa_4_train:to extinguish/put out:2702,aa_4_train:to extinguish/put out:4
+aa_4_train,to extinguish/put out,Nge',pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Nyaheun,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Nyahkur,pʰlɤ́t,aa_4_train:to extinguish/put out:2704,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Pacoh,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Palaung-Dara'ang,jat,aa_4_train:to extinguish/put out:2706,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Palaung-Kalaw,rɯkjatŋaw,aa_4_train:to extinguish/put out:2706,aa_4_train:to extinguish/put out:9
+aa_4_train,to extinguish/put out,Palaung-Namhsan,jət,aa_4_train:to extinguish/put out:2703,aa_4_train:to extinguish/put out:2
+aa_4_train,to extinguish/put out,Pnar,tmplɛʔ,aa_4_train:to extinguish/put out:2714,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Rengao,pat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Riang-Sak,jɛt²,aa_4_train:to extinguish/put out:2703,aa_4_train:to extinguish/put out:2
+aa_4_train,to extinguish/put out,Ruc,pəsát,aa_4_train:to extinguish/put out:2708,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Sedang,təpa,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:5
+aa_4_train,to extinguish/put out,So-Khammouane,ʔapa̤t,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,So-SakonNakhon,ʔatɛh,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Sora,pʌɲid,aa_4_train:to extinguish/put out:2701,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Souei-Saravan,səpat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Sre,ŋət,aa_4_train:to extinguish/put out:2710,aa_4_train:to extinguish/put out:2
+aa_4_train,to extinguish/put out,Stieng,ŋɔt,aa_4_train:to extinguish/put out:2710,aa_4_train:to extinguish/put out:2
+aa_4_train,to extinguish/put out,TaOi,həmpat,aa_4_train:to extinguish/put out:2696,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Vietnamese,tắt,aa_4_train:to extinguish/put out:2708,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Wa-Praok,prɯt,aa_4_train:to extinguish/put out:2707,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Wa-Praok,piat,aa_4_train:to extinguish/put out:2698,aa_4_train:to extinguish/put out:1
+aa_4_train,to extinguish/put out,Wa-Praok,jɯt,aa_4_train:to extinguish/put out:2706,aa_4_train:to extinguish/put out:2
+aa_4_train,to extinguish/put out,War-Lamin,pleʔ,aa_4_train:to extinguish/put out:2714,aa_4_train:to extinguish/put out:1
+aa_4_train,to fall,Alak,ʔlih,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Bahnar-Golar,klih,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Bahnar-Kontum,klih,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Bahnar-Pleiku,klih,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Brao,kliːh,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Bru-Talan,hətoˀoh,aa_4_train:to fall:2721,aa_4_train:to fall:1
+aa_4_train,to fall,Bru-Ubon,səlɛh,aa_4_train:to fall:2722,aa_4_train:to fall:2
+aa_4_train,to fall,Bugan,la̱i̱⁵⁵,aa_4_train:to fall:2715,aa_4_train:to fall:5
+aa_4_train,to fall,Bugan,ʑet³¹,aa_4_train:to fall:2736,aa_4_train:to fall:13
+aa_4_train,to fall,Car,tup,aa_4_train:to fall:2716,aa_4_train:to fall:7
+aa_4_train,to fall,Cua,kleh,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Gorum,sṵŋ,aa_4_train:to fall:2744,aa_4_train:to fall:4
+aa_4_train,to fall,Halang,klih,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Idu,klɔ̰̂ː,aa_4_train:to fall:2732,aa_4_train:to fall:2
+aa_4_train,to fall,In,həto̰ːh,aa_4_train:to fall:2721,aa_4_train:to fall:1
+aa_4_train,to fall,In,dəm,aa_4_train:to fall:2723,aa_4_train:to fall:3
+aa_4_train,to fall,Jeh,təklih,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Jru-Laven,kleh,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Karii,slac,aa_4_train:to fall:2718,aa_4_train:to fall:5
+aa_4_train,to fall,Karii,rùjʔ,aa_4_train:to fall:2751,aa_4_train:to fall:1
+aa_4_train,to fall,Katang,dəm,aa_4_train:to fall:2723,aa_4_train:to fall:3
+aa_4_train,to fall,Katu-AnDiem,kaləm,aa_4_train:to fall:2719,aa_4_train:to fall:3
+aa_4_train,to fall,Katu-AnDiem,dajɨək,aa_4_train:to fall:2724,aa_4_train:to fall:9
+aa_4_train,to fall,Katu-AnDiem,ntoʔ,aa_4_train:to fall:2725,aa_4_train:to fall:1
+aa_4_train,to fall,Katu-AnDiem,ɟarɔːʔ,aa_4_train:to fall:2726,aa_4_train:to fall:1
+aa_4_train,to fall,Kharia,ɡur,aa_4_train:to fall:2745,aa_4_train:to fall:6
+aa_4_train,to fall,Khasi,hap,aa_4_train:to fall:2729,aa_4_train:to fall:7
+aa_4_train,to fall,Khmer-Standard,cruh,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,Khmer-Surin,tʰliaj,aa_4_train:to fall:2731,aa_4_train:to fall:10
+aa_4_train,to fall,Khmu-Cuang,ʰruk,aa_4_train:to fall:2733,aa_4_train:to fall:1
+aa_4_train,to fall,Khmu-Cuang,grɔːj,aa_4_train:to fall:2734,aa_4_train:to fall:1
+aa_4_train,to fall,Khmu-Cuang,kseh,aa_4_train:to fall:2735,aa_4_train:to fall:2
+aa_4_train,to fall,Khmu-Yuan,krùh,aa_4_train:to fall:2733,aa_4_train:to fall:1
+aa_4_train,to fall,Kui(Huffman1979),ʔala̤ʔ,aa_4_train:to fall:2752,aa_4_train:to fall:2
+aa_4_train,to fall,Kui(Huffman1979),tʰrɑːj,aa_4_train:to fall:2727,aa_4_train:to fall:1
+aa_4_train,to fall,Kui(Huffman1979),ntrṳh,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,Kui(Sriwises1978),trùh,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,Lawa(Ratanakul),kjɔic,aa_4_train:to fall:2748,aa_4_train:to fall:11
+aa_4_train,to fall,Mal-T'in,kʰlih,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Mang,ʑuː⁴,aa_4_train:to fall:2737,aa_4_train:to fall:4
+aa_4_train,to fall,Mang,lɔŋ³,aa_4_train:to fall:2738,aa_4_train:to fall:8
+aa_4_train,to fall,Mang,ɗɔk⁷,aa_4_train:to fall:2739,aa_4_train:to fall:9
+aa_4_train,to fall,Mankong,satro̤h,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,Mankong,dəm,aa_4_train:to fall:2723,aa_4_train:to fall:3
+aa_4_train,to fall,Mankong,sruəj,aa_4_train:to fall:2728,aa_4_train:to fall:1
+aa_4_train,to fall,Mnong-Rölöm,boːŋ,aa_4_train:to fall:2717,aa_4_train:to fall:8
+aa_4_train,to fall,Mnong-Rölöm,lac,aa_4_train:to fall:2718,aa_4_train:to fall:5
+aa_4_train,to fall,Mon,prɔh,aa_4_train:to fall:2741,aa_4_train:to fall:1
+aa_4_train,to fall,Mon,hətom,aa_4_train:to fall:2742,aa_4_train:to fall:3
+aa_4_train,to fall,Nancowri,tak,aa_4_train:to fall:2747,aa_4_train:to fall:9
+aa_4_train,to fall,Nge',hatoh,aa_4_train:to fall:2721,aa_4_train:to fall:1
+aa_4_train,to fall,Nyaheun,klieh,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Nyahkur,cíh,aa_4_train:to fall:2743,aa_4_train:to fall:2
+aa_4_train,to fall,Pacoh,trɔh,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,Palaung-Dara'ang,coh,aa_4_train:to fall:2749,aa_4_train:to fall:1
+aa_4_train,to fall,Palaung-Kalaw,coh,aa_4_train:to fall:2749,aa_4_train:to fall:1
+aa_4_train,to fall,Palaung-Namhsan,ɟɔh,aa_4_train:to fall:2749,aa_4_train:to fall:1
+aa_4_train,to fall,Pnar,hap,aa_4_train:to fall:2729,aa_4_train:to fall:7
+aa_4_train,to fall,Rengao,bɔŋ,aa_4_train:to fall:2717,aa_4_train:to fall:8
+aa_4_train,to fall,Rengao,kədṳŋ,aa_4_train:to fall:2718,aa_4_train:to fall:2
+aa_4_train,to fall,Rengao,rələ̤m,aa_4_train:to fall:2719,aa_4_train:to fall:3
+aa_4_train,to fall,Riang-Sak,klɛ¹,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,Ruc,ruh²,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,Santali,ɲur,aa_4_train:to fall:2746,aa_4_train:to fall:6
+aa_4_train,to fall,Santali,ɡur,aa_4_train:to fall:2740,aa_4_train:to fall:6
+aa_4_train,to fall,Sedang,klɛh,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,So-Khammouane,dɨm,aa_4_train:to fall:2723,aa_4_train:to fall:3
+aa_4_train,to fall,So-Khammouane,silih,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,So-Khammouane,ntrṳh,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,So-SakonNakhon,dɪm,aa_4_train:to fall:2723,aa_4_train:to fall:3
+aa_4_train,to fall,So-SakonNakhon,ciruəj,aa_4_train:to fall:2727,aa_4_train:to fall:1
+aa_4_train,to fall,So-SakonNakhon,ntrṳh,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,Sora,ɡɔsoŋ,aa_4_train:to fall:2745,aa_4_train:to fall:4
+aa_4_train,to fall,Souei-Saravan,dɨm,aa_4_train:to fall:2723,aa_4_train:to fall:3
+aa_4_train,to fall,Souei-Saravan,tʽuh,aa_4_train:to fall:2721,aa_4_train:to fall:1
+aa_4_train,to fall,Sre,duh,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,Stieng,ʔatɔp,aa_4_train:to fall:2716,aa_4_train:to fall:7
+aa_4_train,to fall,Stieng,kleh,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,TaOi,dəm,aa_4_train:to fall:2723,aa_4_train:to fall:3
+aa_4_train,to fall,Vietnamese,rũ,aa_4_train:to fall:2720,aa_4_train:to fall:1
+aa_4_train,to fall,Wa-Praok,tɕi̤a,aa_4_train:to fall:2752,aa_4_train:to fall:10
+aa_4_train,to fall,Wa-Praok,tɕo̤t,aa_4_train:to fall:2750,aa_4_train:to fall:12
+aa_4_train,to fall,Wa-Praok,lih,aa_4_train:to fall:2715,aa_4_train:to fall:2
+aa_4_train,to fall,War-Lamin,hərem,aa_4_train:to fall:2730,aa_4_train:to fall:3
+aa_4_train,to fly,Alak,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Bahnar-Golar,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Bahnar-Kontum,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Bahnar-Pleiku,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Brao,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Bru-Talan,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Bru-Ubon,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Bugan,tʰu³¹,aa_4_train:to fly:2801,aa_4_train:to fly:2
+aa_4_train,to fly,Car,kitɯʔ,aa_4_train:to fly:2796,aa_4_train:to fly:8
+aa_4_train,to fly,Cua,pʌl,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Gorum,ur,aa_4_train:to fly:2793,aa_4_train:to fly:1
+aa_4_train,to fly,Halang,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Idu,hàmpɔ̰̂ːr,aa_4_train:to fly:2800,aa_4_train:to fly:1
+aa_4_train,to fly,In,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Jeh,təpal,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Jru-Laven,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Karii,pər,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Katang,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Katu-AnDiem,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Kharia,lɛŋ,aa_4_train:to fly:2794,aa_4_train:to fly:3
+aa_4_train,to fly,Khasi,hɛːr,aa_4_train:to fly:2799,aa_4_train:to fly:1
+aa_4_train,to fly,Khmer-Standard,haə,aa_4_train:to fly:2799,aa_4_train:to fly:1
+aa_4_train,to fly,Khmer-Surin,hʌːr,aa_4_train:to fly:2799,aa_4_train:to fly:1
+aa_4_train,to fly,Khmu-Cuang,tɨːr,aa_4_train:to fly:2801,aa_4_train:to fly:2
+aa_4_train,to fly,Khmu-Yuan,tɨ́ːr,aa_4_train:to fly:2801,aa_4_train:to fly:2
+aa_4_train,to fly,Kui(Huffman1979),pal,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Kui(Sriwises1978),paːr,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Lawa(Ratanakul),pəo,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Mal-T'in,saːn,aa_4_train:to fly:2791,aa_4_train:to fly:1
+aa_4_train,to fly,ManMet,pʰɤn⁵⁵,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Mankong,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Mnong-Rölöm,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Mon,pɔ,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Nancowri,hēhhaŋa,aa_4_train:to fly:2797,aa_4_train:to fly:7
+aa_4_train,to fly,Nge',par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Nyaheun,pan,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Nyahkur,pʰár,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Pacoh,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Palaung-Dara'ang,bǝ̆n,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Palaung-Kalaw,ʔeɓenhaːw,aa_4_train:to fly:2790,aa_4_train:to fly:6
+aa_4_train,to fly,Palaung-Namhsan,pər,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Pnar,hɛːr,aa_4_train:to fly:2799,aa_4_train:to fly:1
+aa_4_train,to fly,Rengao,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Riang-Sak,pɤr¹,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Ruc,pəl¹,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Santali,uɖəw,aa_4_train:to fly:2792,aa_4_train:to fly:5
+aa_4_train,to fly,Santali,apir,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Sedang,kəníaŋ,aa_4_train:to fly:2798,aa_4_train:to fly:4
+aa_4_train,to fly,So-Khammouane,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,So-SakonNakhon,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Sora,eːŋ,aa_4_train:to fly:2795,aa_4_train:to fly:3
+aa_4_train,to fly,Souei-Saravan,pal,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Sre,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Stieng,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,TaOi,par,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Vietnamese,bay,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,Wa-Praok,po,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,to fly,War-Lamin,piar,aa_4_train:to fly:2790,aa_4_train:to fly:1
+aa_4_train,"to wash (hands, things)",Alak,raːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Bahnar-Golar,ʔɲaːw,"aa_4_train:to wash (hands, things):3602","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Bahnar-Kontum,ʔɲaːw,"aa_4_train:to wash (hands, things):3602","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Bahnar-Pleiku,ʔɲaːw,"aa_4_train:to wash (hands, things):3602","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Brao,cʰdaː,"aa_4_train:to wash (hands, things):3584","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Bru-Talan,raˀaw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Bru-Ubon,ʔaːriaw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Bugan,an³¹,"aa_4_train:to wash (hands, things):3594","aa_4_train:to wash (hands, things):15"
+aa_4_train,"to wash (hands, things)",Car,səc,"aa_4_train:to wash (hands, things):3588","aa_4_train:to wash (hands, things):6"
+aa_4_train,"to wash (hands, things)",Cua,ʔɲaːw,"aa_4_train:to wash (hands, things):3602","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Gorum,goɖaʔ,"aa_4_train:to wash (hands, things):3596","aa_4_train:to wash (hands, things):3"
+aa_4_train,"to wash (hands, things)",Gorum,tantan,"aa_4_train:to wash (hands, things):3597","aa_4_train:to wash (hands, things):14"
+aa_4_train,"to wash (hands, things)",Halang,raːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Idu,gàsâ̰ɛ,"aa_4_train:to wash (hands, things):3590","aa_4_train:to wash (hands, things):3"
+aa_4_train,"to wash (hands, things)",In,ra̰ːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Jeh,raːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Jru-Laven,htaː,"aa_4_train:to wash (hands, things):3584","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Karii,vàːc,"aa_4_train:to wash (hands, things):3599","aa_4_train:to wash (hands, things):13"
+aa_4_train,"to wash (hands, things)",Katang,ʔarɨːaw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Kharia,ɡuˀɟ,"aa_4_train:to wash (hands, things):3596","aa_4_train:to wash (hands, things):2"
+aa_4_train,"to wash (hands, things)",Khasi,sait,"aa_4_train:to wash (hands, things):3588","aa_4_train:to wash (hands, things):5"
+aa_4_train,"to wash (hands, things)",Khmer-Standard,liəŋ,"aa_4_train:to wash (hands, things):3589","aa_4_train:to wash (hands, things):4"
+aa_4_train,"to wash (hands, things)",Khmer-Surin,liːaŋ,"aa_4_train:to wash (hands, things):3589","aa_4_train:to wash (hands, things):4"
+aa_4_train,"to wash (hands, things)",Khmu-Cuang,krlaːŋ,"aa_4_train:to wash (hands, things):3591","aa_4_train:to wash (hands, things):4"
+aa_4_train,"to wash (hands, things)",Khmu-Yuan,kŕlàːŋ,"aa_4_train:to wash (hands, things):3591","aa_4_train:to wash (hands, things):4"
+aa_4_train,"to wash (hands, things)",Khmu-Yuan,ràː,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Kui(Huffman1979),le̤aw,"aa_4_train:to wash (hands, things):3585","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Kui(Sriwises1978),ʔariaw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Lawa(Ratanakul),ləsaic,"aa_4_train:to wash (hands, things):3588","aa_4_train:to wash (hands, things):5"
+aa_4_train,"to wash (hands, things)",Mal-T'in,nsil,"aa_4_train:to wash (hands, things):3587","aa_4_train:to wash (hands, things):12"
+aa_4_train,"to wash (hands, things)",Mal-T'in,suaj,"aa_4_train:to wash (hands, things):3593","aa_4_train:to wash (hands, things):11"
+aa_4_train,"to wash (hands, things)",ManMet,tʰuʔ⁵³,"aa_4_train:to wash (hands, things):3600","aa_4_train:to wash (hands, things):10"
+aa_4_train,"to wash (hands, things)",Mankong,ʔari̤aw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Mnong-Rölöm,raːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Mon,krat,"aa_4_train:to wash (hands, things):3595","aa_4_train:to wash (hands, things):4"
+aa_4_train,"to wash (hands, things)",Nancowri,ʃec,"aa_4_train:to wash (hands, things):3588","aa_4_train:to wash (hands, things):6"
+aa_4_train,"to wash (hands, things)",Nge',caraːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Nyaheun,hraː,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Pacoh,raːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Palaung-Dara'ang,khoc,"aa_4_train:to wash (hands, things):3592","aa_4_train:to wash (hands, things):2"
+aa_4_train,"to wash (hands, things)",Palaung-Kalaw,kʰojʔpʰaːŋ,"aa_4_train:to wash (hands, things):3592","aa_4_train:to wash (hands, things):9"
+aa_4_train,"to wash (hands, things)",Palaung-Namhsan,kʰoj,"aa_4_train:to wash (hands, things):3592","aa_4_train:to wash (hands, things):2"
+aa_4_train,"to wash (hands, things)",Pnar,sait,"aa_4_train:to wash (hands, things):3588","aa_4_train:to wash (hands, things):5"
+aa_4_train,"to wash (hands, things)",Rengao,raːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Ruc,rᵊàːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Santali,arup˺,"aa_4_train:to wash (hands, things):3598","aa_4_train:to wash (hands, things):8"
+aa_4_train,"to wash (hands, things)",Sedang,ʂɛ̰o,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):6"
+aa_4_train,"to wash (hands, things)",So-Khammouane,ʔarṳːjh,"aa_4_train:to wash (hands, things):3586","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",So-SakonNakhon,ʔarə̤ːjh,"aa_4_train:to wash (hands, things):3586","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Sora,ɡɨɟɟa,"aa_4_train:to wash (hands, things):3596","aa_4_train:to wash (hands, things):3"
+aa_4_train,"to wash (hands, things)",Souei-Saravan,raːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Sre,raːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Stieng,raːw,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",TaOi,kəsaːl,"aa_4_train:to wash (hands, things):3587","aa_4_train:to wash (hands, things):3"
+aa_4_train,"to wash (hands, things)",Vietnamese,rửa,"aa_4_train:to wash (hands, things):3601","aa_4_train:to wash (hands, things):1"
+aa_4_train,"to wash (hands, things)",Wa-Praok,kʰoc,"aa_4_train:to wash (hands, things):3592","aa_4_train:to wash (hands, things):2"
+aa_4_train,"to wash (hands, things)",War-Lamin,ksi,"aa_4_train:to wash (hands, things):3588","aa_4_train:to wash (hands, things):7"
+aa_4_train,brain,Bahnar-Golar,ʔŋɔːk,aa_4_train:brain:359,aa_4_train:brain:1
+aa_4_train,brain,Bahnar-Kontum,ʔŋɔːk,aa_4_train:brain:359,aa_4_train:brain:1
+aa_4_train,brain,Bahnar-Pleiku,ʔŋɔːk,aa_4_train:brain:359,aa_4_train:brain:1
+aa_4_train,brain,Bru-Ubon,kubɔʔ,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,Bugan,nũ̱⁵⁵,aa_4_train:brain:347,aa_4_train:brain:8
+aa_4_train,brain,Car,ʔɛlkuj,aa_4_train:brain:351,aa_4_train:brain:9
+aa_4_train,brain,Cua,ŋɔːk,aa_4_train:brain:359,aa_4_train:brain:1
+aa_4_train,brain,Gorum,guɖi,aa_4_train:brain:349,aa_4_train:brain:5
+aa_4_train,brain,Halang,ŋɔak,aa_4_train:brain:359,aa_4_train:brain:1
+aa_4_train,brain,Idu,ʔɔ̀ʔîʔ,aa_4_train:brain:343,aa_4_train:brain:4
+aa_4_train,brain,In,bṵːʔ,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,Jeh,ʔnɔk,aa_4_train:brain:360,aa_4_train:brain:1
+aa_4_train,brain,Jru-Laven,htok,aa_4_train:brain:360,aa_4_train:brain:1
+aa_4_train,brain,Karii,ʔɔːŋʔ,aa_4_train:brain:356,aa_4_train:brain:4
+aa_4_train,brain,Katang,ʔabʊk,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,Katu-AnDiem,nduːk,aa_4_train:brain:360,aa_4_train:brain:1
+aa_4_train,brain,Kharia,godi,aa_4_train:brain:349,aa_4_train:brain:5
+aa_4_train,brain,Kharia,magaɟ,aa_4_train:brain:350,aa_4_train:brain:10
+aa_4_train,brain,Khasi,ɟabieŋ,aa_4_train:brain:364,aa_4_train:brain:6
+aa_4_train,brain,Khmer-Standard,kʰuə,aa_4_train:brain:342,aa_4_train:brain:5
+aa_4_train,brain,Khmer-Surin,kʰʊːr,aa_4_train:brain:342,aa_4_train:brain:5
+aa_4_train,brain,Khmu-Cuang,knduːr,aa_4_train:brain:344,aa_4_train:brain:5
+aa_4_train,brain,Khmu-Cuang,kntaŋ,aa_4_train:brain:345,aa_4_train:brain:3
+aa_4_train,brain,Khmu-Yuan,hntáŋ,aa_4_train:brain:345,aa_4_train:brain:3
+aa_4_train,brain,Kui(Huffman1979),kəbɔʔ,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,Kui(Sriwises1978),kablɔʔ,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,Mal-T'in,kə̆ntaŋ,aa_4_train:brain:345,aa_4_train:brain:3
+aa_4_train,brain,ManMet,kʰiŋ⁵⁵mɔk⁵³,aa_4_train:brain:358,aa_4_train:brain:11
+aa_4_train,brain,Mang,tɤm⁶,aa_4_train:brain:346,aa_4_train:brain:12
+aa_4_train,brain,Mankong,ʔabɔʔ,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,Mnong-Rölöm,dlɔː,aa_4_train:brain:361,aa_4_train:brain:7
+aa_4_train,brain,Mon,dɔh,aa_4_train:brain:348,aa_4_train:brain:7
+aa_4_train,brain,Nancowri,kenduɲ,aa_4_train:brain:352,aa_4_train:brain:3
+aa_4_train,brain,Nancowri,ketpac,aa_4_train:brain:353,aa_4_train:brain:13
+aa_4_train,brain,Nge',ʔanduːk,aa_4_train:brain:360,aa_4_train:brain:1
+aa_4_train,brain,Nyaheun,tʔɔk,aa_4_train:brain:360,aa_4_train:brain:1
+aa_4_train,brain,Nyahkur,kədáŋ,aa_4_train:brain:345,aa_4_train:brain:3
+aa_4_train,brain,Pacoh,ʔaɓṵk,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,Palaung-Dara'ang,hajʔ,aa_4_train:brain:354,aa_4_train:brain:4
+aa_4_train,brain,Palaung-Kalaw,hajʔ,aa_4_train:brain:354,aa_4_train:brain:4
+aa_4_train,brain,Palaung-Namhsan,hɔʔ,aa_4_train:brain:355,aa_4_train:brain:4
+aa_4_train,brain,Pnar,ʤabeɲ,aa_4_train:brain:364,aa_4_train:brain:6
+aa_4_train,brain,Rengao,ŋɔːk,aa_4_train:brain:359,aa_4_train:brain:1
+aa_4_train,brain,Riang-Sak,huak¹,aa_4_train:brain:355,aa_4_train:brain:1
+aa_4_train,brain,Ruc,cuʔɔːk,aa_4_train:brain:360,aa_4_train:brain:1
+aa_4_train,brain,Santali,hataŋ,aa_4_train:brain:345,aa_4_train:brain:3
+aa_4_train,brain,Sedang,ŋɔə,aa_4_train:brain:359,aa_4_train:brain:1
+aa_4_train,brain,So-Khammouane,ʔabɔk,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,So-SakonNakhon,ʔabɔk,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,So-SakonNakhon,ntuʔ,aa_4_train:brain:360,aa_4_train:brain:2
+aa_4_train,brain,Sora,ʌtʌŋ,aa_4_train:brain:345,aa_4_train:brain:3
+aa_4_train,brain,Souei-Saravan,səmɔːŋ,aa_4_train:brain:357,aa_4_train:brain:14
+aa_4_train,brain,Sre,təŋoh,aa_4_train:brain:362,aa_4_train:brain:7
+aa_4_train,brain,Stieng,rŋɔːk,aa_4_train:brain:359,aa_4_train:brain:1
+aa_4_train,brain,TaOi,buːʔ,aa_4_train:brain:363,aa_4_train:brain:2
+aa_4_train,brain,Vietnamese,óc,aa_4_train:brain:360,aa_4_train:brain:15
+aa_4_train,brain,Wa-Praok,doŋ,aa_4_train:brain:345,aa_4_train:brain:3
+aa_4_train,brain,War-Lamin,tjikʰlia,aa_4_train:brain:364,aa_4_train:brain:16
+aa_4_train,child/son,Alak,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Bahnar-Golar,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Bahnar-Kontum,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Bahnar-Pleiku,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Brao,kuan,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Bru-Talan,kərnian,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,Bru-Ubon,rənɛːn,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,Bugan,mɛ̱⁵⁵,aa_4_train:child/son:430,aa_4_train:child/son:4
+aa_4_train,child/son,Car,kuən,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Cua,kɔːt,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Gorum,aŋon,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Halang,koan,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,In,ka̰j,aa_4_train:child/son:426,aa_4_train:child/son:3
+aa_4_train,child/son,Jeh,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Jru-Laven,kuan,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Katang,kərnɛːn,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,Katang,kajkʊːn,aa_4_train:child/son:424,aa_4_train:child/son:3
+aa_4_train,child/son,Katu-AnDiem,panien,aa_4_train:child/son:425,aa_4_train:child/son:1
+aa_4_train,child/son,Kharia,kɔɳˈɖuʔ,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Khasi,kʰuːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Khmer-Standard,koun,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Khmer-Surin,koːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Khmu-Cuang,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Khmu-Yuan,kɔ́ːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Kui(Huffman1979),kənɛːn,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,Kui(Sriwises1978),knɛːn,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,Lawa(Ratanakul),kuən,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Mal-T'in,kʰwan,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,ManMet,kʰɔn³¹,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Mang,van⁶,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Mankong,kərnɛːn,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,Mnong-Rölöm,kuon,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Mon,kon,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Nancowri,kúan,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Nge',ceʔ,aa_4_train:child/son:427,aa_4_train:child/son:5
+aa_4_train,child/son,Nyaheun,kuan,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Nyahkur,ku̱an,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Pacoh,ʔakaj,aa_4_train:child/son:426,aa_4_train:child/son:3
+aa_4_train,child/son,Palaung-Dara'ang,gɔn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Palaung-Kalaw,goːŋ,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Palaung-Namhsan,kuən,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Pnar,kʰn̩naʔ,aa_4_train:child/son:429,aa_4_train:child/son:2
+aa_4_train,child/son,Pnar,kʰɔn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Rengao,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Riang-Sak,kuan¹,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Ruc,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Santali,gidrə,aa_4_train:child/son:423,aa_4_train:child/son:6
+aa_4_train,child/son,Sedang,kɔn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,So-Khammouane,rənɛːn,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,So-SakonNakhon,rənɛːn,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,Sora,ɔʔn,aa_4_train:child/son:424,aa_4_train:child/son:7
+aa_4_train,child/son,Souei-Saravan,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Souei-Saravan,kʰənɛːn,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,Sre,kon,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Stieng,kɔːn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,TaOi,kujkɛt,aa_4_train:child/son:428,aa_4_train:child/son:3
+aa_4_train,child/son,TaOi,kərnian,aa_4_train:child/son:425,aa_4_train:child/son:2
+aa_4_train,child/son,Vietnamese,con,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,Wa-Praok,kɔn,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,child/son,War-Lamin,hun,aa_4_train:child/son:424,aa_4_train:child/son:1
+aa_4_train,eye,Alak,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Bahnar-Golar,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Bahnar-Kontum,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Bahnar-Pleiku,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Brao,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Bru-Talan,manʔ,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Bru-Ubon,ma̤t,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Bugan,pə⁵⁵mɛ̱³³,aa_4_train:eye:608,aa_4_train:eye:4
+aa_4_train,eye,Car,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Cua,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Gorum,maˀd,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Halang,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Idu,mɔ́ɛʔ,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,In,manˀ,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Jeh,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Jru-Laven,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Karii,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Katang,mɨat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Katu-AnDiem,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Kharia,mɔˀɖ,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Khasi,kʰmat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Khmer-Standard,pnɛːk,aa_4_train:eye:609,aa_4_train:eye:3
+aa_4_train,eye,Khmer-Surin,pʰneːʔ,aa_4_train:eye:609,aa_4_train:eye:3
+aa_4_train,eye,Khmu-Cuang,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Khmu-Yuan,màt,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Kui(Huffman1979),ma̤t,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Kui(Sriwises1978),màt,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Lawa(Ratanakul),ʔŋai,aa_4_train:eye:610,aa_4_train:eye:2
+aa_4_train,eye,Mal-T'in,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,ManMet,săk⁵³ŋai³¹,aa_4_train:eye:610,aa_4_train:eye:2
+aa_4_train,eye,Mang,mat⁷,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Mankong,ma̤t,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Mnong-Rölöm,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Mon,mòt,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Nancowri,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Nge',mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Nyaheun,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Nyahkur,màt,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Pacoh,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Palaung-Dara'ang,ŋaj,aa_4_train:eye:610,aa_4_train:eye:2
+aa_4_train,eye,Palaung-Kalaw,ŋaːj,aa_4_train:eye:610,aa_4_train:eye:2
+aa_4_train,eye,Palaung-Namhsan,ŋaj,aa_4_train:eye:610,aa_4_train:eye:2
+aa_4_train,eye,Pnar,kʰmat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Rengao,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Riang-Sak,ŋɑj²,aa_4_train:eye:610,aa_4_train:eye:2
+aa_4_train,eye,Ruc,mə̆àt⁸,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Santali,met˺,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Sedang,ma,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,So-Khammouane,ma̤t,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,So-SakonNakhon,ma̤t,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Sora,mʔɔd,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Souei-Saravan,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Sre,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Stieng,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,TaOi,manˀ,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Vietnamese,mắt,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,eye,Wa-Praok,ŋai,aa_4_train:eye:610,aa_4_train:eye:2
+aa_4_train,eye,War-Lamin,mat,aa_4_train:eye:608,aa_4_train:eye:1
+aa_4_train,frog,Alak,kiːt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Bahnar-Golar,kiːt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Bahnar-Kontum,kit,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Bahnar-Pleiku,kɨːt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Brao,kiːt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Bru-Talan,kṳnʔ,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Bru-Ubon,ʔakṳat,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Bugan,wa³,aa_4_train:frog:844,aa_4_train:frog:7
+aa_4_train,frog,Bugan,ndza³¹,aa_4_train:frog:845,aa_4_train:frog:18
+aa_4_train,frog,Car,taɾɔ̃ːt,aa_4_train:frog:847,aa_4_train:frog:8
+aa_4_train,frog,Cua,ʔoːɟiː,aa_4_train:frog:855,aa_4_train:frog:9
+aa_4_train,frog,Halang,kiːt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Idu,gadáʔ,aa_4_train:frog:842,aa_4_train:frog:2
+aa_4_train,frog,In,kunˀ,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Jeh,ki̤at,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Jru-Laven,ʔkiet,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Jru-Laven,ʔrɔːk,aa_4_train:frog:856,aa_4_train:frog:2
+aa_4_train,frog,Karii,kɔ̀ːt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Katang,ʔakuːətcoʔ,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Katu-AnDiem,cagɔːŋ,aa_4_train:frog:857,aa_4_train:frog:10
+aa_4_train,frog,Katu-AnDiem,tadiːp,aa_4_train:frog:837,aa_4_train:frog:11
+aa_4_train,frog,Katu-AnDiem,ʔaduh,aa_4_train:frog:838,aa_4_train:frog:2
+aa_4_train,frog,Kharia,kenɖoʔɖ,aa_4_train:frog:847,aa_4_train:frog:4
+aa_4_train,frog,Khasi,hnroʔ,aa_4_train:frog:856,aa_4_train:frog:2
+aa_4_train,frog,Khmer-Standard,kɑŋkaep,aa_4_train:frog:841,aa_4_train:frog:3
+aa_4_train,frog,Khmer-Surin,ŋkɛːp,aa_4_train:frog:841,aa_4_train:frog:3
+aa_4_train,frog,Khmu-Cuang,rok,aa_4_train:frog:856,aa_4_train:frog:2
+aa_4_train,frog,Kui(Huffman1979),ʔakuət,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Kui(Huffman1979),səʔɛːp,aa_4_train:frog:839,aa_4_train:frog:12
+aa_4_train,frog,Kui(Sriwises1978),kuːt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Lawa(Ratanakul),bak,aa_4_train:frog:849,aa_4_train:frog:6
+aa_4_train,frog,Mal-T'in,ŋkɛh,aa_4_train:frog:843,aa_4_train:frog:3
+aa_4_train,frog,ManMet,asɛk⁵³,aa_4_train:frog:850,aa_4_train:frog:13
+aa_4_train,frog,Mang,ʑaː²ʔaː³,aa_4_train:frog:845,aa_4_train:frog:14
+aa_4_train,frog,Mankong,kṳat,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Mnong-Rölöm,kɨt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Mon,ŋɛ̀a,aa_4_train:frog:846,aa_4_train:frog:15
+aa_4_train,frog,Nancowri,caltãc,aa_4_train:frog:848,aa_4_train:frog:16
+aa_4_train,frog,Nge',kut,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Nyaheun,kiet,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Nyaheun,ndrɔk,aa_4_train:frog:856,aa_4_train:frog:2
+aa_4_train,frog,Nyahkur,rɔ̀k,aa_4_train:frog:856,aa_4_train:frog:2
+aa_4_train,frog,Pacoh,ʔakuat,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Palaung-Dara'ang,marowʔ,aa_4_train:frog:856,aa_4_train:frog:5
+aa_4_train,frog,Palaung-Kalaw,marawʔ,aa_4_train:frog:856,aa_4_train:frog:5
+aa_4_train,frog,Palaung-Namhsan,ʔərɔk,aa_4_train:frog:856,aa_4_train:frog:2
+aa_4_train,frog,Pnar,kʰrɔʔ,aa_4_train:frog:856,aa_4_train:frog:2
+aa_4_train,frog,Rengao,ki̤tdrɔk,aa_4_train:frog:856,aa_4_train:frog:1
+aa_4_train,frog,Riang-Sak,tᵊɗuk¹,aa_4_train:frog:857,aa_4_train:frog:2
+aa_4_train,frog,Ruc,atùːt⁸,aa_4_train:frog:853,aa_4_train:frog:1
+aa_4_train,frog,Sedang,kɛt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,So-Khammouane,kuːəttʰrɑː,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,So-SakonNakhon,kɔːj,aa_4_train:frog:840,aa_4_train:frog:1
+aa_4_train,frog,Sora,kʌndod,aa_4_train:frog:842,aa_4_train:frog:4
+aa_4_train,frog,Souei-Saravan,kuat,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Sre,kit,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Stieng,kɨt,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,TaOi,kunˀ,aa_4_train:frog:854,aa_4_train:frog:1
+aa_4_train,frog,Vietnamese,ếch,aa_4_train:frog:852,aa_4_train:frog:17
+aa_4_train,frog,Wa-Praok,ra̤ɔk,aa_4_train:frog:856,aa_4_train:frog:2
+aa_4_train,frog,Wa-Praok,viak,aa_4_train:frog:851,aa_4_train:frog:6
+aa_4_train,frog,War-Lamin,kʰrɒʔ,aa_4_train:frog:857,aa_4_train:frog:2
+aa_4_train,head,Alak,kʻɨː,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,Bahnar-Golar,kəl,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,Bahnar-Kontum,kəl,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,Bahnar-Pleiku,kəl,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,Brao,tuːx,aa_4_train:head:960,aa_4_train:head:6
+aa_4_train,head,Bru-Talan,plɔː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Bru-Ubon,pləː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Bugan,pə̱⁵⁵bop³¹,aa_4_train:head:961,aa_4_train:head:7
+aa_4_train,head,Bugan,pə̱⁵⁵bou³¹,aa_4_train:head:961,aa_4_train:head:8
+aa_4_train,head,Car,kuj,aa_4_train:head:954,aa_4_train:head:1
+aa_4_train,head,Cua,gɨl,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,Gorum,baˀb,aa_4_train:head:961,aa_4_train:head:4
+aa_4_train,head,Halang,kəːl,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,Idu,glâ̤j,aa_4_train:head:964,aa_4_train:head:5
+aa_4_train,head,In,plɔː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Jeh,ka̤l,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,Jru-Laven,tuːs,aa_4_train:head:960,aa_4_train:head:6
+aa_4_train,head,Karii,kulɔ̀k,aa_4_train:head:959,aa_4_train:head:5
+aa_4_train,head,Katang,pləː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Katu-AnDiem,ʔəkɔʔ,aa_4_train:head:963,aa_4_train:head:4
+aa_4_train,head,Kharia,bɔʔ,aa_4_train:head:961,aa_4_train:head:4
+aa_4_train,head,Khasi,kʰleʔ,aa_4_train:head:964,aa_4_train:head:5
+aa_4_train,head,Khmer-Standard,kbaːl,aa_4_train:head:965,aa_4_train:head:1
+aa_4_train,head,Khmer-Surin,kbaːl,aa_4_train:head:965,aa_4_train:head:1
+aa_4_train,head,Khmu-Cuang,kmpoŋ,aa_4_train:head:966,aa_4_train:head:3
+aa_4_train,head,Khmu-Yuan,km̀póŋ,aa_4_train:head:966,aa_4_train:head:3
+aa_4_train,head,Kui(Huffman1979),plaː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Kui(Sriwises1978),plɑː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Lawa(Ratanakul),kaɨɲ,aa_4_train:head:958,aa_4_train:head:3
+aa_4_train,head,Mal-T'in,klɨʔ,aa_4_train:head:964,aa_4_train:head:5
+aa_4_train,head,ManMet,kʰiŋ⁵⁵,aa_4_train:head:958,aa_4_train:head:3
+aa_4_train,head,Mang,cɯŋ¹lɔː¹,aa_4_train:head:955,aa_4_train:head:5
+aa_4_train,head,Mankong,plʌː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Mnong-Rölöm,boːk,aa_4_train:head:961,aa_4_train:head:4
+aa_4_train,head,Mon,dɑp,aa_4_train:head:956,aa_4_train:head:1
+aa_4_train,head,Nancowri,kuj,aa_4_train:head:954,aa_4_train:head:6
+aa_4_train,head,Nge',pləː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Nyaheun,tujh,aa_4_train:head:960,aa_4_train:head:6
+aa_4_train,head,Nyahkur,kədəp,aa_4_train:head:956,aa_4_train:head:1
+aa_4_train,head,Pacoh,ploː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Palaung-Dara'ang,giɲ,aa_4_train:head:958,aa_4_train:head:3
+aa_4_train,head,Palaung-Kalaw,gin,aa_4_train:head:958,aa_4_train:head:3
+aa_4_train,head,Palaung-Namhsan,kiŋ,aa_4_train:head:958,aa_4_train:head:3
+aa_4_train,head,Pnar,kʰleiʔ,aa_4_train:head:964,aa_4_train:head:5
+aa_4_train,head,Rengao,gə̤l,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,Riang-Sak,kiːŋ¹,aa_4_train:head:958,aa_4_train:head:3
+aa_4_train,head,Ruc,kulòk⁸,aa_4_train:head:959,aa_4_train:head:5
+aa_4_train,head,Santali,bohoʔ,aa_4_train:head:961,aa_4_train:head:4
+aa_4_train,head,Sedang,kɔ,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,So-Khammouane,plʌː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,So-SakonNakhon,pləː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Sora,bʔɔb,aa_4_train:head:961,aa_4_train:head:4
+aa_4_train,head,Souei-Saravan,pləː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Sre,bou,aa_4_train:head:961,aa_4_train:head:4
+aa_4_train,head,Stieng,boːk,aa_4_train:head:961,aa_4_train:head:4
+aa_4_train,head,Stieng,kəl,aa_4_train:head:957,aa_4_train:head:1
+aa_4_train,head,TaOi,plɔː,aa_4_train:head:962,aa_4_train:head:2
+aa_4_train,head,Wa-Praok,kaɲ,aa_4_train:head:958,aa_4_train:head:3
+aa_4_train,head,War-Lamin,kʰlɪa,aa_4_train:head:964,aa_4_train:head:5
+aa_4_train,monkey/ape,Alak,məːw,aa_4_train:monkey/ape:1299,aa_4_train:monkey/ape:5
+aa_4_train,monkey/ape,Bahnar-Golar,ɗɔk,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Bahnar-Kontum,ɗɔk,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Bahnar-Pleiku,ɗɔk,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Brao,niw,aa_4_train:monkey/ape:1300,aa_4_train:monkey/ape:5
+aa_4_train,monkey/ape,Bru-Talan,ɲoˀol,aa_4_train:monkey/ape:1302,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Bru-Ubon,təmi̤r,aa_4_train:monkey/ape:1301,aa_4_train:monkey/ape:3
+aa_4_train,monkey/ape,Bugan,xou⁵⁵,aa_4_train:monkey/ape:1288,aa_4_train:monkey/ape:8
+aa_4_train,monkey/ape,Car,ʔəɲci,aa_4_train:monkey/ape:1292,aa_4_train:monkey/ape:9
+aa_4_train,monkey/ape,Cua,dʌk,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Cua,ʔoːtalok,aa_4_train:monkey/ape:1297,aa_4_train:monkey/ape:10
+aa_4_train,monkey/ape,Halang,dɔk,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Idu,ʋâ̰ː,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,In,təmər,aa_4_train:monkey/ape:1301,aa_4_train:monkey/ape:3
+aa_4_train,monkey/ape,Jeh,dɔk,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Jru-Laven,ŋoːk,aa_4_train:monkey/ape:1298,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Katang,təmir,aa_4_train:monkey/ape:1301,aa_4_train:monkey/ape:3
+aa_4_train,monkey/ape,Katu-AnDiem,wɔːk,aa_4_train:monkey/ape:1303,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Katu-AnDiem,bɔːt,aa_4_train:monkey/ape:1278,aa_4_train:monkey/ape:11
+aa_4_train,monkey/ape,Kharia,sakoj,aa_4_train:monkey/ape:1291,aa_4_train:monkey/ape:12
+aa_4_train,monkey/ape,Kharia,bandar,aa_4_train:monkey/ape:1292,aa_4_train:monkey/ape:13
+aa_4_train,monkey/ape,Khasi,ʃrieʔ,aa_4_train:monkey/ape:1283,aa_4_train:monkey/ape:4
+aa_4_train,monkey/ape,Khmer-Standard,svaː,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Khmer-Surin,swaː,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Khmu-Cuang,ʰwaʔ,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Khmu-Yuan,wáʔ,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Kui(Huffman1979),to̤ːc,aa_4_train:monkey/ape:1279,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Kui(Sriwises1978),wùaʔ,aa_4_train:monkey/ape:1303,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Lawa(Ratanakul),fɨəʔ,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Mal-T'in,seːɰ,aa_4_train:monkey/ape:1285,aa_4_train:monkey/ape:14
+aa_4_train,monkey/ape,Mal-T'in,meŋklaːj,aa_4_train:monkey/ape:1286,aa_4_train:monkey/ape:15
+aa_4_train,monkey/ape,ManMet,făʔ⁵³,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Mang,ʔuj²,aa_4_train:monkey/ape:1289,aa_4_train:monkey/ape:6
+aa_4_train,monkey/ape,Mankong,təmi̤r,aa_4_train:monkey/ape:1301,aa_4_train:monkey/ape:3
+aa_4_train,monkey/ape,Mnong-Rölöm,doːk,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Mon,nɑe,aa_4_train:monkey/ape:1290,aa_4_train:monkey/ape:16
+aa_4_train,monkey/ape,Nancowri,duẽ,aa_4_train:monkey/ape:1293,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Nancowri,ken,aa_4_train:monkey/ape:1282,aa_4_train:monkey/ape:7
+aa_4_train,monkey/ape,Nge',təmər,aa_4_train:monkey/ape:1301,aa_4_train:monkey/ape:3
+aa_4_train,monkey/ape,Nyaheun,niw,aa_4_train:monkey/ape:1300,aa_4_train:monkey/ape:5
+aa_4_train,monkey/ape,Nyahkur,hnúːj,aa_4_train:monkey/ape:1290,aa_4_train:monkey/ape:6
+aa_4_train,monkey/ape,Pacoh,ʔaɗɯ̰as,aa_4_train:monkey/ape:1280,aa_4_train:monkey/ape:17
+aa_4_train,monkey/ape,Pacoh,ʔalas,aa_4_train:monkey/ape:1281,aa_4_train:monkey/ape:18
+aa_4_train,monkey/ape,Palaung-Dara'ang,mafa,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Palaung-Kalaw,mafɯːaʔ,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Palaung-Namhsan,hva,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Pnar,ʧreʲʔ,aa_4_train:monkey/ape:1283,aa_4_train:monkey/ape:4
+aa_4_train,monkey/ape,Rengao,dɔk,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Riang-Sak,waʔ¹,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Ruc,moɔ̀m⁴,aa_4_train:monkey/ape:1287,aa_4_train:monkey/ape:19
+aa_4_train,monkey/ape,Sedang,tɔ,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,So-Khammouane,kuəɲ,aa_4_train:monkey/ape:1282,aa_4_train:monkey/ape:7
+aa_4_train,monkey/ape,So-SakonNakhon,təmɨ̤r,aa_4_train:monkey/ape:1301,aa_4_train:monkey/ape:3
+aa_4_train,monkey/ape,So-SakonNakhon,wɑk,aa_4_train:monkey/ape:1303,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,Souei-Saravan,təmil,aa_4_train:monkey/ape:1301,aa_4_train:monkey/ape:3
+aa_4_train,monkey/ape,Sre,dou,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,Stieng,doːk,aa_4_train:monkey/ape:1294,aa_4_train:monkey/ape:1
+aa_4_train,monkey/ape,TaOi,təmər,aa_4_train:monkey/ape:1301,aa_4_train:monkey/ape:3
+aa_4_train,monkey/ape,Vietnamese,khi,aa_4_train:monkey/ape:1296,aa_4_train:monkey/ape:20
+aa_4_train,monkey/ape,Wa-Praok,ra̤ɔkʰaɔʔ,aa_4_train:monkey/ape:1295,aa_4_train:monkey/ape:21
+aa_4_train,monkey/ape,Wa-Praok,vʰaʔ,aa_4_train:monkey/ape:1284,aa_4_train:monkey/ape:2
+aa_4_train,monkey/ape,War-Lamin,ʧrɪəʔ,aa_4_train:monkey/ape:1283,aa_4_train:monkey/ape:4
+aa_4_train,name,Alak,canɔʔ,aa_4_train:name:1439,aa_4_train:name:7
+aa_4_train,name,Bahnar-Golar,hənan,aa_4_train:name:1440,aa_4_train:name:4
+aa_4_train,name,Bahnar-Kontum,mat,aa_4_train:name:1441,aa_4_train:name:3
+aa_4_train,name,Bahnar-Pleiku,ʔanan,aa_4_train:name:1440,aa_4_train:name:4
+aa_4_train,name,Bahnar-Pleiku,mat,aa_4_train:name:1441,aa_4_train:name:3
+aa_4_train,name,Brao,mat,aa_4_train:name:1441,aa_4_train:name:3
+aa_4_train,name,Bru-Talan,pərnɨh,aa_4_train:name:1424,aa_4_train:name:5
+aa_4_train,name,Bru-Ubon,rəmɨh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Car,minɛʔɛɲ,aa_4_train:name:1436,aa_4_train:name:14
+aa_4_train,name,Cua,ɗat,aa_4_train:name:1419,aa_4_train:name:3
+aa_4_train,name,Cua,ʔal,aa_4_train:name:1420,aa_4_train:name:15
+aa_4_train,name,Gorum,inum,aa_4_train:name:1434,aa_4_train:name:6
+aa_4_train,name,Halang,ɟiəŋ,aa_4_train:name:1421,aa_4_train:name:2
+aa_4_train,name,Idu,tḭ̂ːn,aa_4_train:name:1430,aa_4_train:name:2
+aa_4_train,name,In,pərnɨh,aa_4_train:name:1424,aa_4_train:name:5
+aa_4_train,name,Jeh,təliʔ,aa_4_train:name:1422,aa_4_train:name:1
+aa_4_train,name,Jru-Laven,mɔh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Karii,miːh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Katang,pərneh,aa_4_train:name:1424,aa_4_train:name:5
+aa_4_train,name,Katu-AnDiem,danɑːk,aa_4_train:name:1425,aa_4_train:name:7
+aa_4_train,name,Kharia,ˈj̃ĩmi,aa_4_train:name:1434,aa_4_train:name:8
+aa_4_train,name,Khasi,krteŋ,aa_4_train:name:1427,aa_4_train:name:2
+aa_4_train,name,Khmer-Standard,cmùəh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Khmer-Surin,ʨhmoːh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Khmu-Cuang,sŋməh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Khmu-Yuan,sə́ŋmə̀h,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Kui(Huffman1979),cəmɨ̤h,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Kui(Sriwises1978),cəmɨh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Mal-T'in,mpʰɨʔ,aa_4_train:name:1431,aa_4_train:name:1
+aa_4_train,name,ManMet,meh³¹,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Mang,piew⁴,aa_4_train:name:1432,aa_4_train:name:9
+aa_4_train,name,Mankong,rəmɨ̤h,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Mnong-Rölöm,nan ,aa_4_train:name:1440,aa_4_train:name:4
+aa_4_train,name,Mon,camɔ̀ʔ,aa_4_train:name:1433,aa_4_train:name:1
+aa_4_train,name,Nancowri,leːaŋ,aa_4_train:name:1437,aa_4_train:name:10
+aa_4_train,name,Nge',kamnʌːc,aa_4_train:name:1442,aa_4_train:name:11
+aa_4_train,name,Nge',carmɛh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Pacoh,nṵh,aa_4_train:name:1424,aa_4_train:name:12
+aa_4_train,name,Pnar,prtuc,aa_4_train:name:1428,aa_4_train:name:13
+aa_4_train,name,Rengao,mat,aa_4_train:name:1441,aa_4_train:name:3
+aa_4_train,name,Riang-Sak,mus²,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Ruc,ten,aa_4_train:name:1438,aa_4_train:name:2
+aa_4_train,name,Santali,ɲutum,aa_4_train:name:1435,aa_4_train:name:6
+aa_4_train,name,Sedang,ʔinàj,aa_4_train:name:1423,aa_4_train:name:4
+aa_4_train,name,So-Khammouane,rəmɨ̤h,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,So-SakonNakhon,rəmɨ̤h,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Sora,ʌɲɨm,aa_4_train:name:1434,aa_4_train:name:6
+aa_4_train,name,Souei-Saravan,cʽəmɨh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Sre,təmɔh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,Stieng,təmɔh,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,TaOi,pərnɨh,aa_4_train:name:1424,aa_4_train:name:5
+aa_4_train,name,Vietnamese,tên,aa_4_train:name:1438,aa_4_train:name:2
+aa_4_train,name,Wa-Praok,mɔ,aa_4_train:name:1426,aa_4_train:name:1
+aa_4_train,name,War-Lamin,tvɪəŋ,aa_4_train:name:1429,aa_4_train:name:2

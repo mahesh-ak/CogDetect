@@ -1,0 +1,260 @@
+ID	DOCULECT	CONCEPT	IPA	TOKENS	COGID	SOURCE_CONCEPT	SOURCE_FORM	PARTIAL	PARTIALID	CLPA	CONCEPTICON_ID	GLOTTOLOG
+188	Tasha_Tujia	I	ŋa²⁴	ŋ a ²⁴	59	I	ŋa24	a	123	801 997 1156	1209	nort2732
+189	Duogu_Tujia	I	ŋa²⁴	ŋ a ²⁴	59	I	ŋa24	a	123	801 997 1156	1209	nort2732
+190	Dianfang_Tujia	I	ŋa³⁵	ŋ a ³⁵	59	I	ŋa35	a	123	801 997 1165	1209	nort2732
+191	Boluo_Tujia	I	ŋo³³	ŋ o ³³	59	I	ŋo33	a	123	801 887 1161	1209	sout2739
+192	Tanxi_Tujia	I	ŋo³³	ŋ o ³³	59	I	ŋo33	a	123	801 887 1161	1209	sout2739
+1	Tasha_Tujia	all	xu²⁴+ni⁵⁵	x u ²⁴ n i ⁵⁵	1	all	xu24-ni55	ab	1 2	778 868 1156 107 1076 1189	98	nort2732
+2	Duogu_Tujia	all	xu²⁴+ni⁴⁴	x u ²⁴ n i ⁴⁴	1	all	xu24-ni44	ab	1 2	778 868 1156 107 1076 1178	98	nort2732
+3	Dianfang_Tujia	all	xu³⁵+ni⁵⁵	x u ³⁵ n i ⁵⁵	1	all	xu35-ni55	ab	1 2	778 868 1165 107 1076 1189	98	nort2732
+4	Boluo_Tujia	all	bu¹³+li⁵³	b u ¹³ l i ⁵³	2	all	bu13=li53	cd	3 4	257 868 1168 554 1076 1185	98	sout2739
+5	Tanxi_Tujia	all	bu¹³	b u ¹³	2	all	bu13	c	3	257 868 1168	98	sout2739
+11	Tasha_Tujia	bark	kʰa²¹+tʰa²⁴+pʰa²¹	kʰ a ²¹ tʰ a ²⁴ pʰ a ²¹	4	bark	kʰa21=tʰa24-pʰa21	abc	8 9 10	820 997 1152 138 997 1156 264 997 1152	1204	nort2732
+17	Tasha_Tujia	big	ʦʰi²¹	tsʰ i ²¹	6	big	cʰi21	a	14	13 1076 1152	1202	nort2732
+18	Duogu_Tujia	big	ʦʰi⁵³	tsʰ i ⁵³	6	big	cʰi53	a	14	13 1076 1185	1202	nort2732
+19	Dianfang_Tujia	big	ʦʰi⁵⁵	tsʰ i ⁵⁵	6	big	cʰi55	a	14	13 1076 1189	1202	nort2732
+20	Boluo_Tujia	big	ʨʰi³³	tɕʰ i ³³	6	big	ɕʰi33	a	14	199 1076 1161	1202	sout2739
+21	Tanxi_Tujia	big	ʨʰi³³	tɕʰ i ³³	6	big	ɕʰi33	a	14	199 1076 1161	1202	sout2739
+22	Tasha_Tujia	bird	ni̯ɛ²⁴+pi⁵⁵	n j ɛ ²⁴ p i ⁵⁵	7	bird	ni̯ɛ24-pi55 ~ ni24-pi55	de	15 16	107 570 1121 1156 291 1076 1189	937	nort2732
+23	Duogu_Tujia	bird	nie²¹+pi⁵³	n i e ²¹ p i ⁵³	7	bird	nie21-pi53	de	15 16	107 1076 1089 1152 291 1076 1185	937	nort2732
+24	Dianfang_Tujia	bird	ne³⁵+pi³⁵	n e ³⁵ p i ³⁵	7	bird	ne35-pi35	de	15 16	107 1089 1165 291 1076 1165	937	nort2732
+25	Boluo_Tujia	bird	kɨ²¹+ʦo²¹+nũ²¹	k ɨ ²¹ ts o ²¹ n ũ ∼ ²¹	8	bird	kɨ21-co21-nũ21	abc	17 18 19	838 983 1152 15 887 1152 107 866 1191 1152	937	sout2739
+26	Tanxi_Tujia	bird	kɨ²¹+ʦo²¹	k ɨ ²¹ ts o ²¹	8	bird	kɨ21-co21	ab	17 18	838 983 1152 15 887 1152	937	sout2739
+40	Tasha_Tujia	bone	lu⁵⁵+ka⁵⁵	l u ⁵⁵ k a ⁵⁵	12	bone	lu55-ka55	cd	26 27	554 868 1189 838 997 1189	1394	nort2732
+41	Duogu_Tujia	bone	lu⁴⁴+ka⁴⁴	l u ⁴⁴ k a ⁴⁴	12	bone	lu44-ka44	cd	26 27	554 868 1178 838 997 1178	1394	nort2732
+42	Dianfang_Tujia	bone	lu⁵⁵+ka⁵⁵	l u ⁵⁵ k a ⁵⁵	12	bone	lu55-ka55	cd	26 27	554 868 1189 838 997 1189	1394	nort2732
+43	Boluo_Tujia	bone	kʰa²¹+kʰɨe⁵³	kʰ a ²¹ kʰ ɨ e ⁵³	13	bone	kʰa21-kʰɨe53	ab	28 29	820 997 1152 820 983 1089 1185	1394	sout2739
+44	Tanxi_Tujia	bone	kʰa²¹+kɨ²¹	kʰ a ²¹ k ɨ ²¹	13	bone	kʰa21-kɨ21	ab	28 29	820 997 1152 838 983 1152	1394	sout2739
+45	Tasha_Tujia	breast	li⁵⁵+ku̯ɔ⁵⁵+ʦʰɔŋ⁵⁵	l i ⁵⁵ k w ɔ ⁵⁵ tsʰ ɔ ŋ ⁵⁵	14	breast	li55=ku̯ɔ55-cʰɔŋ55	dbe	30 31 32	554 1076 1189 838 462 916 1189 13 916 801 1189	1402	nort2732
+46	Duogu_Tujia	breast	ɕĩ⁴⁴+tʰã²¹	ɕ ĩ ∼ ⁴⁴ tʰ ã ∼ ²¹	-166	breast	ʆĩ44-tʰã21	fg	33 34	204 1078 1191 1178 138 1014 1191 1152	1402	nort2732
+47	Dianfang_Tujia	breast	li⁵⁵+kʰo⁵⁵+ʦʰũ⁵⁵	l i ⁵⁵ kʰ o ⁵⁵ tsʰ ũ ∼ ⁵⁵	14	breast	li55=kʰo55-cʰũ55	dbe	30 31 32	554 1076 1189 820 887 1189 13 866 1191 1189	1402	nort2732
+48	Boluo_Tujia	breast	dẽ³³+go¹³+lẽ³³	d ẽ ∼ ³³ ɡ o ¹³ l ẽ ∼ ³³	14	breast	dẽ33=go13-lẽ33	abc	35 31 36	145 1090 1191 1161 831 887 1168 554 1090 1191 1161	1402	sout2739
+49	Tanxi_Tujia	breast	ɕiõ⁵⁵+kẽ²¹+ʥiã²¹	ɕ i õ ∼ ⁵⁵ k ẽ ∼ ²¹ dʑ i ã ∼ ²¹	15	breast	ʆiõ55-kẽ21-ʓiã21	hij	37 38 39	204 1076 883 1191 1189 838 1090 1191 1152 197 1076 1014 1191 1152	1402	sout2739
+50	Tasha_Tujia	burn	za²¹	z a ²¹	16	burn tr.	za21	b	40	80 997 1152	141	nort2732
+51	Duogu_Tujia	burn	ʨiau⁴⁴	tɕ i a u ⁴⁴	17	burn tr.	ɕiau44	a	41	200 1076 997 868 1178	141	nort2732
+52	Boluo_Tujia	burn	ʨiaʉ³³	tɕ i a ʉ ³³	17	burn tr.	ɕiaʉ33	a	41	200 1076 997 968 1161	141	sout2739
+62	Tasha_Tujia	cold	sa²¹	s a ²¹	20	cold	sa21	c	52	89 997 1152	1287	nort2732
+63	Duogu_Tujia	cold	sa⁵³	s a ⁵³	20	cold	sa53	c	52	89 997 1185	1287	nort2732
+64	Dianfang_Tujia	cold	sa⁵⁵	s a ⁵⁵	20	cold	sa55	c	52	89 997 1189	1287	nort2732
+65	Boluo_Tujia	cold	si²¹+ʣa²¹	s i ²¹ dz a ²¹	21	cold	si21-ʒa21	ab	53 54	89 1076 1152 20 997 1152	1287	sout2739
+66	Tanxi_Tujia	cold	si²¹+ʣa¹³	s i ²¹ dz a ¹³	21	cold	si21-ʒa13	ab	53 54	89 1076 1152 20 997 1168	1287	sout2739
+67	Tasha_Tujia	come	ɤŋ²¹+ʨi̯u²¹	ɤ ŋ ²¹ tɕ j u ²¹	22	come	ɤŋ21-ɕi̯u21	cb	55 56	947 801 1152 200 570 868 1152	1446	nort2732
+68	Duogu_Tujia	come	ẽ²¹+ʦi²¹	ẽ ∼ ²¹ ts i ²¹	22	come	ẽ21-ci21	cb	55 56	1090 1191 1152 15 1076 1152	1446	nort2732
+69	Dianfang_Tujia	come	ẽ²¹+ʦi²¹	ẽ ∼ ²¹ ts i ²¹	22	come	ẽ21-ci21 ~ ẽ21-ɕʰe35	cb	55 56	1090 1191 1152 15 1076 1152	1446	nort2732
+70	Boluo_Tujia	come	ɣɨ²¹+dɨ⁵³	ɣ ɨ ²¹ d ɨ ⁵³	22	come	ɣɨ21-dɨ53	ab	57 56	780 983 1152 145 983 1185	1446	sout2739
+71	Tanxi_Tujia	come	ʔɨ¹³+dɨ⁵⁵	ʔ ɨ ¹³ d ɨ ⁵⁵	22	come	ʔɨ13-dɨ55	ab	57 56	409 983 1168 145 983 1189	1446	sout2739
+87	Tasha_Tujia	dry	ka²¹	k a ²¹	28	dry	ka21	a	64	838 997 1152	1398	nort2732
+88	Duogu_Tujia	dry	a⁵³+ka²¹	a ⁵³ k a ²¹	28	dry	a53=ka21	ba	65 64	997 1185 838 997 1152	1398	nort2732
+89	Dianfang_Tujia	dry	ka²¹	k a ²¹	28	dry	ka21 ~ a55=ka21	a	64	838 997 1152	1398	nort2732
+90	Boluo_Tujia	dry	go¹³	ɡ o ¹³	28	dry	go13	a	64	831 887 1168	1398	sout2739
+91	Tanxi_Tujia	dry	go⁵⁵	ɡ o ⁵⁵	28	dry	go55	a	64	831 887 1189	1398	sout2739
+97	Tasha_Tujia	earth	zu̯ɔ²¹	z w ɔ ²¹	31	earth	zu̯ɔ21	a	70	80 462 916 1152	1228	nort2732
+98	Duogu_Tujia	earth	zo⁵³	z o ⁵³	31	earth	zo53	a	70	80 887 1185	1228	nort2732
+99	Dianfang_Tujia	earth	zo⁵⁵	z o ⁵⁵	31	earth	zo55	a	70	80 887 1189	1228	nort2732
+100	Boluo_Tujia	earth	za⁵³	z a ⁵³	31	earth	za53	a	70	80 997 1185	1228	sout2739
+101	Tanxi_Tujia	earth	za⁵⁵	z a ⁵⁵	31	earth	za55	a	70	80 997 1189	1228	sout2739
+111	Tasha_Tujia	eye	lu̯ɔ²⁴+pu⁵⁵	l w ɔ ²⁴ p u ⁵⁵	35	eye	lu̯ɔ24-pu55	cb	77 78	554 462 916 1156 291 868 1189	1248	nort2732
+112	Duogu_Tujia	eye	lo²⁴+pu⁴⁴	l o ²⁴ p u ⁴⁴	35	eye	lo24-pu44	bc	78 77	554 887 1156 291 868 1178	1248	nort2732
+113	Dianfang_Tujia	eye	lo³⁵+pu³⁵	l o ³⁵ p u ³⁵	35	eye	lo35-pu35	bc	78 77	554 887 1165 291 868 1165	1248	nort2732
+114	Boluo_Tujia	eye	a²¹+la⁵³	a ²¹ l a ⁵³	35	eye	a21=la53	ab	79 78	997 1152 554 997 1185	1248	sout2739
+115	Tanxi_Tujia	eye	ʔa²¹+la⁵⁵	ʔ a ²¹ l a ⁵⁵	35	eye	ʔa21=la55	ab	79 78	409 997 1152 554 997 1189	1248	sout2739
+468	Duogu_Tujia	far	ɣɨe²¹	ɣ ɨ e ²¹	152	far	ɣɨe21	c	321	780 983 1089 1152	1406	nort2732
+469	Dianfang_Tujia	far	ɣɨe²¹	ɣ ɨ e ²¹	152	far	ɣɨe21	c	321	780 983 1089 1152	1406	nort2732
+470	Boluo_Tujia	far	ɣoʉ²¹+i⁵³	ɣ o ʉ ²¹ i ⁵³	153	far	ɣoʉ21=i53	ab	322 323	780 887 968 1152 1076 1185	1406	sout2739
+471	Tanxi_Tujia	far	ʔʉ¹³+ji⁵⁵	ʔ ʉ ¹³ j i ⁵⁵	153	far	ʔʉ13=yi55	ab	322 323	409 968 1168 570 1076 1189	1406	sout2739
+116	Tasha_Tujia	feather	si²⁴+ka²¹	s i ²⁴ k a ²¹	36	feather	si24-ka21	cd	80 81	89 1076 1156 838 997 1152	1201	nort2732
+117	Duogu_Tujia	feather	ʨi²⁴+ka⁴⁴	tɕ i ²⁴ k a ⁴⁴	36	feather	ɕi24-ka44	cd	80 81	200 1076 1156 838 997 1178	1201	nort2732
+118	Boluo_Tujia	feather	a³³+so³³	a ³³ s o ³³	37	feather	a33-so33	ab	82 83	997 1161 89 887 1161	1201	sout2739
+129	Tasha_Tujia	fly	za²⁴	z a ²⁴	41	fly v.	za24	c	88	80 997 1156	1441	nort2732
+130	Duogu_Tujia	fly	za⁵³	z a ⁵³	41	fly v.	za53	c	88	80 997 1185	1441	nort2732
+131	Dianfang_Tujia	fly	za⁵⁵	z a ⁵⁵	41	fly v.	za55	c	88	80 997 1189	1441	nort2732
+132	Boluo_Tujia	fly	mu³³+ʥi³³	m u ³³ dʑ i ³³	42	fly v.	mu33-ʓi33	ab	89 90	241 868 1161 197 1076 1161	1441	sout2739
+133	Tanxi_Tujia	fly	mu³³+ʣi³³	m u ³³ dz i ³³	42	fly v.	mu33-ʒi33	ab	89 90	241 868 1161 20 1076 1161	1441	sout2739
+134	Tasha_Tujia	foot	ʨi²¹	tɕ i ²¹	43	foot	ɕi21	b	91	200 1076 1152	1301	nort2732
+135	Duogu_Tujia	foot	ʨi²¹+pʰa²¹	tɕ i ²¹ pʰ a ²¹	43	foot	ɕi21-pʰa21	bc	91 92	200 1076 1152 264 997 1152	1301	nort2732
+136	Dianfang_Tujia	foot	ʨi²¹	tɕ i ²¹	43	foot	ɕi21	b	91	200 1076 1152	1301	nort2732
+137	Boluo_Tujia	foot	a³³+ʥi¹³	a ³³ dʑ i ¹³	43	foot	a33=ʓi13	ab	93 91	997 1161 197 1076 1168	1301	sout2739
+138	Tanxi_Tujia	foot	ʔa³³+ʥi³⁵	ʔ a ³³ dʑ i ³⁵	43	foot	ʔa33=ʓi35	ab	93 91	409 997 1161 197 1076 1165	1301	sout2739
+143	Tasha_Tujia	give	li̯ɛ²⁴	l j ɛ ²⁴	45	give	li̯ɛ24	a	95	554 570 1121 1156	1447	nort2732
+144	Duogu_Tujia	give	lie²⁴	l i e ²⁴	45	give	lie24	a	95	554 1076 1089 1156	1447	nort2732
+145	Dianfang_Tujia	give	le³⁵	l e ³⁵	45	give	le35	a	95	554 1089 1165	1447	nort2732
+146	Boluo_Tujia	give	lie⁵³	l i e ⁵³	45	give	lie53	a	95	554 1076 1089 1185	1447	sout2739
+147	Tanxi_Tujia	give	le⁵⁵	l e ⁵⁵	45	give	le55	a	95	554 1089 1189	1447	sout2739
+148	Tasha_Tujia	good	ʦʰa²⁴	tsʰ a ²⁴	46	good	cʰa24	a	96	13 997 1156	1035	nort2732
+149	Duogu_Tujia	good	ʦʰa²⁴	tsʰ a ²⁴	46	good	cʰa24	a	96	13 997 1156	1035	nort2732
+150	Dianfang_Tujia	good	ʦʰa³⁵	tsʰ a ³⁵	46	good	cʰa35	a	96	13 997 1165	1035	nort2732
+151	Boluo_Tujia	good	ʦʰo²¹	tsʰ o ²¹	46	good	cʰo21	a	96	13 887 1152	1035	sout2739
+152	Tanxi_Tujia	good	ʦʰo³³	tsʰ o ³³	46	good	cʰo33	a	96	13 887 1161	1035	sout2739
+178	Tasha_Tujia	heart	li⁵⁵+kʰu̯ɔ⁵⁵+lu̯ɔ⁵⁵	l i ⁵⁵ kʰ w ɔ ⁵⁵ l w ɔ ⁵⁵	56	heart	li55-kʰu̯ɔ55-lu̯ɔ55	cde	115 116 117	554 1076 1189 820 462 916 1189 554 462 916 1189	1223	nort2732
+179	Duogu_Tujia	heart	li⁵³+kʰo⁴⁴+lo⁴⁴	l i ⁵³ kʰ o ⁴⁴ l o ⁴⁴	56	heart	li53-kʰo44-lo44	cde	115 116 117	554 1076 1185 820 887 1178 554 887 1178	1223	nort2732
+180	Dianfang_Tujia	heart	li⁵⁵+kʰo⁵⁵+lo³⁵	l i ⁵⁵ kʰ o ⁵⁵ l o ³⁵	56	heart	li55-kʰo55-lo35	cde	115 116 117	554 1076 1189 820 887 1189 554 887 1165	1223	nort2732
+181	Boluo_Tujia	heart	tu¹³+sẽ³³	t u ¹³ s ẽ ∼ ³³	57	heart	tu13-sẽ33	ab	118 119	120 868 1168 89 1090 1191 1161	1223	sout2739
+182	Tanxi_Tujia	heart	li²¹+ŋa²¹	l i ²¹ ŋ a ²¹	56	heart	li21-ŋa21	cf	115 120	554 1076 1152 801 997 1152	1223	sout2739
+472	Tasha_Tujia	heavy	tu²¹	t u ²¹	154	heavy	tu21 ~ tu21-ci21	a	324	120 868 1152	1210	nort2732
+473	Duogu_Tujia	heavy	tu⁵³	t u ⁵³	154	heavy	tu53	a	324	120 868 1185	1210	nort2732
+474	Dianfang_Tujia	heavy	tu⁵⁵	t u ⁵⁵	154	heavy	tu55	a	324	120 868 1189	1210	nort2732
+475	Boluo_Tujia	heavy	doʉ¹³	d o ʉ ¹³	154	heavy	doʉ13	a	324	145 887 968 1168	1210	sout2739
+476	Tanxi_Tujia	heavy	dʉ³⁵	d ʉ ³⁵	154	heavy	dʉ35	a	324	145 968 1165	1210	sout2739
+202	Tasha_Tujia	know	xa²¹+zi²¹	x a ²¹ z i ²¹	65	know	xa21-zi21	bc	135 136	778 997 1152 80 1076 1152	1410	nort2732
+203	Duogu_Tujia	know	xau⁵³+ɕi⁴⁴	x a u ⁵³ ɕ i ⁴⁴	65	know	xau53-ʆi44	bc	135 136	778 997 868 1185 204 1076 1178	1410	nort2732
+204	Dianfang_Tujia	know	xau⁵⁵+ɕi³⁵	x a u ⁵⁵ ɕ i ³⁵	65	know	xau55-ʆi35 ~ xa55-zi21	bc	135 136	778 997 868 1189 204 1076 1165	1410	nort2732
+205	Boluo_Tujia	know	ɕie⁵³	ɕ i e ⁵³	66	know	ʆie53	a	137	204 1076 1089 1185	1410	sout2739
+206	Tanxi_Tujia	know	ɕe⁵⁵+ʦʰe⁵⁵	ɕ e ⁵⁵ tsʰ e ⁵⁵	66	know	ʆe55-cʰe55	ad	137 138	204 1089 1189 13 1089 1189	1410	sout2739
+215	Tasha_Tujia	liver	aŋ⁵⁵+a⁵⁵	a ŋ ⁵⁵ a ⁵⁵	72	liver	aŋ55-a55	bc	146 147	997 801 1189 997 1189	1224	nort2732
+216	Duogu_Tujia	liver	a⁵³+ŋai⁴⁴	a ⁵³ ŋ a i ⁴⁴	72	liver	a53-ŋai44	bc	146 147	997 1185 801 997 1076 1178	1224	nort2732
+217	Dianfang_Tujia	liver	ã⁵⁵+ŋa⁵⁵	ã ∼ ⁵⁵ ŋ a ⁵⁵	72	liver	ã55-ŋa55 ~ a55-ŋã55	bc	146 147	1014 1191 1189 801 997 1189	1224	nort2732
+218	Boluo_Tujia	liver	kæ̃³³	k æ̃ ∼ ³³	-169	liver	kæ̃33	a	148	838 1086 1191 1161	1224	sout2739
+219	Tanxi_Tujia	liver	kã³³	k ã ∼ ³³	-170	liver	kã33	a	148	838 1014 1191 1161	1224	sout2739
+225	Tasha_Tujia	louse	si⁵⁵+si⁵⁵	s i ⁵⁵ s i ⁵⁵	74	louse	si55-si55	bb	150 150	89 1076 1189 89 1076 1189	1392	nort2732
+226	Duogu_Tujia	louse	si⁵³+si⁴⁴	s i ⁵³ s i ⁴⁴	74	louse	si53-si44	bb	150 150	89 1076 1185 89 1076 1178	1392	nort2732
+227	Dianfang_Tujia	louse	si⁵⁵+si⁵⁵	s i ⁵⁵ s i ⁵⁵	74	louse	si55-si55	bb	150 150	89 1076 1189 89 1076 1189	1392	nort2732
+228	Boluo_Tujia	louse	a²¹+si⁵³+lũ³³	a ²¹ s i ⁵³ l ũ ∼ ³³	74	louse	a21=si53-lũ33	abc	151 150 152	997 1152 89 1076 1185 554 866 1191 1161	1392	sout2739
+229	Tanxi_Tujia	louse	ʔa²¹+si⁵⁵	ʔ a ²¹ s i ⁵⁵	74	louse	ʔa21=si55	ab	151 150	409 997 1152 89 1076 1189	1392	sout2739
+230	Tasha_Tujia	man	ʦu̯ɔ⁵⁵+pa⁵⁵	ts w ɔ ⁵⁵ p a ⁵⁵	75	man	cu̯ɔ55=pa55	he	153 154	15 462 916 1189 291 997 1189	1554	nort2732
+231	Duogu_Tujia	man	no⁵³+pa⁴⁴+ʦe⁴⁴	n o ⁵³ p a ⁴⁴ ts e ⁴⁴	75	man	no53=pa44-ce44	def	155 154 156	107 887 1185 291 997 1178 15 1089 1178	1554	nort2732
+232	Dianfang_Tujia	man	no⁵⁵+pa⁵⁵	n o ⁵⁵ p a ⁵⁵	75	man	no55=pa55	de	155 154	107 887 1189 291 997 1189	1554	nort2732
+233	Boluo_Tujia	man	a²¹+ko²¹+bie²¹	a ²¹ k o ²¹ b i e ²¹	76	man	a21=ko21-bie21	abc	157 158 159	997 1152 838 887 1152 257 1076 1089 1152	1554	sout2739
+234	Tanxi_Tujia	man	ʔa²¹+ko²¹+be²¹+ŋɨ²¹	ʔ a ²¹ k o ²¹ b e ²¹ ŋ ɨ ²¹	76	man	ʔa21=ko21-be21-ŋɨ21	abcg	157 158 159 160	409 997 1152 838 887 1152 257 1089 1152 801 983 1152	1554	sout2739
+235	Tasha_Tujia	many	zi²¹	z i ²¹	77	many	zi21	a	161	80 1076 1152	1198	nort2732
+236	Duogu_Tujia	many	zi²¹	z i ²¹	77	many	zi21	a	161	80 1076 1152	1198	nort2732
+237	Dianfang_Tujia	many	zi²¹	z i ²¹	77	many	zi21	a	161	80 1076 1152	1198	nort2732
+238	Boluo_Tujia	many	zi⁴⁵	z i ⁴⁵	77	many	zi45	a	161	80 1076 1181	1198	sout2739
+239	Tanxi_Tujia	many	zi³⁵	z i ³⁵	77	many	zi35	a	161	80 1076 1165	1198	sout2739
+240	Tasha_Tujia	meat	si²¹	s i ²¹	78	meat	si21	a	162	89 1076 1152	634	nort2732
+241	Duogu_Tujia	meat	si²¹	s i ²¹	78	meat	si21	a	162	89 1076 1152	634	nort2732
+242	Dianfang_Tujia	meat	si²¹	s i ²¹	78	meat	si21	a	162	89 1076 1152	634	nort2732
+243	Boluo_Tujia	meat	si¹³	s i ¹³	78	meat	si13	a	162	89 1076 1168	634	sout2739
+244	Tanxi_Tujia	meat	si³⁵	s i ³⁵	78	meat	si35	a	162	89 1076 1165	634	sout2739
+245	Tasha_Tujia	moon	su²¹+su²¹	s u ²¹ s u ²¹	79	moon	su21-su21	cc	163 163	89 868 1152 89 868 1152	1313	nort2732
+246	Duogu_Tujia	moon	su²¹+su²¹+kʰa²¹+ʨi̯e⁴⁴	s u ²¹ s u ²¹ kʰ a ²¹ tɕ j e ⁴⁴	79	moon	su21-su21-kʰa21-ɕi̯e44	ccde	163 163 164 165	89 868 1152 89 868 1152 820 997 1152 200 570 1089 1178	1313	nort2732
+247	Dianfang_Tujia	moon	su²¹+su²¹	s u ²¹ s u ²¹	79	moon	su21-su21 ~ su21-su21-kʰa21-ʆe21	cc	163 163	89 868 1152 89 868 1152	1313	nort2732
+248	Boluo_Tujia	moon	je²¹+liã⁴⁵	j e ²¹ l i ã ∼ ⁴⁵	-171	moon	ye21-liã45	ab	166 167	570 1089 1152 554 1076 1014 1191 1181	1313	sout2739
+249	Tanxi_Tujia	moon	lo³⁵+ɕi⁵⁵+dʉ³⁵	l o ³⁵ ɕ i ⁵⁵ d ʉ ³⁵	80	moon	lo35-ʆi55-dʉ35	fgh	168 169 170	554 887 1165 204 1076 1189 145 968 1165	1313	sout2739
+255	Tasha_Tujia	mouth	ʦa²⁴+ʨʰi⁵⁵	ts a ²⁴ tɕʰ i ⁵⁵	83	mouth	ca24-ɕʰi55	cd	175 176	15 997 1156 199 1076 1189	674	nort2732
+256	Duogu_Tujia	mouth	ʦa²⁴+ʨʰi⁴⁴	ts a ²⁴ tɕʰ i ⁴⁴	83	mouth	ca24-ɕʰi44	cd	175 176	15 997 1156 199 1076 1178	674	nort2732
+257	Dianfang_Tujia	mouth	ʦa³⁵+ʨʰi⁵⁵	ts a ³⁵ tɕʰ i ⁵⁵	83	mouth	ca35-ɕʰi55	cd	175 176	15 997 1165 199 1076 1189	674	nort2732
+258	Boluo_Tujia	mouth	a²¹+ze²¹	a ²¹ z e ²¹	84	mouth	a21=ze21	ab	177 178	997 1152 80 1089 1152	674	sout2739
+259	Tanxi_Tujia	mouth	ʔa²¹+ze²¹	ʔ a ²¹ z e ²¹	84	mouth	ʔa21=ze21	ab	177 178	409 997 1152 80 1089 1152	674	sout2739
+260	Duogu_Tujia	name	mĩ²¹+ʦi²⁴	m ĩ ∼ ²¹ ts i ²⁴	-172	name	mĩ21-ci24	bc	179 180	241 1078 1191 1152 15 1076 1156	1405	nort2732
+261	Dianfang_Tujia	name	mĩ²¹+ʦi³⁵	m ĩ ∼ ²¹ ts i ³⁵	-173	name	mĩ21-ci35	bc	179 180	241 1078 1191 1152 15 1076 1165	1405	nort2732
+262	Boluo_Tujia	name	nioʉ³³	n i o ʉ ³³	85	name	nioʉ33	a	181	107 1076 887 968 1161	1405	sout2739
+263	Tanxi_Tujia	name	niʉ³⁵+bo²¹	n i ʉ ³⁵ b o ²¹	85	name	niʉ35-bo21	ad	181 182	107 1076 968 1165 257 887 1152	1405	sout2739
+477	Duogu_Tujia	near	ʦũ⁵³	ts ũ ∼ ⁵³	155	near	cũ53 ~ cũ44	c	325	15 866 1191 1185	1942	nort2732
+478	Dianfang_Tujia	near	ʦũ⁵⁵	ts ũ ∼ ⁵⁵	155	near	cũ55	c	325	15 866 1191 1189	1942	nort2732
+479	Boluo_Tujia	near	ɣoʉ²¹+ʣa²¹	ɣ o ʉ ²¹ dz a ²¹	156	near	ɣoʉ21=ʒa21	ab	326 327	780 887 968 1152 20 997 1152	1942	sout2739
+480	Tanxi_Tujia	near	ʔʉ¹³+ʣa³³	ʔ ʉ ¹³ dz a ³³	156	near	ʔʉ13=ʒa33	ab	326 327	409 968 1168 20 997 1161	1942	sout2739
+264	Tasha_Tujia	neck	kʰɔŋ⁵⁵+ti⁵⁵	kʰ ɔ ŋ ⁵⁵ t i ⁵⁵	86	neck	kʰɔŋ55-ti55	cd	183 184	820 916 801 1189 120 1076 1189	1333	nort2732
+265	Duogu_Tujia	neck	kʰũ⁴⁴+ti⁴⁴	kʰ ũ ∼ ⁴⁴ t i ⁴⁴	86	neck	kʰũ44-ti44	cd	183 184	820 866 1191 1178 120 1076 1178	1333	nort2732
+266	Dianfang_Tujia	neck	kʰũ⁵⁵+ti⁵⁵	kʰ ũ ∼ ⁵⁵ t i ⁵⁵	86	neck	kʰũ55-ti55	cd	183 184	820 866 1191 1189 120 1076 1189	1333	nort2732
+267	Boluo_Tujia	neck	kua¹³+la⁵³	k u a ¹³ l a ⁵³	87	neck	kua13-la53	ab	185 186	838 868 997 1168 554 997 1185	1333	sout2739
+268	Tanxi_Tujia	neck	gua²¹+la⁵⁵	ɡ u a ²¹ l a ⁵⁵	87	neck	gua21-la55	ab	185 186	831 868 997 1152 554 997 1189	1333	sout2739
+269	Tasha_Tujia	new	a²⁴+ɕi⁵⁵	a ²⁴ ɕ i ⁵⁵	88	new	a24=ʆi55	ab	187 188	997 1156 204 1076 1189	1231	nort2732
+270	Duogu_Tujia	new	ɣa²⁴+si⁴⁴	ɣ a ²⁴ s i ⁴⁴	88	new	ɣa24=si44	ab	187 188	780 997 1156 89 1076 1178	1231	nort2732
+271	Dianfang_Tujia	new	a³⁵+si³⁵	a ³⁵ s i ³⁵	88	new	a35=si35	ab	187 188	997 1165 89 1076 1165	1231	nort2732
+272	Boluo_Tujia	new	a³³+ɕi³³	a ³³ ɕ i ³³	88	new	a33=ʆi33	ab	187 188	997 1161 204 1076 1161	1231	sout2739
+273	Tanxi_Tujia	new	ʔa⁵⁵+ɕi²¹	ʔ a ⁵⁵ ɕ i ²¹	88	new	ʔa55=ʆi21	ab	187 188	409 997 1189 204 1076 1152	1231	sout2739
+274	Tasha_Tujia	night	pʰɤ⁵⁵	pʰ ɤ ⁵⁵	89	night	pʰɤ55	a	189	264 947 1189	1233	nort2732
+275	Tasha_Tujia	nose	ɤŋ²⁴+ʨʰi⁵⁵	ɤ ŋ ²⁴ tɕʰ i ⁵⁵	90	nose	ɤŋ24-ɕʰi55	cd	190 191	947 801 1156 199 1076 1189	1221	nort2732
+276	Duogu_Tujia	nose	ũ²⁴+ʨʰi⁴⁴	ũ ∼ ²⁴ tɕʰ i ⁴⁴	90	nose	ũ24-ɕʰi44	cd	190 191	866 1191 1156 199 1076 1178	1221	nort2732
+277	Dianfang_Tujia	nose	ẽ³⁵+ʨʰi⁵⁵	ẽ ∼ ³⁵ tɕʰ i ⁵⁵	90	nose	ẽ35-ɕʰi55 ~ ũ35-ɕʰi55	cd	190 191	1090 1191 1165 199 1076 1189	1221	nort2732
+278	Boluo_Tujia	nose	koʉ²¹+ʨi⁵³	k o ʉ ²¹ tɕ i ⁵³	91	nose	koʉ21-ɕi53	ab	192 193	838 887 968 1152 200 1076 1185	1221	sout2739
+279	Tanxi_Tujia	nose	kʉ¹³+ʨi⁵⁵+dʉ³⁵	k ʉ ¹³ tɕ i ⁵⁵ d ʉ ³⁵	91	nose	kʉ13-ɕi55-dʉ35	abe	192 193 194	838 968 1168 200 1076 1189 145 968 1165	1221	sout2739
+280	Tasha_Tujia	not	ta²⁴	t a ²⁴	92	not	ta24	b	195	120 997 1156	1240	nort2732
+281	Duogu_Tujia	not	tʰa⁵³	tʰ a ⁵³	92	not	tʰa53 ~ tʰa21	b	195	138 997 1185	1240	nort2732
+282	Dianfang_Tujia	not	tʰa⁵⁵	tʰ a ⁵⁵	92	not	tʰa55	b	195	138 997 1189	1240	nort2732
+283	Boluo_Tujia	not	læ̃	l æ̃ ∼	93	not	læ̃	a	196	554 1086 1191	1240	sout2739
+284	Tanxi_Tujia	not	ma⁵³	m a ⁵³	94	not	ma53	c	197	241 997 1185	1240	sout2739
+290	Tasha_Tujia	person	lu̯ɔ²¹	l w ɔ ²¹	96	person	lu̯ɔ21	a	199	554 462 916 1152	683	nort2732
+291	Dianfang_Tujia	person	no⁵⁵	n o ⁵⁵	96	person	no55	a	199	107 887 1189	683	nort2732
+292	Tanxi_Tujia	person	nia³³	n i a ³³	96	person	nia33	a	199	107 1076 997 1161	683	sout2739
+293	Tasha_Tujia	rain	mɤ²⁴+zɤ²¹	m ɤ ²⁴ z ɤ ²¹	97	rain	mɤ24=zɤ21	bc	200 201	241 947 1156 80 947 1152	658	nort2732
+294	Duogu_Tujia	rain	mɨe²⁴+ʦe²¹	m ɨ e ²⁴ ts e ²¹	97	rain	mɨe24=ce21	bc	200 201	241 983 1089 1156 15 1089 1152	658	nort2732
+295	Dianfang_Tujia	rain	mɨe³⁵+ʦe²¹	m ɨ e ³⁵ ts e ²¹	97	rain	mɨe35=ce21	bc	200 201	241 983 1089 1165 15 1089 1152	658	nort2732
+296	Boluo_Tujia	rain	ze¹³	z e ¹³	97	rain	ze13	a	202	80 1089 1168	658	sout2739
+297	Tanxi_Tujia	rain	ze³⁵	z e ³⁵	97	rain	ze35	a	202	80 1089 1165	658	sout2739
+310	Tasha_Tujia	round	pɔ²¹+lu̯ɔ⁵⁵+lu̯ɔ⁵⁵	p ɔ ²¹ l w ɔ ⁵⁵ l w ɔ ⁵⁵	102	round	pɔ21-lu̯ɔ55-lu̯ɔ55	gcc	211 212 212	291 916 1152 554 462 916 1189 554 462 916 1189	1395	nort2732
+311	Duogu_Tujia	round	tʰuã²¹+kʰo⁵³+li⁴⁴	tʰ u ã ∼ ²¹ kʰ o ⁵³ l i ⁴⁴	103	round	tʰuã21-kʰo53-li44	dbe	213 214 215	138 868 1014 1191 1152 820 887 1185 554 1076 1178	1395	nort2732
+312	Dianfang_Tujia	round	kʰu²¹+lo⁵⁵+lo²¹	kʰ u ²¹ l o ⁵⁵ l o ²¹	102	round	kʰu21-lo55-lo21	bcc	214 212 212	820 868 1152 554 887 1189 554 887 1152	1395	nort2732
+313	Boluo_Tujia	round	duæ̃³³	d u æ̃ ∼ ³³	103	round	duæ̃33	a	216	145 868 1086 1191 1161	1395	sout2739
+314	Tanxi_Tujia	round	duã³³	d u ã ∼ ³³	103	round	duã33	a	216	145 868 1014 1191 1161	1395	sout2739
+320	Tasha_Tujia	say	li²¹	l i ²¹	105	say	li21	b	223	554 1076 1152	1458	nort2732
+321	Duogu_Tujia	say	li²¹	l i ²¹	105	say	li21	b	223	554 1076 1152	1458	nort2732
+322	Dianfang_Tujia	say	li²¹	l i ²¹	105	say	li21	b	223	554 1076 1152	1458	nort2732
+323	Boluo_Tujia	say	xɨe⁵³	x ɨ e ⁵³	106	say	xɨe53	a	224	778 983 1089 1185	1458	sout2739
+324	Tanxi_Tujia	say	ħɨ⁵⁵	ħ ɨ ⁵⁵	106	say	ħɨ55	a	224	642 983 1189	1458	sout2739
+325	Tasha_Tujia	see	ji²¹	j i ²¹	107	see	yi21	b	225	570 1076 1152	1409	nort2732
+326	Duogu_Tujia	see	pa⁵³+to²¹+liaw²¹	p a ⁵³ t o ²¹ l i a w ²¹	108	see	pa53-to21-liaw21	cde	226 227 228	291 997 1185 120 887 1152 554 1076 997 462 1152	1409	nort2732
+327	Dianfang_Tujia	see	ji²¹	j i ²¹	107	see	yi21 ~ yi21-le21	b	225	570 1076 1152	1409	nort2732
+328	Boluo_Tujia	see	bo¹³+i⁴⁵	b o ¹³ i ⁴⁵	107	see	bo13=i45	ab	229 225	257 887 1168 1076 1181	1409	sout2739
+329	Tanxi_Tujia	see	bo¹³+ji³⁵	b o ¹³ j i ³⁵	107	see	bo13=yi35	ab	229 225	257 887 1168 570 1076 1165	1409	sout2739
+345	Tasha_Tujia	sleep	ni̯ɛ²⁴+pi̯ɛ²¹	n j ɛ ²⁴ p j ɛ ²¹	115	sleep	ni̯ɛ24-pi̯ɛ21	ab	240 241	107 570 1121 1156 291 570 1121 1152	1585	nort2732
+346	Duogu_Tujia	sleep	nie²⁴	n i e ²⁴	115	sleep	nie24	a	240	107 1076 1089 1156	1585	nort2732
+347	Dianfang_Tujia	sleep	ne³⁵	n e ³⁵	115	sleep	ne35	a	240	107 1089 1165	1585	nort2732
+348	Boluo_Tujia	sleep	nie²¹	n i e ²¹	115	sleep	nie21	a	240	107 1076 1089 1152	1585	sout2739
+349	Tanxi_Tujia	sleep	ne²¹	n e ²¹	115	sleep	ne21	a	240	107 1089 1152	1585	sout2739
+355	Duogu_Tujia	smoke	kʰe⁵³+kʰa²¹	kʰ e ⁵³ kʰ a ²¹	117	smoke	kʰe53-kʰa21	ac	243 244	820 1089 1185 820 997 1152	778	nort2732
+356	Dianfang_Tujia	smoke	kʰɨe⁵⁵+kʰa²¹	kʰ ɨ e ⁵⁵ kʰ a ²¹	117	smoke	kʰɨe55-kʰa21	ac	243 244	820 983 1089 1189 820 997 1152	778	nort2732
+357	Boluo_Tujia	smoke	kʰɨe⁵³+sa²¹	kʰ ɨ e ⁵³ s a ²¹	117	smoke	kʰɨe53-sa21	ab	243 245	820 983 1089 1185 89 997 1152	778	sout2739
+358	Tanxi_Tujia	smoke	kɨe⁵⁵+sa²¹	k ɨ e ⁵⁵ s a ²¹	117	smoke	kɨe55-sa21	ab	243 245	838 983 1089 1189 89 997 1152	778	sout2739
+491	Tasha_Tujia	snake	wɔ²¹	w ɔ ²¹	160	snake	wɔ21	d	333	462 916 1152	730	nort2732
+492	Duogu_Tujia	snake	uo⁵³	u o ⁵³	160	snake	uo53	d	333	868 887 1185	730	nort2732
+493	Dianfang_Tujia	snake	wo⁵⁵	w o ⁵⁵	160	snake	wo55	d	333	462 887 1189	730	nort2732
+494	Boluo_Tujia	snake	tɨj⁵³+pɨe⁴⁵+nũ³³	t ɨ j ⁵³ p ɨ e ⁴⁵ n ũ ∼ ³³	161	snake	tɨy53-pɨe45-nũ33	abc	334 335 336	120 983 570 1185 291 983 1089 1181 107 866 1191 1161	730	sout2739
+495	Tanxi_Tujia	snake	tei³³+pʰɨe³⁵	t e i ³³ pʰ ɨ e ³⁵	161	snake	tei33-pʰɨe35	ab	334 335	120 1089 1076 1161 264 983 1089 1165	730	sout2739
+359	Tasha_Tujia	stand	ʦu⁵⁵+ʦu²¹	ts u ⁵⁵ ts u ²¹	118	stand	cu55-cu21	aa	246 246	15 868 1189 15 868 1152	1442	nort2732
+360	Duogu_Tujia	stand	ʦu⁵³+ʦu⁵³	ts u ⁵³ ts u ⁵³	118	stand	cu53-cu53	aa	246 246	15 868 1185 15 868 1185	1442	nort2732
+361	Dianfang_Tujia	stand	ʦu⁵⁵+ʦu⁵⁵	ts u ⁵⁵ ts u ⁵⁵	118	stand	cu55-cu55	aa	246 246	15 868 1189 15 868 1189	1442	nort2732
+362	Boluo_Tujia	stand	du³³	d u ³³	119	stand	du33	b	247	145 868 1161	1442	sout2739
+363	Tanxi_Tujia	stand	du³³	d u ³³	119	stand	du33	b	247	145 868 1161	1442	sout2739
+374	Tasha_Tujia	sun	law²¹	l a w ²¹	123	sun	law21	a	260	554 997 462 1152	1343	nort2732
+375	Duogu_Tujia	sun	naw²¹+ʦʰi²¹	n a w ²¹ tsʰ i ²¹	123	sun	naw21-cʰi21	ac	260 261	107 997 462 1152 13 1076 1152	1343	nort2732
+376	Dianfang_Tujia	sun	naw²¹	n a w ²¹	123	sun	naw21 ~ naw21-cʰi21	a	260	107 997 462 1152	1343	nort2732
+377	Boluo_Tujia	sun	no⁴⁵+doʉ³³	n o ⁴⁵ d o ʉ ³³	123	sun	no45-doʉ33	ab	260 262	107 887 1181 145 887 968 1161	1343	sout2739
+378	Tanxi_Tujia	sun	lo³⁵+ji³³+dʉ¹³	l o ³⁵ j i ³³ d ʉ ¹³	123	sun	lo35-yi33-dʉ13	aeb	260 263 262	554 887 1165 570 1076 1161 145 968 1168	1343	sout2739
+386	Tasha_Tujia	that	aj⁵⁵	a j ⁵⁵	127	that	ay55 ~ ay55-ti55	c	272	997 570 1189	78	nort2732
+387	Duogu_Tujia	that	aj⁵³+ti⁴⁴	a j ⁵³ t i ⁴⁴	127	that	ay53-ti44	cd	272 273	997 570 1185 120 1076 1178	78	nort2732
+388	Dianfang_Tujia	that	aj⁵⁵	a j ⁵⁵	127	that	ay55 ~ aw55	c	272	997 570 1189	78	nort2732
+389	Boluo_Tujia	that	ta³³+bu³³	t a ³³ b u ³³	128	that	ta33-bu33	ab	274 275	120 997 1161 257 868 1161	78	sout2739
+390	Tanxi_Tujia	that	ta²¹	t a ²¹	128	that	ta21	a	274	120 997 1152	78	sout2739
+496	Tasha_Tujia	thin	sa²¹+sa²¹	s a ²¹ s a ²¹	162	thin	sa21-sa21	ab	337 338	89 997 1152 89 997 1152	1400	nort2732
+497	Duogu_Tujia	thin	sa²¹+saj⁴⁴	s a ²¹ s a j ⁴⁴	162	thin	sa21-say44	ab	337 338	89 997 1152 89 997 570 1178	1400	nort2732
+498	Dianfang_Tujia	thin	sa²¹+sa³¹	s a ²¹ s a ³¹	162	thin	sa21-sa31	ab	337 338	89 997 1152 89 997 1162	1400	nort2732
+499	Boluo_Tujia	thin	so²¹+so⁵³	s o ²¹ s o ⁵³	162	thin	so21-so53	ab	337 338	89 887 1152 89 887 1185	1400	sout2739
+500	Tanxi_Tujia	thin	so²¹+so⁵⁵	s o ²¹ s o ⁵⁵	162	thin	so21-so55	ab	337 338	89 887 1152 89 887 1189	1400	sout2739
+391	Tasha_Tujia	this	ɤŋ⁵⁵	ɤ ŋ ⁵⁵	129	this	ɤŋ55 ~ ɤŋ55-ti55	c	276	947 801 1189	1214	nort2732
+392	Duogu_Tujia	this	kaj²⁴+ti⁴⁴	k a j ²⁴ t i ⁴⁴	130	this	kay24-ti44	de	277 278	838 997 570 1156 120 1076 1178	1214	nort2732
+393	Dianfang_Tujia	this	ũ⁵⁵	ũ ∼ ⁵⁵	129	this	ũ55 ~ ẽ55	c	276	866 1191 1189	1214	nort2732
+394	Boluo_Tujia	this	ʥia²¹+bu²¹	dʑ i a ²¹ b u ²¹	131	this	ʓia21-bu21	ab	279 280	197 1076 997 1152 257 868 1152	1214	sout2739
+395	Tanxi_Tujia	this	ʥia²¹	dʑ i a ²¹	131	this	ʓia21	a	279	197 1076 997 1152	1214	sout2739
+396	Tasha_Tujia	this	kaj²⁴	k a j ²⁴	130	this	kay24	d	277	838 997 570 1156	1214	nort2732
+397	Dianfang_Tujia	this	kaj³⁵	k a j ³⁵	130	this	kay35	d	277	838 997 570 1165	1214	nort2732
+398	Tasha_Tujia	thou	ni²⁴	n i ²⁴	132	thou	ni24	a	281	107 1076 1156	1215	nort2732
+399	Duogu_Tujia	thou	ni²⁴	n i ²⁴	132	thou	ni24	a	281	107 1076 1156	1215	nort2732
+400	Dianfang_Tujia	thou	ni³⁵	n i ³⁵	132	thou	ni35	a	281	107 1076 1165	1215	nort2732
+401	Boluo_Tujia	thou	ni³³	n i ³³	132	thou	ni33	a	281	107 1076 1161	1215	sout2739
+402	Tanxi_Tujia	thou	ni³³	n i ³³	132	thou	ni33	a	281	107 1076 1161	1215	sout2739
+408	Tasha_Tujia	tooth	si⁵⁵+si⁵⁵	s i ⁵⁵ s i ⁵⁵	134	tooth	si55-si55	ac	285 286	89 1076 1189 89 1076 1189	1380	nort2732
+409	Duogu_Tujia	tooth	si⁴⁴+si⁴⁴	s i ⁴⁴ s i ⁴⁴	134	tooth	si44-si44	ac	285 286	89 1076 1178 89 1076 1178	1380	nort2732
+410	Dianfang_Tujia	tooth	si⁵⁵+si⁵⁵	s i ⁵⁵ s i ⁵⁵	134	tooth	si55-si55	ac	285 286	89 1076 1189 89 1076 1189	1380	nort2732
+411	Boluo_Tujia	tooth	si³³+ta¹³	s i ³³ t a ¹³	134	tooth	si33-ta13	ab	285 287	89 1076 1161 120 997 1168	1380	sout2739
+412	Tanxi_Tujia	tooth	si³³+ta³⁵	s i ³³ t a ³⁵	134	tooth	si33-ta35	ab	285 287	89 1076 1161 120 997 1165	1380	sout2739
+413	Tasha_Tujia	tree	kʰa²¹+mɔŋ²¹	kʰ a ²¹ m ɔ ŋ ²¹	135	tree	kʰa21-mɔŋ21	ab	288 289	820 997 1152 241 916 801 1152	906	nort2732
+414	Duogu_Tujia	tree	kʰa²¹+mũ²¹	kʰ a ²¹ m ũ ∼ ²¹	135	tree	kʰa21-mũ21	ab	288 289	820 997 1152 241 866 1191 1152	906	nort2732
+415	Dianfang_Tujia	tree	kʰa²¹+mũ²¹	kʰ a ²¹ m ũ ∼ ²¹	135	tree	kʰa21-mũ21	ab	288 289	820 997 1152 241 866 1191 1152	906	nort2732
+416	Boluo_Tujia	tree	kʰo¹³+mũ²¹	kʰ o ¹³ m ũ ∼ ²¹	135	tree	kʰo13-mũ21	ab	288 289	820 887 1168 241 866 1191 1152	906	sout2739
+417	Tanxi_Tujia	tree	kʰo³⁵	kʰ o ³⁵	135	tree	kʰo35 ~ kʰo35-mõ21	a	288	820 887 1165	906	sout2739
+443	Tasha_Tujia	what	ʨʰi̯ɛ²¹	tɕʰ j ɛ ²¹	143	what	ɕʰi̯ɛ21 ~ ɕʰi̯ɛ21-ʆi21	f	300	199 570 1121 1152	1236	nort2732
+444	Duogu_Tujia	what	naj⁵³+ɕi²¹	n a j ⁵³ ɕ i ²¹	144	what	nay53=ʆi21	cd	301 302	107 997 570 1185 204 1076 1152	1236	nort2732
+445	Dianfang_Tujia	what	naj⁵⁵+ɕi²¹	n a j ⁵⁵ ɕ i ²¹	144	what	nay55=ʆi21 ~ na55=ʆi21	cd	301 302	107 997 570 1189 204 1076 1152	1236	nort2732
+446	Boluo_Tujia	what	ʦʰu⁵³+u³³	tsʰ u ⁵³ u ³³	145	what	cʰu53-u33	ab	303 304	13 868 1185 868 1161	1236	sout2739
+447	Tanxi_Tujia	what	ʦʰu⁵⁵+mo²¹	tsʰ u ⁵⁵ m o ²¹	145	what	cʰu55-mo21	ae	303 305	13 868 1189 241 887 1152	1236	sout2739
+448	Tasha_Tujia	white	a²¹+si²¹	a ²¹ s i ²¹	146	white	a21=si21	ab	306 307	997 1152 89 1076 1152	1335	nort2732
+449	Duogu_Tujia	white	a²¹+si²¹	a ²¹ s i ²¹	146	white	a21=si21	ab	306 307	997 1152 89 1076 1152	1335	nort2732
+450	Dianfang_Tujia	white	a²¹+si²¹	a ²¹ s i ²¹	146	white	a21=si21	ab	306 307	997 1152 89 1076 1152	1335	nort2732
+451	Boluo_Tujia	white	si³³	s i ³³	146	white	si33	b	307	89 1076 1161	1335	sout2739
+452	Tanxi_Tujia	white	si³³	s i ³³	146	white	si33	b	307	89 1076 1161	1335	sout2739
+501	Tasha_Tujia	wind	zɤ²⁴	z ɤ ²⁴	163	wind	zɤ24	a	339	80 947 1156	960	nort2732
+502	Duogu_Tujia	wind	ze²⁴+su⁵³	z e ²⁴ s u ⁵³	163	wind	ze24-su53	ac	339 340	80 1089 1156 89 868 1185	960	nort2732
+503	Dianfang_Tujia	wind	ze³⁵+su⁵⁵	z e ³⁵ s u ⁵⁵	163	wind	ze35-su55	ac	339 340	80 1089 1165 89 868 1189	960	nort2732
+504	Boluo_Tujia	wind	ze²¹+ŋej⁴⁵	z e ²¹ ŋ e j ⁴⁵	163	wind	ze21-ŋey45	ab	339 341	80 1089 1152 801 1089 570 1181	960	sout2739
+505	Tanxi_Tujia	wind	ze²¹+ŋɨ²¹	z e ²¹ ŋ ɨ ²¹	163	wind	ze21-ŋɨ21 ~ ze21-lĩ21	ab	339 341	80 1089 1152 801 983 1152	960	sout2739

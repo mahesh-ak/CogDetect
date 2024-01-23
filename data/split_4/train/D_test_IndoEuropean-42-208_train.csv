@@ -1,0 +1,1165 @@
+DOCULECT	iso_code	CONCEPT	concepticon_id	IPA	TOKENS	asjp	dolgo	sca	cog_id	COGID
+Greek_Anc	grc	I		eɡɔ́ː	e ɡ ɔ́ː	ego	V K V	E K U	I:A	1
+Greek_Mod	ell	I		e̞ˈɣo̞	e̞ ˈɣ o̞	exo	V K V	E G U	I:A	1
+Ossetic_Iron	oss	I		ɐž	ɐ ž	aS	V S	E S	I:A	1
+Ossetic_Digor	oss	I		ɐz	ɐ z	az	V S	E S	I:A	1
+Oriya	ori	I		mũ	m ũ	m	M V	M Y	I:A	1
+Bihari	mai	I		mẽ	m ẽ	me	M V	M E	I:A	1
+Bihari	mai	I		həm	h ə m	h3m	H V M	H E M	I:A	1
+Urdu	urd	I		mɛ̃	m ɛ̃	mE	M V	M E	I:A	1
+Marathi	mar	I		mi:	m i:	mi	M V	M I	I:A	1
+Old_Church_Slavonic	chu	I		ɑzʊ̆	ɑ z ʊ̆	azu	V S V	A S Y	I:A	1
+Serbo-Croatian	srp	I		jâː	j âː	ya	J V	J A	I:A	1
+Bulgarian	bul	I		as	a s	as	V S	A S	I:A	1
+Macedonian	mkd	I		jas	j a s	yas	J V S	J A S	I:A	1
+Russian	rus	I		ja	j a	ya	J V	J A	I:A	1
+Polish	pol	I		ja	j a	ya	J V	J A	I:A	1
+Belarusian	bel	I		ja	j a	ya	J V	J A	I:A	1
+Ukrainian	ukr	I		ja	j a	ya	J V	J A	I:A	1
+Slovak	slk	I		ja	j a	ya	J V	J A	I:A	1
+Czech	ces	I		jaː	j aː	ya	J V	J A	I:A	1
+Sorbian_Upper	hsb	I		ja	j a	ya	J V	J A	I:A	1
+Sorbian_Lower	dsb	I		ja	j a	ya	J V	J A	I:A	1
+Slovenian	slv	I		jas	j a s	yas	J V S	J A S	I:A	1
+Old_Norse	non	I		ek	e k	ek	V K	E K	I:A	1
+Icelandic	isl	I		jɛɣ	j ɛ ɣ	yEx	J V K	J E G	I:A	1
+Faroese	fao	I		e:	e:	e	V	E	I:A	1
+Norwegian_Riksmal	nor	I		jæɪ	j æɪ	yEi	J V	J E	I:A	1
+Stavangersk		I		eːɡ	eː ɡ	eg	V K	E K	I:A	1
+Old_Swedish		I		jaːk	j aː k	yak	J V K	J A K	I:A	1
+Swedish	swe	I		jɑːɡ	j ɑː ɡ	yag	J V K	J A K	I:A	1
+Elfdalian	qov	I		ɪːg	ɪː g	ig	V K	I K	I:A	1
+Danish	dan	I		jɑj	j ɑ j	yay	J V J	J A J	I:A	1
+Danish_Fjolde		I		æ	æ	E	V	E	I:A	1
+Gutnish_Lau		I		jɑː	j ɑː	ya	J V	J A	I:A	1
+English	eng	I		aɪ	aɪ	ai	V	A	I:A	1
+Dutch	nld	I		ɪk	ɪ k	ik	V K	I K	I:A	1
+German	deu	I		ɪç	ɪ ç	iS	V S	I S	I:A	1
+Latin	lat	I		ˈego	ˈe g o	ego	V K V	E K U	I:A	1
+Catalan	cat	I		ʒɔ	ʒ ɔ	Zo	S V	S U	I:A	1
+Portuguese	por	I		eu	eu	eu	V	E	I:A	1
+Spanish	spa	I		ʝo	ʝ o	So	S V	S U	I:A	1
+French	fra	I		ʒə	ʒ ə	Z3	S V	S E	I:A	1
+Italian	ita	I		io	io	io	V	I	I:A	1
+Old_Irish	sga	I		m	m	m	M	M	I:D	2
+Old_Irish	sga	I		me:	m e:	me	M V	M E	I:D	2
+Greek_Anc	grc	because		dióti	d i ó t i	dioti	T V V T V	T I U T I	because:At	127
+Greek_Mod	ell	because		epiˈði	e p i ˈð i	epi8i	V P V T V	E P I D I	because:N	138
+Greek_Mod	ell	because		ˌðiˈo̞ti	ˌð i ˈo̞ t i	8ioti	T V V T V	D I U T I	because:At	127
+Greek_Mod	ell	because		ʝaˈti	ʝ a ˈt i	Sati	S V T V	S A T I	because:D	130
+Ossetic_Iron	oss	because		wymɐn_ɐmɐ	w y m ɐ n ɐ m ɐ	wimanama	W V M V N V M V	W Y M E N E M E	because:S	140
+Ossetic_Digor	oss	because		womɐn_ɐma	w o m ɐ n ɐ m a	womanama	W V M V N V M V	W U M E N E M A	because:S	140
+Oriya	ori	because		jogu	j o g u	yogu	J V K V	J U K Y	because:Aq	125
+Oriya	ori	because		hetu	h e t u	hetu	H V T V	H E T Y	because:Ae	121
+Oriya	ori	because		boli	b o l i	boli	P V R V	P U L I	because:X	143
+Oriya	ori	because		karɔɳɔ	k a r ɔ ɳ ɔ	karono	K V R V N V	K A R U N U	because:C	129
+Urdu	urd	because		kjũ_ke	k j ũ k e	kyke	K J V K V	K J Y K E	because:O	139
+Marathi	mar	because		kaɾəɳ	k a ɾ ə ɳ	kar3n	K V R V N	K A R E N	because:C	129
+Serbo-Croatian	srp	because		jɛ̂r	j ɛ̂ r	yEr	J V R	J E R	because:I	134
+Macedonian	mkd	because		biˈdejci	b i ˈd e j c i	bideyTi	P V T V J K V	P I T E J C I	because:Av	128
+Polish	pol	because		bɔ	b ɔ	bo	P V	P U	because:V	141
+Belarusian	bel	because		bɔ	b ɔ	bo	P V	P U	because:V	141
+Slovak	slk	because		ˈlɛbɔ	ˈl ɛ b ɔ	lEbo	R V P V	L E P U	because:V	141
+Sorbian_Upper	hsb	because		ˈdɔkɛlʃ	ˈd ɔ k ɛ l ʃ	dokElS	T V K V R S	T U K E L S	because:G	132
+Sorbian_Lower	dsb	because		ˈdɔkulʲaʂ	ˈd ɔ k u lʲ a ʂ	dokuly~aS	T V K V R V S	T U K Y L A S	because:G	132
+Slovenian	slv	because		kɛr	k ɛ r	kEr	K V R	K E R	because:As	126
+Old_Norse	non	because		θviː_at	θ v iː a t	8viat	T W V V T	D B I A T	because:L	136
+Icelandic	isl	because		af_ˈθviː_að	a f ˈθ v iː a ð	af8via8	V P T W V V T	A B D B I A D	because:L	136
+Faroese	fao	because		tʰʊiː	tʰ ʊiː	th~ui	T V	T Y	because:L	136
+Old_Swedish		because		θyː	θ yː	8i	T V	D Y	because:L	136
+Old_Swedish		because		foːr_at	f oː r a t	forat	P V R V T	B U R A T	because:H	133
+Swedish	swe	because		ˈɛ̀ftəˌʂɔmː	ˈɛ̀ f t ə ˌʂ ɔ mː	Eft3Som	V P T V S V M	E B T E S U M	because:Ao	124
+Swedish	swe	because		eme:dan	e m e: d a n	emedan	V M V T V N	E M E T A N	because:W	142
+Elfdalian	qov	because		ɛtːɛrsós	ɛ tː ɛ r s ó s	EtErsos	V T V R S V S	E T E R S U S	because:Ao	124
+Danish_Fjolde		because		ˈyvəɹ	ˈy v ə ɹ	iv3r	V W V R	Y B E R	because:An	123
+English	eng	because		bɪkɒz	b ɪ k ɒ z	bikoz	P V K V S	P I K O S	because:K	135
+German	deu	because		vaĭl	v a ĭ l	vail	W V V R	B A I L	because:M	137
+Latin	lat	because		kʷod	kʷ o d	kw~od	K V T	K U T	because:F	131
+Old_Irish	sga	because		u:ərʹe	u:ə rʹ e	u3re	V R V	Y R E	because:Al	122
+Greek_Anc	grc	belly		ɡastɛ́ːr	ɡ a s t ɛ́ː r	gastEr	K V S T V R	K A S T E R	belly:Ak	144
+Greek_Mod	ell	belly		ciˈʎa	c i ˈʎ a	Tila	K V R V	C I L A	belly:I	152
+Greek_Mod	ell	belly		ɣasˈte̞ra	ɣ a s ˈt e̞ r a	xastera	K V S T V R V	G A S T E R A	belly:Ak	144
+Ossetic_Iron	oss	belly		gʷybyn	gʷ y b y n	gw~ibin	K V P V N	K Y P Y N	belly:V	159
+Ossetic_Digor	oss	belly		gubun	g u b u n	gubun	K V P V N	K Y P Y N	belly:V	159
+Oriya	ori	belly		peʈɔ	p e ʈ ɔ	peto	P V T V	P E T U	belly:D	148
+Bihari	mai	belly		peʈ	p e ʈ	pet	P V T	P E T	belly:D	148
+Urdu	urd	belly		peʈ	p e ʈ	pet	P V T	P E T	belly:D	148
+Marathi	mar	belly		poʈ	p o ʈ	pot	P V T	P U T	belly:D	148
+Old_Church_Slavonic	chu	belly		ʧrævo	ʧ r æ v o	CrEvo	K R V W V	C R E B U	belly:P	156
+Serbo-Croatian	srp	belly		ˈtřːbux	ˈt řː b u x	tbux	T R P V K	T R P Y G	belly:G	150
+Bulgarian	bul	belly		kuˈrɛm	k u ˈr ɛ m	kurEm	K V R V M	K Y R E M	belly:Am	146
+Macedonian	mkd	belly		mev	m e v	mev	M V W	M E B	belly:K	153
+Russian	rus	belly		ʐɨˈvɔt	ʐ ɨ ˈv ɔ t	Z3vot	S V W V T	S I B U T	belly:S	157
+Polish	pol	belly		bʐux	b ʐ u x	bZux	P S V K	P S Y G	belly:H	151
+Belarusian	bel	belly		ʐɨˈvɔt	ʐ ɨ ˈv ɔ t	Z3vot	S V W V T	S I B U T	belly:S	157
+Ukrainian	ukr	belly		ʐɪˈvit	ʐ ɪ ˈv i t	Zivit	S V W V T	S I B I T	belly:S	157
+Slovak	slk	belly		ˈbruxɔ	ˈb r u x ɔ	bruxo	P R V K V	P R Y G U	belly:H	151
+Czech	ces	belly		ˈbr̝ɪxɔ	ˈb r̝ ɪ x ɔ	brixo	P R V K V	P R I G U	belly:H	151
+Sorbian_Upper	hsb	belly		bʀux	b ʀ u x	brux	P R V K	P R Y G	belly:H	151
+Sorbian_Lower	dsb	belly		brʲux	b rʲ u x	bry~ux	P R V K	P R Y G	belly:H	151
+Slovenian	slv	belly		ˈtrěːbux	ˈt r ěː b u x	trebux	T R V P V K	T R E P Y G	belly:G	150
+Old_Norse	non	belly		vɔmb	v ɔ m b	vomb	W V M P	B U M P	belly:E	149
+Old_Norse	non	belly		kviðr	k v i ð r	kvi8r	K W V T R	K B I D R	belly:O	155
+Old_Norse	non	belly		ˈmaɣi	ˈm a ɣ i	maxi	M V K V	M A G I	belly:N	154
+Icelandic	isl	belly		ˈb̥uːkʰʏr	ˈb̥ uː kʰ ʏ r	bukh~ir	P V K V R	P Y K Y R	belly:B	147
+Icelandic	isl	belly		ˈmaːɣɪ	ˈm aː ɣ ɪ	maxi	M V K V	M A G I	belly:N	154
+Icelandic	isl	belly		ˈkʰvɪːðʏr	ˈkʰ v ɪː ð ʏ r	kh~vi8ir	K W V T V R	K B I D Y R	belly:O	155
+Faroese	fao	belly		ˈkʰviːjʊɹ	ˈkʰ v iː j ʊ ɹ	kh~viyur	K W V J V R	K B I J Y R	belly:O	155
+Faroese	fao	belly		ˈmɛaːjɪ	ˈm ɛaː j ɪ	mEayi	M V J V	M E J I	belly:N	154
+Faroese	fao	belly		vɔmb̥	v ɔ m b̥	vomb	W V M P	B U M P	belly:E	149
+Faroese	fao	belly		ˈb̥uːkʊɹ	ˈb̥ uː k ʊ ɹ	bukur	P V K V R	P Y K Y R	belly:B	147
+Norwegian_Riksmal	nor	belly		bʉːk	b ʉː k	b3k	P V K	P Y K	belly:B	147
+Norwegian_Riksmal	nor	belly		ˈmàːʋə	ˈm àː ʋ ə	maw3	M V W V	M A W E	belly:N	154
+Stavangersk		belly		bʉːɡ	b ʉː ɡ	b3g	P V K	P Y K	belly:B	147
+Stavangersk		belly		ˈmɑ̀ːɡə	ˈm ɑ̀ː ɡ ə	mag3	M V K V	M A K E	belly:N	154
+Old_Swedish		belly		ˈbuːker	ˈb uː k e r	buker	P V K V R	P Y K E R	belly:B	147
+Old_Swedish		belly		ˈkviːðer	ˈk v iː ð e r	kvi8er	K W V T V R	K B I D E R	belly:O	155
+Old_Swedish		belly		vamb	v a m b	vamb	W V M P	B A M P	belly:E	149
+Old_Swedish		belly		ˈmaːɣi	ˈm aː ɣ i	maxi	M V K V	M A G I	belly:N	154
+Swedish	swe	belly		bʉ:k	b ʉ: k	b3k	P V K	P Y K	belly:B	147
+Swedish	swe	belly		ˈmɑ̀ːɡə	ˈm ɑ̀ː ɡ ə	mag3	M V K V	M A K E	belly:N	154
+Elfdalian	qov	belly		kwɪːð	k w ɪː ð	kwi8	K W V T	K W I D	belly:O	155
+Elfdalian	qov	belly		mɔ̀gɔ	m ɔ̀ g ɔ	mogo	M V K V	M U K U	belly:N	154
+Danish	dan	belly		ˈmæːvə	ˈm æː v ə	mEv3	M V W V	M E B E	belly:N	154
+Danish	dan	belly		b̥uˀ	b̥ uˀ	"bu"""	P V	P Y	belly:B	147
+Danish_Fjolde		belly		buɡ	b u ɡ	bug	P V K	P Y K	belly:B	147
+Danish_Fjolde		belly		maːw	m aː w	maw	M V W	M A W	belly:N	154
+Gutnish_Lau		belly		lɛɪv	l ɛɪ v	lEiv	R V W	L E B	belly:Al	145
+Gutnish_Lau		belly		ˈmɑːɡɛ	ˈm ɑː ɡ ɛ	magE	M V K V	M A K E	belly:N	154
+Gutnish_Lau		belly		bɛuk	b ɛu k	bEuk	P V K	P E K	belly:B	147
+English	eng	belly		bɛlɪ	b ɛ l ɪ	bEli	P V R V	P E L I	belly:B	147
+Dutch	nld	belly		bœyk	b œy k	bEik	P V K	P U K	belly:B	147
+German	deu	belly		baŭx	b a ŭ x	baux	P V V K	P A Y G	belly:B	147
+Latin	lat	belly		ˈwenter	ˈw e n t e r	wenter	W V N T V R	W E N T E R	belly:E	149
+Catalan	cat	belly		panʃə	p a n ʃ ə	panS3	P V N S V	P A N S E	belly:U	158
+Catalan	cat	belly		bentrə	b e n t r ə	bentr3	P V N T R V	P E N T R E	belly:E	149
+Portuguese	por	belly		ˈvẽtɾɨ	ˈv ẽ t ɾ ɨ	vetr3	W V T R V	B E T R I	belly:E	149
+French	fra	belly		vɑ̃tʀ	v ɑ̃ t ʀ	vatr	W V T R	B A T R	belly:E	149
+Italian	ita	belly		vɛntre	v ɛ n t r e	vEntre	W V N T R V	B E N T R E	belly:E	149
+Old_Irish	sga	belly		bolg	b o l g	bolg	P V R K	P U L K	belly:B	147
+Old_Irish	sga	belly		tarr	t a rr	tarr	T V R	T A R	belly:X	160
+Old_Irish	sga	belly		bru:	b r u:	bru	P R V	P R Y	belly:H	151
+Greek_Anc	grc	bird		órniːs	ó r n iː s	ornis	V R N V S	U R N I S	bird:U	184
+Greek_Anc	grc	bird		aetós	ae t ó s	aetos	V T V S	A T U S	bird:F	178
+Greek_Mod	ell	bird		puli	p u l i	puli	P V R V	P Y L I	bird:I	181
+Ossetic_Iron	oss	bird		marg	m a r g	marg	M V R K	M A R K	bird:A	175
+Ossetic_Digor	oss	bird		marg	m a r g	marg	M V R K	M A R K	bird:A	175
+Oriya	ori	bird		pɔkhi	p ɔ k h i	pokhi	P V K H V	P U K H I	bird:E	177
+Bihari	mai	bird		cirəi	c i r əi	Tir3i	K V R V	C I R E	bird:K	183
+Urdu	urd	bird		pɾɪnd̪əh	p ɾ ɪ n d̪ ə h	prind3h	P R V N T V H	P R I N T E H	bird:J	182
+Marathi	mar	bird		pəkʂi	p ə k ʂ i	p3kSi	P V K S V	P E K S I	bird:E	177
+Old_Church_Slavonic	chu	bird		pʊ̆titsʲa	p ʊ̆ t i t sʲ a	putitsy~a	P V T V T S V	P Y T I T S A	bird:H	180
+Serbo-Croatian	srp	bird		ˈptîtsa	ˈp t î t s a	ptitsa	P T V T S V	P T I T S A	bird:H	180
+Bulgarian	bul	bird		ˈptitsə	ˈp t i t s ə	ptits3	P T V T S V	P T I T S E	bird:H	180
+Macedonian	mkd	bird		ˈptitsa	ˈp t i t s a	ptitsa	P T V T S V	P T I T S A	bird:H	180
+Russian	rus	bird		ptʲitsa	p tʲ i t s a	pty~itsa	P T V T S V	P T I T S A	bird:H	180
+Polish	pol	bird		ptak	p t a k	ptak	P T V K	P T A K	bird:H	180
+Belarusian	bel	bird		ˈptuʂka	ˈp t u ʂ k a	ptuSka	P T V S K V	P T Y S K A	bird:H	180
+Ukrainian	ukr	bird		ptax	p t a x	ptax	P T V K	P T A G	bird:H	180
+Slovak	slk	bird		ˈftaːk	ˈf t aː k	ftak	P T V K	B T A K	bird:H	180
+Czech	ces	bird		ptaːk	p t aː k	ptak	P T V K	P T A K	bird:H	180
+Sorbian_Upper	hsb	bird		ptatʃk	p t a t ʃ k	ptatSk	P T V T S K	P T A T S K	bird:H	180
+Sorbian_Lower	dsb	bird		ptaʂk	p t a ʂ k	ptaSk	P T V S K	P T A S K	bird:H	180
+Slovenian	slv	bird		ˈptǐːtsa	ˈp t ǐː t s a	ptitsa	P T V T S V	P T I T S A	bird:H	180
+Old_Norse	non	bird		fuɣl	f u ɣ l	fuxl	P V K R	B Y G L	bird:B	176
+Icelandic	isl	bird		fʏɡ̊l	f ʏ ɡ̊ l	figl	P V K R	B Y K L	bird:B	176
+Faroese	fao	bird		ˈfʊɡ̊lʊɹ	ˈf ʊ ɡ̊ l ʊ ɹ	fuglur	P V K R V R	B Y K L Y R	bird:B	176
+Norwegian_Riksmal	nor	bird		fʉːl	f ʉː l	f3l	P V R	B Y L	bird:B	176
+Stavangersk		bird		ˈfuɡːəl	ˈf u ɡː ə l	fug3l	P V K V R	B Y K E L	bird:B	176
+Old_Swedish		bird		fuːɣl	f uː ɣ l	fuxl	P V K R	B Y G L	bird:B	176
+Swedish	swe	bird		ˈfo:gəl	ˈf o: g ə l	fog3l	P V K V R	B U K E L	bird:B	176
+Elfdalian	qov	bird		fʉ́gɛl	f ʉ́ g ɛ l	f3gEl	P V K V R	B Y K E L	bird:B	176
+Danish	dan	bird		fuˀl	f uˀ l	"fu""l"	P V R	B Y L	bird:B	176
+Danish_Fjolde		bird		fɔwl	f ɔ w l	fowl	P V W R	B U W L	bird:B	176
+Gutnish_Lau		bird		ˈfɛuɡɛl	ˈf ɛu ɡ ɛ l	fEugEl	P V K V R	B E K E L	bird:B	176
+Dutch	nld	bird		voɣəl	v o ɣ ə l	vox3l	W V K V R	B U G E L	bird:B	176
+German	deu	bird		fo:gl̩	f o: g l̩	fogl	P V K R	B U K L	bird:B	176
+Latin	lat	bird		ˈawis	ˈa w i s	awis	V W V S	A W I S	bird:F	178
+Catalan	cat	bird		useʎ	u s e ʎ	usel	V S V R	Y S E L	bird:F	178
+Portuguese	por	bird		ˈavɨ	ˈa v ɨ	av3	V W V	A B I	bird:F	178
+Spanish	spa	bird		paxaɾo	p a x a ɾ o	paxaro	P V K V R V	P A G A R U	bird:G	179
+French	fra	bird		wazo	w a z o	wazo	W V S V	W A S U	bird:F	178
+Italian	ita	bird		uttʃɛllo	u tt ʃ ɛ ll o	uttSEllo	V T S V R V	Y T S E L U	bird:F	178
+Old_Irish	sga	bird		e:n	e: n	en	V N	E N	bird:G	179
+Greek_Anc	grc	cold		kryerós	k r ye r ó s	krieros	K R V R V S	K R Y R U S	cold:H	311
+Greek_Anc	grc	cold		psyːkʰrós	p s yː kʰ r ó s	psikh~ros	P S V K R V S	P S Y K R U S	cold:K	313
+Greek_Mod	ell	cold		ˈkriˌo̞s	ˈk r i ˌo̞ s	krios	K R V V S	K R I U S	cold:H	311
+Greek_Mod	ell	cold		psixros	p s i x r o s	psixros	P S V K R V S	P S I G R U S	cold:K	313
+Ossetic_Iron	oss	cold		wažal	w a ž a l	waSal	W V S V R	W A S A L	cold:A	306
+Ossetic_Digor	oss	cold		wazal	w a z a l	wazal	W V S V R	W A S A L	cold:A	306
+Oriya	ori	cold		thɔɳɖa	t h ɔ ɳ ɖ a	thonda	T H V N T V	T H U N T A	cold:D	308
+Bihari	mai	cold		ʈhəndha	ʈ h ə n d h a	th3ndha	T H V N T H V	T H E N T H A	cold:D	308
+Urdu	urd	cold		səɾd̪	s ə ɾ d̪	s3rd	S V R T	S E R T	cold:D	308
+Marathi	mar	cold		tʰaɳɖi:	tʰ a ɳ ɖ i:	th~andi	T V N T V	T A N T I	cold:D	308
+Old_Church_Slavonic	chu	cold		studɛnʊ̆	s t u d ɛ n ʊ̆	studEnu	S T V T V N V	S T Y T E N Y	cold:M	315
+Serbo-Croatian	srp	cold		ˈhlǎːdan	ˈh l ǎː d a n	hladan	H R V T V N	H L A T A N	cold:G	310
+Bulgarian	bul	cold		stuˈdɛn	s t u ˈd ɛ n	studEn	S T V T V N	S T Y T E N	cold:M	315
+Macedonian	mkd	cold		ˈstudɛn	ˈs t u d ɛ n	studEn	S T V T V N	S T Y T E N	cold:M	315
+Russian	rus	cold		xɔɫɔdnɨj	x ɔ ɫ ɔ d n ɨ j	xoLodn3y	K V R V T N V J	G U L U T N I J	cold:G	310
+Polish	pol	cold		ˈʑimnɘ̟	ˈʑ i m n ɘ̟	Zimn3	S V M N V	S I M N E	cold:L	314
+Belarusian	bel	cold		xaˈɫɔdnɨ	x a ˈɫ ɔ d n ɨ	xaLodn3	K V R V T N V	G A L U T N I	cold:G	310
+Ukrainian	ukr	cold		xɔˈɫɔdnɪj	x ɔ ˈɫ ɔ d n ɪ j	xoLodniy	K V R V T N V J	G U L U T N I J	cold:G	310
+Slovak	slk	cold		ˈstuɟɛniː	ˈs t u ɟ ɛ n iː	stuCEni	S T V K V N V	S T Y C E N I	cold:M	315
+Czech	ces	cold		ˈstudɛniː	ˈs t u d ɛ n iː	studEni	S T V T V N V	S T Y T E N I	cold:M	315
+Sorbian_Upper	hsb	cold		ˈzɘ̟mnɘ̟	ˈz ɘ̟ m n ɘ̟	z3mn3	S V M N V	S E M N E	cold:L	314
+Sorbian_Lower	dsb	cold		ˈzɘ̟mnɘ̟	ˈz ɘ̟ m n ɘ̟	z3mn3	S V M N V	S E M N E	cold:L	314
+Slovenian	slv	cold		ˈhlǎːdɛn	ˈh l ǎː d ɛ n	hladEn	H R V T V N	H L A T E N	cold:G	310
+Old_Norse	non	cold		kaldr	k a l d r	kaldr	K V R T R	K A L T R	cold:B	307
+Icelandic	isl	cold		ˈkʰald̥ʏr	ˈkʰ a l d̥ ʏ r	kh~aldir	K V R T V R	K A L T Y R	cold:B	307
+Faroese	fao	cold		ˈkʰald̥ʊɹ	ˈkʰ a l d̥ ʊ ɹ	kh~aldur	K V R T V R	K A L T Y R	cold:B	307
+Norwegian_Riksmal	nor	cold		kalː	k a lː	kal	K V R	K A L	cold:B	307
+Stavangersk		cold		ˈkalːə	ˈk a lː ə	kal3	K V R V	K A L E	cold:B	307
+Old_Swedish		cold		ˈkalder	ˈk a l d e r	kalder	K V R T V R	K A L T E R	cold:B	307
+Swedish	swe	cold		kalː	k a lː	kal	K V R	K A L	cold:B	307
+Elfdalian	qov	cold		kold	k o l d	kold	K V R T	K U L T	cold:B	307
+Danish	dan	cold		g̥ʰʌlˀ	g̥ʰ ʌ lˀ	"gh~ol"""	K V R	K E L	cold:B	307
+Danish_Fjolde		cold		koːlʲ	k oː lʲ	koly~	K V R	K U L	cold:B	307
+Gutnish_Lau		cold		ˈkaldar	ˈk a l d a r	kaldar	K V R T V R	K A L T A R	cold:B	307
+English	eng	cold		kəʊld	k əʊ l d	k3uld	K V R T	K E L T	cold:B	307
+Dutch	nld	cold		kɑut	k ɑu t	kaut	K V T	K A T	cold:B	307
+German	deu	cold		kalt	k a l t	kalt	K V R T	K A L T	cold:B	307
+Latin	lat	cold		ˈfriːgidus	ˈf r iː g i d u s	frigidus	P R V K V T V S	B R I K I T Y S	cold:E	309
+Catalan	cat	cold		fɾɛt	f ɾ ɛ t	frEt	P R V T	B R E T	cold:E	309
+Portuguese	por	cold		ˈfɾiu	ˈf ɾ iu	friu	P R V	B R I	cold:E	309
+Spanish	spa	cold		fɾio	f ɾ io	frio	P R V	B R I	cold:E	309
+French	fra	cold		fʀwɑ	f ʀ w ɑ	frwa	P R W V	B R W A	cold:E	309
+Italian	ita	cold		freddo	f r e dd o	freddo	P R V T V	B R E T U	cold:E	309
+Old_Irish	sga	cold		u:ər	u:ə r	u3r	V R	Y R	cold:I	312
+Greek_Anc	grc	die		apotʰnɛ́ːjskɔː	a p o tʰ n ɛ́ː j s k ɔː	apoth~nEysko	V P V T N V J S K V	A P U T N E J S K U	die:D	359
+Greek_Mod	ell	die		pe̞ˈθe̞no̞	p e̞ ˈθ e̞ n o̞	pe8eno	P V T V N V	P E D E N U	die:D	359
+Ossetic_Iron	oss	die		mɐl	m ɐ l	mal	M V R	M E L	die:A	357
+Ossetic_Digor	oss	die		mɐl	m ɐ l	mal	M V R	M E L	die:A	357
+Oriya	ori	die		mɔr	m ɔ r	mor	M V R	M U R	die:A	357
+Bihari	mai	die		mərəb	m ə r ə b	m3r3b	M V R V P	M E R E P	die:A	357
+Urdu	urd	die		məɾnə	m ə ɾ n ə	m3rn3	M V R N V	M E R N E	die:A	357
+Marathi	mar	die		məɾɳe	m ə ɾ ɳ e	m3rne	M V R N V	M E R N E	die:A	357
+Old_Church_Slavonic	chu	die		umræti	u m r æ t i	umrEti	V M R V T V	Y M R E T I	die:A	357
+Serbo-Croatian	srp	die		ˈǔmirati	ˈu m i r a t i	mirati	V M V R V T V	Y M I R A T I	die:A	357
+Bulgarian	bul	die		uˈmirəm	u ˈm i r ə m	umir3m	V M V R V M	Y M I R E M	die:A	357
+Macedonian	mkd	die		ˈumiram	ˈu m i r a m	umiram	V M V R V M	Y M I R A M	die:A	357
+Russian	rus	die		umʲiratʲ	u mʲ i r a tʲ	umy~iraty~	V M V R V T	Y M I R A T	die:A	357
+Polish	pol	die		uˈmjɛraʨ	u ˈm j ɛ r a ʨ	umyEraC	V M J V R V K	Y M J E R A C	die:A	357
+Belarusian	bel	die		pamʲiˈratsʲ	p a mʲ i ˈr a t sʲ	pamy~iratsy~	P V M V R V T S	P A M I R A T S	die:A	357
+Ukrainian	ukr	die		umɪˈratɪ	u m ɪ ˈr a t ɪ	umirati	V M V R V T V	Y M I R A T I	die:A	357
+Slovak	slk	die		ˈumiɛrac	ˈu m iɛ r a c	umiEraT	V M V R V K	Y M I R A C	die:A	357
+Czech	ces	die		ˈumiːrat	ˈu m iː r a t	umirat	V M V R V T	Y M I R A T	die:A	357
+Sorbian_Upper	hsb	die		mʀɪtʃ	m ʀ ɪ t ʃ	mritS	M R V T S	M R I T S	die:A	357
+Sorbian_Lower	dsb	die		mrʲɪɕ	m rʲ ɪ ɕ	mry~iS	M R V S	M R I S	die:A	357
+Slovenian	slv	die		ˈmrěːti	ˈm r ěː t i	mreti	M R V T V	M R E T I	die:A	357
+Old_Norse	non	die		ˈdɛyja	ˈd ɛy j a	dEiya	T V J V	T E J A	die:B	358
+Old_Norse	non	die		ˈandask	ˈa n d a s k	andask	V N T V S K	A N T A S K	die:F	361
+Icelandic	isl	die		ˈd̥eiːja	ˈd̥ eiː j a	deiya	T V J V	T E J A	die:B	358
+Icelandic	isl	die		ˈand̥ast	ˈa n d̥ a s t	andast	V N T V S T	A N T A S T	die:F	361
+Faroese	fao	die		ˈand̥ast	ˈa n d̥ a s t	andast	V N T V S T	A N T A S T	die:F	361
+Faroese	fao	die		ˈd̥ɔd̥ʒːa	ˈd̥ ɔ d̥ ʒː a	dodZa	T V T S V	T U T S A	die:B	358
+Norwegian_Riksmal	nor	die		døː	d øː	de	T V	T U	die:B	358
+Stavangersk		die		dœɪ	d œɪ	dEi	T V	T U	die:B	358
+Old_Swedish		die		ˈdøjːa	ˈd ø jː a	deya	T V J V	T U J A	die:B	358
+Swedish	swe	die		dø:	d ø:	de	T V	T U	die:B	358
+Elfdalian	qov	die		ˈdæ̀ːɑ	ˈd æ̀ːɑ	dEa	T V	T E	die:B	358
+Danish	dan	die		d̥øˀ	d̥ øˀ	"de"""	T V	T U	die:B	358
+Danish_Fjolde		die		dyø	d yø	die	T V	T Y	die:B	358
+Gutnish_Lau		die		doɪ	d oɪ	doi	T V	T U	die:B	358
+English	eng	die		daɪ	d aɪ	dai	T V	T A	die:B	358
+Dutch	nld	die		stɛrvən	s t ɛ r v ə n	stErv3n	S T V R W V N	S T E R B E N	die:E	360
+German	deu	die		ʃtɛrbn̩	ʃ t ɛ r b n̩	StErbn	S T V R P N	S T E R P N	die:E	360
+Latin	lat	die		ˈmoriː	ˈm o r iː	mori	M V R V	M U R I	die:A	357
+Catalan	cat	die		muri	m u r i	muri	M V R V	M Y R I	die:A	357
+Portuguese	por	die		muˈʀeɾ	m u ˈʀ e ɾ	murer	M V R V R	M Y R E R	die:A	357
+Spanish	spa	die		moɾiɾ	m o ɾ i ɾ	morir	M V R V R	M U R I R	die:A	357
+French	fra	die		muʀiʀ	m u ʀ i ʀ	murir	M V R V R	M Y R I R	die:A	357
+Italian	ita	die		morire	m o r i r e	morire	M V R V R V	M U R I R E	die:A	357
+Greek_Anc	grc	dry		au̯kʰmɛːrós	au̯ kʰ m ɛː r ó s	aukh~mEros	V K M V R V S	A K M E R U S	dry:F	416
+Greek_Anc	grc	dry		kʰsɛːrós	kʰ s ɛː r ó s	kh~sEros	K S V R V S	K S E R U S	dry:I	418
+Greek_Mod	ell	dry		kseˈro̞s	k s e ˈr o̞ s	kseros	K S V R V S	K S E R U S	dry:I	418
+Ossetic_Iron	oss	dry		χušk	χ u š k	GuSk	K V S K	G Y S K	dry:F	416
+Ossetic_Digor	oss	dry		χuskɐ	χ u s k ɐ	Guska	K V S K V	G Y S K E	dry:F	416
+Oriya	ori	dry		sukhila	s u k h i l a	sukhila	S V K H V R V	S Y K H I L A	dry:F	416
+Bihari	mai	dry		sukhəl	s u k h ə l	sukh3l	S V K H V R	S Y K H E L	dry:F	416
+Urdu	urd	dry		sukʰə	s u kʰ ə	sukh~3	S V K V	S Y K E	dry:F	416
+Marathi	mar	dry		sukə	s u k ə	suk3	S V K V	S Y K E	dry:F	416
+Old_Church_Slavonic	chu	dry		suxʊ̆	s u x ʊ̆	suxu	S V K V	S Y G Y	dry:F	416
+Serbo-Croatian	srp	dry		sûːx	s u x	sx	S V K	S Y G	dry:F	416
+Bulgarian	bul	dry		sux	s u x	sux	S V K	S Y G	dry:F	416
+Macedonian	mkd	dry		suv	s u v	suv	S V W	S Y B	dry:F	416
+Russian	rus	dry		suxɔj	s u x ɔ j	suxoy	S V K V J	S Y G U J	dry:F	416
+Polish	pol	dry		ˈsuxɘ̟	ˈs u x ɘ̟	sux3	S V K V	S Y G E	dry:F	416
+Belarusian	bel	dry		suˈxʲi	s u ˈxʲ i	suxy~i	S V K V	S Y G I	dry:F	416
+Ukrainian	ukr	dry		suˈxɪj	s u ˈx ɪ j	suxiy	S V K V J	S Y G I J	dry:F	416
+Slovak	slk	dry		ˈsuxiː	ˈs u x iː	suxi	S V K V	S Y G I	dry:F	416
+Czech	ces	dry		ˈsuxiː	ˈs u x iː	suxi	S V K V	S Y G I	dry:F	416
+Sorbian_Upper	hsb	dry		ˈsuxi	ˈs u x i	suxi	S V K V	S Y G I	dry:F	416
+Sorbian_Lower	dsb	dry		ˈsuxɘ̟	ˈs u x ɘ̟	sux3	S V K V	S Y G E	dry:F	416
+Slovenian	slv	dry		sûːx	s u x	sx	S V K	S Y G	dry:F	416
+Old_Norse	non	dry		θurː	θ u rː	8ur	T V R	D Y R	dry:D	415
+Icelandic	isl	dry		θʏrː	θ ʏ rː	8ir	T V R	D Y R	dry:D	415
+Faroese	fao	dry		ˈtʰʊɹːʊɹ	ˈtʰ ʊ ɹː ʊ ɹ	th~urur	T V R V R	T Y R Y R	dry:D	415
+Norwegian_Riksmal	nor	dry		tœɾː	t œ ɾː	tEr	T V R	T U R	dry:D	415
+Stavangersk		dry		ˈtœʁːə	ˈt œ ʁː ə	tEG3	T V R V	T U R E	dry:D	415
+Old_Swedish		dry		θøːr	θ øː r	8er	T V R	D U R	dry:D	415
+Swedish	swe	dry		tɔrː	t ɔ rː	tor	T V R	T U R	dry:D	415
+Elfdalian	qov	dry		tʉərː	t ʉə rː	t33r	T V R	T Y R	dry:D	415
+Danish	dan	dry		d̥ʰœˀɐ̯	d̥ʰ œˀɐ̯	"dh~E""a"	T V	T U	dry:D	415
+Danish_Fjolde		dry		tøɹ	t ø ɹ	ter	T V R	T U R	dry:D	415
+Gutnish_Lau		dry		ˈtorːar	ˈt o rː a r	torar	T V R V R	T U R A R	dry:D	415
+English	eng	dry		draɪ	d r aɪ	drai	T R V	T R A	dry:B	414
+Dutch	nld	dry		droχ	d r o χ	droG	T R V K	T R U G	dry:B	414
+German	deu	dry		trɔkn̩	t r ɔ k n̩	trokn	T R V K N	T R U K N	dry:B	414
+Latin	lat	dry		ˈsikːus	ˈs i kː u s	sikus	S V K V S	S I K Y S	dry:G	417
+Catalan	cat	dry		sɛk	s ɛ k	sEk	S V K	S E K	dry:G	417
+Portuguese	por	dry		ˈseku	ˈs e k u	seku	S V K V	S E K Y	dry:G	417
+Spanish	spa	dry		seko	s e k o	seko	S V K V	S E K U	dry:G	417
+French	fra	dry		sɛk	s ɛ k	sEk	S V K	S E K	dry:G	417
+Italian	ita	dry		aʃʃutto	a ʃʃ u tt o	aSSutto	V S V T V	A S Y T U	dry:K	419
+Old_Irish	sga	dry		tʹi:rʹəmʹ	tʹ i: rʹ ə mʹ	tir3m	T V R V M	T I R E M	dry:D	415
+Old_Irish	sga	dry		sʹesk	sʹ e s k	sesk	S V S K	S E S K	dry:G	417
+Greek_Anc	grc	father		patɛ́ːr	p a t ɛ́ː r	patEr	P V T V R	P A T E R	father:A	523
+Greek_Mod	ell	father		paˈte̞ras	p a ˈt e̞ r a s	pateras	P V T V R V S	P A T E R A S	father:A	523
+Ossetic_Iron	oss	father		fyd	f y d	fid	P V T	B Y T	father:A	523
+Ossetic_Digor	oss	father		fidɐ	f i d ɐ	fida	P V T V	B I T E	father:A	523
+Oriya	ori	father		bapa	b a p a	bapa	P V P V	P A P A	father:C	525
+Oriya	ori	father		pita	p i t a	pita	P V T V	P I T A	father:A	523
+Oriya	ori	father		baa	b aa	baa	P V	P A	father:C	525
+Urdu	urd	father		bɑp	b ɑ p	bap	P V P	P A P	father:C	525
+Marathi	mar	father		wəɖi:l	w ə ɖ i: l	w3dil	W V T V R	W E T I L	father:A	523
+Old_Church_Slavonic	chu	father		ɔtɪ̆tsʲɪ̆	ɔ t ɪ̆ t sʲ ɪ̆	otitsy~i	V T V T S V	U T I T S I	father:B	524
+Serbo-Croatian	srp	father		ˈɔ̌tats	ˈɔ̌ t a t s	otats	V T V T S	U T A T S	father:B	524
+Bulgarian	bul	father		bəˈʃta	b ə ˈʃ t a	b3Sta	P V S T V	P E S T A	father:E	527
+Macedonian	mkd	father		ˈtatkɔ	ˈt a t k ɔ	tatko	T V T K V	T A T K U	father:D	526
+Russian	rus	father		ɔtʲɛts	ɔ tʲ ɛ t s	oty~Ets	V T V T S	U T E T S	father:B	524
+Polish	pol	father		ˈɔjtɕɛts	ˈɔ j t ɕ ɛ t s	oytSEts	V J T S V T S	U J T S E T S	father:B	524
+Belarusian	bel	father		ˈbatsʲka	ˈb a t sʲ k a	batsy~ka	P V T S K V	P A T S K A	father:E	527
+Ukrainian	ukr	father		ˈbatʲkɔ	ˈb a tʲ k ɔ	baty~ko	P V T K V	P A T K U	father:E	527
+Slovak	slk	father		ˈɔcɛts	ˈɔ c ɛ t s	oTEts	V K V T S	U C E T S	father:B	524
+Czech	ces	father		ˈɔtɛts	ˈɔ t ɛ t s	otEts	V T V T S	U T E T S	father:B	524
+Slovenian	slv	father		ˈɔ̌ːtʃɛ	ˈɔ̌ː t ʃ ɛ	otSE	V T S V	U T S E	father:B	524
+Old_Norse	non	father		ˈfaðir	ˈf a ð i r	fa8ir	P V T V R	B A D I R	father:A	523
+Icelandic	isl	father		ˈfaːðɪr	ˈf aː ð ɪ r	fa8ir	P V T V R	B A D I R	father:A	523
+Faroese	fao	father		ˈb̥ab̥ːa	ˈb̥ a b̥ː a	baba	P V P V	P A P A	father:K	528
+Faroese	fao	father		ˈfɛaːjɪɹ	ˈf ɛaː j ɪ ɹ	fEayir	P V J V R	B E J I R	father:A	523
+Norwegian_Riksmal	nor	father		faːɾ	f aː ɾ	far	P V R	B A R	father:A	523
+Stavangersk		father		fɑːʁ	f ɑː ʁ	faG	P V R	B A R	father:A	523
+Old_Swedish		father		ˈfaːðir	ˈf aː ð i r	fa8ir	P V T V R	B A D I R	father:A	523
+Swedish	swe	father		ˈfɑ̀:dər	ˈf ɑ̀: d ə r	fad3r	P V T V R	B A T E R	father:A	523
+Elfdalian	qov	father		ˈfɑ̀ðɛr	ˈf ɑ̀ ð ɛ r	fa8Er	P V T V R	B A D E R	father:A	523
+Danish	dan	father		ˈfɛ:ðʌ	ˈf ɛ: ð ʌ	fE8o	P V T V	B E D E	father:A	523
+Danish_Fjolde		father		fɑːɹ	f ɑː ɹ	far	P V R	B A R	father:A	523
+Gutnish_Lau		father		fɑːdar	f ɑː d a r	fadar	P V T V R	B A T A R	father:A	523
+English	eng	father		fɑ:ðə	f ɑ: ð ə	fa83	P V T V	B A D E	father:A	523
+Dutch	nld	father		vadər	v a d ə r	vad3r	W V T V R	B A T E R	father:A	523
+German	deu	father		fa:tɐ	f a: t ɐ	fata	P V T V	B A T E	father:A	523
+Latin	lat	father		ˈpater	ˈp a t e r	pater	P V T V R	P A T E R	father:A	523
+Catalan	cat	father		paɾə	p a ɾ ə	par3	P V R V	P A R E	father:A	523
+Portuguese	por	father		pai	p ai	pai	P V	P A	father:A	523
+Spanish	spa	father		paðɾe	p a ð ɾ e	pa8re	P V T R V	P A D R E	father:A	523
+French	fra	father		pɛʀ	p ɛ ʀ	pEr	P V R	P E R	father:A	523
+Italian	ita	father		padre	p a d r e	padre	P V T R V	P A T R E	father:A	523
+Old_Irish	sga	father		aθərʹ	a θ ə rʹ	a83r	V T V R	A D E R	father:A	523
+Greek_Anc	grc	few		olíɡoi̯	o l í ɡ oi̯	oligoi	V R V K V	U L I K U	few:I	554
+Greek_Anc	grc	few		páù̯ros	p á u r o s	pauros	P V V R V S	P A Y R U S	few:F	552
+Greek_Mod	ell	few		ˈliʝi	ˈl i ʝ i	liSi	R V S V	L I S I	few:I	554
+Ossetic_Iron	oss	few		gyccyl	g y cc y l	giTTil	K V K V R	K Y C Y L	few:D	551
+Ossetic_Digor	oss	few		minkij	m i n k i j	minkiy	M V N K V J	M I N K I J	few:W	559
+Oriya	ori	few		ɔɭpɔ	ɔ ɭ p ɔ	oLpo	V R P V	U L P U	few:P	557
+Urdu	urd	few		ˈt̪ʰoɽə	ˈt̪ʰ o ɽ ə	th~or3	T V R V	T U R E	few:J	555
+Marathi	mar	few		wiɾəɭ	w i ɾ ə ɭ	wir3L	W V R V R	W I R E L	few:Z	560
+Marathi	mar	few		tʰoɖə	tʰ o ɖ ə	th~od3	T V T V	T U T E	few:J	555
+Old_Church_Slavonic	chu	few		mɑlɔ	m ɑ l ɔ	malo	M V R V	M A L U	few:H	553
+Serbo-Croatian	srp	few		ˈmâlɔ	ˈm â l ɔ	malo	M V R V	M A L U	few:H	553
+Bulgarian	bul	few		ˈmaɫku	ˈm a ɫ k u	maLku	M V R K V	M A L K Y	few:H	553
+Macedonian	mkd	few		ˈmalku	ˈm a l k u	malku	M V R K V	M A L K Y	few:H	553
+Russian	rus	few		maɫɔ	m a ɫ ɔ	maLo	M V R V	M A L U	few:H	553
+Polish	pol	few		ˈmawɔ	ˈm a w ɔ	mawo	M V W V	M A W U	few:H	553
+Belarusian	bel	few		ˈmaɫa	ˈm a ɫ a	maLa	M V R V	M A L A	few:H	553
+Ukrainian	ukr	few		ˈmaɫɔ	ˈm a ɫ ɔ	maLo	M V R V	M A L U	few:H	553
+Slovak	slk	few		ˈmaːlɔ	ˈm aː l ɔ	malo	M V R V	M A L U	few:H	553
+Czech	ces	few		ˈmaːlɔ	ˈm aː l ɔ	malo	M V R V	M A L U	few:H	553
+Sorbian_Upper	hsb	few		ˈmawɔ	ˈm a w ɔ	mawo	M V W V	M A W U	few:H	553
+Sorbian_Lower	dsb	few		ˈmawɔ	ˈm a w ɔ	mawo	M V W V	M A W U	few:H	553
+Slovenian	slv	few		ˈmǎːlɔ	ˈm ǎː l ɔ	malo	M V R V	M A L U	few:H	553
+Old_Norse	non	few		faːr	f aː r	far	P V R	B A R	few:F	552
+Icelandic	isl	few		ˈfauːɪr	ˈf auːɪ r	fauir	P V R	B A R	few:F	552
+Faroese	fao	few		ˈfɔaːjɪɹ	ˈf ɔaː j ɪ ɹ	foayir	P V J V R	B U J I R	few:F	552
+Norwegian_Riksmal	nor	few		foː	f oː	fo	P V	B U	few:F	552
+Stavangersk		few		ˈfoːə	ˈf oːə	fo3	P V	B U	few:F	552
+Old_Swedish		few		faːr	f aː r	far	P V R	B A R	few:F	552
+Swedish	swe	few		foː	f oː	fo	P V	B U	few:F	552
+Elfdalian	qov	few		ˈfɔ̀ːɛr	ˈf ɔ̀ːɛ r	foEr	P V R	B U R	few:F	552
+Danish	dan	few		fɔˀ	f ɔˀ	"fo"""	P V	B U	few:F	552
+Danish_Fjolde		few		iɡə_ˈmɑŋə	i ɡ ə ˈm ɑ ŋ ə	ig3maN3	V K V M V N V	I K E M A N E	few:V	558
+English	eng	few		fju:	f j u:	fyu	P J V	B J Y	few:F	552
+Dutch	nld	few		wɛinəχ	w ɛi n ə χ	wEin3G	W V N V K	W E N E G	few:B	550
+German	deu	few		ve:nɪç	v e: n ɪ ç	veniS	W V N V S	B E N I S	few:B	550
+Latin	lat	few		ˈpau̯kiː	ˈp au̯ k iː	pauki	P V K V	P A K I	few:F	552
+Catalan	cat	few		pɔk	p ɔ k	pok	P V K	P U K	few:F	552
+Portuguese	por	few		ˈpoouku	ˈp oou k u	poouku	P V K V	P U K Y	few:F	552
+Spanish	spa	few		poko	p o k o	poko	P V K V	P U K U	few:F	552
+French	fra	few		pø	p ø	pe	P V	P U	few:F	552
+Italian	ita	few		pɔko	p ɔ k o	poko	P V K V	P U K U	few:F	552
+Old_Irish	sga	few		bʹega:n	bʹ e g a: n	began	P V K V N	P E K A N	few:N	556
+Ossetic_Iron	oss	he		wyj	w y j	wiy	W V J	W Y J	he:I	758
+Oriya	ori	he		ta	t a	ta	T V	T A	he:K	760
+Urdu	urd	he		woʰ	w oʰ	woh~	W V	W U	he:G	757
+Marathi	mar	he		to	t o	to	T V	T U	he:K	760
+Old_Church_Slavonic	chu	he		jɪ̆	j ɪ̆	yi	J V	J I	he:J	759
+Old_Church_Slavonic	chu	he		tʊ̆	t ʊ̆	tu	T V	T Y	he:K	760
+Old_Church_Slavonic	chu	he		ɔnʊ̆	ɔ n ʊ̆	onu	V N V	U N Y	he:B	755
+Serbo-Croatian	srp	he		ɔ̂ːn	ɔ̂ː n	on	V N	U N	he:B	755
+Bulgarian	bul	he		tɔj	t ɔ j	toy	T V J	T U J	he:K	760
+Macedonian	mkd	he		toj	t o j	toy	T V J	T U J	he:K	760
+Russian	rus	he		on	o n	on	V N	U N	he:B	755
+Polish	pol	he		ɔn	ɔ n	on	V N	U N	he:B	755
+Belarusian	bel	he		jɔn	j ɔ n	yon	J V N	J U N	he:B	755
+Ukrainian	ukr	he		ʋin	ʋ i n	win	W V N	W I N	he:B	755
+Slovak	slk	he		ˈɔn	ˈɔ n	on	V N	U N	he:B	755
+Czech	ces	he		ɔn	ɔ n	on	V N	U N	he:B	755
+Sorbian_Upper	hsb	he		wʊn	w ʊ n	wun	W V N	W Y N	he:B	755
+Sorbian_Lower	dsb	he		wɘ̟n	w ɘ̟ n	w3n	W V N	W E N	he:B	755
+Slovenian	slv	he		ɔn	ɔ n	on	V N	U N	he:B	755
+Old_Norse	non	he		hanː	h a nː	han	H V N	H A N	he:A	754
+Icelandic	isl	he		hanː	h a nː	han	H V N	H A N	he:A	754
+Faroese	fao	he		hanː	h a nː	han	H V N	H A N	he:A	754
+Norwegian_Riksmal	nor	he		hanː	h a nː	han	H V N	H A N	he:A	754
+Stavangersk		he		hanː	h a nː	han	H V N	H A N	he:A	754
+Old_Swedish		he		hanː	h a nː	han	H V N	H A N	he:A	754
+Swedish	swe	he		hanː	h a nː	han	H V N	H A N	he:A	754
+Elfdalian	qov	he		ɑnː	ɑ nː	an	V N	A N	he:A	754
+Danish	dan	he		han	h a n	han	H V N	H A N	he:A	754
+Danish_Fjolde		he		hɑnʲ	h ɑ nʲ	hany~	H V N	H A N	he:A	754
+Gutnish_Lau		he		han	h a n	han	H V N	H A N	he:A	754
+English	eng	he		hi:	h i:	hi	H V	H I	he:A	754
+Dutch	nld	he		hɛi	h ɛi	hEi	H V	H E	he:A	754
+German	deu	he		e:ɐ̯	e:ɐ̯	ea	V	E	he:J	759
+Latin	lat	he		is	i s	is	V S	I S	he:J	759
+Catalan	cat	he		eʎ	e ʎ	el	V R	E L	he:E	756
+Portuguese	por	he		ˈelɨ	ˈe l ɨ	el3	V R V	E L I	he:E	756
+Spanish	spa	he		el	e l	el	V R	E L	he:E	756
+French	fra	he		il	i l	il	V R	I L	he:E	756
+Italian	ita	he		eʎʎi	e ʎʎ i	elli	V R V	E L I	he:E	756
+Old_Irish	sga	he		e:	e:	e	V	E	he:J	759
+Greek_Anc	grc	heart		kardíaː	k a r d íaː	kardia	K V R T V	K A R T I	heart:J	782
+Greek_Mod	ell	heart		karˈðʝa	k a r ˈð ʝ a	kar8Sa	K V R T S V	K A R D S A	heart:J	782
+Ossetic_Iron	oss	heart		žɐrdɐ	ž ɐ r d ɐ	Sarda	S V R T V	S E R T E	heart:J	782
+Ossetic_Digor	oss	heart		zɐrdɐ	z ɐ r d ɐ	zarda	S V R T V	S E R T E	heart:J	782
+Oriya	ori	heart		hrudɔyɔ	h r u d ɔyɔ	hrudoio	H R V T V	H R Y T U	heart:J	782
+Bihari	mai	heart		hridəə	h r i d əə	hrid33	H R V T V	H R I T E	heart:J	782
+Urdu	urd	heart		d̪ɪl	d̪ ɪ l	dil	T V R	T I L	heart:C	780
+Marathi	mar	heart		ɦɽdaj	ɦ ɽ d a j	hrday	H R T V J	H R T A J	heart:J	782
+Old_Church_Slavonic	chu	heart		sr̩ʲdɪ̆tsʲɛ	s r̩ʲ d ɪ̆ t sʲ ɛ	sry~ditsy~E	S R T V T S V	S R T I T S E	heart:J	782
+Serbo-Croatian	srp	heart		ˈsr̩̂tsɛ	ˈs r̩̂ t s ɛ	srtsE	S R T S V	S R T S E	heart:J	782
+Bulgarian	bul	heart		sərˈtsɛ	s ə r ˈt s ɛ	s3rtsE	S V R T S V	S E R T S E	heart:J	782
+Macedonian	mkd	heart		ˈsərtsɛ	ˈs ə r t s ɛ	s3rtsE	S V R T S V	S E R T S E	heart:J	782
+Russian	rus	heart		sʲɛrdtsɛ	sʲ ɛ r d t s ɛ	sy~ErdtsE	S V R T T S V	S E R T T S E	heart:J	782
+Polish	pol	heart		ˈsɛrtsɛ	ˈs ɛ r t s ɛ	sErtsE	S V R T S V	S E R T S E	heart:J	782
+Belarusian	bel	heart		ˈsɛrtsa	ˈs ɛ r t s a	sErtsa	S V R T S V	S E R T S A	heart:J	782
+Ukrainian	ukr	heart		ˈsɛrtsɛ	ˈs ɛ r t s ɛ	sErtsE	S V R T S V	S E R T S E	heart:J	782
+Slovak	slk	heart		ˈsr̩tsɛ	ˈs r̩ t s ɛ	srtsE	S R T S V	S R T S E	heart:J	782
+Czech	ces	heart		ˈsr̩tsɛ	ˈs r̩ t s ɛ	srtsE	S R T S V	S R T S E	heart:J	782
+Sorbian_Upper	hsb	heart		ˈwutʀɔba	ˈw u t ʀ ɔ b a	wutroba	W V T R V P V	W Y T R U P A	heart:F	781
+Sorbian_Lower	dsb	heart		ˈhutʂɔba	ˈh u t ʂ ɔ b a	hutSoba	H V T S V P V	H Y T S U P A	heart:F	781
+Slovenian	slv	heart		sərˈtsêː	s ə r ˈt s êː	s3rtse	S V R T S V	S E R T S E	heart:J	782
+Old_Norse	non	heart		ˈɣjarta	ˈɣ j a r t a	xyarta	K J V R T V	G J A R T A	heart:J	782
+Icelandic	isl	heart		ˈçar̥ta	ˈç a r̥ t a	Sarta	S V R T V	S A R T A	heart:J	782
+Faroese	fao	heart		ˈjaɻ̊ʈa	ˈj a ɻ̊ ʈ a	yaLta	J V R T V	J A R T A	heart:J	782
+Norwegian_Riksmal	nor	heart		ˈjæ̀ʈːə	ˈj æ̀ ʈː ə	yEt3	J V T V	J E T E	heart:J	782
+Stavangersk		heart		ˈjæ̀ʁta	ˈj æ̀ ʁ t a	yEGta	J V R T V	J E R T A	heart:J	782
+Old_Swedish		heart		ˈhjæːrta	ˈh j æː r t a	hyErta	H J V R T V	H J E R T A	heart:J	782
+Swedish	swe	heart		ˈjæ̀ʈːa	ˈj æ̀ ʈː a	yEta	J V T V	J E T A	heart:J	782
+Elfdalian	qov	heart		ˈjæ̀rtɑ	ˈj æ̀ r t ɑ	yErta	J V R T V	J E R T A	heart:J	782
+Danish	dan	heart		ˈjɛɐ̯d̥ʰə	ˈj ɛɐ̯ d̥ʰ ə	yEadh~3	J V T V	J E T E	heart:J	782
+Danish_Fjolde		heart		jɑːɹd	j ɑː ɹ d	yard	J V R T	J A R T	heart:J	782
+Gutnish_Lau		heart		ˈjæːrtɛ	ˈj æː r t ɛ	yErtE	J V R T V	J E R T E	heart:J	782
+English	eng	heart		hɑ:t	h ɑ: t	hat	H V T	H A T	heart:J	782
+Dutch	nld	heart		hɑrt	h ɑ r t	hart	H V R T	H A R T	heart:J	782
+German	deu	heart		hɛrt͜s	h ɛ r t͜s	hErts	H V R K	H E R C	heart:J	782
+Latin	lat	heart		kor	k o r	kor	K V R	K U R	heart:J	782
+Catalan	cat	heart		kɔɾ	k ɔ ɾ	kor	K V R	K U R	heart:J	782
+Portuguese	por	heart		kuɾɐˈsɐ̃w	k u ɾ ɐ ˈs ɐ̃ w	kurasaw	K V R V S V W	K Y R E S E W	heart:J	782
+Spanish	spa	heart		koɾaθon	k o ɾ a θ o n	kora8on	K V R V T V N	K U R A D U N	heart:J	782
+French	fra	heart		kœʀ	k œ ʀ	kEr	K V R	K U R	heart:J	782
+Italian	ita	heart		kwɔre	k w ɔ r e	kwore	K W V R V	K W U R E	heart:J	782
+Old_Irish	sga	heart		kʹrʹiðe	kʹ rʹ i ð e	kri8e	K R V T V	K R I D E	heart:J	782
+Greek_Anc	grc	hunt		tʰɛːréu̯ɔː	tʰ ɛː r é u̯ɔː	th~Ereuo	T V R V V	T E R E Y	hunt:Ab	835
+Greek_Mod	ell	hunt		ˌciniˈɣo̞	ˌc i n i ˈɣ o̞	Tinixo	K V N V K V	C I N I G U	hunt:J	842
+Ossetic_Iron	oss	hunt		suwan_kɐn	s u w a n k ɐ n	suwankan	S V W V N K V N	S Y W A N K E N	hunt:P	846
+Ossetic_Digor	oss	hunt		cawɐn_kɐn	c a w ɐ n k ɐ n	Tawankan	K V W V N K V N	C A W E N K E N	hunt:P	846
+Oriya	ori	hunt		sikarɔ_kɔriba	s i k a r ɔ k ɔ r i b a	sikarokoriba	S V K V R V K V R V P V	S I K A R U K U R I P A	hunt:A	834
+Bihari	mai	hunt		khiharə	k h i h a r ə	khihar3	K H V H V R V	K H I H A R E	hunt:Y	848
+Bihari	mai	hunt		sikar_kheləb	s i k a r k h e l ə b	sikarkhel3b	S V K V R K H V R V P	S I K A R K H E L E P	hunt:A	834
+Urdu	urd	hunt		ʃɪkɑɾ_kəɾnə	ʃ ɪ k ɑ ɾ k ə ɾ n ə	Sikark3rn3	S V K V R K V R N V	S I K A R K E R N E	hunt:A	834
+Marathi	mar	hunt		ʃikaɾ_kaɾɳe	ʃ i k a ɾ k a ɾ ɳ e	Sikarkarne	S V K V R K V R N V	S I K A R K A R N E	hunt:A	834
+Old_Church_Slavonic	chu	hunt		lɔviti	l ɔ v i t i	loviti	R V W V T V	L U B I T I	hunt:F	838
+Serbo-Croatian	srp	hunt		ˈlɔ̌viti	ˈl ɔ̌ v i t i	loviti	R V W V T V	L U B I T I	hunt:F	838
+Bulgarian	bul	hunt		ɫuˈvuvəm	ɫ u ˈv u v ə m	Luvuv3m	R V W V W V M	L Y B Y B E M	hunt:F	838
+Macedonian	mkd	hunt		ˈlovi	ˈl o v i	lovi	R V W V	L U B I	hunt:F	838
+Russian	rus	hunt		axɔtʲitʲsʲa	a x ɔ tʲ i tʲ sʲ a	axoty~ity~sy~a	V K V T V T S V	A G U T I T S A	hunt:M	844
+Polish	pol	hunt		pɔˈlɔvatɕ	p ɔ ˈl ɔ v a t ɕ	polovatS	P V R V W V T S	P U L U B A T S	hunt:X	847
+Belarusian	bel	hunt		palʲaˈvatsʲ	p a lʲ a ˈv a t sʲ	paly~avatsy~	P V R V W V T S	P A L A B A T S	hunt:X	847
+Ukrainian	ukr	hunt		pɔlʲuˈvatɪ	p ɔ lʲ u ˈv a t ɪ	poly~uvati	P V R V W V T V	P U L Y B A T I	hunt:X	847
+Slovak	slk	hunt		ˈpɔlʲɔvac	ˈp ɔ lʲ ɔ v a c	poly~ovaT	P V R V W V K	P U L U B A C	hunt:X	847
+Czech	ces	hunt		ˈlɔvɪt	ˈl ɔ v ɪ t	lovit	R V W V T	L U B I T	hunt:F	838
+Sorbian_Upper	hsb	hunt		ˈhɔnʲitʃ	ˈh ɔ nʲ i t ʃ	hony~itS	H V N V T S	H U N I T S	hunt:G	839
+Sorbian_Lower	dsb	hunt		ˈɡɘ̟ɲtwowaɕ	ˈɡ ɘ̟ ɲ t w o w a ɕ	g35twowaS	K V N T W V W V S	K E N T W U W A S	hunt:G	839
+Slovenian	slv	hunt		lɔˈvǐːti	l ɔ ˈv ǐː t i	loviti	R V W V T V	L U B I T I	hunt:F	838
+Old_Norse	non	hunt		ˈjaɡa	ˈj a ɡ a	yaga	J V K V	J A K A	hunt:B	836
+Old_Norse	non	hunt		ˈvɛiða	ˈv ɛi ð a	vEi8a	W V T V	B E D A	hunt:I	841
+Icelandic	isl	hunt		ˈveiːða	ˈv eiː ð a	vei8a	W V T V	B E D A	hunt:I	841
+Faroese	fao	hunt		ˈvaiːja	ˈv aiː j a	vaiya	W V J V	B A J A	hunt:I	841
+Faroese	fao	hunt		ˈjɛaːɡa	ˈj ɛaː ɡ a	yEaga	J V K V	J E K A	hunt:B	836
+Norwegian_Riksmal	nor	hunt		ˈjàːɡə	ˈj àː ɡ ə	yag3	J V K V	J A K E	hunt:B	836
+Norwegian_Riksmal	nor	hunt		ˈʋɑɪ̀də	ˈʋ ɑɪ̀ d ə	waid3	W V T V	W A T E	hunt:I	841
+Stavangersk		hunt		ˈjɑ̀ːɡa	ˈj ɑ̀ː ɡ a	yaga	J V K V	J A K A	hunt:B	836
+Old_Swedish		hunt		ˈveːða	ˈv eː ð a	ve8a	W V T V	B E D A	hunt:I	841
+Old_Swedish		hunt		ˈjæːɣa	ˈj æː ɣ a	yExa	J V K V	J E G A	hunt:B	836
+Swedish	swe	hunt		ˈjɑ̀ːɡa	ˈj ɑ̀ː ɡ a	yaga	J V K V	J A K A	hunt:B	836
+Elfdalian	qov	hunt		ˈjɑ̀ːgɑ	ˈj ɑ̀ː g ɑ	yaga	J V K V	J A K A	hunt:B	836
+Danish	dan	hunt		ˈjæ:jə	ˈj æ: j ə	yEy3	J V J V	J E J E	hunt:B	836
+Danish_Fjolde		hunt		jɑːw	j ɑː w	yaw	J V W	J A W	hunt:B	836
+Gutnish_Lau		hunt		ˈjɑːɡɛ	ˈj ɑː ɡ ɛ	yagE	J V K V	J A K E	hunt:B	836
+English	eng	hunt		hʊnt	h ʊ n t	hunt	H V N T	H Y N T	hunt:H	840
+Dutch	nld	hunt		jaɣən	j a ɣ ə n	yax3n	J V K V N	J A G E N	hunt:B	836
+German	deu	hunt		ja:gn̩	j a: g n̩	yagn	J V K N	J A K N	hunt:B	836
+Latin	lat	hunt		weːˈnaːri	w eː ˈn aː r i	wenari	W V N V R V	W E N A R I	hunt:N	845
+Catalan	cat	hunt		kəsa	k ə s a	k3sa	K V S V	K E S A	hunt:E	837
+Portuguese	por	hunt		kɐˈsaɾ	k ɐ ˈs a ɾ	kasar	K V S V R	K E S A R	hunt:E	837
+Spanish	spa	hunt		kaθaɾ	k a θ a ɾ	ka8ar	K V T V R	K A D A R	hunt:E	837
+French	fra	hunt		ʃase	ʃ a s e	Sase	S V S V	S A S E	hunt:E	837
+Italian	ita	hunt		kattʃare	k a tt ʃ a r e	kattSare	K V T S V R V	K A T S A R E	hunt:E	837
+Old_Irish	sga	hunt		sʹelg	sʹ e l g	selg	S V R K	S E L K	hunt:K	843
+Greek_Anc	grc	if		eː	eː	e	V	E	if:Q	893
+Greek_Mod	ell	if		i	i	i	V	I	if:Q	893
+Greek_Mod	ell	if		an	a n	an	V N	A N	if:M	891
+Ossetic_Iron	oss	if		kɐd	k ɐ d	kad	K V T	K E T	if:A	879
+Ossetic_Digor	oss	if		kɐd	k ɐ d	kad	K V T	K E T	if:A	879
+Oriya	ori	if		jɔdi	j ɔ d i	yodi	J V T V	J U T I	if:P	892
+Urdu	urd	if		ʔəɡəɾ	ʔ ə ɡ ə ɾ	73g3r	H V K V R	H E K E R	if:E	884
+Marathi	mar	if		dzəɾ	d z ə ɾ	dz3r	T S V R	T S E R	if:P	892
+Old_Church_Slavonic	chu	if		ɑʃtɛ	ɑ ʃ t ɛ	aStE	V S T V	A S T E	if:Ai	882
+Serbo-Croatian	srp	if		ˈâkɔ	ˈâ k ɔ	ako	V K V	A K U	if:R	894
+Bulgarian	bul	if		əˈkɔ	ə ˈk ɔ	3ko	V K V	E K U	if:R	894
+Macedonian	mkd	if		ˈakɔ	ˈa k ɔ	ako	V K V	A K U	if:R	894
+Russian	rus	if		jɛsʲlʲi	j ɛ sʲ lʲ i	yEsy~ly~i	J V S R V	J E S L I	if:I	888
+Polish	pol	if		jɛˈʐɛli	j ɛ ˈʐ ɛ l i	yEZEli	J V S V R V	J E S E L I	if:I	888
+Belarusian	bel	if		kaˈlʲi	k a ˈlʲ i	kaly~i	K V R V	K A L I	if:T	895
+Ukrainian	ukr	if		jakˈʂtʂɔ	j a k ˈʂ t ʂ ɔ	yakStSo	J V K S T S V	J A K S T S U	if:R	894
+Slovak	slk	if		ˈkɛbi	ˈk ɛ b i	kEbi	K V P V	K E P I	if:F	885
+Slovak	slk	if		ak	a k	ak	V K	A K	if:R	894
+Czech	ces	if		ˈjɛstlɪ	ˈj ɛ s t l ɪ	yEstli	J V S T R V	J E S T L I	if:I	888
+Sorbian_Upper	hsb	if		dɘ̟ʃ	d ɘ̟ ʃ	d3S	T V S	T E S	if:U	896
+Sorbian_Lower	dsb	if		ɡaʂ	ɡ a ʂ	gaS	K V S	K A S	if:U	896
+Slovenian	slv	if		ˈakɔ	ˈa k ɔ	ako	V K V	A K U	if:R	894
+Old_Norse	non	if		ef	e f	ef	V P	E B	if:R	894
+Icelandic	isl	if		ɛf	ɛ f	Ef	V P	E B	if:R	894
+Faroese	fao	if		ʊmː	ʊ mː	um	V M	Y M	if:K	890
+Norwegian_Riksmal	nor	if		ʋiːs	ʋ iː s	wis	W V S	W I S	if:J	889
+Stavangersk		if		ʋɪsː	ʋ ɪ sː	wis	W V S	W I S	if:J	889
+Old_Swedish		if		umː	u mː	um	V M	Y M	if:K	890
+Swedish	swe	if		soˈvìːda	s o ˈv ìː d a	sovida	S V W V T V	S U B I T A	if:Af	881
+Swedish	swe	if		ɔmː	ɔ mː	om	V M	U M	if:K	890
+Swedish	swe	if		iˈfalː	i ˈf a lː	ifal	V P V R	I B A L	if:V	897
+Elfdalian	qov	if		ʉm	ʉ m	3m	V M	Y M	if:K	890
+Danish	dan	if		ves	v e s	ves	W V S	B E S	if:J	889
+Danish_Fjolde		if		væn	v æ n	vEn	W V N	B E N	if:U	896
+Gutnish_Lau		if		umː	u mː	um	V M	Y M	if:K	890
+English	eng	if		ɪf	ɪ f	if	V P	I B	if:R	894
+Dutch	nld	if		ɑls	ɑ l s	als	V R S	A L S	if:Ae	880
+Dutch	nld	if		ɪndin	ɪ n d i n	indin	V N T V N	I N T I N	if:B	883
+German	deu	if		vɛn	v ɛ n	vEn	W V N	B E N	if:U	896
+Latin	lat	if		siː	s iː	si	S V	S I	if:G	886
+Catalan	cat	if		si	s i	si	S V	S I	if:G	886
+Portuguese	por	if		sɨ	s ɨ	s3	S V	S I	if:G	886
+Spanish	spa	if		si	s i	si	S V	S I	if:G	886
+French	fra	if		si	s i	si	S V	S I	if:G	886
+Italian	ita	if		se	s e	se	S V	S E	if:G	886
+Old_Irish	sga	if		ma:	m a:	ma	M V	M A	if:H	887
+Greek_Anc	grc	laugh		geláɔː	g e l áɔː	gelao	K V R V	K E L A	laugh:D	951
+Greek_Mod	ell	laugh		ʝe̞ˈlo̞	ʝ e̞ ˈl o̞	Selo	S V R V	S E L U	laugh:D	951
+Ossetic_Iron	oss	laugh		χud	χ u d	Gud	K V T	G Y T	laugh:M	956
+Ossetic_Digor	oss	laugh		χod	χ o d	God	K V T	G U T	laugh:M	956
+Oriya	ori	laugh		hɔs	h ɔ s	hos	H V S	H U S	laugh:E	952
+Bihari	mai	laugh		hə̃səb	h ə̃ s ə b	h3s3b	H V S V P	H E S E P	laugh:E	952
+Urdu	urd	laugh		hə̃snə	h ə̃ s n ə	h3sn3	H V S N V	H E S N E	laugh:E	952
+Marathi	mar	laugh		ɦəsɳe	ɦ ə s ɳ e	h3sne	H V S N V	H E S N E	laugh:E	952
+Old_Church_Slavonic	chu	laugh		smijati_sɛ̃	s m i j a t i s ɛ̃	smiyatisE	S M V J V T V S V	S M I J A T I S E	laugh:H	954
+Serbo-Croatian	srp	laugh		ˈsmǐjati_sɛ	ˈs m ǐ j a t i s ɛ	smiyatisE	S M V J V T V S V	S M I J A T I S E	laugh:H	954
+Bulgarian	bul	laugh		ˈsmɛjə_sɛ	ˈs m ɛ j ə s ɛ	smEy3sE	S M V J V S V	S M E J E S E	laugh:H	954
+Macedonian	mkd	laugh		ˈsmeɛ_sɛ	ˈs m e ɛ s ɛ	smeEsE	S M V V S V	S M E E S E	laugh:H	954
+Russian	rus	laugh		smʲɛjatʲsʲa	s mʲ ɛ j a tʲ sʲ a	smy~Eyaty~sy~a	S M V J V T S V	S M E J A T S A	laugh:H	954
+Polish	pol	laugh		ɕmjatɕ_ɕɛɰ̃	ɕ m j a t ɕ ɕ ɛ ɰ̃	SmyatSSEw	S M J V T S S V J	S M J A T S S E J	laugh:H	954
+Belarusian	bel	laugh		sʲmʲaˈjatstsa	sʲ mʲ a ˈj a t s t s a	sy~my~ayatstsa	S M V J V T S T S V	S M A J A T S T S A	laugh:H	954
+Ukrainian	ukr	laugh		smiˈjatɪsʲa	s m i ˈj a t ɪ sʲ a	smiyatisy~a	S M V J V T V S V	S M I J A T I S A	laugh:H	954
+Slovak	slk	laugh		smiac_sa	s m ia c s a	smiaTsa	S M V K S V	S M I C S A	laugh:H	954
+Czech	ces	laugh		smaːt_sɛ	s m aː t s ɛ	smatsE	S M V T S V	S M A T S E	laugh:H	954
+Sorbian_Upper	hsb	laugh		ˈsmĕɛtʃ_sɔ	ˈs m ĕɛ t ʃ s ɔ	smEtSso	S M V T S S V	S M E T S S U	laugh:H	954
+Sorbian_Lower	dsb	laugh		ˈsmjaɕ_sɛ	ˈs m j a ɕ s ɛ	smyaSsE	S M J V S S V	S M J A S S E	laugh:H	954
+Slovenian	slv	laugh		smɛˈjǎːti_sɛ	s m ɛ ˈj ǎː t i s ɛ	smEyatisE	S M V J V T V S V	S M E J A T I S E	laugh:H	954
+Old_Norse	non	laugh		ˈɣlɛja	ˈɣ l ɛ j a	xlEya	K R V J V	G L E J A	laugh:B	950
+Icelandic	isl	laugh		ˈl̥aiːja	ˈl̥ aiː j a	laiya	R V J V	L A J A	laugh:B	950
+Faroese	fao	laugh		ˈle̜ːa	ˈl e̜ːa	lea	R V	L E	laugh:B	950
+Faroese	fao	laugh		ˈflɛnːa	ˈf l ɛ nː a	flEna	P R V N V	B L E N A	laugh:O	958
+Faroese	fao	laugh		ˈɡ̊ɹʊiːna	ˈɡ̊ ɹ ʊiː n a	gruina	K R V N V	K R Y N A	laugh:N	957
+Norwegian_Riksmal	nor	laugh		leː	l eː	le	R V	L E	laugh:B	950
+Stavangersk		laugh		ˈlɛɪ̀a	ˈl ɛɪ̀a	lEia	R V	L E	laugh:B	950
+Old_Swedish		laugh		ˈlejːa	ˈl e jː a	leya	R V J V	L E J A	laugh:B	950
+Swedish	swe	laugh		ˈskràtːa	ˈs k r à tː a	skrata	S K R V T V	S K R A T A	laugh:K	955
+Elfdalian	qov	laugh		ˈlæ̀ːɑ	ˈl æ̀ːɑ	lEa	R V	L E	laugh:B	950
+Elfdalian	qov	laugh		ˈgrɛ̃̀ːsɑs	ˈg r ɛ̃̀ː s ɑ s	grEsas	K R V S V S	K R E S A S	laugh:P	959
+Danish	dan	laugh		leˀ	l eˀ	"le"""	R V	L E	laugh:B	950
+Danish_Fjolde		laugh		lie	l ie	lie	R V	L I	laugh:B	950
+Gutnish_Lau		laugh		ˈɡrɛɪnɛ	ˈɡ r ɛɪ n ɛ	grEinE	K R V N V	K R E N E	laugh:N	957
+Gutnish_Lau		laugh		leː	l eː	le	R V	L E	laugh:B	950
+English	eng	laugh		lɑ:f	l ɑ: f	laf	R V P	L A B	laugh:B	950
+Dutch	nld	laugh		lɑχən	l ɑ χ ə n	laG3n	R V K V N	L A G E N	laugh:B	950
+German	deu	laugh		laxn̩	l a x n̩	laxn	R V K N	L A G N	laugh:B	950
+Latin	lat	laugh		riːˈdeːre	r iː ˈd eː r e	ridere	R V T V R V	R I T E R E	laugh:F	953
+Catalan	cat	laugh		riuwɾə	r iu w ɾ ə	riuwr3	R V W R V	R I W R E	laugh:F	953
+Portuguese	por	laugh		ɾiɾ	ɾ i ɾ	rir	R V R	R I R	laugh:F	953
+Spanish	spa	laugh		reiɾ	r ei ɾ	reir	R V R	R E R	laugh:F	953
+French	fra	laugh		ʀiʀ	ʀ i ʀ	rir	R V R	R I R	laugh:F	953
+Italian	ita	laugh		ridere	r i d e r e	ridere	R V T V R V	R I T E R E	laugh:F	953
+Greek_Anc	grc	leaf		pʰýlːon	pʰ y lː o n	ph~lon	P V R V N	P Y L U N	leaf:B	961
+Greek_Mod	ell	leaf		ˈfilo̞	ˈf i l o̞	filo	P V R V	B I L U	leaf:B	961
+Ossetic_Iron	oss	leaf		šyf	š y f	Sif	S V P	S Y B	leaf:M	966
+Ossetic_Digor	oss	leaf		šifɐ	š i f ɐ	Sifa	S V P V	S I B E	leaf:M	966
+Oriya	ori	leaf		pɔtɔrɔ	p ɔ t ɔ r ɔ	potoro	P V T V R V	P U T U R U	leaf:E	962
+Bihari	mai	leaf		pat	p a t	pat	P V T	P A T	leaf:E	962
+Urdu	urd	leaf		pətːɑ	p ə tː ɑ	p3ta	P V T V	P E T A	leaf:E	962
+Marathi	mar	leaf		pan	p a n	pan	P V N	P A N	leaf:A	960
+Old_Church_Slavonic	chu	leaf		listʊ̆	l i s t ʊ̆	listu	R V S T V	L I S T Y	leaf:H	964
+Serbo-Croatian	srp	leaf		lîːst	l îː s t	list	R V S T	L I S T	leaf:H	964
+Bulgarian	bul	leaf		list	l i s t	list	R V S T	L I S T	leaf:H	964
+Macedonian	mkd	leaf		list	l i s t	list	R V S T	L I S T	leaf:H	964
+Russian	rus	leaf		lʲist	lʲ i s t	ly~ist	R V S T	L I S T	leaf:H	964
+Polish	pol	leaf		liɕtɕ	l i ɕ t ɕ	liStS	R V S T S	L I S T S	leaf:H	964
+Belarusian	bel	leaf		lʲist	lʲ i s t	ly~ist	R V S T	L I S T	leaf:H	964
+Ukrainian	ukr	leaf		ɫɪst	ɫ ɪ s t	List	R V S T	L I S T	leaf:H	964
+Slovak	slk	leaf		list	l i s t	list	R V S T	L I S T	leaf:H	964
+Czech	ces	leaf		lɪst	l ɪ s t	list	R V S T	L I S T	leaf:H	964
+Sorbian_Upper	hsb	leaf		ˈwɔpĕɛnɔ	ˈw ɔ p ĕɛ n ɔ	wopEno	W V P V N V	W U P E N U	leaf:I	965
+Sorbian_Lower	dsb	leaf		ˈwɔpĕɛnɔ	ˈw ɔ p ĕɛ n ɔ	wopEno	W V P V N V	W U P E N U	leaf:I	965
+Slovenian	slv	leaf		lîːst	l îː s t	list	R V S T	L I S T	leaf:H	964
+Old_Norse	non	leaf		blað	b l a ð	bla8	P R V T	P L A D	leaf:B	961
+Old_Norse	non	leaf		lauf	l au f	lauf	R V P	L A B	leaf:I	965
+Icelandic	isl	leaf		b̥laːð	b̥ l aː ð	bla8	P R V T	P L A D	leaf:B	961
+Icelandic	isl	leaf		løɪːf	l øɪː f	leif	R V P	L U B	leaf:I	965
+Faroese	fao	leaf		b̥lɛaː	b̥ l ɛaː	blEa	P R V	P L E	leaf:B	961
+Faroese	fao	leaf		lɛiːf	l ɛiː f	lEif	R V P	L E B	leaf:I	965
+Norwegian_Riksmal	nor	leaf		blaːd	b l aː d	blad	P R V T	P L A T	leaf:B	961
+Norwegian_Riksmal	nor	leaf		løːʋ	l øː ʋ	lew	R V W	L U W	leaf:I	965
+Stavangersk		leaf		blɑː	b l ɑː	bla	P R V	P L A	leaf:B	961
+Stavangersk		leaf		ləʉ	l əʉ	l33	R V	L E	leaf:I	965
+Old_Swedish		leaf		løːf	l øː f	lef	R V P	L U B	leaf:I	965
+Old_Swedish		leaf		blaːð	b l aː ð	bla8	P R V T	P L A D	leaf:B	961
+Swedish	swe	leaf		blɑ:d	b l ɑ: d	blad	P R V T	P L A T	leaf:B	961
+Swedish	swe	leaf		lø:v	l ø: v	lev	R V W	L U B	leaf:I	965
+Elfdalian	qov	leaf		luːv	l uː v	luv	R V W	L Y B	leaf:I	965
+Elfdalian	qov	leaf		blɑːð	b l ɑː ð	bla8	P R V T	P L A D	leaf:B	961
+Danish	dan	leaf		løˀw	l øˀ w	"le""w"	R V W	L U W	leaf:I	965
+Danish	dan	leaf		b̥lað	b̥ l a ð	bla8	P R V T	P L A D	leaf:B	961
+Danish_Fjolde		leaf		blɑ	b l ɑ	bla	P R V	P L A	leaf:B	961
+Gutnish_Lau		leaf		blɑːd	b l ɑː d	blad	P R V T	P L A T	leaf:B	961
+Gutnish_Lau		leaf		lauɡ	l au ɡ	laug	R V K	L A K	leaf:I	965
+English	eng	leaf		li:f	l i: f	lif	R V P	L I B	leaf:I	965
+Dutch	nld	leaf		blɑt	b l ɑ t	blat	P R V T	P L A T	leaf:B	961
+German	deu	leaf		blat	b l a t	blat	P R V T	P L A T	leaf:B	961
+Latin	lat	leaf		ˈfolium	ˈf o l iu m	folium	P V R V M	B U L I M	leaf:B	961
+Catalan	cat	leaf		fuʎa	f u ʎ a	fula	P V R V	B Y L A	leaf:B	961
+Portuguese	por	leaf		ˈfoʎɐ	ˈf o ʎ ɐ	fola	P V R V	B U L E	leaf:B	961
+Spanish	spa	leaf		oxa	o x a	oxa	V K V	U G A	leaf:B	961
+French	fra	leaf		fœj	f œ j	fEy	P V J	B U J	leaf:B	961
+Italian	ita	leaf		fɔʎʎo	f ɔ ʎʎ o	follo	P V R V	B U L U	leaf:B	961
+Old_Irish	sga	leaf		dulʹlʹe	d u lʹlʹ e	dulle	T V R V	T Y L E	leaf:G	963
+Old_Irish	sga	leaf		bʹilʹe:og	bʹ i lʹ e:o g	bileog	P V R V K	P I L E K	leaf:P	967
+Greek_Anc	grc	moon		selɛ́ːnɛː	s e l ɛ́ː n ɛː	selEnE	S V R V N V	S E L E N E	moon:S	1083
+Greek_Anc	grc	moon		mɛ́ːnɛː	m ɛ́ː n ɛː	mEnE	M V N V	M E N E	moon:A	1075
+Greek_Mod	ell	moon		feŋˈgari	f e ŋ ˈg a r i	feNgari	P V N K V R V	B E N K A R I	moon:R	1082
+Oriya	ori	moon		candrɔ	c a n d r ɔ	Tandro	K V N T R V	C A N T R U	moon:E	1077
+Oriya	ori	moon		jɔnhɔ	j ɔ n h ɔ	yonho	J V N H V	J U N H U	moon:M	1081
+Bihari	mai	moon		chəndrma	c h ə n d r m a	Th3ndrma	K H V N T R M V	C H E N T R M A	moon:E	1077
+Urdu	urd	moon		ʧɑnd̪	ʧ ɑ n d̪	Cand	K V N T	C A N T	moon:E	1077
+Old_Church_Slavonic	chu	moon		mæsɛ̃tsʲɪ̆	m æ s ɛ̃ t sʲ ɪ̆	mEsEtsy~i	M V S V T S V	M E S E T S I	moon:A	1075
+Serbo-Croatian	srp	moon		ˈmjɛ̂sɛːts	ˈm j ɛ̂ s ɛː t s	myEsEts	M J V S V T S	M J E S E T S	moon:A	1075
+Bulgarian	bul	moon		ɫuˈna	ɫ u ˈn a	Luna	R V N V	L Y N A	moon:C	1076
+Macedonian	mkd	moon		mɛˈsetʃina	m ɛ ˈs e t ʃ i n a	mEsetSina	M V S V T S V N V	M E S E T S I N A	moon:A	1075
+Russian	rus	moon		ɫuna	ɫ u n a	Luna	R V N V	L Y N A	moon:C	1076
+Polish	pol	moon		ˈkɕɛɰ̃ʐɘ̟ts	ˈk ɕ ɛ ɰ̃ ʐ ɘ̟ t s	kSEwZ3ts	K S V J S V T S	K S E J S E T S	moon:H	1080
+Belarusian	bel	moon		ˈmʲɛsʲats	ˈmʲ ɛ sʲ a t s	my~Esy~ats	M V S V T S	M E S A T S	moon:A	1075
+Ukrainian	ukr	moon		ˈmisʲatsʲ	ˈm i sʲ a t sʲ	misy~atsy~	M V S V T S	M I S A T S	moon:A	1075
+Slovak	slk	moon		ˈmɛsiats	ˈm ɛ s ia t s	mEsiats	M V S V T S	M E S I T S	moon:A	1075
+Czech	ces	moon		ˈmɲɛsiːts	ˈm ɲ ɛ s iː t s	m5Esits	M N V S V T S	M N E S I T S	moon:A	1075
+Sorbian_Upper	hsb	moon		ˈmɪsatʃk	ˈm ɪ s a t ʃ k	misatSk	M V S V T S K	M I S A T S K	moon:A	1075
+Sorbian_Lower	dsb	moon		ˈmjasɛts	ˈm j a s ɛ t s	myasEts	M J V S V T S	M J A S E T S	moon:A	1075
+Slovenian	slv	moon		ˈmêːsɛts	ˈm êː s ɛ t s	mesEts	M V S V T S	M E S E T S	moon:A	1075
+Slovenian	slv	moon		ˈlǔːna	ˈl uː n a	lna	R V N V	L Y N A	moon:C	1076
+Old_Norse	non	moon		ˈmaːni	ˈm aː n i	mani	M V N V	M A N I	moon:A	1075
+Old_Norse	non	moon		tunɣl	t u n ɣ l	tunxl	T V N K R	T Y N G L	moon:G	1079
+Icelandic	isl	moon		ˈmaunɪ	ˈm au n ɪ	mauni	M V N V	M A N I	moon:A	1075
+Icelandic	isl	moon		tʰuŋl	tʰ u ŋ l	th~uNl	T V N R	T Y N L	moon:G	1079
+Faroese	fao	moon		ˈmɔanɪ	ˈm ɔa n ɪ	moani	M V N V	M U N I	moon:A	1075
+Faroese	fao	moon		tʰʊŋɡ̊l	tʰ ʊ ŋ ɡ̊ l	th~uNgl	T V N K R	T Y N K L	moon:G	1079
+Norwegian_Riksmal	nor	moon		ˈmòːnə	ˈm òː n ə	mon3	M V N V	M U N E	moon:A	1075
+Stavangersk		moon		ˈmòːnə	ˈm òː n ə	mon3	M V N V	M U N E	moon:A	1075
+Old_Swedish		moon		ˈtuŋːel	ˈt u ŋː e l	tuNel	T V N V R	T Y N E L	moon:G	1079
+Old_Swedish		moon		ˈmaːne	ˈm aː n e	mane	M V N V	M A N E	moon:A	1075
+Swedish	swe	moon		ˈmòːnə	ˈm òː n ə	mon3	M V N V	M U N E	moon:A	1075
+Elfdalian	qov	moon		tʉ́ŋgɛl	t ʉ́ ŋ g ɛ l	t3NgEl	T V N K V R	T Y N K E L	moon:G	1079
+Danish	dan	moon		ˈmɔːnə	ˈm ɔː n ə	mon3	M V N V	M U N E	moon:A	1075
+Danish_Fjolde		moon		moan	m oa n	moan	M V N	M U N	moon:A	1075
+Gutnish_Lau		moon		ˈmɑːnɛ	ˈm ɑː n ɛ	manE	M V N V	M A N E	moon:A	1075
+Dutch	nld	moon		man	m a n	man	M V N	M A N	moon:A	1075
+Latin	lat	moon		ˈluːna	ˈl uː n a	luna	R V N V	L Y N A	moon:C	1076
+Spanish	spa	moon		luna	l u n a	luna	R V N V	L Y N A	moon:C	1076
+French	fra	moon		lyn	l y n	lin	R V N	L Y N	moon:C	1076
+Old_Irish	sga	moon		e:ske	e: s k e	eske	V S K V	E S K E	moon:F	1078
+Greek_Anc	grc	night		nýks	n y k s	nks	N V K S	N Y K S	night:B	1161
+Greek_Mod	ell	night		nyçta	n y ç t a	niSta	N V S T V	N Y S T A	night:B	1161
+Ossetic_Iron	oss	night		ɐχšɐv	ɐ χ š ɐ v	aGSav	V K S V W	E G S E B	night:A	1160
+Ossetic_Digor	oss	night		ɐχsɐvɐ	ɐ χ s ɐ v ɐ	aGsava	V K S V W V	E G S E B E	night:A	1160
+Oriya	ori	night		rati	r a t i	rati	R V T V	R A T I	night:D	1162
+Bihari	mai	night		rait	r ai t	rait	R V T	R A T	night:D	1162
+Urdu	urd	night		ɾɑt̪	ɾ ɑ t̪	rat	R V T	R A T	night:D	1162
+Marathi	mar	night		ɾatɾə	ɾ a t ɾ ə	ratr3	R V T R V	R A T R E	night:D	1162
+Old_Church_Slavonic	chu	night		nɔʃtɪ̆	n ɔ ʃ t ɪ̆	noSti	N V S T V	N U S T I	night:B	1161
+Serbo-Croatian	srp	night		nɔ̂ːtɕ	n ɔ̂ː t ɕ	notS	N V T S	N U T S	night:B	1161
+Bulgarian	bul	night		nɔʃt	n ɔ ʃ t	noSt	N V S T	N U S T	night:B	1161
+Macedonian	mkd	night		noc	n o c	noT	N V K	N U C	night:B	1161
+Russian	rus	night		nɔtʃ	n ɔ t ʃ	notS	N V T S	N U T S	night:B	1161
+Polish	pol	night		nɔts	n ɔ t s	nots	N V T S	N U T S	night:B	1161
+Belarusian	bel	night		nɔtʂ	n ɔ t ʂ	notS	N V T S	N U T S	night:B	1161
+Ukrainian	ukr	night		nʲitʂ	nʲ i t ʂ	ny~itS	N V T S	N I T S	night:B	1161
+Slovak	slk	night		nɔts	n ɔ t s	nots	N V T S	N U T S	night:B	1161
+Czech	ces	night		nɔts	n ɔ t s	nots	N V T S	N U T S	night:B	1161
+Sorbian_Upper	hsb	night		nʊts	n ʊ t s	nuts	N V T S	N Y T S	night:B	1161
+Sorbian_Lower	dsb	night		nɔts	n ɔ t s	nots	N V T S	N U T S	night:B	1161
+Slovenian	slv	night		nôːtʃ	n ôː t ʃ	notS	N V T S	N U T S	night:B	1161
+Old_Norse	non	night		noːtː	n oː tː	not	N V T	N U T	night:B	1161
+Icelandic	isl	night		nouʰtː	n ouʰ tː	nouh~t	N V T	N U T	night:B	1161
+Faroese	fao	night		nɔʰtː	n ɔʰ tː	noh~t	N V T	N U T	night:B	1161
+Norwegian_Riksmal	nor	night		natː	n a tː	nat	N V T	N A T	night:B	1161
+Stavangersk		night		nɔtː	n ɔ tː	not	N V T	N U T	night:B	1161
+Old_Swedish		night		natː	n a tː	nat	N V T	N A T	night:B	1161
+Swedish	swe	night		natː	n a tː	nat	N V T	N A T	night:B	1161
+Elfdalian	qov	night		nõːt	n õː t	not	N V T	N U T	night:B	1161
+Danish	dan	night		nad̥ʰ	n a d̥ʰ	nadh~	N V T	N A T	night:B	1161
+Danish_Fjolde		night		nɑt	n ɑ t	nat	N V T	N A T	night:B	1161
+Gutnish_Lau		night		nɑːt	n ɑː t	nat	N V T	N A T	night:B	1161
+English	eng	night		naɪt	n aɪ t	nait	N V T	N A T	night:B	1161
+Dutch	nld	night		nɑχt	n ɑ χ t	naGt	N V K T	N A G T	night:B	1161
+German	deu	night		naxt	n a x t	naxt	N V K T	N A G T	night:B	1161
+Latin	lat	night		noks	n o k s	noks	N V K S	N U K S	night:B	1161
+Catalan	cat	night		nit	n i t	nit	N V T	N I T	night:B	1161
+Portuguese	por	night		ˈnɔjtɨ	ˈn ɔ j t ɨ	noyt3	N V J T V	N U J T I	night:B	1161
+Spanish	spa	night		noʧe	n o ʧ e	noCe	N V K V	N U C E	night:B	1161
+French	fra	night		nɥi	n ɥ i	nyi	N J V	N J I	night:B	1161
+Italian	ita	night		nɔtte	n ɔ tt e	notte	N V T V	N U T E	night:B	1161
+Old_Irish	sga	night		aðəɣʹ	a ð ə ɣʹ	a83x	V T V K	A D E G	night:E	1163
+Greek_Anc	grc	one		héː̀s	h éː̀ s	hes	H V S	H E S	one:C	1185
+Greek_Mod	ell	one		ˈe̞nas	ˈe̞ n a s	enas	V N V S	E N A S	one:C	1185
+Ossetic_Iron	oss	one		jiw	j i w	yiw	J V W	J I W	one:A	1184
+Ossetic_Digor	oss	one		jew	j e w	yew	J V W	J E W	one:A	1184
+Oriya	ori	one		ekɔ	e k ɔ	eko	V K V	E K U	one:A	1184
+Bihari	mai	one		ek	e k	ek	V K	E K	one:A	1184
+Urdu	urd	one		ʔek	ʔ e k	7ek	H V K	H E K	one:A	1184
+Marathi	mar	one		ek	e k	ek	V K	E K	one:A	1184
+Old_Church_Slavonic	chu	one		jɛdinʊ̆	j ɛ d i n ʊ̆	yEdinu	J V T V N V	J E T I N Y	one:A	1184
+Serbo-Croatian	srp	one		jɛ̌dan	j ɛ̌ d a n	yEdan	J V T V N	J E T A N	one:A	1184
+Bulgarian	bul	one		ɘˈdin	ɘ ˈd i n	3din	V T V N	E T I N	one:A	1184
+Macedonian	mkd	one		ˈedɛn	ˈe d ɛ n	edEn	V T V N	E T E N	one:A	1184
+Russian	rus	one		adʲin	a dʲ i n	ady~in	V T V N	A T I N	one:A	1184
+Polish	pol	one		ˈjɛdɛn	ˈj ɛ d ɛ n	yEdEn	J V T V N	J E T E N	one:A	1184
+Belarusian	bel	one		aˈdzʲin	a ˈd zʲ i n	adzy~in	V T S V N	A T S I N	one:A	1184
+Ukrainian	ukr	one		ɔˈdɪn	ɔ ˈd ɪ n	odin	V T V N	U T I N	one:A	1184
+Slovak	slk	one		ˈjɛɟɛn	ˈj ɛ ɟ ɛ n	yECEn	J V K V N	J E C E N	one:A	1184
+Czech	ces	one		ˈjɛdɛn	ˈj ɛ d ɛ n	yEdEn	J V T V N	J E T E N	one:A	1184
+Sorbian_Upper	hsb	one		jɛdɘ̟n_	j ɛ d ɘ̟ n	yEd3n	J V T V N	J E T E N	one:A	1184
+Sorbian_Lower	dsb	one		ˈjadɛn	ˈj a d ɛ n	yadEn	J V T V N	J A T E N	one:A	1184
+Slovenian	slv	one		ɛn	ɛ n	En	V N	E N	one:A	1184
+Old_Norse	non	one		ɛinː	ɛi nː	Ein	V N	E N	one:A	1184
+Icelandic	isl	one		eid̥n	ei d̥ n	eidn	V T N	E T N	one:A	1184
+Faroese	fao	one		aiːn	aiː n	ain	V N	A N	one:A	1184
+Norwegian_Riksmal	nor	one		ɛnː	ɛ nː	En	V N	E N	one:A	1184
+Stavangersk		one		ɛɪn	ɛɪ n	Ein	V N	E N	one:A	1184
+Old_Swedish		one		enː	e nː	en	V N	E N	one:A	1184
+Swedish	swe	one		ɛnː	ɛ nː	En	V N	E N	one:A	1184
+Elfdalian	qov	one		ɪɛnː	ɪɛ nː	iEn	V N	I N	one:A	1184
+Danish	dan	one		eˀn	eˀ n	"e""n"	V N	E N	one:A	1184
+Danish_Fjolde		one		ien	ie n	ien	V N	I N	one:A	1184
+Gutnish_Lau		one		eːn	eː n	en	V N	E N	one:A	1184
+English	eng	one		wʌn	w ʌ n	won	W V N	W E N	one:A	1184
+Dutch	nld	one		en	e n	en	V N	E N	one:A	1184
+German	deu	one		aĭn	a ĭ n	ain	V V N	A I N	one:A	1184
+Latin	lat	one		ˈuːnus	ˈuː n u s	unus	V N V S	Y N Y S	one:A	1184
+Catalan	cat	one		un	u n	un	V N	Y N	one:A	1184
+Portuguese	por	one		ũ	ũ		V	Y	one:A	1184
+Spanish	spa	one		uno	u n o	uno	V N V	Y N U	one:A	1184
+French	fra	one		œ̃	œ̃	E	V	U	one:A	1184
+Italian	ita	one		uno	u n o	uno	V N V	Y N U	one:A	1184
+Old_Irish	sga	one		oin	oi n	oin	V N	U N	one:A	1184
+Greek_Anc	grc	rain		hýːetos	h yː e t o s	hetos	H V V T V S	H Y E T U S	rain:M	1265
+Greek_Mod	ell	rain		vro̞ˈçi	v r o̞ ˈç i	vroSi	W R V S V	B R U S I	rain:I	1263
+Ossetic_Iron	oss	rain		war	w a r	war	W V R	W A R	rain:J	1264
+Ossetic_Digor	oss	rain		war	w a r	war	W V R	W A R	rain:J	1264
+Oriya	ori	rain		bɔrɔs	b ɔ r ɔ s	boros	P V R V S	P U R U S	rain:J	1264
+Bihari	mai	rain		bərsa	b ə r s a	b3rsa	P V R S V	P E R S A	rain:J	1264
+Urdu	urd	rain		bəɾsɑt̪	b ə ɾ s ɑ t̪	b3rsat	P V R S V T	P E R S A T	rain:J	1264
+Marathi	mar	rain		pau:s	p au: s	paus	P V S	P A S	rain:J	1264
+Old_Church_Slavonic	chu	rain		dʊ̆ʒdɪ̆	d ʊ̆ ʒ d ɪ̆	duZdi	T V S T V	T Y S T I	rain:G	1262
+Serbo-Croatian	srp	rain		ˈkîʃa	ˈk î ʃ a	kiSa	K V S V	K I S A	rain:N	1266
+Bulgarian	bul	rain		dɤʒd	d ɤ ʒ d	doZd	T V S T	T E S T	rain:G	1262
+Macedonian	mkd	rain		doʒd	d o ʒ d	doZd	T V S T	T U S T	rain:G	1262
+Russian	rus	rain		dɔʐdʲ	d ɔ ʐ dʲ	doZdy~	T V S T	T U S T	rain:G	1262
+Polish	pol	rain		dɛʂtʂ	d ɛ ʂ t ʂ	dEStS	T V S T S	T E S T S	rain:G	1262
+Belarusian	bel	rain		dɔʐdʐ	d ɔ ʐ d ʐ	doZdZ	T V S T S	T U S T S	rain:G	1262
+Ukrainian	ukr	rain		dɔʂtʂ	d ɔ ʂ t ʂ	doStS	T V S T S	T U S T S	rain:G	1262
+Slovak	slk	rain		daːʒɟ	d aː ʒ ɟ	daZC	T V S K	T A S C	rain:G	1262
+Czech	ces	rain		dɛːʃc	d ɛː ʃ c	dEST	T V S K	T E S C	rain:G	1262
+Sorbian_Upper	hsb	rain		ˈdeʃtʃik	ˈd e ʃ t ʃ i k	deStSik	T V S T S V K	T E S T S I K	rain:G	1262
+Sorbian_Lower	dsb	rain		deʂtɕ	d e ʂ t ɕ	deStS	T V S T S	T E S T S	rain:G	1262
+Slovenian	slv	rain		dəʒ	d ə ʒ	d3Z	T V S	T E S	rain:G	1262
+Old_Norse	non	rain		reɣn	r e ɣ n	rexn	R V K N	R E G N	rain:B	1259
+Icelandic	isl	rain		rɛɡ̊n	r ɛ ɡ̊ n	rEgn	R V K N	R E K N	rain:B	1259
+Faroese	fao	rain		ɹɛɡ̊n	ɹ ɛ ɡ̊ n	rEgn	R V K N	R E K N	rain:B	1259
+Norwegian_Riksmal	nor	rain		ɾæɪn	ɾ æɪ n	rEin	R V N	R E N	rain:B	1259
+Stavangersk		rain		ˈrɛɡːən	ˈr ɛ ɡː ə n	rEg3n	R V K V N	R E K E N	rain:B	1259
+Old_Swedish		rain		ræɣn	r æ ɣ n	rExn	R V K N	R E G N	rain:B	1259
+Swedish	swe	rain		rɛŋn	r ɛ ŋ n	rENn	R V N N	R E N N	rain:B	1259
+Elfdalian	qov	rain		rɑ́jŋɛn	r ɑ́ j ŋ ɛ n	rayNEn	R V J N V N	R A J N E N	rain:B	1259
+Danish	dan	rain		ʁɑjˀn	ʁ ɑ jˀ n	"Gay""n"	R V J N	R A J N	rain:B	1259
+Danish_Fjolde		rain		ɹæjn	ɹ æ j n	rEyn	R V J N	R E J N	rain:B	1259
+Gutnish_Lau		rain		rɛŋn	r ɛ ŋ n	rENn	R V N N	R E N N	rain:B	1259
+English	eng	rain		reɪn	r eɪ n	rein	R V N	R E N	rain:B	1259
+Dutch	nld	rain		reɣə	r e ɣ ə	rex3	R V K V	R E G E	rain:B	1259
+German	deu	rain		re:gnən	r e: g n ə n	regn3n	R V K N V N	R E K N E N	rain:B	1259
+Latin	lat	rain		ˈpluwia	ˈp l u w ia	pluwia	P R V W V	P L Y W I	rain:E	1261
+Catalan	cat	rain		plɔuwɾə	p l ɔu w ɾ ə	plouwr3	P R V W R V	P L U W R E	rain:E	1261
+Portuguese	por	rain		ˈʃuvɐ	ˈʃ u v ɐ	Suva	S V W V	S Y B E	rain:Q	1267
+Spanish	spa	rain		ʎuβja	ʎ u β j a	lubya	R V P J V	L Y B J A	rain:E	1261
+French	fra	rain		pløvwaʀ	p l ø v w a ʀ	plevwar	P R V W W V R	P L U B W A R	rain:E	1261
+Italian	ita	rain		pjɔvere	p j ɔ v e r e	pyovere	P J V W V R V	P J U B E R E	rain:E	1261
+Old_Irish	sga	rain		ɸʹlʹexuð	ɸʹ lʹ e x u ð	plexu8	P R V K V T	B L E G Y D	rain:C	1260
+Greek_Anc	grc	sit		hízdɔː	h í z d ɔː	hizdo	H V S T V	H I S T U	sit:B	1500
+Greek_Anc	grc	sit		kátʰɛːmai̯	k á tʰ ɛː m ai̯	kath~Emai	K V T V M V	K A T E M A	sit:H	1503
+Greek_Mod	ell	sit		ˈkaθo̞ˌme̞	ˈk a θ o̞ ˌm e̞	ka8ome	K V T V M V	K A D U M E	sit:H	1503
+Ossetic_Iron	oss	sit		bad	b a d	bad	P V T	P A T	sit:E	1501
+Ossetic_Digor	oss	sit		bad	b a d	bad	P V T	P A T	sit:E	1501
+Oriya	ori	sit		bɔs	b ɔ s	bos	P V S	P U S	sit:G	1502
+Bihari	mai	sit		baisəb	b ai s ə b	bais3b	P V S V P	P A S E P	sit:G	1502
+Urdu	urd	sit		bɛʈʰnə	b ɛ ʈʰ n ə	bEth~n3	P V T N V	P E T N E	sit:I	1504
+Marathi	mar	sit		bəsɳe	b ə s ɳ e	b3sne	P V S N V	P E S N E	sit:G	1502
+Old_Church_Slavonic	chu	sit		sædæti	s æ d æ t i	sEdEti	S V T V T V	S E T E T I	sit:B	1500
+Serbo-Croatian	srp	sit		ˈsjɛ̌diti	ˈs j ɛ̌ d i t i	syEditi	S J V T V T V	S J E T I T I	sit:B	1500
+Bulgarian	bul	sit		sɘˈdʲɤ	s ɘ ˈdʲ ɤ	s3dy~o	S V T V	S E T E	sit:B	1500
+Macedonian	mkd	sit		ˈsedi	ˈs e d i	sedi	S V T V	S E T I	sit:B	1500
+Russian	rus	sit		sʲidʲɛtʲ	sʲ i dʲ ɛ tʲ	sy~idy~Ety~	S V T V T	S I T E T	sit:B	1500
+Polish	pol	sit		ˈɕɛdʑɛtɕ	ˈɕ ɛ d ʑ ɛ t ɕ	SEdZEtS	S V T S V T S	S E T S E T S	sit:B	1500
+Belarusian	bel	sit		sʲaˈdzʲɛtsʲ	sʲ a ˈd zʲ ɛ t sʲ	sy~adzy~Etsy~	S V T S V T S	S A T S E T S	sit:B	1500
+Ukrainian	ukr	sit		sɪˈdʲitɪ	s ɪ ˈdʲ i t ɪ	sidy~iti	S V T V T V	S I T I T I	sit:B	1500
+Slovak	slk	sit		ˈsɛɟiɛc	ˈs ɛ ɟ iɛ c	sECiET	S V K V K	S E C I C	sit:B	1500
+Czech	ces	sit		ˈsɛɟɛt	ˈs ɛ ɟ ɛ t	sECEt	S V K V T	S E C E T	sit:B	1500
+Sorbian_Upper	hsb	sit		ˈsedʒɛtʃ	ˈs e d ʒ ɛ t ʃ	sedZEtS	S V T S V T S	S E T S E T S	sit:B	1500
+Sorbian_Lower	dsb	sit		ˈsejʑeɕ	ˈs e j ʑ e ɕ	seyZeS	S V J S V S	S E J S E S	sit:B	1500
+Slovenian	slv	sit		sɛˈděːti	s ɛ ˈd ěː t i	sEdeti	S V T V T V	S E T E T I	sit:B	1500
+Old_Norse	non	sit		ˈsitja	ˈs i t j a	sitya	S V T J V	S I T J A	sit:B	1500
+Icelandic	isl	sit		ˈsɪːtja	ˈs ɪː t j a	sitya	S V T J V	S I T J A	sit:B	1500
+Faroese	fao	sit		ˈsiːtʰa	ˈs iː tʰ a	sith~a	S V T V	S I T A	sit:B	1500
+Norwegian_Riksmal	nor	sit		ˈsɪ̀tːə	ˈs ɪ̀ tː ə	sit3	S V T V	S I T E	sit:B	1500
+Stavangersk		sit		ˈsìːda	ˈs ìː d a	sida	S V T V	S I T A	sit:B	1500
+Old_Swedish		sit		ˈsiːtja	ˈs iː t j a	sitya	S V T J V	S I T J A	sit:B	1500
+Swedish	swe	sit		ˈsìtːa	ˈs ì tː a	sita	S V T V	S I T A	sit:B	1500
+Elfdalian	qov	sit		ˈsɪ̀t͡ʃːɑ	ˈs ɪ̀ t͡ʃː ɑ	sitSa	S V T V	S I T A	sit:B	1500
+Danish	dan	sit		ˈseðə	ˈs e ð ə	se83	S V T V	S E D E	sit:B	1500
+Danish_Fjolde		sit		seð	s e ð	se8	S V T	S E D	sit:B	1500
+Gutnish_Lau		sit		ˈsɪːtɛ	ˈs ɪː t ɛ	sitE	S V T V	S I T E	sit:B	1500
+English	eng	sit		sɪt	s ɪ t	sit	S V T	S I T	sit:B	1500
+Dutch	nld	sit		zɪtən	z ɪ t ə n	zit3n	S V T V N	S I T E N	sit:B	1500
+German	deu	sit		sɪt͜sn̩	s ɪ t͜s n̩	sitsn	S V K N	S I C N	sit:B	1500
+Latin	lat	sit		seˈdeːre	s e ˈd eː r e	sedere	S V T V R V	S E T E R E	sit:B	1500
+Catalan	cat	sit		əsənta	ə s ə n t a	3s3nta	V S V N T V	E S E N T A	sit:B	1500
+Portuguese	por	sit		sẽˈtaɾse	s ẽ ˈt a ɾ s e	setarse	S V T V R S V	S E T A R S E	sit:B	1500
+Portuguese	por	sit		ɨʃˈtaɾ_sẽˈtadu	ɨ ʃ ˈt a ɾ s ẽ ˈt a d u	3Starsetadu	V S T V R S V T V T V	I S T A R S E T A T Y	sit:B	1500
+Spanish	spa	sit		sentaɾse	s e n t a ɾ s e	sentarse	S V N T V R S V	S E N T A R S E	sit:B	1500
+French	fra	sit		aswaʀ	a s w a ʀ	aswar	V S W V R	A S W A R	sit:B	1500
+Italian	ita	sit		sedere	s e d e r e	sedere	S V T V R V	S E T E R E	sit:B	1500
+Old_Irish	sga	sit		saðʹəðʹ	s a ðʹ ə ðʹ	sa838	S V T V T	S A D E D	sit:B	1500
+Greek_Anc	grc	snake		ópʰis	ó pʰ i s	oph~is	V P V S	U P I S	snake:D	1583
+Greek_Anc	grc	snake		herpetón	h e r p e t ó n	herpeton	H V R P V T V N	H E R P E T U N	snake:E	1584
+Greek_Anc	grc	snake		ékʰidna	é kʰ i d n a	ekh~idna	V K V T N V	E K I T N A	snake:D	1583
+Greek_Mod	ell	snake		ˈfiði	ˈf i ð i	fi8i	P V T V	B I D I	snake:D	1583
+Ossetic_Iron	oss	snake		kalm	k a l m	kalm	K V R M	K A L M	snake:Q	1591
+Ossetic_Digor	oss	snake		χelagɐ	χ e l a g ɐ	Gelaga	K V R V K V	G E L A K E	snake:R	1592
+Oriya	ori	snake		sapɔ	s a p ɔ	sapo	S V P V	S A P U	snake:E	1584
+Bihari	mai	snake		sãp	s ã p	sap	S V P	S A P	snake:E	1584
+Urdu	urd	snake		sɑ̃p	s ɑ̃ p	sap	S V P	S A P	snake:E	1584
+Marathi	mar	snake		sap	s a p	sap	S V P	S A P	snake:E	1584
+Old_Church_Slavonic	chu	snake		zmija	z m i j a	zmiya	S M V J V	S M I J A	snake:H	1587
+Serbo-Croatian	srp	snake		ˈzmǐja	ˈz m ǐ j a	zmiya	S M V J V	S M I J A	snake:H	1587
+Bulgarian	bul	snake		zmiˈja	z m i ˈj a	zmiya	S M V J V	S M I J A	snake:H	1587
+Macedonian	mkd	snake		ˈzmija	ˈz m i j a	zmiya	S M V J V	S M I J A	snake:H	1587
+Russian	rus	snake		zmʲɛja	z mʲ ɛ j a	zmy~Eya	S M V J V	S M E J A	snake:H	1587
+Polish	pol	snake		vɔɰ̃ʐ	v ɔ ɰ̃ ʐ	vowZ	W V J S	B U J S	snake:D	1583
+Belarusian	bel	snake		zʲmʲaˈja	zʲ mʲ a ˈj a	zy~my~aya	S M V J V	S M A J A	snake:H	1587
+Ukrainian	ukr	snake		zmiˈja	z m i ˈj a	zmiya	S M V J V	S M I J A	snake:H	1587
+Slovak	slk	snake		ɦad	ɦ a d	had	H V T	H A T	snake:I	1588
+Czech	ces	snake		ɦad	ɦ a d	had	H V T	H A T	snake:I	1588
+Sorbian_Upper	hsb	snake		had	h a d	had	H V T	H A T	snake:I	1588
+Sorbian_Lower	dsb	snake		huʐ	h u ʐ	huZ	H V S	H Y S	snake:D	1583
+Slovenian	slv	snake		kǎːtʃa	k ǎː t ʃ a	katSa	K V T S V	K A T S A	snake:V	1593
+Old_Norse	non	snake		ormr	o r m r	ormr	V R M R	U R M R	snake:K	1590
+Old_Norse	non	snake		snaːkr	s n aː k r	snakr	S N V K R	S N A K R	snake:J	1589
+Old_Norse	non	snake		ˈslanɣi	ˈs l a n ɣ i	slanxi	S R V N K V	S L A N G I	snake:B	1582
+Old_Norse	non	snake		naðr	n a ð r	na8r	N V T R	N A D R	snake:G	1586
+Icelandic	isl	snake		ˈstlauŋɡ̊a	ˈs t l au ŋ ɡ̊ a	stlauNga	S T R V N K V	S T L A N K A	snake:B	1582
+Icelandic	isl	snake		ˈɔrmʏr	ˈɔ r m ʏ r	ormir	V R M V R	U R M Y R	snake:K	1590
+Icelandic	isl	snake		ˈstnauːkʰʏr	ˈs t n auː kʰ ʏ r	stnaukh~ir	S T N V K V R	S T N A K Y R	snake:J	1589
+Faroese	fao	snake		ˈsnɔaːkʰʊɹ	ˈs n ɔaː kʰ ʊ ɹ	snoakh~ur	S N V K V R	S N U K Y R	snake:J	1589
+Faroese	fao	snake		ˈɔɹmʊɹ	ˈɔ ɹ m ʊ ɹ	ormur	V R M V R	U R M Y R	snake:K	1590
+Faroese	fao	snake		ˈslaŋɡ̊a	ˈs l a ŋ ɡ̊ a	slaNga	S R V N K V	S L A N K A	snake:B	1582
+Norwegian_Riksmal	nor	snake		uɾm	u ɾ m	urm	V R M	Y R M	snake:K	1590
+Norwegian_Riksmal	nor	snake		ˈslàŋːə	ˈs l à ŋː ə	slaN3	S R V N V	S L A N E	snake:B	1582
+Stavangersk		snake		ɔʁm	ɔ ʁ m	oGm	V R M	U R M	snake:K	1590
+Old_Swedish		snake		ˈslaŋːa	ˈs l a ŋː a	slaNa	S R V N V	S L A N A	snake:B	1582
+Old_Swedish		snake		ˈormber	ˈo r m b e r	ormber	V R M P V R	U R M P E R	snake:K	1590
+Swedish	swe	snake		ʊrm	ʊ r m	urm	V R M	Y R M	snake:K	1590
+Elfdalian	qov	snake		ʉərm	ʉə r m	33rm	V R M	Y R M	snake:K	1590
+Danish	dan	snake		ˈslɑŋə	ˈs l ɑ ŋ ə	slaN3	S R V N V	S L A N E	snake:B	1582
+Danish	dan	snake		snoˀ	s n oˀ	"sno"""	S N V	S N U	snake:J	1589
+Danish_Fjolde		snake		snuoɣ	s n uo ɣ	snuox	S N V K	S N Y G	snake:J	1589
+Danish_Fjolde		snake		ˈslɑŋə	ˈs l ɑ ŋ ə	slaN3	S R V N V	S L A N E	snake:B	1582
+Gutnish_Lau		snake		orm	o r m	orm	V R M	U R M	snake:K	1590
+English	eng	snake		sneɪk	s n eɪ k	sneik	S N V K	S N E K	snake:J	1589
+Dutch	nld	snake		slɑŋ	s l ɑ ŋ	slaN	S R V N	S L A N	snake:B	1582
+German	deu	snake		ʃlaŋə	ʃ l a ŋ ə	SlaN3	S R V N V	S L A N E	snake:B	1582
+Latin	lat	snake		ˈaŋgwis	ˈa ŋ g w i s	aNgwis	V N K W V S	A N K W I S	snake:D	1583
+Latin	lat	snake		ˈserpeːns	ˈs e r p eː n s	serpens	S V R P V N S	S E R P E N S	snake:E	1584
+Catalan	cat	snake		seɾp	s e ɾ p	serp	S V R P	S E R P	snake:E	1584
+Portuguese	por	snake		sɨɾˈpẽtɨ	s ɨ ɾ ˈp ẽ t ɨ	s3rpet3	S V R P V T V	S I R P E T I	snake:E	1584
+Portuguese	por	snake		ˈkɔβɾɐ	ˈk ɔ β ɾ ɐ	kobra	K V P R V	K U B R E	snake:F	1585
+Spanish	spa	snake		seɾpjente	s e ɾ p j e n t e	serpyente	S V R P J V N T V	S E R P J E N T E	snake:E	1584
+French	fra	snake		sɛʀpɑ̃	s ɛ ʀ p ɑ̃	sErpa	S V R P V	S E R P A	snake:E	1584
+Italian	ita	snake		sɛrpe	s ɛ r p e	sErpe	S V R P V	S E R P E	snake:E	1584
+Old_Irish	sga	snake		naθərʹ	n a θ ə rʹ	na83r	N V T V R	N A D E R	snake:G	1586
+Greek_Anc	grc	spit		ptýɔː	p t y ɔ	pto	P T V V	P T Y U	spit:Ac	1607
+Greek_Mod	ell	spit		ˈftino̞	ˈf t i n o̞	ftino	P T V N V	B T I N U	spit:Ac	1607
+Ossetic_Iron	oss	spit		tu_kɐn	t u k ɐ n	tukan	T V K V N	T Y K E N	spit:H	1610
+Ossetic_Digor	oss	spit		tu_kɐn_	t u k ɐ n	tukan	T V K V N	T Y K E N	spit:H	1610
+Bihari	mai	spit		thukəb	t h u k ə b	thuk3b	T H V K V P	T H Y K E P	spit:G	1609
+Urdu	urd	spit		t̪ʰuknə	t̪ʰ u k n ə	th~ukn3	T V K N V	T Y K N E	spit:G	1609
+Marathi	mar	spit		tʰunkɳe	tʰ u n k ɳ e	th~unkne	T V N K N V	T Y N K N E	spit:G	1609
+Old_Church_Slavonic	chu	spit		pʎɪ̆vɑti	p ʎ ɪ̆ v ɑ t i	plivati	P R V W V T V	P L I B A T I	spit:Ac	1607
+Serbo-Croatian	srp	spit		ˈpʎûvati	ˈp ʎ u v a t i	plvati	P R V W V T V	P L Y B A T I	spit:Ac	1607
+Bulgarian	bul	spit		ˈplʲujə	ˈp lʲ u j ə	ply~uy3	P R V J V	P L Y J E	spit:Ac	1607
+Macedonian	mkd	spit		ˈpluka	ˈp l u k a	pluka	P R V K V	P L Y K A	spit:Ac	1607
+Russian	rus	spit		plʲɛvatʲ	p lʲ ɛ v a tʲ	ply~Evaty~	P R V W V T	P L E B A T	spit:Ac	1607
+Polish	pol	spit		ˈplutɕ	ˈp l u t ɕ	plutS	P R V T S	P L Y T S	spit:Ac	1607
+Belarusian	bel	spit		plʲaˈvatsʲ	p lʲ a ˈv a t sʲ	ply~avatsy~	P R V W V T S	P L A B A T S	spit:Ac	1607
+Ukrainian	ukr	spit		plʲuˈʋatɪ	p lʲ u ˈʋ a t ɪ	ply~uwati	P R V W V T V	P L Y W A T I	spit:Ac	1607
+Slovak	slk	spit		plʲuc	p lʲ u c	ply~uT	P R V K	P L Y C	spit:Ac	1607
+Czech	ces	spit		ˈplɪvat	ˈp l ɪ v a t	plivat	P R V W V T	P L I B A T	spit:Ac	1607
+Sorbian_Upper	hsb	spit		ˈpluwatʃ	ˈp l u w a t ʃ	pluwatS	P R V W V T S	P L Y W A T S	spit:Ac	1607
+Sorbian_Lower	dsb	spit		ˈplʲuwaɕ	ˈp lʲ u w a ɕ	ply~uwaS	P R V W V S	P L Y W A S	spit:Ac	1607
+Slovenian	slv	spit		ˈpljǔːvati	ˈp l j uː v a t i	plyvati	P R J V W V T V	P L J Y B A T I	spit:Ac	1607
+Old_Norse	non	spit		ˈɣrɛːkja	ˈɣ r ɛː k j a	xrEkya	K R V K J V	G R E K J A	spit:J	1611
+Old_Norse	non	spit		ˈspyːta	ˈs p yː t a	spita	S P V T V	S P Y T A	spit:Ac	1607
+Icelandic	isl	spit		ˈspiːtʰa	ˈs p iː tʰ a	spith~a	S P V T V	S P I T A	spit:Ac	1607
+Icelandic	isl	spit		ˈr̥aiːca	ˈr̥ aiː c a	raiTa	R V K V	R A C A	spit:J	1611
+Faroese	fao	spit		ˈspʊiːtʰa	ˈs p ʊiː tʰ a	spuith~a	S P V T V	S P Y T A	spit:Ac	1607
+Norwegian_Riksmal	nor	spit		ˈspʏ̀tːə	ˈs p ʏ̀ tː ə	spit3	S P V T V	S P Y T E	spit:Ac	1607
+Stavangersk		spit		ˈspø̀ːda	ˈs p ø̀ː d a	speda	S P V T V	S P U T A	spit:Ac	1607
+Old_Swedish		spit		ˈspotːa	ˈs p o tː a	spota	S P V T V	S P U T A	spit:Ac	1607
+Swedish	swe	spit		ˈspɔ̀tːa	ˈs p ɔ̀ tː a	spota	S P V T V	S P U T A	spit:Ac	1607
+Elfdalian	qov	spit		ˈspʉ̀tːɑ	ˈs p ʉ̀ tː ɑ	sp3ta	S P V T V	S P Y T A	spit:Ac	1607
+Danish	dan	spit		ˈsb̥_ød̥ʰə	ˈs b̥ ø d̥ʰ ə	sbedh~3	S P V T V	S P U T E	spit:Ac	1607
+Danish_Fjolde		spit		sbød	s b ø d	sbed	S P V T	S P U T	spit:Ac	1607
+Gutnish_Lau		spit		ˈspytːɛ	ˈs p y tː ɛ	spitE	S P V T V	S P Y T E	spit:Ac	1607
+English	eng	spit		spɪt	s p ɪ t	spit	S P V T	S P I T	spit:Ac	1607
+Dutch	nld	spit		spywən	s p y w ə n	spiw3n	S P V W V N	S P Y W E N	spit:Ac	1607
+German	deu	spit		ʃpeiən	ʃ p eiə n	Spei3n	S P V N	S P E N	spit:Ac	1607
+Latin	lat	spit		ˈspuere	ˈs p ue r e	spuere	S P V R V	S P Y R E	spit:Ac	1607
+Catalan	cat	spit		əskupi	ə s k u p i	3skupi	V S K V P V	E S K Y P I	spit:Ac	1607
+Portuguese	por	spit		kuʃˈpiɾ	k u ʃ ˈp i ɾ	kuSpir	K V S P V R	K Y S P I R	spit:Ac	1607
+Spanish	spa	spit		eskupiɾ	e s k u p i ɾ	eskupir	V S K V P V R	E S K Y P I R	spit:Ac	1607
+French	fra	spit		kʀaʃe	k ʀ a ʃ e	kraSe	K R V S V	K R A S E	spit:F	1608
+Italian	ita	spit		sputare	s p u t a r e	sputare	S P V T V R V	S P Y T A R E	spit:Ac	1607
+Old_Irish	sga	spit		salʹe	s a lʹ e	sale	S V R V	S A L E	spit:K	1612
+Greek_Anc	grc	stick		hrábdos	h r á b d o s	hrabdos	H R V P T V S	H R A P T U S	stick:Y	1700
+Greek_Anc	grc	stick		baktɛːríaː	b a k t ɛː r íaː	baktEria	P V K T V R V	P A K T E R I	stick:T	1698
+Greek_Mod	ell	stick		raˈvði	r a ˈv ð i	rav8i	R V W T V	R A B D I	stick:Y	1700
+Greek_Mod	ell	stick		ˈksilo̞	ˈk s i l o̞	ksilo	K S V R V	K S I L U	stick:L	1693
+Ossetic_Iron	oss	stick		lɐzɐg	l ɐ z ɐ g	lazag	R V S V K	L E S E K	stick:U	1699
+Oriya	ori	stick		laʈhi	l a ʈ h i	lathi	R V T H V	L A T H I	stick:E	1687
+Bihari	mai	stick		chə̃ri	c h ə̃ r i	Th3ri	K H V R V	C H E R I	stick:O	1696
+Urdu	urd	stick		ɖənɖɑ	ɖ ə n ɖ ɑ	d3nda	T V N T V	T E N T A	stick:M	1694
+Marathi	mar	stick		kaʈʰi:	k a ʈʰ i:	kath~i	K V T V	K A T I	stick:O	1696
+Old_Church_Slavonic	chu	stick		pɑlitsʲa	p ɑ l i t sʲ a	palitsy~a	P V R V T S V	P A L I T S A	stick:H	1689
+Serbo-Croatian	srp	stick		ˈpâlitsa	ˈp â l i t s a	palitsa	P V R V T S V	P A L I T S A	stick:H	1689
+Serbo-Croatian	srp	stick		prûːt	p r u t	prt	P R V T	P R Y T	stick:G	1688
+Bulgarian	bul	stick		ˈprɤtʃkə	ˈp r ɤ t ʃ k ə	protSk3	P R V T S K V	P R E T S K E	stick:G	1688
+Macedonian	mkd	stick		prat	p r a t	prat	P R V T	P R A T	stick:G	1688
+Russian	rus	stick		paɫka	p a ɫ k a	paLka	P V R K V	P A L K A	stick:H	1689
+Polish	pol	stick		kʲij	kʲ i j	ky~iy	K V J	K I J	stick:I	1690
+Belarusian	bel	stick		kʲij	kʲ i j	ky~iy	K V J	K I J	stick:I	1690
+Ukrainian	ukr	stick		ˈpaɫɪtsʲa	ˈp a ɫ ɪ t sʲ a	paLitsy~a	P V R V T S V	P A L I T S A	stick:H	1689
+Slovak	slk	stick		pruːt	p r uː t	prut	P R V T	P R Y T	stick:G	1688
+Slovak	slk	stick		ˈpalitsa	ˈp a l i t s a	palitsa	P V R V T S V	P A L I T S A	stick:H	1689
+Czech	ces	stick		ɦuːl	ɦ uː l	hul	H V R	H Y L	stick:J	1691
+Sorbian_Upper	hsb	stick		ki	k i	ki	K V	K I	stick:I	1690
+Sorbian_Lower	dsb	stick		kij	k i j	kiy	K V J	K I J	stick:I	1690
+Slovenian	slv	stick		ˈpǎːlitsa	ˈp ǎː l i t s a	palitsa	P V R V T S V	P A L I T S A	stick:H	1689
+Old_Norse	non	stick		ˈpinːi	ˈp i nː i	pini	P V N V	P I N I	stick:Aa	1681
+Old_Norse	non	stick		vɔlr	v ɔ l r	volr	W V R R	B U L R	stick:S	1697
+Old_Norse	non	stick		kepːr	k e pː r	kepr	K V P R	K E P R	stick:Ab	1682
+Old_Norse	non	stick		stavr	s t a v r	stavr	S T V W R	S T A B R	stick:D	1686
+Icelandic	isl	stick		ˈvœːlʏr	ˈv œː l ʏ r	vElir	W V R V R	B U L Y R	stick:S	1697
+Icelandic	isl	stick		ˈstaːvʏr	ˈs t aː v ʏ r	stavir	S T V W V R	S T A B Y R	stick:D	1686
+Faroese	fao	stick		ˈtʃɛpːʊɹ	ˈt ʃ ɛ pː ʊ ɹ	tSEpur	T S V P V R	T S E P Y R	stick:Ab	1682
+Faroese	fao	stick		ˈstɛaːvʊɹ	ˈs t ɛaː v ʊ ɹ	stEavur	S T V W V R	S T E B Y R	stick:D	1686
+Norwegian_Riksmal	nor	stick		stɔkː	s t ɔ kː	stok	S T V K	S T U K	stick:B	1685
+Norwegian_Riksmal	nor	stick		staːʋ	s t aː ʋ	staw	S T V W	S T A W	stick:D	1686
+Norwegian_Riksmal	nor	stick		çɛpː	ç ɛ pː	SEp	S V P	S E P	stick:Ab	1682
+Stavangersk		stick		stɑːv	s t ɑː v	stav	S T V W	S T A B	stick:D	1686
+Stavangersk		stick		çɛpː	ç ɛ pː	SEp	S V P	S E P	stick:Ab	1682
+Stavangersk		stick		stɔkː	s t ɔ kː	stok	S T V K	S T U K	stick:B	1685
+Old_Swedish		stick		ˈstaːver	ˈs t aː v e r	staver	S T V W V R	S T A B E R	stick:D	1686
+Old_Swedish		stick		ˈkæpːer	ˈk æ pː e r	kEper	K V P V R	K E P E R	stick:Ab	1682
+Old_Swedish		stick		vaːl	v aː l	val	W V R	B A L	stick:S	1697
+Swedish	swe	stick		kvist	k v i s t	kvist	K W V S T	K B I S T	stick:Ac	1683
+Swedish	swe	stick		ɕɛpː	ɕ ɛ pː	SEp	S V P	S E P	stick:Ab	1682
+Swedish	swe	stick		ˈpɪ̀nːə	ˈp ɪ̀ nː ə	pin3	P V N V	P I N E	stick:Aa	1681
+Swedish	swe	stick		stɑːv	s t ɑː v	stav	S T V W	S T A B	stick:D	1686
+Elfdalian	qov	stick		ˈpɪ̀nːɛ	ˈp ɪ̀ nː ɛ	pinE	P V N V	P I N E	stick:Ae	1684
+Elfdalian	qov	stick		kwɪst	k w ɪ s t	kwist	K W V S T	K W I S T	stick:Ac	1683
+Danish	dan	stick		sd̥ʰʌg̥ʰ	s d̥ʰ ʌ g̥ʰ	sdh~ogh~	S T V K	S T E K	stick:B	1685
+Danish	dan	stick		ɡ̊ʰɛb	ɡ̊ʰ ɛ b	gh~Eb	K V P	K E P	stick:Ab	1682
+Danish_Fjolde		stick		sdɔɡ	s d ɔ ɡ	sdog	S T V K	S T U K	stick:B	1685
+Gutnish_Lau		stick		stukː	s t u kː	stuk	S T V K	S T Y K	stick:B	1685
+Gutnish_Lau		stick		kɛpː	k ɛ pː	kEp	K V P	K E P	stick:Ab	1682
+Gutnish_Lau		stick		stɑːv	s t ɑː v	stav	S T V W	S T A B	stick:D	1686
+English	eng	stick		stɪk	s t ɪ k	stik	S T V K	S T I K	stick:B	1685
+Dutch	nld	stick		stɔk	s t ɔ k	stok	S T V K	S T U K	stick:B	1685
+German	deu	stick		ʃtɔk	ʃ t ɔ k	Stok	S T V K	S T U K	stick:B	1685
+Latin	lat	stick		ˈbakulum	ˈb a k u l u m	bakulum	P V K V R V M	P A K Y L Y M	stick:T	1698
+Portuguese	por	stick		bɐʃˈtɐ̃ũ	b ɐ ʃ ˈt ɐ̃ũ	baSta	P V S T V	P E S T E	stick:K	1692
+Spanish	spa	stick		palo	p a l o	palo	P V R V	P A L U	stick:N	1695
+French	fra	stick		bɑtɔ̃	b ɑ t ɔ̃	bato	P V T V	P A T U	stick:K	1692
+Italian	ita	stick		bastone	b a s t o n e	bastone	P V S T V N V	P A S T U N E	stick:K	1692
+Old_Irish	sga	stick		slat	s l a t	slat	S R V T	S L A T	stick:Z	1701
+Greek_Anc	grc	this		hóde	h ó d e	hode	H V T V	H U T E	this:B	1848
+Oriya	ori	this		eiʈa	ei ʈ a	eita	V T V	E T A	this:H	1852
+Bihari	mai	this		i	i	i	V	I	this:H	1852
+Urdu	urd	this		jeʰ	j eʰ	yeh~	J V	J E	this:H	1852
+Marathi	mar	this		ɦa	ɦ a	ha	H V	H A	this:H	1852
+Old_Church_Slavonic	chu	this		sɪ̆	s ɪ̆	si	S V	S I	this:G	1851
+Serbo-Croatian	srp	this		ˈɔ̌vaːj	ˈɔ̌ v aː j	ovay	V W V J	U B A J	this:D	1849
+Bulgarian	bul	this		ˈtɔzi	ˈt ɔ z i	tozi	T V S V	T U S I	this:B	1848
+Macedonian	mkd	this		ˈovɔj	ˈo v ɔ j	ovoy	V W V J	U B U J	this:D	1849
+Russian	rus	this		ɛtɔt	ɛ t ɔ t	Etot	V T V T	E T U T	this:B	1848
+Polish	pol	this		tɛn	t ɛ n	tEn	T V N	T E N	this:B	1848
+Belarusian	bel	this		ˈɣɛtɨ	ˈɣ ɛ t ɨ	xEt3	K V T V	G E T I	this:B	1848
+Ukrainian	ukr	this		tsɛj	t s ɛ j	tsEy	T S V J	T S E J	this:B	1848
+Slovak	slk	this		tɛn	t ɛ n	tEn	T V N	T E N	this:B	1848
+Czech	ces	this		ˈtɛntɔ	ˈt ɛ n t ɔ	tEnto	T V N T V	T E N T U	this:B	1848
+Sorbian_Upper	hsb	this		tʊn	t ʊ n	tun	T V N	T Y N	this:B	1848
+Sorbian_Lower	dsb	this		tɛn	t ɛ n	tEn	T V N	T E N	this:B	1848
+Slovenian	slv	this		tâː	t âː	ta	T V	T A	this:B	1848
+Old_Norse	non	this		ˈθesːi	ˈθ e sː i	8esi	T V S V	D E S I	this:B	1848
+Old_Norse	non	this		sjaː	s j aː	sya	S J V	S J A	this:B	1848
+Icelandic	isl	this		ˈθɛsːɪ	ˈθ ɛ sː ɪ	8Esi	T V S V	D E S I	this:B	1848
+Faroese	fao	this		ˈhɛʰtːa	ˈh ɛʰ tː a	hEh~ta	H V T V	H E T A	this:B	1848
+Norwegian_Riksmal	nor	this		ˈdɛ̀nːə	ˈd ɛ̀ nː ə	dEn3	T V N V	T E N E	this:B	1848
+Stavangersk		this		ˈdɛ̀nːə	ˈd ɛ̀ nː ə	dEn3	T V N V	T E N E	this:B	1848
+Old_Swedish		this		ˈθænːe	ˈθ æ nː e	8Ene	T V N V	D E N E	this:B	1848
+Swedish	swe	this		dɛn	d ɛ n	dEn	T V N	T E N	this:B	1848
+Elfdalian	qov	this		ˈɪ̀tːɑð	ˈɪ̀ tː ɑ ð	ita8	V T V T	I T A D	this:B	1848
+Danish	dan	this		ˈd̥ɛnə	ˈd̥ ɛ n ə	dEn3	T V N V	T E N E	this:B	1848
+Danish_Fjolde		this		dænʲ_heæɹ	d æ nʲ h eæ ɹ	dEny~heEr	T V N H V R	T E N H E R	this:B	1848
+Gutnish_Lau		this		dɛnː_hɛːr	d ɛ nː h ɛː r	dEnhEr	T V N H V R	T E N H E R	this:B	1848
+English	eng	this		ðɪs	ð ɪ s	8is	T V S	D I S	this:B	1848
+Dutch	nld	this		dezə	d e z ə	dez3	T V S V	T E S E	this:B	1848
+German	deu	this		di:s	d i: s	dis	T V S	T I S	this:B	1848
+Latin	lat	this		hik	h i k	hik	H V K	H I K	this:F	1850
+Old_Irish	sga	this		sə	s ə	s3	S V	S E	this:B	1848
+Greek_Anc	grc	two		dýo	d yo	do	T V	T Y	two:A	1925
+Greek_Mod	ell	two		ˈðiˌo̞	ˈð i ˌo̞	8io	T V V	D I U	two:A	1925
+Ossetic_Iron	oss	two		dywɐ	d y w ɐ	diwa	T V W V	T Y W E	two:A	1925
+Ossetic_Digor	oss	two		duwɐ	d u w ɐ	duwa	T V W V	T Y W E	two:A	1925
+Oriya	ori	two		dui	d ui	dui	T V	T Y	two:A	1925
+Bihari	mai	two		du	d u	du	T V	T Y	two:A	1925
+Urdu	urd	two		d̪o	d̪ o	do	T V	T U	two:A	1925
+Marathi	mar	two		don	d o n	don	T V N	T U N	two:A	1925
+Old_Church_Slavonic	chu	two		dʊ̆vɑ	d ʊ̆ v ɑ	duva	T V W V	T Y B A	two:A	1925
+Serbo-Croatian	srp	two		dvâː	d v âː	dva	T W V	T B A	two:A	1925
+Bulgarian	bul	two		dva	d v a	dva	T W V	T B A	two:A	1925
+Macedonian	mkd	two		dva	d v a	dva	T W V	T B A	two:A	1925
+Russian	rus	two		dva	d v a	dva	T W V	T B A	two:A	1925
+Polish	pol	two		dva	d v a	dva	T W V	T B A	two:A	1925
+Belarusian	bel	two		dva	d v a	dva	T W V	T B A	two:A	1925
+Ukrainian	ukr	two		dʋa	d ʋ a	dwa	T W V	T W A	two:A	1925
+Slovak	slk	two		dva	d v a	dva	T W V	T B A	two:A	1925
+Czech	ces	two		dva	d v a	dva	T W V	T B A	two:A	1925
+Sorbian_Upper	hsb	two		dwaj	d w a j	dway	T W V J	T W A J	two:A	1925
+Sorbian_Lower	dsb	two		dwa	d w a	dwa	T W V	T W A	two:A	1925
+Slovenian	slv	two		dvâː	d v âː	dva	T W V	T B A	two:A	1925
+Old_Norse	non	two		tvɛir	t v ɛi r	tvEir	T W V R	T B E R	two:A	1925
+Icelandic	isl	two		tveiːr	t v eiː r	tveir	T W V R	T B E R	two:A	1925
+Faroese	fao	two		tʰvaiːɹ	tʰ v aiː ɹ	th~vair	T W V R	T B A R	two:A	1925
+Norwegian_Riksmal	nor	two		tuː	t uː	tu	T V	T Y	two:A	1925
+Stavangersk		two		tuː	t uː	tu	T V	T Y	two:A	1925
+Old_Swedish		two		tveːr	t v eː r	tver	T W V R	T B E R	two:A	1925
+Swedish	swe	two		tvo:	t v o:	tvo	T W V	T B U	two:A	1925
+Elfdalian	qov	two		twɔː	t w ɔː	two	T W V	T W U	two:A	1925
+Danish	dan	two		d̥ʰoˀ	d̥ʰ oˀ	"dh~o"""	T V	T U	two:A	1925
+Danish_Fjolde		two		tuo	t uo	tuo	T V	T Y	two:A	1925
+Gutnish_Lau		two		tvɑː	t v ɑː	tva	T W V	T B A	two:A	1925
+English	eng	two		tu:	t u:	tu	T V	T Y	two:A	1925
+Dutch	nld	two		twe	t w e	twe	T W V	T W E	two:A	1925
+German	deu	two		t͜svaĭ	t͜s v a ĭ	tsvai	K W V V	C B A I	two:A	1925
+Latin	lat	two		ˈduo	ˈd uo	duo	T V	T Y	two:A	1925
+Catalan	cat	two		dos	d o s	dos	T V S	T U S	two:A	1925
+Portuguese	por	two		doiʃ	d oi ʃ	doiS	T V S	T U S	two:A	1925
+Spanish	spa	two		dos	d o s	dos	T V S	T U S	two:A	1925
+French	fra	two		dø	d ø	de	T V	T U	two:A	1925
+Italian	ita	two		due	d ue	due	T V	T Y	two:A	1925
+Old_Irish	sga	two		da:	d a:	da	T V	T A	two:A	1925
+Greek_Anc	grc	water		hýdɔːr	h y d ɔː r	hdor	H V T V R	H Y T U R	water:B	1977
+Greek_Mod	ell	water		ne̞ˈro̞	n e̞ ˈr o̞	nero	N V R V	N E R U	water:G	1981
+Ossetic_Iron	oss	water		don	d o n	don	T V N	T U N	water:B	1977
+Ossetic_Digor	oss	water		don	d o n	don	T V N	T U N	water:B	1977
+Oriya	ori	water		paɳi	p a ɳ i	pani	P V N V	P A N I	water:D	1978
+Bihari	mai	water		pain	p ai n	pain	P V N	P A N	water:D	1978
+Urdu	urd	water		pɑni	p ɑ n i	pani	P V N V	P A N I	water:D	1978
+Marathi	mar	water		oaɳi:	oa ɳ i:	oani	V N V	U N I	water:D	1978
+Old_Church_Slavonic	chu	water		vɔdɑ	v ɔ d ɑ	voda	W V T V	B U T A	water:B	1977
+Serbo-Croatian	srp	water		ˈvɔ̌da	ˈv ɔ̌ d a	voda	W V T V	B U T A	water:B	1977
+Bulgarian	bul	water		vuda	v u d a	vuda	W V T V	B Y T A	water:B	1977
+Macedonian	mkd	water		ˈvoda	ˈv o d a	voda	W V T V	B U T A	water:B	1977
+Russian	rus	water		vɔda	v ɔ d a	voda	W V T V	B U T A	water:B	1977
+Polish	pol	water		ˈvɔda	ˈv ɔ d a	voda	W V T V	B U T A	water:B	1977
+Belarusian	bel	water		vaˈda	v a ˈd a	vada	W V T V	B A T A	water:B	1977
+Ukrainian	ukr	water		ʋɔˈda	ʋ ɔ ˈd a	woda	W V T V	W U T A	water:B	1977
+Slovak	slk	water		ˈvɔda	ˈv ɔ d a	voda	W V T V	B U T A	water:B	1977
+Czech	ces	water		ˈvɔda	ˈv ɔ d a	voda	W V T V	B U T A	water:B	1977
+Sorbian_Upper	hsb	water		ˈwɔda	ˈw ɔ d a	woda	W V T V	W U T A	water:B	1977
+Sorbian_Lower	dsb	water		ˈwɘ̟da	ˈw ɘ̟ d a	w3da	W V T V	W E T A	water:B	1977
+Slovenian	slv	water		ˈvɔ̌ːda	ˈv ɔ̌ː d a	voda	W V T V	B U T A	water:B	1977
+Old_Norse	non	water		vatn	v a t n	vatn	W V T N	B A T N	water:B	1977
+Icelandic	isl	water		vaʰtn̥	v aʰ t n̥	vah~tn	W V T N	B A T N	water:B	1977
+Faroese	fao	water		vaʰtn̥	v aʰ t n̥	vah~tn	W V T N	B A T N	water:B	1977
+Norwegian_Riksmal	nor	water		ʋanː	ʋ a nː	wan	W V N	W A N	water:B	1977
+Stavangersk		water		ˈʋatːn̩	ˈʋ a tː n̩	watn	W V T N	W A T N	water:B	1977
+Old_Swedish		water		vatn	v a t n	vatn	W V T N	B A T N	water:B	1977
+Swedish	swe	water		ˈvatːən	ˈv a tː ə n	vat3n	W V T V N	B A T E N	water:B	1977
+Elfdalian	qov	water		wɑ́tːn̩	w ɑ́ tː n̩	watn	W V T N	W A T N	water:B	1977
+Danish	dan	water		vanˀ	v a nˀ	"van"""	W V N	B A N	water:B	1977
+Danish_Fjolde		water		vanʲ	v a nʲ	vany~	W V N	B A N	water:B	1977
+Gutnish_Lau		water		vatːn	v a tː n	vatn	W V T N	B A T N	water:B	1977
+English	eng	water		wɔ:tə	w ɔ: t ə	wot3	W V T V	W U T E	water:B	1977
+Dutch	nld	water		watər	w a t ə r	wat3r	W V T V R	W A T E R	water:B	1977
+German	deu	water		vasɐ	v a s ɐ	vasa	W V S V	B A S E	water:B	1977
+Latin	lat	water		ˈakʷa	ˈa kʷ a	akw~a	V K V	A K A	water:E	1979
+Catalan	cat	water		ajɣwə	a j ɣ w ə	ayxw3	V J K W V	A J G W E	water:E	1979
+Portuguese	por	water		ˈaɡwɐ	ˈa ɡ w ɐ	agwa	V K W V	A K W E	water:E	1979
+Spanish	spa	water		aɣwa	a ɣ w a	axwa	V K W V	A G W A	water:E	1979
+French	fra	water		o	o	o	V	U	water:E	1979
+Italian	ita	water		akkwa	a kk w a	akkwa	V K W V	A K W A	water:E	1979
+Old_Irish	sga	water		doβur	d o β u r	dobur	T V P V R	T U B Y R	water:F	1980
+Old_Irish	sga	water		usʹkʹe	u sʹ kʹ e	uske	V S K V	Y S K E	water:B	1977

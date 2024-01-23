@@ -1,0 +1,685 @@
+ID	DOCULECT	CONCEPT	IPA	TOKENS	COGID	SOURCE_COGNATE_CLASS	CLPA	CONCEPTICON_ID	GLOTTOLOG
+4200	Ingrian	I	miæ	m i æ	2293	U-I-a	241 1076 1087	1209	ingr1248
+4204	Komi-Permyak	I	me	m e	2293	U-I-a	241 1089	1209	komi1269
+4205	Komi-Zyrian	I	me	m e	2293	U-I-a	241 1089	1209	komi1268
+4211	Nganasan	I	mənə	m ə n ə	2293	U-I-a	241 1022 107 1022	1209	ngan1291
+4223	Selkup	I	mɑn	m ɑ n	2293	U-I-a	241 952 107	1209	selk1253
+4233	Udmurt	I	mon	m o n	2293	U-I-a	241 887 107	1209	udmu1245
+4190	Erzya	I	mon	m o n	2293	U-I-a	241 887 107	1209	erzy1239
+14	Erzya	all	veɕe	v e ɕ e	2296	U-all-e	451 1089 204 1089	98	erzy1239
+24	Ingrian	all	kɑi	k ɑ i	2294	U-all-a	838 952 1076	98	ingr1248
+27	Komi-Permyak	all	bɯdɤs	b ɯ d ɤ s	2297	U-all-g	257 944 145 947 89	98	komi1269
+28	Komi-Zyrian	all	bɯd	b ɯ d	2297	U-all-g	257 944 145	98	komi1268
+29	Komi-Zyrian	all	stɑv	s t ɑ v	2300	U-all-k	89 120 952 451	98	komi1268
+37	Nganasan	all	bənsə	b ə n s ə	2296	U-all-e	257 1022 107 89 1022	98	ngan1291
+50	Selkup	all	muntə	m u n t ə	2301	U-all-l	241 868 107 120 1022	98	selk1253
+56	Udmurt	all	vɑɲmɯz	v ɑ ɲ m ɯ z	2302	U-all-m	451 952 595 241 944 80	98	udmu1245
+201	Erzya	ashes	kulov	k u l o v	2336	U-ashes-i	838 868 554 887 451	646	erzy1239
+210	Ingrian	ashes	poro	p o r o	2330	U-ashes-b	291 887 153 887	646	ingr1248
+213	Komi-Permyak	ashes	pɤjim	p ɤ j i m	2333	U-ashes-f	291 947 570 1076 241	646	komi1269
+214	Komi-Zyrian	ashes	pɤjim	p ɤ j i m	2333	U-ashes-f	291 947 570 1076 241	646	komi1268
+220	Nganasan	ashes	tuː_dʲoəʔ	t uː _ dʲ o ə ʔ	2337	U-ashes-j	120 860 1190 129 887 1022 409	646	ngan1291
+232	Selkup	ashes	ɕiːmə	ɕ iː m ə	2335	U-ashes-h	204 1068 241 1022	646	selk1253
+239	Udmurt	ashes	peɲ	p e ɲ	2333	U-ashes-f	291 1089 595	646	udmu1245
+408	Erzya	because	ɕeks	ɕ e k s	2360	U-because-b	204 1089 838 89	1157	erzy1239
+409	Erzya	because	ɕeks_meks	ɕ e k s _ m e k s	2360	U-because-g	204 1089 838 89 1190 241 1089 838 89	1157	erzy1239
+416	Ingrian	because	sentæː	s e n t æː	2	U-because-b	89 1089 107 120 1088	1157	ingr1248
+417	Ingrian	because	sentæː	s e n t æː	2	U-because-f	89 1089 107 120 1088	1157	ingr1248
+418	Ingrian	because	sem_peræst	s e m _ p e r æ s t	2363	U-because-i	89 1089 241 1190 291 1089 153 1087 89 120	1157	ingr1248
+421	Komi-Permyak	because	ɕiʥ_kɯʥ	ɕ i dʑ _ k ɯ dʑ	2369	U-because-q	204 1076 197 1190 838 944 197	1157	komi1269
+422	Komi-Permyak	because	dɑ	d ɑ	2368	U-because-o	145 952	1157	komi1269
+423	Komi-Zyrian	because	sɯ_pondɑ	s ɯ _ p o n d ɑ	2359	U-because-d	89 944 1190 291 887 107 145 952	1157	komi1268
+424	Komi-Zyrian	because	sɯ_vɤsnɑ	s ɯ _ v ɤ s n ɑ	2364	U-because-j	89 944 1190 451 947 89 107 952	1157	komi1268
+431	Nganasan	because	ɲiːðə	ɲ iː ð ə	2367	U-because-m	595 1068 419 1022	1157	ngan1291
+432	Nganasan	because	suəbəsɯ	s u ə b ə s ɯ	2370	U-because-r	89 868 1022 257 1022 89 944	1157	ngan1291
+463	Udmurt	because	mɑlɯ_ke_ʃuono	m ɑ l ɯ _ k e _ ʃ u o n o	2365	U-because-k	241 952 554 944 1190 838 1089 1190 683 868 887 107 887	1157	udmu1245
+560	Erzya	big	pokʃ	p o k ʃ	2389	U-big-h	291 887 838 683	1202	erzy1239
+569	Ingrian	big	suːr	s uː r	2385	U-big-a	89 860 153	1202	ingr1248
+573	Komi-Permyak	big	ɯʤɯt	ɯ dʒ ɯ t	2388	U-big-g	944 655 944 120	1202	komi1269
+574	Komi-Zyrian	big	ɯʤɯd	ɯ dʒ ɯ d	2388	U-big-g	944 655 944 145	1202	komi1268
+582	Nganasan	big	ɑniʔə	ɑ n i ʔ ə	2393	U-big-m	952 107 1076 409 1022	1202	ngan1291
+599	Selkup	big	uə̠rqə	u ə̠ r q ə	2391	U-big-k	868 1019 153 757 1022	1202	selk1253
+607	Udmurt	big	bɑʥʥɯm	b ɑ dʑ dʑ ɯ m	2392	U-big-l	257 952 197 197 944 241	1202	udmu1245
+628	Erzya	bird	nɑrmuɲ	n ɑ r m u ɲ	2395	U-bird-b	107 952 153 241 868 595	937	erzy1239
+637	Ingrian	bird	lind̥u	l i n d̥ u	2394	U-bird-a	554 1076 107 109 868	937	ingr1248
+642	Komi-Permyak	bird	kɑj	k ɑ j	2403	U-bird-l	838 952 570	937	komi1269
+643	Komi-Zyrian	bird	kitsɑ	k i t s ɑ	2397	U-bird-d	838 1076 120 89 952	937	komi1268
+644	Komi-Zyrian	bird	lebɑʨ	l e b ɑ tɕ	2398	U-bird-e	554 1089 257 952 200	937	komi1268
+650	Nganasan	bird	təibəː	t ə i b əː	2402	U-bird-k	120 1022 1076 257 845	937	ngan1291
+662	Selkup	bird	tilʧəti_suːrəm	t i l tʃ ə t i _ s uː r ə m	2402	U-bird-k	120 1076 554 651 1022 120 1076 1190 89 860 153 1022 241	937	selk1253
+663	Selkup	bird	suːrəm	s uː r ə m	2400	U-bird-h	89 860 153 1022 241	937	selk1253
+669	Udmurt	bird	tɯloburdo	t ɯ l o b u r d o	2401	U-bird-i	120 944 554 887 257 868 153 145 887	937	udmu1245
+686	Erzya	black	rɑuʒo	r ɑ u ʒ o	2405	U-black-c	153 952 868 685 887	163	erzy1239
+694	Ingrian	black	mustɑ	m u s t ɑ	2404	U-black-a	241 868 89 120 952	163	ingr1248
+698	Komi-Permyak	black	ɕɤd	ɕ ɤ d	2407	U-black-e	204 947 145	163	komi1269
+699	Komi-Zyrian	black	ɕɤd	ɕ ɤ d	2407	U-black-e	204 947 145	163	komi1268
+707	Nganasan	black	tusɑjkɑʔɑ	t u s ɑ j k ɑ ʔ ɑ	2410	U-black-i	120 868 89 952 570 838 952 409 952	163	ngan1291
+721	Selkup	black	sæːqə	s æː q ə	2409	U-black-h	89 1088 757 1022	163	selk1253
+728	Udmurt	black	ɕɤd	ɕ ɤ d	2407	U-black-e	204 947 145	163	udmu1245
+746	Erzya	blood	verʲ	v e rʲ	2411	U-blood-a	451 1089 164	946	erzy1239
+754	Ingrian	blood	veri	v e r i	2411	U-blood-a	451 1089 153 1076	946	ingr1248
+758	Komi-Permyak	blood	vir	v i r	2411	U-blood-a	451 1076 153	946	komi1269
+759	Komi-Zyrian	blood	vir	v i r	2411	U-blood-a	451 1076 153	946	komi1268
+765	Nganasan	blood	kɑm	k ɑ m	2413	U-blood-c	838 952 241	946	ngan1291
+778	Selkup	blood	kɤm	k ɤ m	2413	U-blood-c	838 947 241	946	selk1253
+786	Udmurt	blood	vir	v i r	2411	U-blood-a	451 1076 153	946	udmu1245
+812	Ingrian	blow	puhɑd̥ɑ	p u h ɑ d̥ ɑ	5	U-blow-a	291 868 405 952 109 952	175	ingr1248
+815	Komi-Permyak	blow	pɤʎtnɯ	p ɤ ʎ t n ɯ	5	U-blow-c	291 947 588 120 107 944	175	komi1269
+816	Komi-Zyrian	blow	pɤʎɑlnɯ	p ɤ ʎ ɑ l n ɯ	5	U-blow-c	291 947 588 952 554 107 944	175	komi1268
+820	Nganasan	blow	hyələsɑ	h y ə l ə s ɑ	4	U-blow-b	405 1047 1022 554 1022 89 952	175	ngan1291
+835	Selkup	blow	puː	p uː	5	U-blow-b	291 860	175	selk1253
+841	Udmurt	blow	peʎtɯnɯ	p e ʎ t ɯ n ɯ	5	U-blow-c	291 1089 588 120 944 107 944	175	udmu1245
+842	Udmurt	blow	tɤlɑnɯ	t ɤ l ɑ n ɯ	2417	U-blow-d	120 947 554 952 107 944	175	udmu1245
+805	Erzya	blow	puvɑms	p u v ɑ m s	5	U-blow-b	291 868 451 952 241 89	175	erzy1239
+861	Erzya	bone	lovɑʒɑ	l o v ɑ ʒ ɑ	2418	U-bone-a	554 887 451 952 685 952	1394	erzy1239
+862	Erzya	bone	pɑkɑrʲ	p ɑ k ɑ rʲ	2419	U-bone-d	291 952 838 952 164	1394	erzy1239
+872	Ingrian	bone	luː	l uː	2418	U-bone-a	554 860	1394	ingr1248
+875	Komi-Permyak	bone	lɯ	l ɯ	2418	U-bone-a	554 944	1394	komi1269
+876	Komi-Permyak	bone	koskɑ	k o s k ɑ	2420	U-bone-f	838 887 89 838 952	1394	komi1269
+877	Komi-Zyrian	bone	lɯ	l ɯ	2418	U-bone-a	554 944	1394	komi1268
+882	Nganasan	bone	lɑtəː	l ɑ t əː	2418	U-bone-a	554 952 120 845	1394	ngan1291
+894	Selkup	bone	lɯː	l ɯː	2418	U-bone-a	554 946	1394	selk1253
+900	Udmurt	bone	lɯ	l ɯ	2418	U-bone-a	554 944	1394	udmu1245
+1015	Erzya	burn	pɑloms	p ɑ l o m s	2436	U-burn-a	291 952 554 887 241 89	2102	erzy1239
+1025	Ingrian	burn	pɑlˑɑː	p ɑ lː ɑː	2436	U-burn-a	291 952 545 954	2102	ingr1248
+1029	Komi-Permyak	burn	soʨʨɯnɯ	s o tɕ tɕ ɯ n ɯ	2440	U-burn-d	89 887 200 200 944 107 944	2102	komi1269
+1030	Komi-Zyrian	burn	lomɑvnɯ	l o m ɑ v n ɯ	2438	U-burn-c	554 887 241 952 451 107 944	2102	komi1268
+1031	Komi-Zyrian	burn	sotʲʨɯnɯ	s o tʲ tɕ ɯ n ɯ	2440	U-burn-d	89 887 115 200 944 107 944	2102	komi1268
+1052	Selkup	burn	ɑm	ɑ m	2443	U-burn-j	952 241	2102	selk1253
+1059	Udmurt	burn	ʤuɑnɯ	dʒ u ɑ n ɯ	2440	U-burn-e	655 868 952 107 944	2102	udmu1245
+1076	Erzya	cloud	peʎ	p e ʎ	2444	U-cloud-a	291 1089 588	1489	erzy1239
+1087	Ingrian	cloud	pilvi	p i l v i	2444	U-cloud-a	291 1076 554 451 1076	1489	ingr1248
+1092	Komi-Permyak	cloud	kɯmɤr	k ɯ m ɤ r	2445	U-cloud-b	838 944 241 947 153	1489	komi1269
+1093	Komi-Zyrian	cloud	kɯmɤr	k ɯ m ɤ r	2445	U-cloud-b	838 944 241 947 153	1489	komi1268
+1099	Nganasan	cloud	ʧiəðu	tʃ i ə ð u	7	U-cloud-d	651 1076 1022 419 868	1489	ngan1291
+1112	Selkup	cloud	tiːttə	t iː t t ə	7	U-cloud-d	120 1068 120 120 1022	1489	selk1253
+1118	Udmurt	cloud	piʎem	p i ʎ e m	2444	U-cloud-a	291 1076 588 1089 241	1489	udmu1245
+1088	Ingrian	cloud	tuːtˑsɑ	t uː tː s ɑ	7	U-cloud-c	120 860 130 89 952	1489	ingr1248
+1077	Erzya	cloud	kovol	k o v o l	2445	U-cloud-b	838 887 451 887 554	1489	erzy1239
+1257	Erzya	count	lovoms	l o v o m s	8	U-count-b	554 887 451 887 241 89	1420	erzy1239
+1265	Ingrian	count	lɑskiɑ	l ɑ s k i ɑ	2462	U-count-a	554 952 89 838 1076 952	1420	ingr1248
+1268	Komi-Permyak	count	lɯdʲdʲɯnɯ	l ɯ dʲ dʲ ɯ n ɯ	2463	U-count-b	554 944 129 129 944 107 944	1420	komi1269
+1269	Komi-Zyrian	count	lɯdʲdʲɯnɯ	l ɯ dʲ dʲ ɯ n ɯ	2463	U-count-b	554 944 129 129 944 107 944	1420	komi1268
+1275	Nganasan	count	tuəbtusɑ	t u ə b t u s ɑ	2464	U-count-e	120 868 1022 257 120 868 89 952	1420	ngan1291
+1287	Selkup	count	toːr	t oː r	9	U-count-e	120 880 153	1420	selk1253
+1295	Udmurt	count	lɯʥʥɯnɯ	l ɯ dʑ dʑ ɯ n ɯ	2463	U-count-b	554 944 197 197 944 107 944	1420	udmu1245
+1702	Erzya	dry	koɕke	k o ɕ k e	2516	U-dry-c	838 887 204 838 1089	1398	erzy1239
+1716	Komi-Permyak	dry	kɤs	k ɤ s	2516	U-dry-d	838 947 89	1398	komi1269
+1717	Komi-Zyrian	dry	kos	k o s	2516	U-dry-d	838 887 89	1398	komi1268
+1721	Nganasan	dry	koɕyə	k o ɕ y ə	2516	U-dry-c	838 887 204 1047 1022	1398	ngan1291
+1732	Selkup	dry	ʧɤkə	tʃ ɤ k ə	2519	U-dry-g	651 947 838 1022	1398	selk1253
+1738	Udmurt	dry	kɤs	k ɤ s	2516	U-dry-d	838 947 89	1398	udmu1245
+1711	Ingrian	dry	kuivɑ	k u i v ɑ	2514	U-dry-a	838 868 1076 451 952	1398	ingr1248
+1759	Erzya	dull	noʃkɑ	n o ʃ k ɑ	2520	U-dull-b	107 887 683 838 952	1397	erzy1239
+1768	Ingrian	dull	nyrhi	n y r h i	2520	U-dull-b	107 1047 153 405 1076	1397	ingr1248
+1772	Komi-Zyrian	dull	nɯʒ	n ɯ ʒ	2520	U-dull-b	107 944 685	1397	komi1268
+1777	Nganasan	dull	tɯɑməː	t ɯ ɑ m əː	2526	U-dull-p	120 944 952 241 845	1397	ngan1291
+1790	Selkup	dull	qɑmələʎ	q ɑ m ə l ə ʎ	2524	U-dull-l	757 952 241 1022 554 1022 588	1397	selk1253
+1798	Udmurt	dull	nɯʒ	n ɯ ʒ	2520	U-dull-b	107 944 685	1397	udmu1245
+1815	Erzya	dust	puʎ	p u ʎ	2536	U-dust-s	291 868 588	2	erzy1239
+1816	Erzya	dust	ʧeʎke	tʃ e ʎ k e	2531	U-dust-i	651 1089 588 838 1089	2	erzy1239
+1825	Ingrian	dust	pølly	p ø l l y	2527	U-dust-a	291 1052 554 554 1047	2	ingr1248
+1828	Komi-Permyak	dust	bus	b u s	2530	U-dust-h	257 868 89	2	komi1269
+1829	Komi-Zyrian	dust	bus	b u s	2530	U-dust-h	257 868 89	2	komi1268
+1834	Nganasan	dust	dʲɑŋ	dʲ ɑ ŋ	12	U-dust-s	129 952 801	2	ngan1291
+1835	Nganasan	dust	ʎiʎə	ʎ i ʎ ə	2537	U-dust-t	588 1076 588 1022	2	ngan1291
+1853	Selkup	dust	punɑ	p u n ɑ	2534	U-dust-n	291 868 107 952	2	selk1253
+1860	Udmurt	dust	tuzon	t u z o n	2535	U-dust-o	120 868 80 887 107	2	udmu1245
+2062	Erzya	egg	ɑl	ɑ l	2549	U-egg-b	952 554	744	erzy1239
+2070	Ingrian	egg	munɑ	m u n ɑ	2548	U-egg-a	241 868 107 952	744	ingr1248
+2075	Komi-Permyak	egg	koʎtʲ	k o ʎ tʲ	2550	U-egg-c	838 887 588 115	744	komi1269
+2076	Komi-Zyrian	egg	koʎk	k o ʎ k	2550	U-egg-c	838 887 588 838	744	komi1268
+2081	Nganasan	egg	mənu	m ə n u	2548	U-egg-a	241 1022 107 868	744	ngan1291
+2092	Selkup	egg	eŋ	e ŋ	2553	U-egg-h	1089 801	744	selk1253
+2098	Udmurt	egg	puz	p u z	2551	U-egg-d	291 868 80	744	udmu1245
+2134	Nganasan	eye	ɕejmɯ	ɕ e j m ɯ	2554	U-eye-a	204 1089 570 241 944	1248	ngan1291
+2114	Erzya	eye	ɕeʎme	ɕ e ʎ m e	2554	U-eye-a	204 1089 588 241 1089	1248	erzy1239
+2123	Ingrian	eye	silmæ	s i l m æ	2554	U-eye-a	89 1076 554 241 1087	1248	ingr1248
+2127	Komi-Permyak	eye	ɕin	ɕ i n	2554	U-eye-a	204 1076 107	1248	komi1269
+2128	Komi-Zyrian	eye	ɕin	ɕ i n	2554	U-eye-a	204 1076 107	1248	komi1268
+2147	Selkup	eye	sɑji	s ɑ j i	2554	U-eye-a	89 952 570 1076	1248	selk1253
+2154	Udmurt	eye	ɕin	ɕ i n	2554	U-eye-a	204 1076 107	1248	udmu1245
+2180	Ingrian	fall	tokkuɑ	t o k k u ɑ	2563	U-fall-p	120 887 838 838 868 952	1280	ingr1248
+2212	Udmurt	fall	uɕɯnɯ	u ɕ ɯ n ɯ	2558	U-fall-j	868 204 944 107 944	1280	udmu1245
+2171	Erzya	fall	prɑms	p r ɑ m s	2556	U-fall-h	291 153 952 241 89	1280	erzy1239
+2184	Komi-Permyak	fall	uɕnɯ	u ɕ n ɯ	2558	U-fall-j	868 204 107 944	1280	komi1269
+2185	Komi-Zyrian	fall	uɕnɯ	u ɕ n ɯ	2558	U-fall-j	868 204 107 944	1280	komi1268
+2190	Nganasan	fall	ʧəlhdʲi	tʃ ə l h dʲ i	2561	U-fall-n	651 1022 554 405 129 1076	1280	ngan1291
+2191	Nganasan	fall	sohədʲɑ	s o h ə dʲ ɑ	2564	U-fall-q	89 887 405 1022 129 952	1280	ngan1291
+2206	Selkup	fall	ɑːlʨə	ɑː l tɕ ə	2562	U-fall-o	954 554 200 1022	1280	selk1253
+2238	Ingrian	far	ettæːl	e t t æː l	2565	U-far-b	1089 120 120 1088 554	1406	ingr1248
+2244	Komi-Zyrian	far	ɯlɯn	ɯ l ɯ n	2569	U-far-g	944 554 944 107	1406	komi1268
+2228	Erzya	far	vɑsolo	v ɑ s o l o	2566	U-far-d	451 952 89 887 554 887	1406	erzy1239
+2243	Komi-Permyak	far	ɯlɯn	ɯ l ɯ n	2569	U-far-g	944 554 944 107	1406	komi1269
+2250	Nganasan	far	kuntəgunu	k u n t ə ɡ u n u	2570	U-far-m	838 868 107 120 1022 831 868 107 868	1406	ngan1291
+2265	Selkup	far	kuntɑk	k u n t ɑ k	2570	U-far-m	838 868 107 120 952 838	1406	selk1253
+2272	Udmurt	far	kɯdʲokɯn	k ɯ dʲ o k ɯ n	2570	U-far-h	838 944 129 887 838 944 107	1406	udmu1245
+2300	Ingrian	father	ætti	æ t t i	2582	U-father-k	1087 120 120 1076	1217	ingr1248
+2288	Erzya	father	tʲetʲɑ	tʲ e tʲ ɑ	2575	U-father-c	115 1089 115 952	1217	erzy1239
+2303	Komi-Permyak	father	ɑj	ɑ j	2578	U-father-f	952 570	1217	komi1269
+2304	Komi-Zyrian	father	bɑtʲ	b ɑ tʲ	2577	U-father-e	257 952 115	1217	komi1268
+2305	Komi-Zyrian	father	ɑj	ɑ j	2578	U-father-f	952 570	1217	komi1268
+2311	Nganasan	father	dʲesɯ	dʲ e s ɯ	2574	U-father-a	129 1089 89 944	1217	ngan1291
+2326	Selkup	father	ɤsə	ɤ s ə	2574	U-father-a	947 89 1022	1217	selk1253
+2334	Udmurt	father	ɑjɯ	ɑ j ɯ	2578	U-father-f	952 570 944	1217	udmu1245
+2335	Udmurt	father	bubɯ	b u b ɯ	2580	U-father-i	257 868 257 944	1217	udmu1245
+2352	Erzya	fear	peʎems	p e ʎ e m s	18	U-fear-a	291 1089 588 1089 241 89	1419	erzy1239
+2364	Ingrian	fear	pølæd̥æ	p ø l æ d̥ æ	18	U-fear-b	291 1052 554 1087 109 1087	1419	ingr1248
+2365	Ingrian	fear	hervid̥æ	h e r v i d̥ æ	2590	U-fear-i	405 1089 153 451 1076 109 1087	1419	ingr1248
+2368	Komi-Permyak	fear	povnɯ	p o v n ɯ	2583	U-fear-a	291 887 451 107 944	1419	komi1269
+2369	Komi-Zyrian	fear	povnɯ	p o v n ɯ	2583	U-fear-a	291 887 451 107 944	1419	komi1268
+2376	Nganasan	fear	hɯlɯmsɯ	h ɯ l ɯ m s ɯ	17	U-fear-a	405 944 554 944 241 89 944	1419	ngan1291
+2391	Selkup	fear	enə	e n ə	2589	U-fear-h	1089 107 1022	1419	selk1253
+2399	Udmurt	fear	kɯʃkɑnɯ	k ɯ ʃ k ɑ n ɯ	16	U-fear-e	838 944 683 838 952 107 944	1419	udmu1245
+2400	Udmurt	fear	kurdɑnɯ	k u r d ɑ n ɯ	16	U-fear-f	838 868 153 145 952 107 944	1419	udmu1245
+2559	Erzya	fire	tol	t o l	2608	U-fire-a	120 887 554	221	erzy1239
+2568	Ingrian	fire	tuli	t u l i	2608	U-fire-a	120 868 554 1076	221	ingr1248
+2572	Komi-Permyak	fire	bi	b i	2609	U-fire-c	257 1076	221	komi1269
+2579	Nganasan	fire	tuj	t u j	2608	U-fire-a	120 868 570	221	ngan1291
+2592	Selkup	fire	tyː	t yː	2608	U-fire-a	120 1049	221	selk1253
+2599	Udmurt	fire	tɯl	t ɯ l	2608	U-fire-a	120 944 554	221	udmu1245
+2573	Komi-Zyrian	fire	bi	b i	2609	U-fire-c	257 1076	221	komi1268
+2617	Erzya	fish	kɑl	k ɑ l	2613	U-fish-a	838 952 554	227	erzy1239
+2625	Ingrian	fish	kɑlɑ	k ɑ l ɑ	2613	U-fish-a	838 952 554 952	227	ingr1248
+2628	Komi-Permyak	fish	ʨeri	tɕ e r i	2614	U-fish-b	200 1089 153 1076	227	komi1269
+2629	Komi-Zyrian	fish	ʨeri	tɕ e r i	2614	U-fish-b	200 1089 153 1076	227	komi1268
+2636	Nganasan	fish	kolɯ	k o l ɯ	2613	U-fish-a	838 887 554 944	227	ngan1291
+2649	Selkup	fish	quə̠lə	q u ə̠ l ə	2613	U-fish-a	757 868 1019 554 1022	227	selk1253
+2657	Udmurt	fish	ʨorɯg	tɕ o r ɯ ɡ	2614	U-fish-b	200 887 153 944 831	227	udmu1245
+2675	Erzya	five	vetʲe	v e tʲ e	2615	U-five-a	451 1089 115 1089	493	erzy1239
+2684	Ingrian	five	viːz	v iː z	2615	U-five-a	451 1068 80	493	ingr1248
+2688	Komi-Permyak	five	vit	v i t	2615	U-five-a	451 1076 120	493	komi1269
+2689	Komi-Zyrian	five	vit	v i t	2615	U-five-a	451 1076 120	493	komi1268
+2694	Nganasan	five	səŋhəʎɑŋkə	s ə ŋ h ə ʎ ɑ ŋ k ə	2616	U-five-b	89 1022 801 405 1022 588 952 801 838 1022	493	ngan1291
+2708	Selkup	five	sompəlɑŋqə	s o m p ə l ɑ ŋ q ə	2616	U-five-b	89 887 241 291 1022 554 952 801 757 1022	493	selk1253
+2714	Udmurt	five	vitʲ	v i tʲ	2615	U-five-a	451 1076 115	493	udmu1245
+2729	Erzya	float	ukʃnoms	u k ʃ n o m s	2619	U-float-l	868 838 683 107 887 241 89	1574	erzy1239
+2740	Komi-Permyak	float	ujjɯnɯ	u j j ɯ n ɯ	2624	U-float-t	868 570 570 944 107 944	1574	komi1269
+2741	Komi-Zyrian	float	ʃlɯvgɯnɯ	ʃ l ɯ v ɡ ɯ n ɯ	2617	U-float-g	683 554 944 451 831 944 107 944	1574	komi1268
+2745	Nganasan	float	dʲɑmbiɕɑ	dʲ ɑ m b i ɕ ɑ	2626	U-float-w	129 952 241 257 1076 204 952	1574	ngan1291
+2746	Nganasan	float	kudʲusɑ	k u dʲ u s ɑ	2627	U-float-x	838 868 129 868 89 952	1574	ngan1291
+2760	Selkup	float	quːrə	q uː r ə	2623	U-float-q	757 860 153 1022	1574	selk1253
+2766	Udmurt	float	lejkɑnɯ	l e j k ɑ n ɯ	2620	U-float-m	554 1089 570 838 952 107 944	1574	udmu1245
+2931	Komi-Permyak	fly	lebɑvnɯ	l e b ɑ v n ɯ	2651	U-fly-e	554 1089 257 952 451 107 944	1441	komi1269
+2920	Erzya	fly	ʎivtʲɑms	ʎ i v tʲ ɑ m s	2649	U-fly-c	588 1076 451 115 952 241 89	1441	erzy1239
+2928	Ingrian	fly	lentæː	l e n t æː	2648	U-fly-a	554 1089 107 120 1088	1441	ingr1248
+2932	Komi-Zyrian	fly	lebɑvnɯ	l e b ɑ v n ɯ	2651	U-fly-e	554 1089 257 952 451 107 944	1441	komi1268
+2937	Nganasan	fly	təirɕi	t ə i r ɕ i	2653	U-fly-h	120 1022 1076 153 204 1076	1441	ngan1291
+2951	Selkup	fly	tiː	t iː	2653	U-fly-h	120 1068	1441	selk1253
+2958	Udmurt	fly	lobɯnɯ	l o b ɯ n ɯ	2651	U-fly-e	554 887 257 944 107 944	1441	udmu1245
+3001	Nganasan	fog	kəku	k ə k u	2664	U-fog-r	838 1022 838 868	249	ngan1291
+2978	Erzya	fog	suv	s u v	2663	U-fog-q	89 868 451	249	erzy1239
+2979	Erzya	fog	tumɑn	t u m ɑ n	23	U-fog-p	120 868 241 952 107	249	erzy1239
+2989	Ingrian	fog	sumu	s u m u	2654	U-fog-a	89 868 241 868	249	ingr1248
+2990	Ingrian	fog	ud̥u	u d̥ u	2655	U-fog-b	868 109 868	249	ingr1248
+2991	Ingrian	fog	tomɑkkɑ	t o m ɑ k k ɑ	23	U-fog-o	120 887 241 952 838 838 952	249	ingr1248
+2995	Komi-Permyak	fog	tumɑn	t u m ɑ n	23	U-fog-q	120 868 241 952 107	249	komi1269
+2996	Komi-Zyrian	fog	ru	r u	2657	U-fog-h	153 868	249	komi1268
+3015	Selkup	fog	ʨɑptu	tɕ ɑ p t u	2660	U-fog-m	200 952 291 120 868	249	selk1253
+3024	Udmurt	fog	bus	b u s	2658	U-fog-i	257 868 89	249	udmu1245
+3315	Erzya	good	pɑro	p ɑ r o	2693	U-good-b	291 952 153 887	1035	erzy1239
+3325	Ingrian	good	hyvæ	h y v æ	2692	U-good-a	405 1047 451 1087	1035	ingr1248
+3332	Komi-Permyak	good	bur	b u r	2693	U-good-b	257 868 153	1035	komi1269
+3333	Komi-Zyrian	good	bur	b u r	2693	U-good-b	257 868 153	1035	komi1268
+3334	Komi-Zyrian	good	ʃɑɲ	ʃ ɑ ɲ	2695	U-good-e	683 952 595	1035	komi1268
+3342	Nganasan	good	ɲɑgəː	ɲ ɑ ɡ əː	2701	U-good-k	595 952 831 845	1035	ngan1291
+3355	Selkup	good	somɑ	s o m ɑ	2699	U-good-i	89 887 241 952	1035	selk1253
+3363	Udmurt	good	umoj	u m o j	2696	U-good-f	868 241 887 570	1035	udmu1245
+3364	Udmurt	good	ʥeʨ	dʑ e tɕ	2697	U-good-g	197 1089 200	1035	udmu1245
+3382	Erzya	grass	tʲikʃe	tʲ i k ʃ e	2702	U-grass-d	115 1076 838 683 1089	606	erzy1239
+3390	Ingrian	grass	roho	r o h o	2707	U-grass-j	153 887 405 887	606	ingr1248
+3393	Komi-Permyak	grass	turun	t u r u n	2704	U-grass-f	120 868 153 868 107	606	komi1269
+3400	Nganasan	grass	ɲotə	ɲ o t ə	2706	U-grass-i	595 887 120 1022	606	ngan1291
+3413	Selkup	grass	ɲuːʧə	ɲ uː tʃ ə	2706	U-grass-i	595 860 651 1022	606	selk1253
+3419	Udmurt	grass	turɯn	t u r ɯ n	2704	U-grass-f	120 868 153 944 107	606	udmu1245
+3394	Komi-Zyrian	grass	turun	t u r u n	2704	U-grass-f	120 868 153 868 107	606	komi1268
+3701	Nganasan	hear	dʲindiɕi	dʲ i n d i ɕ i	2733	U-hear-c	129 1076 107 145 1076 204 1076	1408	ngan1291
+3680	Erzya	hear	kuʎems	k u ʎ e m s	2732	U-hear-a	838 868 588 1089 241 89	1408	erzy1239
+3681	Erzya	hear	mɑrʲɑms	m ɑ rʲ ɑ m s	2734	U-hear-d	241 952 164 952 241 89	1408	erzy1239
+3689	Ingrian	hear	kuːllɑ	k uː l l ɑ	2732	U-hear-a	838 860 554 554 952	1408	ingr1248
+3695	Komi-Permyak	hear	kɯvnɯ	k ɯ v n ɯ	2732	U-hear-a	838 944 451 107 944	1408	komi1269
+3696	Komi-Zyrian	hear	kɯvnɯ	k ɯ v n ɯ	2732	U-hear-a	838 944 451 107 944	1408	komi1268
+3714	Selkup	hear	yntə	y n t ə	26	U-hear-c	1047 107 120 1022	1408	selk1253
+3721	Udmurt	hear	kɯlɯnɯ	k ɯ l ɯ n ɯ	2732	U-hear-a	838 944 554 944 107 944	1408	udmu1245
+3778	Udmurt	heart	ɕulem	ɕ u l e m	2735	U-heart-a	204 868 554 1089 241	1223	udmu1245
+3739	Erzya	heart	ɕedʲej	ɕ e dʲ e j	2735	U-heart-a	204 1089 129 1089 570	1223	erzy1239
+3748	Ingrian	heart	syæn	s y æ n	2735	U-heart-a	89 1047 1087 107	1223	ingr1248
+3751	Komi-Permyak	heart	ɕɤlɤm	ɕ ɤ l ɤ m	2735	U-heart-a	204 947 554 947 241	1223	komi1269
+3752	Komi-Zyrian	heart	ɕɤlɤm	ɕ ɤ l ɤ m	2735	U-heart-a	204 947 554 947 241	1223	komi1268
+3757	Nganasan	heart	səː	s əː	2735	U-heart-a	89 845	1223	ngan1291
+3770	Selkup	heart	siːʨə	s iː tɕ ə	2735	U-heart-a	89 1068 200 1022	1223	selk1253
+4129	Komi-Permyak	husband	muʒik	m u ʒ i k	2791	U-husband-r	241 868 685 1076 838	1200	komi1269
+4130	Komi-Permyak	husband	ɑjkɑ	ɑ j k ɑ	2788	U-husband-l	952 570 838 952	1200	komi1269
+4131	Komi-Permyak	husband	ʒɤnik	ʒ ɤ n i k	2790	U-husband-q	685 947 107 1076 838	1200	komi1269
+4132	Komi-Zyrian	husband	verɤs	v e r ɤ s	2785	U-husband-h	451 1089 153 947 89	1200	komi1268
+4138	Nganasan	husband	bəbə_ʧərə	b ə b ə _ tʃ ə r ə	2793	U-husband-u	257 1022 257 1022 1190 651 1022 153 1022	1200	ngan1291
+4139	Nganasan	husband	kuədʲumu	k u ə dʲ u m u	2787	U-husband-k	838 868 1022 129 868 241 868	1200	ngan1291
+4160	Selkup	husband	tipi	t i p i	2789	U-husband-n	120 1076 291 1076	1200	selk1253
+4171	Udmurt	husband	kɑrt	k ɑ r t	2786	U-husband-i	838 952 153 120	1200	udmu1245
+4124	Ingrian	husband	meːz	m eː z	2782	U-husband-a	241 1091 80	1200	ingr1248
+4110	Erzya	husband	mirʲdʲe	m i rʲ dʲ e	2783	U-husband-f	241 1076 164 129 1089	1200	erzy1239
+4362	Erzya	kill	mɑʃtoms	m ɑ ʃ t o m s	2804	U-kill-e	241 952 683 120 887 241 89	1417	erzy1239
+4363	Erzya	kill	ʧɑvoms	tʃ ɑ v o m s	2805	U-kill-f	651 952 451 887 241 89	1417	erzy1239
+4375	Ingrian	kill	surmɑd̥ɑ	s u r m ɑ d̥ ɑ	2809	U-kill-k	89 868 153 241 952 109 952	1417	ingr1248
+4387	Nganasan	kill	kotudʲɑ	k o t u dʲ ɑ	2807	U-kill-h	838 887 120 868 129 952	1417	ngan1291
+4406	Selkup	kill	quə̠t	q u ə̠ t	2807	U-kill-h	757 868 1019 120	1417	selk1253
+4414	Udmurt	kill	viɯnɯ	v i ɯ n ɯ	2808	U-kill-i	451 1076 944 107 944	1417	udmu1245
+4379	Komi-Permyak	kill	vijnɯ	v i j n ɯ	2808	U-kill-i	451 1076 570 107 944	1417	komi1269
+4380	Komi-Zyrian	kill	kulɤdnɯ	k u l ɤ d n ɯ	2807	U-kill-h	838 868 554 947 145 107 944	1417	komi1268
+4381	Komi-Zyrian	kill	vijnɯ	v i j n ɯ	2808	U-kill-i	451 1076 570 107 944	1417	komi1268
+4553	Erzya	lake	erʲke	e rʲ k e	29	U-lake-a	1089 164 838 1089	624	erzy1239
+4559	Ingrian	lake	jærvi	j æ r v i	2823	U-lake-a	570 1087 153 451 1076	624	ingr1248
+4565	Komi-Permyak	lake	tɯ	t ɯ	2824	U-lake-b	120 944	624	komi1269
+4566	Komi-Zyrian	lake	tɯ	t ɯ	2824	U-lake-b	120 944	624	komi1268
+4572	Nganasan	lake	turku	t u r k u	2824	U-lake-b	120 868 153 838 868	624	ngan1291
+4584	Selkup	lake	toː	t oː	2824	U-lake-b	120 880	624	selk1253
+4593	Udmurt	lake	tɯ	t ɯ	2824	U-lake-b	120 944	624	udmu1245
+4608	Erzya	laugh	pejdʲems	p e j dʲ e m s	2828	U-laugh-d	291 1089 570 129 1089 241 89	1355	erzy1239
+4609	Erzya	laugh	rɑkɑms	r ɑ k ɑ m s	2834	U-laugh-k	153 952 838 952 241 89	1355	erzy1239
+4621	Ingrian	laugh	nɑgrɑː	n ɑ ɡ r ɑː	2827	U-laugh-a	107 952 831 153 954	1355	ingr1248
+4625	Komi-Permyak	laugh	serɑvnɯ	s e r ɑ v n ɯ	2830	U-laugh-f	89 1089 153 952 451 107 944	1355	komi1269
+4626	Komi-Zyrian	laugh	ɕerɑvnɯ	ɕ e r ɑ v n ɯ	2830	U-laugh-f	204 1089 153 952 451 107 944	1355	komi1268
+4631	Nganasan	laugh	hidʲiɕi	h i dʲ i ɕ i	30	U-laugh-i	405 1076 129 1076 204 1076	1355	ngan1291
+4643	Selkup	laugh	pisəj	p i s ə j	2833	U-laugh-i	291 1076 89 1022 570	1355	selk1253
+4649	Udmurt	laugh	ɕerekjɑnɯ	ɕ e r e k j ɑ n ɯ	2830	U-laugh-f	204 1089 153 1089 838 570 952 107 944	1355	udmu1245
+4667	Erzya	leaf	lopɑ	l o p ɑ	2836	U-leaf-b	554 887 291 952	628	erzy1239
+4679	Ingrian	leaf	lehti	l e h t i	2835	U-leaf-a	554 1089 405 120 1076	628	ingr1248
+4682	Komi-Permyak	leaf	kor	k o r	2838	U-leaf-d	838 887 153	628	komi1269
+4683	Komi-Zyrian	leaf	ʎis	ʎ i s	2837	U-leaf-c	588 1076 89	628	komi1268
+4684	Komi-Zyrian	leaf	kor	k o r	2838	U-leaf-d	838 887 153	628	komi1268
+4690	Nganasan	leaf	horɑðiɑj	h o r ɑ ð i ɑ j	2841	U-leaf-h	405 887 153 952 419 1076 952 570	628	ngan1291
+4706	Selkup	leaf	ʨɑːpə	tɕ ɑː p ə	2840	U-leaf-g	200 954 291 1022	628	selk1253
+4714	Udmurt	leaf	kuɑr	k u ɑ r	2838	U-leaf-d	838 868 952 153	628	udmu1245
+4796	Erzya	lie down	mɑdʲeʑ_ɑʃtʲems	m ɑ dʲ e ʑ _ ɑ ʃ tʲ e m s	2852	U-lie down-g	241 952 129 1089 203 1190 952 683 115 1089 241 89	215	erzy1239
+4809	Komi-Permyak	lie down	kujlɯnɯ	k u j l ɯ n ɯ	2853	U-lie down-h	838 868 570 554 944 107 944	215	komi1269
+4810	Komi-Zyrian	lie down	kujlɯnɯ	k u j l ɯ n ɯ	2853	U-lie down-h	838 868 570 554 944 107 944	215	komi1268
+4814	Nganasan	lie down	toɲdʲiɑjʧisɯ	t o ɲ dʲ i ɑ j tʃ i s ɯ	2857	U-lie down-p	120 887 595 129 1076 952 570 651 1076 89 944	215	ngan1291
+4828	Selkup	lie down	ippi	i p p i	2855	U-lie down-l	1076 291 291 1076	215	selk1253
+4835	Udmurt	lie down	kɯʎʎɯnɯ	k ɯ ʎ ʎ ɯ n ɯ	2853	U-lie down-h	838 944 588 588 944 107 944	215	udmu1245
+4979	Erzya	long	kuvɑkɑ	k u v ɑ k ɑ	2864	U-long-b	838 868 451 952 838 952	1203	erzy1239
+4988	Ingrian	long	pitki	p i t k i	2863	U-long-a	291 1076 120 838 1076	1203	ingr1248
+4993	Komi-Permyak	long	kuʑ	k u ʑ	2865	U-long-c	838 868 203	1203	komi1269
+5001	Nganasan	long	kuntgu	k u n t ɡ u	2867	U-long-f	838 868 107 120 831 868	1203	ngan1291
+5014	Selkup	long	ʨumpu	tɕ u m p u	2866	U-long-d	200 868 241 291 868	1203	selk1253
+5021	Udmurt	long	kuʑ	k u ʑ	2865	U-long-c	838 868 203	1203	udmu1245
+4994	Komi-Zyrian	long	kuʑ	k u ʑ	2865	U-long-c	838 868 203	1203	komi1268
+5037	Erzya	louse	eʎi	e ʎ i	2869	U-louse-b	1089 588 1076	1392	erzy1239
+5048	Ingrian	louse	tæi	t æ i	2868	U-louse-a	120 1087 1076	1392	ingr1248
+5051	Komi-Permyak	louse	toj	t o j	2868	U-louse-a	120 887 570	1392	komi1269
+5052	Komi-Zyrian	louse	toj	t o j	2868	U-louse-a	120 887 570	1392	komi1268
+5074	Udmurt	louse	tej	t e j	2868	U-louse-a	120 1089 570	1392	udmu1245
+5068	Selkup	louse	unʧu	u n tʃ u	2870	U-louse-d	868 107 651 868	1392	selk1253
+5092	Erzya	many	lɑmo	l ɑ m o	2872	U-many-i	554 952 241 887	1198	erzy1239
+5102	Ingrian	many	moni	m o n i	2871	U-many-a	241 887 107 1076	1198	ingr1248
+5105	Komi-Permyak	many	unɑ	u n ɑ	2874	U-many-k	868 107 952	1198	komi1269
+5106	Komi-Zyrian	many	unɑ	u n ɑ	2874	U-many-k	868 107 952	1198	komi1268
+5113	Nganasan	many	ŋuŋkəgə	ŋ u ŋ k ə ɡ ə	2879	U-many-p	801 868 801 838 1022 831 1022	1198	ngan1291
+5130	Selkup	many	koʨʨə	k o tɕ tɕ ə	2880	U-many-q	838 887 200 200 1022	1198	selk1253
+5136	Udmurt	many	tros	t r o s	2877	U-many-n	120 153 887 89	1198	udmu1245
+5157	Erzya	meat (flesh)	siveʎ	s i v e ʎ	2882	U-meat (flesh)-d	89 1076 451 1089 588	634	erzy1239
+5171	Ingrian	meat (flesh)	lihɑ	l i h ɑ	2881	U-meat (flesh)-a	554 1076 405 952	634	ingr1248
+5176	Komi-Permyak	meat (flesh)	jɑi	j ɑ i	2884	U-meat (flesh)-f	570 952 1076	634	komi1269
+5177	Komi-Zyrian	meat (flesh)	jɑi	j ɑ i	2884	U-meat (flesh)-f	570 952 1076	634	komi1268
+5182	Nganasan	meat (flesh)	ɕɑhɯ	ɕ ɑ h ɯ	2888	U-meat (flesh)-l	204 952 405 944	634	ngan1291
+5197	Selkup	meat (flesh)	uə̠ʨə	u ə̠ tɕ ə	2887	U-meat (flesh)-k	868 1019 200 1022	634	selk1253
+5206	Udmurt	meat (flesh)	siʎ	s i ʎ	2882	U-meat (flesh)-d	89 1076 588	634	udmu1245
+5221	Erzya	moon	kov	k o v	2889	U-moon-a	838 887 451	1313	erzy1239
+5228	Ingrian	moon	kuː	k uː	2889	U-moon-a	838 860	1313	ingr1248
+5229	Komi-Permyak	moon	tɤliɕ	t ɤ l i ɕ	2890	U-moon-c	120 947 554 1076 204	1313	komi1269
+5230	Komi-Zyrian	moon	tɤlɯɕ	t ɤ l ɯ ɕ	2890	U-moon-c	120 947 554 944 204	1313	komi1268
+5235	Nganasan	moon	kiʧəðəː	k i tʃ ə ð əː	2889	U-moon-a	838 1076 651 1022 419 845	1313	ngan1291
+5251	Selkup	moon	iræ	i r æ	2893	U-moon-f	1076 153 1087	1313	selk1253
+5257	Udmurt	moon	toleʑ	t o l e ʑ	2890	U-moon-c	120 887 554 1089 203	1313	udmu1245
+5349	Komi-Permyak	mountain	kerɤs	k e r ɤ s	2912	U-mountain-g	838 1089 153 947 89	639	komi1269
+5350	Komi-Zyrian	mountain	ʨoj	tɕ o j	2907	U-mountain-f	200 887 570	639	komi1268
+5355	Nganasan	mountain	bəru	b ə r u	2914	U-mountain-r	257 1022 153 868	639	ngan1291
+5381	Udmurt	mountain	gureʑ	ɡ u r e ʑ	2912	U-mountain-g	831 868 153 1089 203	639	udmu1245
+5335	Erzya	mountain	pɑndo	p ɑ n d o	2905	U-mountain-d	291 952 107 145 887	639	erzy1239
+5371	Selkup	mountain	qɤː	q ɤː	2912	U-mountain-l	757 949	639	selk1253
+5399	Erzya	mouth	kurgo	k u r ɡ o	2916	U-mouth-c	838 868 153 831 887	674	erzy1239
+5413	Komi-Permyak	mouth	ɤm	ɤ m	2918	U-mouth-e	947 241	674	komi1269
+5414	Komi-Zyrian	mouth	vom	v o m	2918	U-mouth-e	451 887 241	674	komi1268
+5420	Nganasan	mouth	ŋɑŋ	ŋ ɑ ŋ	2918	U-mouth-e	801 952 801	674	ngan1291
+5434	Selkup	mouth	ɑːŋ	ɑː ŋ	2918	U-mouth-e	954 801	674	selk1253
+5442	Udmurt	mouth	ɯm	ɯ m	2918	U-mouth-e	944 241	674	udmu1245
+5409	Ingrian	mouth	suː	s uː	2915	U-mouth-a	89 860	674	ingr1248
+5519	Erzya	narrow	tʲejiɲe	tʲ e j i ɲ e	2924	U-narrow-i	115 1089 570 1076 595 1089	1267	erzy1239
+5534	Komi-Permyak	narrow	ʥeskɯt	dʑ e s k ɯ t	2932	U-narrow-u	197 1089 89 838 944 120	1267	komi1269
+5535	Komi-Zyrian	narrow	vekɲi	v e k ɲ i	2926	U-narrow-k	451 1089 838 595 1076	1267	komi1268
+5536	Komi-Zyrian	narrow	ottɤm	o t t ɤ m	2927	U-narrow-l	887 120 120 947 241	1267	komi1268
+5543	Nganasan	narrow	ɕikyə	ɕ i k y ə	2934	U-narrow-w	204 1076 838 1047 1022	1267	ngan1291
+5562	Selkup	narrow	ʨuə̠sə	tɕ u ə̠ s ə	2930	U-narrow-r	200 868 1019 89 1022	1267	selk1253
+5570	Udmurt	narrow	ɕubeg	ɕ u b e ɡ	2931	U-narrow-t	204 868 257 1089 831	1267	udmu1245
+5531	Ingrian	narrow	kɑid̥ɑ	k ɑ i d̥ ɑ	2922	U-narrow-b	838 952 1076 109 952	1267	ingr1248
+5542	Nganasan	narrow	ɲeu	ɲ e u	2933	U-narrow-v	595 1089 868	1267	ngan1291
+5585	Erzya	near	mɑlɑso	m ɑ l ɑ s o	2937	U-near-e	241 952 554 952 89 887	1942	erzy1239
+5592	Ingrian	near	lig̊i	l i ɡ̥ i	2936	U-near-b	554 1076 824 1076	1942	ingr1248
+5595	Komi-Permyak	near	mɑtɯn	m ɑ t ɯ n	2938	U-near-f	241 952 120 944 107	1942	komi1269
+5596	Komi-Zyrian	near	mɑtɯn	m ɑ t ɯ n	2938	U-near-f	241 952 120 944 107	1942	komi1268
+5600	Nganasan	near	kɑdʲɑ	k ɑ dʲ ɑ	2945	U-near-p	838 952 129 952	1942	ngan1291
+5601	Nganasan	near	nogɑʔʎuky	n o ɡ ɑ ʔ ʎ u k y	2946	U-near-q	107 887 831 952 409 588 868 838 1047	1942	ngan1291
+5616	Selkup	near	ʧɑʧæ	tʃ ɑ tʃ æ	2942	U-near-l	651 952 651 1087	1942	selk1253
+5623	Udmurt	near	mɑtɯn	m ɑ t ɯ n	2938	U-near-f	241 952 120 944 107	1942	udmu1245
+5821	Erzya	nose	sudo	s u d o	2964	U-nose-b	89 868 145 887	1221	erzy1239
+5830	Ingrian	nose	nenæ	n e n æ	2963	U-nose-a	107 1089 107 1087	1221	ingr1248
+5839	Nganasan	nose	ŋyŋkə	ŋ y ŋ k ə	2968	U-nose-g	801 1047 801 838 1022	1221	ngan1291
+5852	Selkup	nose	puʨə	p u tɕ ə	2967	U-nose-f	291 868 200 1022	1221	selk1253
+5857	Udmurt	nose	nɯr	n ɯ r	2965	U-nose-c	107 944 153	1221	udmu1245
+5833	Komi-Permyak	nose	nɯr	n ɯ r	2965	U-nose-c	107 944 153	1221	komi1269
+5834	Komi-Zyrian	nose	nɯr	n ɯ r	2965	U-nose-c	107 944 153	1221	komi1268
+5877	Erzya	not	ɑ	ɑ	2969	U-not-a	952	1240	erzy1239
+5888	Ingrian	not	ei	e i	2969	U-not-a	1089 1076	1240	ingr1248
+5893	Komi-Permyak	not	ɑbu	ɑ b u	2969	U-not-a	952 257 868	1240	komi1269
+5895	Komi-Zyrian	not	oz	o z	2969	U-not-a	887 80	1240	komi1268
+5903	Nganasan	not	ɲisɯ	ɲ i s ɯ	35	U-not-a	595 1076 89 944	1240	ngan1291
+5919	Selkup	not	ɑɕɑ	ɑ ɕ ɑ	2969	U-not-a	952 204 952	1240	selk1253
+5926	Udmurt	not	uz	u z	2969	U-not-a	868 80	1240	udmu1245
+5894	Komi-Permyak	not	ɲe	ɲ e	35	U-not-c	595 1089	1240	komi1269
+5941	Erzya	one	vejke	v e j k e	34	U-one-a	451 1089 570 838 1089	1493	erzy1239
+5948	Ingrian	one	yks	y k s	36	U-one-a	1047 838 89	1493	ingr1248
+5952	Komi-Permyak	one	ɤtʲik	ɤ tʲ i k	2971	U-one-a	947 115 1076 838	1493	komi1269
+5953	Komi-Zyrian	one	ɤtʲi	ɤ tʲ i	2971	U-one-a	947 115 1076	1493	komi1268
+5958	Nganasan	one	ŋuʔəiʔ	ŋ u ʔ ə i ʔ	2972	U-one-c	801 868 409 1022 1076 409	1493	ngan1291
+5972	Selkup	one	okkər	o k k ə r	37	U-one-c	887 838 838 1022 153	1493	selk1253
+5978	Udmurt	one	odig	o d i ɡ	2971	U-one-a	887 145 1076 831	1493	udmu1245
+5996	Erzya	other	ombo	o m b o	2975	U-other-e	887 241 257 887	197	erzy1239
+5997	Erzya	other	ʎijɑ	ʎ i j ɑ	2980	U-other-l	588 1076 570 952	197	erzy1239
+6005	Ingrian	other	toin	t o i n	2973	U-other-a	120 887 1076 107	197	ingr1248
+6008	Komi-Permyak	other	mɤd	m ɤ d	2974	U-other-b	241 947 145	197	komi1269
+6009	Komi-Zyrian	other	mɤd	m ɤ d	2974	U-other-b	241 947 145	197	komi1268
+6016	Nganasan	other	hunsəː	h u n s əː	2979	U-other-k	405 868 107 89 845	197	ngan1291
+6017	Nganasan	other	ŋɑmiɑj	ŋ ɑ m i ɑ j	2978	U-other-j	801 952 241 1076 952 570	197	ngan1291
+6033	Selkup	other	ɑːmə	ɑː m ə	2978	U-other-j	954 241 1022	197	selk1253
+6039	Udmurt	other	muket	m u k e t	2974	U-other-b	241 868 838 1089 120	197	udmu1245
+6058	Erzya	person, human	lomɑɲ	l o m ɑ ɲ	2984	U-person, human-f	554 887 241 952 595	683	erzy1239
+6069	Ingrian	person, human	ihmiːn	i h m iː n	2982	U-person, human-a	1076 405 241 1068 107	683	ingr1248
+6070	Ingrian	person, human	henki	h e n k i	2983	U-person, human-b	405 1089 107 838 1076	683	ingr1248
+6071	Ingrian	person, human	elˑæːjæ	e lː æː j æ	2992	U-person, human-r	1089 545 1088 570 1087	683	ingr1248
+6075	Komi-Permyak	person, human	mort	m o r t	2987	U-person, human-i	241 887 153 120	683	komi1269
+6076	Komi-Zyrian	person, human	mort	m o r t	2987	U-person, human-i	241 887 153 120	683	komi1268
+6085	Nganasan	person, human	ŋɑnɑʔsɑ	ŋ ɑ n ɑ ʔ s ɑ	2991	U-person, human-n	801 952 107 952 409 89 952	683	ngan1291
+6099	Selkup	person, human	qum	q u m	2988	U-person, human-k	757 868 241	683	selk1253
+6105	Udmurt	person, human	ɑdʲɑmi	ɑ dʲ ɑ m i	2985	U-person, human-g	952 129 952 241 1076	683	udmu1245
+6106	Udmurt	person, human	murt	m u r t	2987	U-person, human-i	241 868 153 120	683	udmu1245
+6205	Ingrian	pull	temmɑd̥ɑ	t e m m ɑ d̥ ɑ	3003	U-pull-b	120 1089 241 241 952 109 952	1455	ingr1248
+6192	Erzya	pull	uskoms	u s k o m s	3006	U-pull-e	868 89 838 887 241 89	1455	erzy1239
+6204	Ingrian	pull	vetˑæː	v e tː æː	3002	U-pull-a	451 1089 130 1088	1455	ingr1248
+6206	Ingrian	pull	tɑssiɑ	t ɑ s s i ɑ	3010	U-pull-o	120 952 89 89 1076 952	1455	ingr1248
+6209	Komi-Permyak	pull	kɯskɯnɯ	k ɯ s k ɯ n ɯ	3006	U-pull-g	838 944 89 838 944 107 944	1455	komi1269
+6215	Nganasan	pull	ɲɑgəbtɯsɯ	ɲ ɑ ɡ ə b t ɯ s ɯ	3011	U-pull-p	595 952 831 1022 257 120 944 89 944	1455	ngan1291
+6229	Selkup	pull	yː	yː	3009	U-pull-l	1049	1455	selk1253
+6237	Udmurt	pull	kɯskɯnɯ	k ɯ s k ɯ n ɯ	3006	U-pull-g	838 944 89 838 944 107 944	1455	udmu1245
+6210	Komi-Zyrian	pull	kɯskɯnɯ	k ɯ s k ɯ n ɯ	3006	U-pull-g	838 944 89 838 944 107 944	1455	komi1268
+6331	Erzya	rain	piʑems	p i ʑ e m s	3028	U-rain-e	291 1076 203 1089 241 89	658	erzy1239
+6340	Ingrian	rain	sɑe	s ɑ e	3026	U-rain-a	89 952 1089	658	ingr1248
+6341	Ingrian	rain	vihmɑ	v i h m ɑ	3027	U-rain-b	451 1076 405 241 952	658	ingr1248
+6348	Komi-Permyak	rain	zer	z e r	3030	U-rain-g	80 1089 153	658	komi1269
+6349	Komi-Zyrian	rain	zer	z e r	3030	U-rain-g	80 1089 153	658	komi1268
+6355	Nganasan	rain	soruɑ	s o r u ɑ	3026	U-rain-a	89 887 153 868 952	658	ngan1291
+6369	Selkup	rain	sorənʧæ	s o r ə n tʃ æ	3026	U-rain-a	89 887 153 1022 107 651 1087	658	selk1253
+6375	Udmurt	rain	zor	z o r	3030	U-rain-g	80 887 153	658	udmu1245
+6396	Erzya	red	jɑkstʲerʲe	j ɑ k s tʲ e rʲ e	3034	U-red-e	570 952 838 89 115 1089 164 1089	156	erzy1239
+6406	Ingrian	red	punˑɑin	p u nː ɑ i n	3033	U-red-a	291 868 106 952 1076 107	156	ingr1248
+6411	Komi-Zyrian	red	gɤrd	ɡ ɤ r d	3035	U-red-f	831 947 153 145	156	komi1268
+6420	Nganasan	red	dʲɑbɑkuo	dʲ ɑ b ɑ k u o	3040	U-red-l	129 952 257 952 838 868 887	156	ngan1291
+6434	Selkup	red	ɲɑːrqə	ɲ ɑː r q ə	3038	U-red-j	595 954 153 757 1022	156	selk1253
+6441	Udmurt	red	gord	ɡ o r d	3035	U-red-f	831 887 153 145	156	udmu1245
+6410	Komi-Permyak	red	gɤrd	ɡ ɤ r d	3035	U-red-f	831 947 153 145	156	komi1269
+6603	Erzya	root	jur	j u r	3056	U-root-a	570 868 153	670	erzy1239
+6613	Ingrian	root	juːri	j uː r i	3056	U-root-a	570 860 153 1076	670	ingr1248
+6616	Komi-Permyak	root	vuʒ	v u ʒ	3057	U-root-c	451 868 685	670	komi1269
+6617	Komi-Zyrian	root	vuʒ	v u ʒ	3057	U-root-c	451 868 685	670	komi1268
+6622	Nganasan	root	bəntu	b ə n t u	39	U-root-c	257 1022 107 120 868	670	ngan1291
+6635	Selkup	root	konʧə	k o n tʃ ə	40	U-root-c	838 887 107 651 1022	670	selk1253
+6642	Udmurt	root	vɯʒɯ	v ɯ ʒ ɯ	3057	U-root-c	451 944 685 944	670	udmu1245
+6604	Erzya	root	undoks	u n d o k s	38	U-root-c	868 107 145 887 838 89	670	erzy1239
+6605	Erzya	root	korʲon	k o rʲ o n	3058	U-root-d	838 887 164 887 107	670	erzy1239
+6677	Ingrian	rope	køyz	k ø y z	3063	U-rope-a	838 1052 1047 80	1218	ingr1248
+6682	Komi-Permyak	rope	gez	ɡ e z	3063	U-rope-j	831 1089 80	1218	komi1269
+6683	Komi-Zyrian	rope	gez	ɡ e z	3063	U-rope-j	831 1089 80	1218	komi1268
+6690	Nganasan	rope	bɯnɯ	b ɯ n ɯ	3068	U-rope-s	257 944 107 944	1218	ngan1291
+6711	Selkup	rope	ʧeːmʧə	tʃ eː m tʃ ə	3065	U-rope-m	651 1091 241 651 1022	1218	selk1253
+6664	Erzya	rope	piks	p i k s	3061	U-rope-h	291 1076 838 89	1218	erzy1239
+6721	Udmurt	rope	gozɯ	ɡ o z ɯ	3063	U-rope-j	831 887 80 944	1218	udmu1245
+6798	Erzya	rub	ʧovɑms	tʃ o v ɑ m s	3085	U-rub-g	651 887 451 952 241 89	1449	erzy1239
+6799	Erzya	rub	jozɑms	j o z ɑ m s	3086	U-rub-h	570 887 80 952 241 89	1449	erzy1239
+6811	Ingrian	rub	ihmɑd̥ɑ	i h m ɑ d̥ ɑ	3096	U-rub-v	1076 405 241 952 109 952	1449	ingr1248
+6814	Komi-Permyak	rub	zɯrtnɯ	z ɯ r t n ɯ	3087	U-rub-i	80 944 153 120 107 944	1449	komi1269
+6816	Komi-Permyak	rub	tʲoritnɯ	tʲ o r i t n ɯ	3095	U-rub-u	115 887 153 1076 120 107 944	1449	komi1269
+6817	Komi-Zyrian	rub	zɯrɑvnɯ	z ɯ r ɑ v n ɯ	3087	U-rub-i	80 944 153 952 451 107 944	1449	komi1268
+6818	Komi-Zyrian	rub	ɲirɑvnɯ	ɲ i r ɑ v n ɯ	3088	U-rub-j	595 1076 153 952 451 107 944	1449	komi1268
+6824	Nganasan	rub	ɲɑkidʲɑ	ɲ ɑ k i dʲ ɑ	3099	U-rub-z	595 952 838 1076 129 952	1449	ngan1291
+6839	Selkup	rub	pyːqəlʧəkku	p yː q ə l tʃ ə k k u	3091	U-rub-n	291 1049 757 1022 554 651 1022 838 838 868	1449	selk1253
+6847	Udmurt	rub	zɯrɑnɯ	z ɯ r ɑ n ɯ	3087	U-rub-i	80 944 153 952 107 944	1449	udmu1245
+6848	Udmurt	rub	posɯnɯ	p o s ɯ n ɯ	3089	U-rub-k	291 887 89 944 107 944	1449	udmu1245
+6810	Ingrian	rub	heːrojɑ	h eː r o j ɑ	3084	U-rub-a	405 1091 153 887 570 952	1449	ingr1248
+6815	Komi-Permyak	rub	ɲirtnɯ	ɲ i r t n ɯ	3088	U-rub-j	595 1076 153 120 107 944	1449	komi1269
+6866	Erzya	salt	sɑl	s ɑ l	3102	U-salt-g	89 952 554	1274	erzy1239
+6874	Ingrian	salt	soːlɑ	s oː l ɑ	3102	U-salt-f	89 880 554 952	1274	ingr1248
+6877	Komi-Permyak	salt	sov	s o v	3102	U-salt-g	89 887 451	1274	komi1269
+6878	Komi-Zyrian	salt	sov	s o v	3102	U-salt-g	89 887 451	1274	komi1268
+6883	Nganasan	salt	sɯr	s ɯ r	3102	U-salt-c	89 944 153	1274	ngan1291
+6895	Selkup	salt	ɕɑːq	ɕ ɑː q	3101	U-salt-d	204 954 757	1274	selk1253
+6902	Udmurt	salt	sɯlɑl	s ɯ l ɑ l	3102	U-salt-g	89 944 554 952 554	1274	udmu1245
+6971	Erzya	say	jovtɑms	j o v t ɑ m s	3118	U-say-b	570 887 451 120 952 241 89	1458	erzy1239
+6972	Erzya	say	merʲems	m e rʲ e m s	3120	U-say-k	241 1089 164 1089 241 89	1458	erzy1239
+6982	Ingrian	say	sɑnˑoːɑ	s ɑ nː oː ɑ	3117	U-say-a	89 952 106 880 952	1458	ingr1248
+6983	Ingrian	say	verkkɑː	v e r k k ɑː	3129	U-say-v	451 1089 153 838 838 954	1458	ingr1248
+6986	Komi-Permyak	say	viɕtɑvnɯ	v i ɕ t ɑ v n ɯ	3122	U-say-m	451 1076 204 120 952 451 107 944	1458	komi1269
+6987	Komi-Permyak	say	ʃunɯ	ʃ u n ɯ	3123	U-say-n	683 868 107 944	1458	komi1269
+6988	Komi-Zyrian	say	viɕtɑvnɯ	v i ɕ t ɑ v n ɯ	3122	U-say-m	451 1076 204 120 952 451 107 944	1458	komi1268
+6989	Komi-Zyrian	say	ʃunɯ	ʃ u n ɯ	3123	U-say-n	683 868 107 944	1458	komi1268
+6999	Nganasan	say	munsɑ	m u n s ɑ	3121	U-say-l	241 868 107 89 952	1458	ngan1291
+7018	Selkup	say	kɤt	k ɤ t	3127	U-say-s	838 947 120	1458	selk1253
+7026	Udmurt	say	ʃuɯnɯ	ʃ u ɯ n ɯ	3123	U-say-n	683 868 944 107 944	1458	udmu1245
+7027	Udmurt	say	verɑnɯ	v e r ɑ n ɯ	3124	U-say-o	451 1089 153 952 107 944	1458	udmu1245
+7047	Erzya	see	ɲejems	ɲ e j e m s	3130	U-see-a	595 1089 570 1089 241 89	1409	erzy1239
+7056	Ingrian	see	næhhæ	n æ h h æ	3130	U-see-a	107 1087 405 405 1087	1409	ingr1248
+7059	Komi-Permyak	see	ɑʥʥɯnɯ	ɑ dʑ dʑ ɯ n ɯ	3132	U-see-e	952 197 197 944 107 944	1409	komi1269
+7060	Komi-Permyak	see	viʥɤtnɯ	v i dʑ ɤ t n ɯ	3135	U-see-i	451 1076 197 947 120 107 944	1409	komi1269
+7061	Komi-Zyrian	see	ɑʥʥɯnɯ	ɑ dʑ dʑ ɯ n ɯ	3132	U-see-e	952 197 197 944 107 944	1409	komi1268
+7067	Nganasan	see	ŋəðyɕɑ	ŋ ə ð y ɕ ɑ	3136	U-see-j	801 1022 419 1047 204 952	1409	ngan1291
+7068	Nganasan	see	ɕejmɯʔsɯ	ɕ e j m ɯ ʔ s ɯ	3137	U-see-k	204 1089 570 241 944 409 89 944	1409	ngan1291
+7082	Selkup	see	mɑnʧə	m ɑ n tʃ ə	3134	U-see-h	241 952 107 651 1022	1409	selk1253
+7089	Udmurt	see	ɑʥʥɯnɯ	ɑ dʑ dʑ ɯ n ɯ	3132	U-see-e	952 197 197 944 107 944	1409	udmu1245
+7174	Erzya	sew	stɑms	s t ɑ m s	3150	U-sew-c	89 120 952 241 89	1457	erzy1239
+7181	Ingrian	sew	ommellɑ	o m m e l l ɑ	3149	U-sew-a	887 241 241 1089 554 554 952	1457	ingr1248
+7184	Komi-Permyak	sew	vurnɯ	v u r n ɯ	3151	U-sew-d	451 868 153 107 944	1457	komi1269
+7185	Komi-Zyrian	sew	vurnɯ	v u r n ɯ	3151	U-sew-d	451 868 153 107 944	1457	komi1268
+7190	Nganasan	sew	soʧədʲɑ	s o tʃ ə dʲ ɑ	3153	U-sew-f	89 887 651 1022 129 952	1457	ngan1291
+7191	Nganasan	sew	sonsɯdʲi	s o n s ɯ dʲ i	3155	U-sew-h	89 887 107 89 944 129 1076	1457	ngan1291
+7204	Selkup	sew	ɕyːttə	ɕ yː t t ə	3153	U-sew-f	204 1049 120 120 1022	1457	selk1253
+7211	Udmurt	sew	vurɯnɯ	v u r ɯ n ɯ	3151	U-sew-d	451 868 153 944 107 944	1457	udmu1245
+7292	Erzya	sing	morɑms	m o r ɑ m s	3167	U-sing-c	241 887 153 952 241 89	1261	erzy1239
+7302	Ingrian	sing	lɑulɑː	l ɑ u l ɑː	3166	U-sing-a	554 952 868 554 954	1261	ingr1248
+7306	Komi-Permyak	sing	ɕɯvnɯ	ɕ ɯ v n ɯ	3168	U-sing-d	204 944 451 107 944	1261	komi1269
+7307	Komi-Zyrian	sing	ɕɯvnɯ	ɕ ɯ v n ɯ	3168	U-sing-d	204 944 451 107 944	1261	komi1268
+7314	Nganasan	sing	kəjŋiʔɕɑ	k ə j ŋ i ʔ ɕ ɑ	3173	U-sing-o	838 1022 570 801 1076 409 204 952	1261	ngan1291
+7330	Selkup	sing	koʎməʧʧə	k o ʎ m ə tʃ tʃ ə	3172	U-sing-m	838 887 588 241 1022 651 651 1022	1261	selk1253
+7336	Udmurt	sing	kɯrʥɑnɯ	k ɯ r dʑ ɑ n ɯ	3169	U-sing-e	838 944 153 197 952 107 944	1261	udmu1245
+7667	Erzya	smell	ɲikɕems	ɲ i k ɕ e m s	3214	U-smell-e	595 1076 838 204 1089 241 89	1586	erzy1239
+7680	Komi-Permyak	smell	zɯnɑvni	z ɯ n ɑ v n i	3215	U-smell-f	80 944 107 952 451 107 1076	1586	komi1269
+7681	Komi-Zyrian	smell	isɑvnɯ	i s ɑ v n ɯ	44	U-smell-d	1076 89 952 451 107 944	1586	komi1268
+7686	Nganasan	smell	ʧinydʲɑ	tʃ i n y dʲ ɑ	3216	U-smell-h	651 1076 107 1047 129 952	1586	ngan1291
+7700	Selkup	smell	ɑptæptə	ɑ p t æ p t ə	3213	U-smell-d	952 291 120 1087 291 120 1022	1586	selk1253
+7706	Udmurt	smell	zɯnjɑnɯ	z ɯ n j ɑ n ɯ	3215	U-smell-f	80 944 107 570 952 107 944	1586	udmu1245
+7723	Erzya	smoke	kɑʧɑmo	k ɑ tʃ ɑ m o	3218	U-smoke-c	838 952 651 952 241 887	778	erzy1239
+7731	Ingrian	smoke	sɑvvu	s ɑ v v u	3217	U-smoke-a	89 952 451 451 868	778	ingr1248
+7734	Komi-Permyak	smoke	ʧɯn	tʃ ɯ n	3220	U-smoke-e	651 944 107	778	komi1269
+7735	Komi-Zyrian	smoke	ʧɯn	tʃ ɯ n	3220	U-smoke-e	651 944 107	778	komi1268
+7759	Udmurt	smoke	ʧɯn	tʃ ɯ n	3220	U-smoke-e	651 944 107	778	udmu1245
+7740	Nganasan	smoke	dʲɑkɑgə	dʲ ɑ k ɑ ɡ ə	3223	U-smoke-h	129 952 838 952 831 1022	778	ngan1291
+7753	Selkup	smoke	purqə	p u r q ə	3224	U-smoke-j	291 868 153 757 1022	778	selk1253
+7791	Ingrian	smooth	lɑkˑiɑ	l ɑ kː i ɑ	3234	U-smooth-r	554 952 832 1076 952	1234	ingr1248
+7797	Komi-Zyrian	smooth	voʎɯd	v o ʎ ɯ d	3226	U-smooth-e	451 887 588 944 145	1234	komi1268
+7780	Erzya	smooth	vɑlɑɲɑ	v ɑ l ɑ ɲ ɑ	3226	U-smooth-e	451 952 554 952 595 952	1234	erzy1239
+7790	Ingrian	smooth	silˑiːæ	s i lː iː æ	3225	U-smooth-a	89 1076 545 1068 1087	1234	ingr1248
+7796	Komi-Permyak	smooth	voʎkɯt	v o ʎ k ɯ t	3226	U-smooth-e	451 887 588 838 944 120	1234	komi1269
+7798	Komi-Zyrian	smooth	ʃɯʎɯd	ʃ ɯ ʎ ɯ d	3229	U-smooth-h	683 944 588 944 145	1234	komi1268
+7823	Selkup	smooth	lepɑ	l e p ɑ	3232	U-smooth-n	554 1089 291 952	1234	selk1253
+7833	Udmurt	smooth	voʎɯt	v o ʎ ɯ t	3226	U-smooth-e	451 887 588 944 120	1234	udmu1245
+7901	Selkup	snake	ɕyː	ɕ yː	3236	U-snake-b	204 1049	730	selk1253
+7856	Erzya	snake	guj	ɡ u j	3236	U-snake-b	831 868 570	730	erzy1239
+7857	Erzya	snake	jozne	j o z n e	3238	U-snake-g	570 887 80 107 1089	730	erzy1239
+7870	Ingrian	snake	mɑd̥o	m ɑ d̥ o	3237	U-snake-c	241 952 109 887	730	ingr1248
+7871	Ingrian	snake	mɑːhiːn	m ɑː h iː n	3241	U-snake-l	241 954 405 1068 107	730	ingr1248
+7874	Komi-Permyak	snake	zmej	z m e j	3242	U-snake-m	80 241 1089 570	730	komi1269
+7875	Komi-Zyrian	snake	kɯj	k ɯ j	3236	U-snake-b	838 944 570	730	komi1268
+7908	Udmurt	snake	kɯj	k ɯ j	3236	U-snake-b	838 944 570	730	udmu1245
+8055	Erzya	spit	ɕeʎgems	ɕ e ʎ ɡ e m s	3255	U-spit-a	204 1089 588 831 1089 241 89	1440	erzy1239
+8064	Ingrian	spit	sylkiæ	s y l k i æ	3255	U-spit-a	89 1047 554 838 1076 1087	1440	ingr1248
+8067	Komi-Permyak	spit	ɕɤlɑvnɯ	ɕ ɤ l ɑ v n ɯ	3255	U-spit-a	204 947 554 952 451 107 944	1440	komi1269
+8068	Komi-Zyrian	spit	ɕɤlɑvnɯ	ɕ ɤ l ɑ v n ɯ	3255	U-spit-a	204 947 554 952 451 107 944	1440	komi1268
+8072	Nganasan	spit	ɕebɕidʲi	ɕ e b ɕ i dʲ i	3256	U-spit-c	204 1089 257 204 1076 129 1076	1440	ngan1291
+8085	Selkup	spit	syəsə	s y ə s ə	3257	U-spit-d	89 1047 1022 89 1022	1440	selk1253
+8091	Udmurt	spit	ɕɑlɑnɯ	ɕ ɑ l ɑ n ɯ	3255	U-spit-a	204 952 554 952 107 944	1440	udmu1245
+8192	Ingrian	squeeze	ɑhistɑː	ɑ h i s t ɑː	3279	U-squeeze-l	952 405 1076 89 120 954	1414	ingr1248
+8195	Komi-Permyak	squeeze	ʒmitnɯ	ʒ m i t n ɯ	3287	U-squeeze-t	685 241 1076 120 107 944	1414	komi1269
+8196	Komi-Zyrian	squeeze	nɯrnɯ	n ɯ r n ɯ	45	U-squeeze-r	107 944 153 107 944	1414	komi1268
+8197	Komi-Zyrian	squeeze	ʎiʨkɯnɯ	ʎ i tɕ k ɯ n ɯ	3286	U-squeeze-s	588 1076 200 838 944 107 944	1414	komi1268
+8203	Nganasan	squeeze	mebkiɕi	m e b k i ɕ i	3274	U-squeeze-ac	241 1089 257 838 1076 204 1076	1414	ngan1291
+8221	Selkup	squeeze	ɯp	ɯ p	3275	U-squeeze-ae	944 291	1414	selk1253
+8228	Udmurt	squeeze	ɲurɑnɯ	ɲ u r ɑ n ɯ	45	U-squeeze-u	595 868 153 952 107 944	1414	udmu1245
+8229	Udmurt	squeeze	pɑʨkɑtɯnɯ	p ɑ tɕ k ɑ t ɯ n ɯ	3289	U-squeeze-v	291 952 200 838 952 120 944 107 944	1414	udmu1245
+8175	Erzya	squeeze	ʎepʃtʲɑms	ʎ e p ʃ tʲ ɑ m s	3281	U-squeeze-n	588 1089 291 683 115 952 241 89	1414	erzy1239
+8176	Erzya	squeeze	ʧemerʲdʲems	tʃ e m e rʲ dʲ e m s	3282	U-squeeze-o	651 1089 241 1089 164 129 1089 241 89	1414	erzy1239
+8177	Erzya	squeeze	ɕuvordɑms	ɕ u v o r d ɑ m s	3283	U-squeeze-p	204 868 451 887 153 145 952 241 89	1414	erzy1239
+8190	Ingrian	squeeze	puristɑː	p u r i s t ɑː	3276	U-squeeze-g	291 868 153 1076 89 120 954	1414	ingr1248
+8191	Ingrian	squeeze	pig̊istæː	p i ɡ̥ i s t æː	3277	U-squeeze-j	291 1076 824 1076 89 120 1088	1414	ingr1248
+8421	Erzya	stone	cev	c e v	3315	U-stone-a	606 1089 451	857	erzy1239
+8429	Ingrian	stone	kivi	k i v i	3315	U-stone-a	838 1076 451 1076	857	ingr1248
+8433	Komi-Permyak	stone	iz	i z	3316	U-stone-c	1076 80	857	komi1269
+8434	Komi-Zyrian	stone	iz	i z	3316	U-stone-c	1076 80	857	komi1268
+8440	Nganasan	stone	huɑlə	h u ɑ l ə	3318	U-stone-e	405 868 952 554 1022	857	ngan1291
+8453	Selkup	stone	pyː	p yː	47	U-stone-e	291 1049	857	selk1253
+8461	Udmurt	stone	iz	i z	3316	U-stone-c	1076 80	857	udmu1245
+8886	Komi-Permyak	that	sijɑ	s i j ɑ	3367	U-that-b	89 1076 570 952	78	komi1269
+8868	Erzya	that	tonɑ	t o n ɑ	3366	U-that-a	120 887 107 952	78	erzy1239
+8869	Erzya	that	ɕe	ɕ e	3367	U-that-b	204 1089	78	erzy1239
+8883	Ingrian	that	toː	t oː	3366	U-that-a	120 880	78	ingr1248
+8887	Komi-Zyrian	that	tɯ	t ɯ	3366	U-that-a	120 944	78	komi1268
+8888	Komi-Zyrian	that	sijɤ	s i j ɤ	3367	U-that-b	89 1076 570 947	78	komi1268
+8896	Nganasan	that	təti	t ə t i	3370	U-that-i	120 1022 120 1076	78	ngan1291
+8897	Nganasan	that	tɑːniə	t ɑː n i ə	3366	U-that-a	120 954 107 1076 1022	78	ngan1291
+8898	Nganasan	that	tɑkəː	t ɑ k əː	3371	U-that-j	120 952 838 845	78	ngan1291
+8916	Selkup	that	toː	t oː	3366	U-that-a	120 880	78	selk1253
+8927	Udmurt	that	so	s o	3367	U-that-b	89 887	78	udmu1245
+8968	Nganasan	there	əməɲi	ə m ə ɲ i	3374	U-there-d	1022 241 1022 595 1076	1937	ngan1291
+8969	Nganasan	there	təni	t ə n i	3372	U-there-a	120 1022 107 1076	1937	ngan1291
+8944	Erzya	there	toso	t o s o	3372	U-there-a	120 887 89 887	1937	erzy1239
+8945	Erzya	there	ɕese	ɕ e s e	3373	U-there-c	204 1089 89 1089	1937	erzy1239
+8953	Ingrian	there	toːɑl	t oː ɑ l	3372	U-there-a	120 880 952 554	1937	ingr1248
+8959	Komi-Permyak	there	setɤn	s e t ɤ n	3373	U-there-c	89 1089 120 947 107	1937	komi1269
+8960	Komi-Zyrian	there	sen	s e n	3373	U-there-c	89 1089 107	1937	komi1268
+8961	Komi-Zyrian	there	estɤn	e s t ɤ n	49	U-there-d	1089 89 120 947 107	1937	komi1268
+8982	Selkup	there	toːntə	t oː n t ə	3372	U-there-a	120 880 107 120 1022	1937	selk1253
+8988	Udmurt	there	otɯn	o t ɯ n	3375	U-there-e	887 120 944 107	1937	udmu1245
+9007	Erzya	they	siɲ	s i ɲ	3376	U-they-a	89 1076 595	817	erzy1239
+9018	Ingrian	they	høː	h øː	50	U-they-a	405 1050	817	ingr1248
+9023	Komi-Permyak	they	nijɑ	n i j ɑ	3377	U-they-b	107 1076 570 952	817	komi1269
+9024	Komi-Zyrian	they	nɑjɤ	n ɑ j ɤ	3377	U-they-b	107 952 570 947	817	komi1268
+9047	Selkup	they	tepət	t e p ə t	3380	U-they-f	120 1089 291 1022 120	817	selk1253
+9056	Udmurt	they	soos	s o o s	3376	U-they-a	89 887 887 89	817	udmu1245
+9034	Nganasan	they	sɯtɯŋ	s ɯ t ɯ ŋ	3379	U-they-d	89 944 120 944 801	817	ngan1291
+9090	Komi-Permyak	thick	kɯz	k ɯ z	3383	U-thick-e	838 944 80	1244	komi1269
+9091	Komi-Zyrian	thick	kɯz	k ɯ z	3383	U-thick-e	838 944 80	1244	komi1268
+9113	Selkup	thick	ɲɑŋtu	ɲ ɑ ŋ t u	3389	U-thick-m	595 952 801 120 868	1244	selk1253
+9119	Udmurt	thick	zɤk	z ɤ k	3388	U-thick-l	80 947 838	1244	udmu1245
+9075	Erzya	thick	eʧke	e tʃ k e	3384	U-thick-g	1089 651 838 1089	1244	erzy1239
+9086	Ingrian	thick	pɑksu	p ɑ k s u	3381	U-thick-a	291 952 838 89 868	1244	ingr1248
+9269	Erzya	this	tʲe	tʲ e	3413	U-this-a	115 1089	1214	erzy1239
+9280	Ingrian	this	tæmæ	t æ m æ	3413	U-this-a	120 1087 241 1087	1214	ingr1248
+9282	Komi-Permyak	this	etɑ	e t ɑ	3414	U-this-b	1089 120 952	1214	komi1269
+9283	Komi-Zyrian	this	tɑ	t ɑ	3413	U-this-a	120 952	1214	komi1268
+9292	Nganasan	this	əmə	ə m ə	3417	U-this-g	1022 241 1022	1214	ngan1291
+9306	Selkup	this	tɑm	t ɑ m	3413	U-this-a	120 952 241	1214	selk1253
+9314	Udmurt	this	tɑ	t ɑ	3413	U-this-a	120 952	1214	udmu1245
+9284	Komi-Zyrian	this	etɑjɤ	e t ɑ j ɤ	3414	U-this-b	1089 120 952 570 947	1214	komi1268
+9390	Erzya	throw	jortoms	j o r t o m s	3424	U-throw-k	570 887 153 120 887 241 89	1456	erzy1239
+9391	Erzya	throw	kɑjɑms	k ɑ j ɑ m s	3425	U-throw-l	838 952 570 952 241 89	1456	erzy1239
+9403	Ingrian	throw	heittæː	h e i t t æː	3420	U-throw-a	405 1089 1076 120 120 1088	1456	ingr1248
+9406	Komi-Permyak	throw	ʨɑpkɑvnɯ	tɕ ɑ p k ɑ v n ɯ	3436	U-throw-z	200 952 291 838 952 451 107 944	1456	komi1269
+9407	Komi-Permyak	throw	ʃupkɑvnɯ	ʃ u p k ɑ v n ɯ	3421	U-throw-ac	683 868 291 838 952 451 107 944	1456	komi1269
+9408	Komi-Zyrian	throw	kojnɯ	k o j n ɯ	3425	U-throw-l	838 887 570 107 944	1456	komi1268
+9416	Nganasan	throw	bɑjbudʲɑ	b ɑ j b u dʲ ɑ	3422	U-throw-ad	257 952 570 257 868 129 952	1456	ngan1291
+9417	Nganasan	throw	sətəməsɑ	s ə t ə m ə s ɑ	3423	U-throw-ae	89 1022 120 1022 241 1022 89 952	1456	ngan1291
+9439	Selkup	throw	ʨɑʧʧə	tɕ ɑ tʃ tʃ ə	3431	U-throw-t	200 952 651 651 1022	1456	selk1253
+9447	Udmurt	throw	kujɑnɯ	k u j ɑ n ɯ	3425	U-throw-l	838 868 570 952 107 944	1456	udmu1245
+9448	Udmurt	throw	serpɑʎʎɑnɯ	s e r p ɑ ʎ ʎ ɑ n ɯ	3433	U-throw-v	89 1089 153 291 952 588 588 952 107 944	1456	udmu1245
+9409	Komi-Zyrian	throw	ʨɤvtnɯ	tɕ ɤ v t n ɯ	3427	U-throw-n	200 947 451 120 107 944	1456	komi1268
+9470	Erzya	tie	sodoms	s o d o m s	3437	U-tie-a	89 887 145 887 241 89	1917	erzy1239
+9481	Ingrian	tie	sitˑoːɑ	s i tː oː ɑ	3437	U-tie-a	89 1076 130 880 952	1917	ingr1248
+9484	Komi-Permyak	tie	kɤrtɑvnɯ	k ɤ r t ɑ v n ɯ	3439	U-tie-d	838 947 153 120 952 451 107 944	1917	komi1269
+9489	Nganasan	tie	sɑrədʲɑ	s ɑ r ə dʲ ɑ	3443	U-tie-i	89 952 153 1022 129 952	1917	ngan1291
+9506	Selkup	tie	sɑːrə	s ɑː r ə	3443	U-tie-i	89 954 153 1022	1917	selk1253
+9485	Komi-Zyrian	tie	kɤrtɑvnɯ	k ɤ r t ɑ v n ɯ	3439	U-tie-d	838 947 153 120 952 451 107 944	1917	komi1268
+9516	Udmurt	tie	dumɯnɯ	d u m ɯ n ɯ	3440	U-tie-e	145 868 241 944 107 944	1917	udmu1245
+9515	Udmurt	tie	kerttɯnɯ	k e r t t ɯ n ɯ	3439	U-tie-d	838 1089 153 120 120 944 107 944	1917	udmu1245
+9564	Selkup	tongue	ɕeː	ɕ eː	51	U-tongue-a	204 1091	1205	selk1253
+9534	Erzya	tongue	keʎ	k e ʎ	51	U-tongue-a	838 1089 588	1205	erzy1239
+9544	Ingrian	tongue	keːli	k eː l i	51	U-tongue-a	838 1091 554 1076	1205	ingr1248
+9548	Komi-Zyrian	tongue	kɯv	k ɯ v	51	U-tongue-a	838 944 451	1205	komi1268
+9553	Nganasan	tongue	ɕiədʲə	ɕ i ə dʲ ə	51	U-tongue-a	204 1076 1022 129 1022	1205	ngan1291
+9570	Udmurt	tongue	kɯl	k ɯ l	51	U-tongue-a	838 944 554	1205	udmu1245
+9547	Komi-Permyak	tongue	kɯv	k ɯ v	51	U-tongue-a	838 944 451	1205	komi1269
+9646	Erzya	tree	ʧuvto	tʃ u v t o	3451	U-tree-c	651 868 451 120 887	906	erzy1239
+9654	Ingrian	tree	puː	p uː	3450	U-tree-a	291 860	906	ingr1248
+9657	Komi-Permyak	tree	pu	p u	3450	U-tree-a	291 868	906	komi1269
+9665	Nganasan	tree	huɑɑ	h u ɑ ɑ	52	U-tree-a	405 868 952 952	906	ngan1291
+9680	Selkup	tree	poː	p oː	3450	U-tree-a	291 880	906	selk1253
+9687	Udmurt	tree	pis#pu	p i s _ p u	3450	U-tree-a	291 1076 89 1190 291 868	906	udmu1245
+9658	Komi-Zyrian	tree	pu	p u	3450	U-tree-a	291 868	906	komi1268
+9727	Komi-Permyak	turn	bergɤtʨɯnɯ	b e r ɡ ɤ t tɕ ɯ n ɯ	3457	U-turn-h	257 1089 153 831 947 120 200 944 107 944	1588	komi1269
+9755	Selkup	turn	piːkəl	p iː k ə l	3461	U-turn-m	291 1068 838 1022 554	1588	selk1253
+9708	Erzya	turn	purdɑms	p u r d ɑ m s	3455	U-turn-f	291 868 153 145 952 241 89	1588	erzy1239
+9709	Erzya	turn	veʎɑvtoms	v e ʎ ɑ v t o m s	3459	U-turn-j	451 1089 588 952 451 120 887 241 89	1588	erzy1239
+9723	Ingrian	turn	kæːntyæ	k æː n t y æ	3453	U-turn-a	838 1088 107 120 1047 1087	1588	ingr1248
+9728	Komi-Zyrian	turn	bergɑvnɯ	b e r ɡ ɑ v n ɯ	3457	U-turn-h	257 1089 153 831 952 451 107 944	1588	komi1268
+9729	Komi-Zyrian	turn	keʒnɯ	k e ʒ n ɯ	3458	U-turn-i	838 1089 685 107 944	1588	komi1268
+9734	Nganasan	turn	bəbtuɑʔtəsɑ	b ə b t u ɑ ʔ t ə s ɑ	3462	U-turn-p	257 1022 257 120 868 952 409 120 1022 89 952	1588	ngan1291
+9765	Udmurt	turn	berɯktiɕkɯnɯ	b e r ɯ k t i ɕ k ɯ n ɯ	3457	U-turn-h	257 1089 153 944 838 120 1076 204 838 944 107 944	1588	udmu1245
+9783	Erzya	two	kɑvto	k ɑ v t o	3463	U-two-a	838 952 451 120 887	1498	erzy1239
+9791	Ingrian	two	kɑks	k ɑ k s	3463	U-two-a	838 952 838 89	1498	ingr1248
+9794	Komi-Permyak	two	kɯk	k ɯ k	3463	U-two-a	838 944 838	1498	komi1269
+9795	Komi-Zyrian	two	kɯk	k ɯ k	3463	U-two-a	838 944 838	1498	komi1268
+9800	Nganasan	two	ɕiti	ɕ i t i	3463	U-two-a	204 1076 120 1076	1498	ngan1291
+9819	Udmurt	two	kɯk	k ɯ k	3463	U-two-a	838 944 838	1498	udmu1245
+9813	Selkup	two	ɕitə	ɕ i t ə	3463	U-two-a	204 1076 120 1022	1498	selk1253
+9838	Erzya	vomit	uksnoms	u k s n o m s	3464	U-vomit-a	868 838 89 107 887 241 89	1278	erzy1239
+9849	Ingrian	vomit	oksend̥ɑissɑ	o k s e n d̥ ɑ i s s ɑ	3464	U-vomit-a	887 838 89 1089 107 109 952 1076 89 89 952	1278	ingr1248
+9852	Komi-Permyak	vomit	ɤsɤtnɯ	ɤ s ɤ t n ɯ	3464	U-vomit-a	947 89 947 120 107 944	1278	komi1269
+9853	Komi-Zyrian	vomit	vosnɯ	v o s n ɯ	3464	U-vomit-a	451 887 89 107 944	1278	komi1268
+9854	Komi-Zyrian	vomit	gorʥɯnɯ	ɡ o r dʑ ɯ n ɯ	3465	U-vomit-b	831 887 153 197 944 107 944	1278	komi1268
+9878	Selkup	vomit	ttə	tː ə	3467	U-vomit-e	130 1022	1278	selk1253
+9884	Udmurt	vomit	ɤskɯnɯ	ɤ s k ɯ n ɯ	3464	U-vomit-a	947 89 838 944 107 944	1278	udmu1245
+9984	Ingrian	warm	vɑri	v ɑ r i	3487	U-warm-k	451 952 153 1076	1232	ingr1248
+9970	Erzya	warm	ʎembe	ʎ e m b e	3479	U-warm-a	588 1089 241 257 1089	1232	erzy1239
+9983	Ingrian	warm	soːjɑ	s oː j ɑ	3480	U-warm-b	89 880 570 952	1232	ingr1248
+9987	Komi-Permyak	warm	ʃonɯt	ʃ o n ɯ t	3482	U-warm-f	683 887 107 944 120	1232	komi1269
+9988	Komi-Zyrian	warm	ʃonɯd	ʃ o n ɯ d	3482	U-warm-f	683 887 107 944 145	1232	komi1268
+9995	Nganasan	warm	ɲyɲɑ	ɲ y ɲ ɑ	3485	U-warm-i	595 1047 595 952	1232	ngan1291
+9996	Nganasan	warm	hekusɯ	h e k u s ɯ	3489	U-warm-m	405 1089 838 868 89 944	1232	ngan1291
+10011	Selkup	warm	pyː	p yː	3481	U-warm-d	291 1049	1232	selk1253
+10018	Udmurt	warm	ʃunɯt	ʃ u n ɯ t	3482	U-warm-f	683 868 107 944 120	1232	udmu1245
+9982	Ingrian	warm	læmmæː	l æ m m æː	3479	U-warm-a	554 1087 241 241 1088	1232	ingr1248
+10451	Selkup	wing	kuːtə	k uː t ə	3536	U-wing-k	838 860 120 1022	1257	selk1253
+10421	Erzya	wing	ɕolmo	ɕ o l m o	3531	U-wing-d	204 887 554 241 887	1257	erzy1239
+10430	Ingrian	wing	siːb̥i	s iː b̥ i	3529	U-wing-a	89 1068 283 1076	1257	ingr1248
+10433	Komi-Permyak	wing	bord	b o r d	3533	U-wing-f	257 887 153 145	1257	komi1269
+10434	Komi-Zyrian	wing	bord	b o r d	3533	U-wing-f	257 887 153 145	1257	komi1268
+10439	Nganasan	wing	ʧuo	tʃ u o	3530	U-wing-b	651 868 887	1257	ngan1291
+10459	Udmurt	wing	burd	b u r d	3533	U-wing-f	257 868 153 145	1257	udmu1245
+10476	Erzya	wipe	nɑrdɑms	n ɑ r d ɑ m s	3538	U-wipe-d	107 952 153 145 952 241 89	1454	erzy1239
+10485	Ingrian	wipe	pyːhkiæ	p yː h k i æ	3537	U-wipe-a	291 1049 405 838 1076 1087	1454	ingr1248
+10488	Komi-Permyak	wipe	ʨɯʃkɯnɯ	tɕ ɯ ʃ k ɯ n ɯ	3540	U-wipe-f	200 944 683 838 944 107 944	1454	komi1269
+10489	Komi-Zyrian	wipe	ʨɯʃkɯnɯ	tɕ ɯ ʃ k ɯ n ɯ	3540	U-wipe-f	200 944 683 838 944 107 944	1454	komi1268
+10493	Nganasan	wipe	ɲɑkidʲɑ	ɲ ɑ k i dʲ ɑ	3546	U-wipe-o	595 952 838 1076 129 952	1454	ngan1291
+10506	Selkup	wipe	muːsə	m uː s ə	3544	U-wipe-l	241 860 89 1022	1454	selk1253
+10512	Udmurt	wipe	ʧuʃɯnɯ	tʃ u ʃ ɯ n ɯ	3541	U-wipe-g	651 868 683 944 107 944	1454	udmu1245
+10597	Erzya	worm	suks	s u k s	3557	U-worm-d	89 868 838 89	1219	erzy1239
+10608	Ingrian	worm	mɑd̥o	m ɑ d̥ o	3556	U-worm-a	241 952 109 887	1219	ingr1248
+10612	Komi-Permyak	worm	gɑg	ɡ ɑ ɡ	3563	U-worm-m	831 952 831	1219	komi1269
+10613	Komi-Zyrian	worm	nomɯr	n o m ɯ r	3558	U-worm-f	107 887 241 944 153	1219	komi1268
+10618	Nganasan	worm	kəʎɕyʔə	k ə ʎ ɕ y ʔ ə	3562	U-worm-k	838 1022 588 204 1047 409 1022	1219	ngan1291
+10630	Selkup	worm	ʧuk	tʃ u k	3561	U-worm-j	651 868 838	1219	selk1253
+10639	Udmurt	worm	numɯr	n u m ɯ r	3558	U-worm-f	107 868 241 944 153	1219	udmu1245

@@ -1,0 +1,1797 @@
+concept,doculect,counterpart,cc,inferredCC,db
+right,Beijing,iou⁵¹ʂou²¹⁴,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Changsha,iəu²¹səu⁴¹,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Chaozhou,tsĩã²¹³₅₃tsʰiu⁵³₂₁,725,chinese_1964_prop_50_2_test:right:2,chinese_1964_prop_50_2_test
+right,Chengdu,iəu¹³səu⁵³,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Fuzhou,tuai²⁴²₃₁βeiŋ⁴⁴₅₂ȵiu³¹,726,chinese_1964_prop_50_2_test:right:7,chinese_1964_prop_50_2_test
+right,Guangzhou,jɐu²²ʃɐu³⁵,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Hefei,iɯ⁵³ʂɯ²⁴,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Jinan,iou²¹ʂou⁵⁵,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Kunming,io¹³ʂəu⁵³,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Meixian,jiu⁴²su³¹,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Nanchang,iu³¹səu²¹³,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Shenyang,iou⁴¹sou²¹³,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Suzhou,zən³¹₂₂sʏ⁴¹₄₄,724,chinese_1964_prop_50_2_test:right:6,chinese_1964_prop_50_2_test
+right,Suzhou,iʏ³¹₂₂sʏ⁴¹₄₄,723,chinese_1964_prop_50_2_test:right:5,chinese_1964_prop_50_2_test
+right,Wenzhou,ɦyoŋ¹¹ɕiu⁴⁵,724,chinese_1964_prop_50_2_test:right:4,chinese_1964_prop_50_2_test
+right,Xiamen,tsĩã¹¹₅₁tsʰiu⁵¹,725,chinese_1964_prop_50_2_test:right:2,chinese_1964_prop_50_2_test
+right,Xian,iou⁴⁵ʂou⁵³,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Yangjiang,jɐu⁴⁵⁴ʃɐu²¹,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Yangzhou,iɤɯ⁵⁵sɤɯ⁴²,723,chinese_1964_prop_50_2_test:right:1,chinese_1964_prop_50_2_test
+right,Yangzhou,suəŋ⁵⁵sɤɯ⁴²,724,chinese_1964_prop_50_2_test:right:3,chinese_1964_prop_50_2_test
+good,Beijing,xau²¹⁴,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Changsha,xau⁴¹,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Chaozhou,ho⁵³,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Chengdu,xau⁵³,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Fuzhou,xɔ³¹,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Guangzhou,hou³⁵,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Hefei,xɔ²⁴,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Jinan,xɔ⁵⁵,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Jinan,tɕʰiaŋ⁴²,149,chinese_1964_prop_50_2_test:good:2,chinese_1964_prop_50_2_test
+good,Kunming,xau⁵³,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Meixian,hau³¹,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Meixian,tsan³¹,153,chinese_1964_prop_50_2_test:good:2,chinese_1964_prop_50_2_test
+good,Nanchang,hau²¹³,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Shenyang,xau²¹³,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Suzhou,hæ⁴¹,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Suzhou,lin²⁴,151,chinese_1964_prop_50_2_test:good:3,chinese_1964_prop_50_2_test
+good,Suzhou,tsɛ⁵¹³,152,chinese_1964_prop_50_2_test:good:4,chinese_1964_prop_50_2_test
+good,Wenzhou,hɜ⁴⁵,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Xiamen,ho⁵¹,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Xian,xɑn⁵³,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Xian,liɑu²⁴,150,chinese_1964_prop_50_2_test:good:5,chinese_1964_prop_50_2_test
+good,Yangjiang,hou²¹,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+good,Yangzhou,xɔ⁴²,148,chinese_1964_prop_50_2_test:good:1,chinese_1964_prop_50_2_test
+the hair (of the head),Beijing,tʰou³⁵fa⁰,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Changsha,təu¹³fa²⁴,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Chaozhou,tʰau⁵⁵₂₁₃mo⁵⁵,651,chinese_1964_prop_50_2_test:the hair (of the head):2,chinese_1964_prop_50_2_test
+the hair (of the head),Chengdu,tʰəu³¹fa³¹₄₄,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Fuzhou,tʰan⁵²₃₁uɔʔ²³,649,chinese_1964_prop_50_2_test:the hair (of the head):3,chinese_1964_prop_50_2_test
+the hair (of the head),Guangzhou,tʰɐu²¹at³³,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Hefei,tʰɯ⁵⁵fɐʔ⁴,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Jinan,tʰou⁴²fa⁰,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Kunming,tʰəu³¹fa³¹₄₄,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Meixian,tʰɛu¹²na¹²mau⁴⁴,650,chinese_1964_prop_50_2_test:the hair (of the head):2,chinese_1964_prop_50_2_test
+the hair (of the head),Nanchang,tʰɛn²⁴fat⁵,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Shenyang,tʰou³⁵fa⁰,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Suzhou,dʏ²⁴₂₂faʔ⁴,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Wenzhou,diu³¹fo²³,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Xiamen,tʰau²⁴₃₃mῃ²⁴,651,chinese_1964_prop_50_2_test:the hair (of the head):2,chinese_1964_prop_50_2_test
+the hair (of the head),Xian,tʰou²⁴fɑ⁰,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+the hair (of the head),Yangjiang,tʰɐu⁴⁴³mou⁴⁴³,651,chinese_1964_prop_50_2_test:the hair (of the head):2,chinese_1964_prop_50_2_test
+the hair (of the head),Yangzhou,tʰɤɯ³⁴fæʔ⁴,649,chinese_1964_prop_50_2_test:the hair (of the head):1,chinese_1964_prop_50_2_test
+light (of weight),Beijing,tɕʰiŋ⁵⁵,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Changsha,tɕʰin³³,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Chaozhou,kʰiŋ³³,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Chengdu,tɕʰin⁴⁴,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Fuzhou,kʰiŋ⁴⁴,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Guangzhou,hɛŋ⁵³,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Hefei,tɕʰin²¹²,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Jinan,tɕʰiŋ²¹³,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Kunming,tɕʰĩ⁴⁴,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Meixian,kʰiaŋ⁴⁴,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Nanchang,tɕʰiaŋ⁴²,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Shenyang,tɕʰiŋ³³,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Suzhou,tɕʰin⁴⁴,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Wenzhou,tɕʰiaŋ⁴⁴,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Xiamen,kʰin⁵⁵,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Xian,tɕʰiŋ²¹,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Yangjiang,hɪŋ³³,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+light (of weight),Yangzhou,tɕʰiŋ³¹,93,chinese_1964_prop_50_2_test:light (of weight):1,chinese_1964_prop_50_2_test
+salty,Beijing,ɕian³⁵,173,chinese_1964_prop_50_2_test:salty:2,chinese_1964_prop_50_2_test
+salty,Beijing,kʰou²¹⁴₂₁tʂuŋ⁵¹,174,chinese_1964_prop_50_2_test:salty:4,chinese_1964_prop_50_2_test
+salty,Changsha,xan¹³,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Chaozhou,kiəm⁵⁵,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Chengdu,xan³¹,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Fuzhou,keiŋ⁵²,173,chinese_1964_prop_50_2_test:salty:3,chinese_1964_prop_50_2_test
+salty,Guangzhou,ham²¹,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Hefei,ɕiĩ⁵⁵,173,chinese_1964_prop_50_2_test:salty:2,chinese_1964_prop_50_2_test
+salty,Jinan,ɕiæ̃⁴²,173,chinese_1964_prop_50_2_test:salty:2,chinese_1964_prop_50_2_test
+salty,Kunming,ɕiɛ³¹,173,chinese_1964_prop_50_2_test:salty:2,chinese_1964_prop_50_2_test
+salty,Meixian,ham¹²,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Nanchang,han²⁴,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Shenyang,ɕian³⁵,173,chinese_1964_prop_50_2_test:salty:2,chinese_1964_prop_50_2_test
+salty,Suzhou,ɦɛ²⁴,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Wenzhou,ɦa³¹,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Xiamen,kiam²⁴,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Xian,xæ̃²⁴,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Yangjiang,ham⁴⁴³,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+salty,Yangzhou,xɛ̃³⁴,173,chinese_1964_prop_50_2_test:salty:1,chinese_1964_prop_50_2_test
+big,Beijing,ta⁵¹,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Changsha,tai²¹,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Chaozhou,tua¹¹,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Chengdu,ta¹³,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Fuzhou,tuai²⁴²,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Guangzhou,tai²²,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Hefei,ta⁵³,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Jinan,ta²¹,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Kunming,ta¹³,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Meixian,tʰai⁴²,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Nanchang,tʰai³¹,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Shenyang,ta⁴¹,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Suzhou,dəu³¹,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Wenzhou,du¹¹,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Xiamen,tua³³,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Xian,tɑ⁴⁵,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Yangjiang,tai⁴⁵⁴,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+big,Yangzhou,tɑ⁵⁵,53,chinese_1964_prop_50_2_test:big:1,chinese_1964_prop_50_2_test
+the tongue,Beijing,ʂə³⁵tʰou⁰,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Changsha,sə²⁴tsɿ⁰,682,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Chaozhou,tsiʔ⁴,680,chinese_1964_prop_50_2_test:the tongue:3,chinese_1964_prop_50_2_test
+the tongue,Chengdu,se³¹tʰər³¹₄₄,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Fuzhou,tsʰui²¹³₄₄lieʔ⁴,686,chinese_1964_prop_50_2_test:the tongue:3,chinese_1964_prop_50_2_test
+the tongue,Guangzhou,lei²²,685,chinese_1964_prop_50_2_test:the tongue:2,chinese_1964_prop_50_2_test
+the tongue,Hefei,ʂɐʔ⁴tʰɯ⁰,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Jinan,ʂə⁴²tʰou⁰,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Kunming,ʂə³¹tʰəu³¹₄₄,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Meixian,sat⁴ma¹²,683,chinese_1964_prop_50_2_test:the tongue:5,chinese_1964_prop_50_2_test
+the tongue,Meixian,li⁴²,685,chinese_1964_prop_50_2_test:the tongue:2,chinese_1964_prop_50_2_test
+the tongue,Nanchang,sɛt⁵tʰɛu²⁴,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Shenyang,sə³⁵tʰou⁰,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Suzhou,zɤʔ²³dʏ²⁴₂₁,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Wenzhou,kʰau⁴⁵ɦi¹²,684,chinese_1964_prop_50_2_test:the tongue:4,chinese_1964_prop_50_2_test
+the tongue,Xiamen,tsʰui¹¹₅₁tsiʔ⁵,686,chinese_1964_prop_50_2_test:the tongue:3,chinese_1964_prop_50_2_test
+the tongue,Xian,ʂə²⁴tʰou⁰,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+the tongue,Yangjiang,lei⁴⁵⁴,685,chinese_1964_prop_50_2_test:the tongue:2,chinese_1964_prop_50_2_test
+the tongue,Yangzhou,ɕiəʔ⁴tʰɤɯ⁰,681,chinese_1964_prop_50_2_test:the tongue:1,chinese_1964_prop_50_2_test
+young,Beijing,nian³⁵tɕʰiŋ⁰,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Changsha,ȵiẽ¹³tɕʰin³³,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Chaozhou,hau³⁵₂₁sẽ³³,195,chinese_1964_prop_50_2_test:young:2,chinese_1964_prop_50_2_test
+young,Chengdu,ȵian³¹tɕʰin⁴⁴,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Fuzhou,xau²⁴²₄₄laŋ⁴⁴,195,chinese_1964_prop_50_2_test:young:2,chinese_1964_prop_50_2_test
+young,Guangzhou,hɐu²²ʃaŋ⁵³,195,chinese_1964_prop_50_2_test:young:2,chinese_1964_prop_50_2_test
+young,Hefei,niĩ⁵⁵tɕʰin²¹²,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Jinan,ȵiæ̃⁴²tɕʰiŋ²¹³,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Kunming,niɛ³¹tɕʰĩ⁴⁴,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Meixian,hɛu⁴²saŋ⁴⁴,195,chinese_1964_prop_50_2_test:young:2,chinese_1964_prop_50_2_test
+young,Nanchang,ȵiɛn⁵⁵tɕʰiaŋ⁴²,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Shenyang,ȵian³⁵tɕʰiŋ³³,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Suzhou,ȵiɪ²⁴₂₂tɕi⁵¹³₄₄tɕʰin⁴⁴,622,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Wenzhou,ɦau²⁴sɛ⁴⁴,195,chinese_1964_prop_50_2_test:young:2,chinese_1964_prop_50_2_test
+young,Xiamen,siau¹¹₅₁lian²⁴,196,chinese_1964_prop_50_2_test:young:3,chinese_1964_prop_50_2_test
+young,Xian,ȵiæ̃²⁴tɕʰiŋ⁰,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+young,Yangjiang,hɐu⁴⁵⁴ʃaŋ³³,195,chinese_1964_prop_50_2_test:young:2,chinese_1964_prop_50_2_test
+young,Yangzhou,liĩ³⁴tɕʰiŋ³¹,623,chinese_1964_prop_50_2_test:young:1,chinese_1964_prop_50_2_test
+I [first person singular],Beijing,uo²¹⁴,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Changsha,ŋo⁴¹,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Chaozhou,ua⁵³,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Chengdu,ŋo⁵³,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Fuzhou,ŋuai³¹,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Guangzhou,ŋɔ²³,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Hefei,ʊ²⁴,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Jinan,uə⁵⁵,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Jinan,ŋæ̃⁵⁵,212,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Kunming,uo⁵³,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Meixian,ŋai¹²,214,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Nanchang,ŋɔ²¹³,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Shenyang,uə²¹³,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Suzhou,ŋəu³¹,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Suzhou,nəu³¹,213,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Wenzhou,ῃ²⁴,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Xiamen,gua⁵¹,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Xian,ŋə⁵³,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Yangjiang,ŋɔ²¹,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+I [first person singular],Yangzhou,o⁴²,211,chinese_1964_prop_50_2_test:I [first person singular]:1,chinese_1964_prop_50_2_test
+heavy,Beijing,tʂuŋ⁵¹,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Beijing,tʂʰən³⁵,95,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Changsha,tsən²¹,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Chaozhou,taŋ³⁵,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Chengdu,tsoŋ¹³,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Fuzhou,tøyŋ²⁴²,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Guangzhou,tʃʰʊŋ²³,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Hefei,tʂəŋ⁵³,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Jinan,tʂuŋ²¹,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Kunming,tʂoŋ¹³,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Meixian,tsʰuŋ⁴⁴,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Nanchang,tsʰuŋ³¹,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Shenyang,tsuŋ⁴¹,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Suzhou,zoŋ³¹,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Wenzhou,dʑyɔ²⁴,94,chinese_1964_prop_50_2_test:heavy:3,chinese_1964_prop_50_2_test
+heavy,Xiamen,taŋ³³,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Xian,pfəŋ⁴⁵,94,chinese_1964_prop_50_2_test:heavy:2,chinese_1964_prop_50_2_test
+heavy,Yangjiang,tʃʰʊŋ²¹,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+heavy,Yangzhou,tsoŋ⁵⁵,94,chinese_1964_prop_50_2_test:heavy:1,chinese_1964_prop_50_2_test
+this,Beijing,tʂə⁵¹kə⁰,248,chinese_1964_prop_50_2_test:this:1,chinese_1964_prop_50_2_test
+this,Changsha,ko²⁴ko⁵⁵,253,chinese_1964_prop_50_2_test:this:2,chinese_1964_prop_50_2_test
+this,Changsha,kei²⁴ko⁵⁵,254,chinese_1964_prop_50_2_test:this:2,chinese_1964_prop_50_2_test
+this,Chaozhou,tsia⁵³kai⁵⁵₂₁,258,chinese_1964_prop_50_2_test:this:1,chinese_1964_prop_50_2_test
+this,Chaozhou,tsia⁵³₂₄tsia⁵³,259,chinese_1964_prop_50_2_test:this:12,chinese_1964_prop_50_2_test
+this,Chengdu,tse¹³ko¹³₄₄,248,chinese_1964_prop_50_2_test:this:1,chinese_1964_prop_50_2_test
+this,Fuzhou,tsi³¹₄₄zieʔ²³,260,chinese_1964_prop_50_2_test:this:11,chinese_1964_prop_50_2_test
+this,Fuzhou,tsi³¹βiʔ⁴,261,chinese_1964_prop_50_2_test:this:10,chinese_1964_prop_50_2_test
+this,Guangzhou,ni⁵³kɔ³³,256,chinese_1964_prop_50_2_test:this:9,chinese_1964_prop_50_2_test
+this,Hefei,tʂʅ⁵³kʊ⁵³,248,chinese_1964_prop_50_2_test:this:1,chinese_1964_prop_50_2_test
+this,Jinan,tʂə²¹kə⁰,248,chinese_1964_prop_50_2_test:this:1,chinese_1964_prop_50_2_test
+this,Kunming,tʂʅ¹³kə¹³,248,chinese_1964_prop_50_2_test:this:1,chinese_1964_prop_50_2_test
+this,Meixian,li³¹kɛ⁴²,255,chinese_1964_prop_50_2_test:this:8,chinese_1964_prop_50_2_test
+this,Meixian,kɛ³¹kɛ⁴²,253,chinese_1964_prop_50_2_test:this:2,chinese_1964_prop_50_2_test
+this,Nanchang,kɔ²¹³kɔ⁰,253,chinese_1964_prop_50_2_test:this:2,chinese_1964_prop_50_2_test
+this,Shenyang,tsə⁴¹kə⁰,248,chinese_1964_prop_50_2_test:this:1,chinese_1964_prop_50_2_test
+this,Suzhou,kɛ⁴⁴kɤʔ⁴₂₁,249,chinese_1964_prop_50_2_test:this:7,chinese_1964_prop_50_2_test
+this,Suzhou,ɛ⁴⁴kɤʔ⁴₂₁,250,chinese_1964_prop_50_2_test:this:6,chinese_1964_prop_50_2_test
+this,Suzhou,gɤʔ²³kɤʔ⁴,251,chinese_1964_prop_50_2_test:this:5,chinese_1964_prop_50_2_test
+this,Wenzhou,ki²³kai⁴²,252,chinese_1964_prop_50_2_test:this:4,chinese_1964_prop_50_2_test
+this,Xiamen,tsit³²₅e²⁴,257,chinese_1964_prop_50_2_test:this:3,chinese_1964_prop_50_2_test
+this,Xian,tʂə⁵³kə⁰,248,chinese_1964_prop_50_2_test:this:1,chinese_1964_prop_50_2_test
+this,Yangjiang,kɔ²¹kɔ⁴⁵⁴,253,chinese_1964_prop_50_2_test:this:2,chinese_1964_prop_50_2_test
+this,Yangzhou,tsəʔ⁴kɤɯ⁰,248,chinese_1964_prop_50_2_test:this:1,chinese_1964_prop_50_2_test
+the mother,Beijing,ma⁵⁵ma⁰,853,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Beijing,niaŋ³⁵,854,chinese_1964_prop_50_2_test:the mother:2,chinese_1964_prop_50_2_test
+the mother,Changsha,ma³³ma³³,853,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Chaozhou,a³³₂₃ma⁵⁵,857,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Chaozhou,a³³₂₃nie⁵⁵,858,chinese_1964_prop_50_2_test:the mother:2,chinese_1964_prop_50_2_test
+the mother,Chaozhou,a³³₂₃ne³³,862,chinese_1964_prop_50_2_test:the mother:12,chinese_1964_prop_50_2_test
+the mother,Chaozhou,a³³₂₃ai⁵⁵,863,chinese_1964_prop_50_2_test:the mother:11,chinese_1964_prop_50_2_test
+the mother,Chengdu,ma⁴⁴ma⁴⁴,853,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Fuzhou,i⁴⁴ma⁴⁴,868,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Fuzhou,i⁴⁴₅₂nɛ³¹,869,chinese_1964_prop_50_2_test:the mother:10,chinese_1964_prop_50_2_test
+the mother,Fuzhou,nouŋ⁵²₃₁nɛ³¹,855,chinese_1964_prop_50_2_test:the mother:9,chinese_1964_prop_50_2_test
+the mother,Guangzhou,ma⁵⁵₂₁ma⁵⁵,853,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Guangzhou,lou²³mou²³₃₅,866,chinese_1964_prop_50_2_test:the mother:3,chinese_1964_prop_50_2_test
+the mother,Hefei,ma²¹²,852,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Jinan,ȵiaŋ⁴²,854,chinese_1964_prop_50_2_test:the mother:2,chinese_1964_prop_50_2_test
+the mother,Kunming,ma⁵³,852,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Kunming,ma⁴⁴ma⁴⁴,853,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Meixian,a⁴⁴mɛ⁴⁴,859,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Meixian,ɔi⁴⁴ɛ⁰,865,chinese_1964_prop_50_2_test:the mother:8,chinese_1964_prop_50_2_test
+the mother,Nanchang,ṃ⁴²ma⁰,856,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Nanchang,ȵiɔŋ⁵⁵,854,chinese_1964_prop_50_2_test:the mother:2,chinese_1964_prop_50_2_test
+the mother,Shenyang,ma³³ma⁰,853,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Suzhou,ṃ⁴⁴mɒ⁴⁴₂₁,856,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Suzhou,ȵiaŋ²⁴,854,chinese_1964_prop_50_2_test:the mother:2,chinese_1964_prop_50_2_test
+the mother,Wenzhou,a²³ma⁴⁵,857,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Wenzhou,na⁴⁴,864,chinese_1964_prop_50_2_test:the mother:7,chinese_1964_prop_50_2_test
+the mother,Xiamen,a⁵⁵₃₃bu⁵¹,861,chinese_1964_prop_50_2_test:the mother:6,chinese_1964_prop_50_2_test
+the mother,Xiamen,bu⁵¹a⁵¹₁₁,867,chinese_1964_prop_50_2_test:the mother:5,chinese_1964_prop_50_2_test
+the mother,Xiamen,lau³³₁₁bu⁵¹,866,chinese_1964_prop_50_2_test:the mother:3,chinese_1964_prop_50_2_test
+the mother,Xian,mɑ²¹,852,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Yangjiang,a³³ma²⁴,857,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Yangjiang,a³³niɛŋ⁴⁴³,858,chinese_1964_prop_50_2_test:the mother:2,chinese_1964_prop_50_2_test
+the mother,Yangjiang,a³³nai²¹,860,chinese_1964_prop_50_2_test:the mother:4,chinese_1964_prop_50_2_test
+the mother,Yangzhou,mɑ³¹mɑ³¹,853,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the mother,Yangzhou,ṃ³⁴mɑ³¹,856,chinese_1964_prop_50_2_test:the mother:1,chinese_1964_prop_50_2_test
+the rope,Beijing,ʂəŋ³⁵tsɿ⁰,543,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Changsha,sən¹³tsɿ⁰,543,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Chaozhou,soʔ²¹,544,chinese_1964_prop_50_2_test:the rope:2,chinese_1964_prop_50_2_test
+the rope,Chengdu,suən³¹tsɿ⁵³,543,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Chengdu,so³¹tsɿ⁵³,545,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Fuzhou,sɔʔ²³,544,chinese_1964_prop_50_2_test:the rope:2,chinese_1964_prop_50_2_test
+the rope,Guangzhou,ʃɪŋ²¹₃₅,542,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Hefei,ʂən⁵⁵,542,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Jinan,ʂəŋ⁴²tsɿ⁰,543,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Kunming,suo³¹tsɿ⁵³,545,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Meixian,sɔk²¹,544,chinese_1964_prop_50_2_test:the rope:2,chinese_1964_prop_50_2_test
+the rope,Nanchang,sən⁵⁵tsɿ⁰,543,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Shenyang,səŋ³⁵tsɿ⁰,543,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Suzhou,zən²⁴₂₂tsɿ⁴¹₄₄,543,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Wenzhou,zəŋ³¹,542,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Xiamen,so⁵⁵a⁵¹,546,chinese_1964_prop_50_2_test:the rope:3,chinese_1964_prop_50_2_test
+the rope,Xian,ʂəŋ²⁴tsɿ⁰,543,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the rope,Yangjiang,ɬɔk²¹,544,chinese_1964_prop_50_2_test:the rope:2,chinese_1964_prop_50_2_test
+the rope,Yangzhou,səŋ³⁴tsɛ⁰,543,chinese_1964_prop_50_2_test:the rope:1,chinese_1964_prop_50_2_test
+the nose,Beijing,pi³⁵tsɿ⁰,661,chinese_1964_prop_50_2_test:the nose:1,chinese_1964_prop_50_2_test
+the nose,Changsha,pi²⁴tsɿ⁰,661,chinese_1964_prop_50_2_test:the nose:1,chinese_1964_prop_50_2_test
+the nose,Chaozhou,pʰĩ¹¹,660,chinese_1964_prop_50_2_test:the nose:3,chinese_1964_prop_50_2_test
+the nose,Chengdu,pi³¹tsɿ⁵³,661,chinese_1964_prop_50_2_test:the nose:1,chinese_1964_prop_50_2_test
+the nose,Fuzhou,pʰei²¹³,660,chinese_1964_prop_50_2_test:the nose:2,chinese_1964_prop_50_2_test
+the nose,Guangzhou,pei²²kɔ⁵³,664,chinese_1964_prop_50_2_test:the nose:2,chinese_1964_prop_50_2_test
+the nose,Hefei,piəʔ⁴tsə⁰,661,chinese_1964_prop_50_2_test:the nose:1,chinese_1964_prop_50_2_test
+the nose,Jinan,pi⁴²tsɿ⁰,661,chinese_1964_prop_50_2_test:the nose:1,chinese_1964_prop_50_2_test
+the nose,Kunming,pi³¹tsɿ⁵³,661,chinese_1964_prop_50_2_test:the nose:1,chinese_1964_prop_50_2_test
+the nose,Meixian,pʰi⁴²kuŋ⁴⁴,663,chinese_1964_prop_50_2_test:the nose:2,chinese_1964_prop_50_2_test
+the nose,Nanchang,pʰit⁵kuŋ⁴²,663,chinese_1964_prop_50_2_test:the nose:2,chinese_1964_prop_50_2_test
+the nose,Shenyang,pi³⁵tsɿ⁰,661,chinese_1964_prop_50_2_test:the nose:1,chinese_1964_prop_50_2_test
+the nose,Suzhou,biɪʔ²³dʏ²⁴₂₁,662,chinese_1964_prop_50_2_test:the nose:4,chinese_1964_prop_50_2_test
+the nose,Wenzhou,bi¹²diu³¹,662,chinese_1964_prop_50_2_test:the nose:4,chinese_1964_prop_50_2_test
+the nose,Xiamen,pʰĩ³³₁₁a⁵¹,665,chinese_1964_prop_50_2_test:the nose:3,chinese_1964_prop_50_2_test
+the nose,Xiamen,pʰi³³₁₁kʰaŋ⁵⁵,666,chinese_1964_prop_50_2_test:the nose:2,chinese_1964_prop_50_2_test
+the nose,Xian,pʰi²⁴tsɿ⁰,661,chinese_1964_prop_50_2_test:the nose:1,chinese_1964_prop_50_2_test
+the nose,Yangjiang,pei⁴⁵⁴,660,chinese_1964_prop_50_2_test:the nose:2,chinese_1964_prop_50_2_test
+the nose,Yangzhou,piəʔ⁴tsɛ⁰,661,chinese_1964_prop_50_2_test:the nose:1,chinese_1964_prop_50_2_test
+who,Beijing,ʂei³⁵,197,chinese_1964_prop_50_2_test:who:2,chinese_1964_prop_50_2_test
+who,Changsha,lai⁴¹ko⁵⁵,324,chinese_1964_prop_50_2_test:who:1,chinese_1964_prop_50_2_test
+who,Chaozhou,tiaŋ⁵⁵,333,chinese_1964_prop_50_2_test:who:3,chinese_1964_prop_50_2_test
+who,Chengdu,na⁵³ko¹³,324,chinese_1964_prop_50_2_test:who:1,chinese_1964_prop_50_2_test
+who,Fuzhou,tie²⁴²₄₄nøyŋ⁵²,332,chinese_1964_prop_50_2_test:who:11,chinese_1964_prop_50_2_test
+who,Guangzhou,pin⁵⁵kɔ³³,330,chinese_1964_prop_50_2_test:who:4,chinese_1964_prop_50_2_test
+who,Hefei,na²⁴kʊ⁵³,324,chinese_1964_prop_50_2_test:who:1,chinese_1964_prop_50_2_test
+who,Hefei,xa²¹²kʊ⁵³,325,chinese_1964_prop_50_2_test:who:12,chinese_1964_prop_50_2_test
+who,Jinan,ʂei⁴²,197,chinese_1964_prop_50_2_test:who:2,chinese_1964_prop_50_2_test
+who,Kunming,na⁵³kə¹³,324,chinese_1964_prop_50_2_test:who:1,chinese_1964_prop_50_2_test
+who,Meixian,man⁴²ȵin¹²,329,chinese_1964_prop_50_2_test:who:5,chinese_1964_prop_50_2_test
+who,Nanchang,lai²¹³kɔ⁰,324,chinese_1964_prop_50_2_test:who:1,chinese_1964_prop_50_2_test
+who,Shenyang,sei⁵⁵,197,chinese_1964_prop_50_2_test:who:2,chinese_1964_prop_50_2_test
+who,Suzhou,sɒ⁵¹³ȵin²⁴,326,chinese_1964_prop_50_2_test:who:6,chinese_1964_prop_50_2_test
+who,Suzhou,lo³¹₂₂kɤʔ⁴,327,chinese_1964_prop_50_2_test:who:1,chinese_1964_prop_50_2_test
+who,Wenzhou,ga³¹ȵi³¹naŋ³¹,328,chinese_1964_prop_50_2_test:who:7,chinese_1964_prop_50_2_test
+who,Xiamen,sĩã⁵¹₅₅laŋ²⁴,326,chinese_1964_prop_50_2_test:who:8,chinese_1964_prop_50_2_test
+who,Xiamen,ti³³₁₁laŋ²⁴,332,chinese_1964_prop_50_2_test:who:3,chinese_1964_prop_50_2_test
+who,Xiamen,tsui³³,197,chinese_1964_prop_50_2_test:who:9,chinese_1964_prop_50_2_test
+who,Xian,sei²⁴,197,chinese_1964_prop_50_2_test:who:2,chinese_1964_prop_50_2_test
+who,Yangjiang,mut⁴⁵⁴ʃui⁴⁴³,331,chinese_1964_prop_50_2_test:who:10,chinese_1964_prop_50_2_test
+who,Yangzhou,lɑ⁴²kɤɯ⁰,324,chinese_1964_prop_50_2_test:who:1,chinese_1964_prop_50_2_test
+small,Beijing,ɕiau²¹⁴,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Changsha,ɕi⁵⁵,55,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Changsha,ɕiau⁵⁵,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Chaozhou,soi²¹³,55,chinese_1964_prop_50_2_test:small:2,chinese_1964_prop_50_2_test
+small,Chengdu,ɕiau⁵³,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Fuzhou,nauŋ²⁴²,56,chinese_1964_prop_50_2_test:small:3,chinese_1964_prop_50_2_test
+small,Fuzhou,sɛ²¹³,55,chinese_1964_prop_50_2_test:small:2,chinese_1964_prop_50_2_test
+small,Guangzhou,ʃɐi³³,55,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Hefei,ɕiɔ²⁴,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Jinan,ɕiɔ⁵⁵,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Kunming,ɕiau⁵³,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Meixian,sɛ⁴²,55,chinese_1964_prop_50_2_test:small:2,chinese_1964_prop_50_2_test
+small,Nanchang,ɕi⁵⁵,55,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Nanchang,ɕiɛu²¹³,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Shenyang,ɕiau²¹³,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Suzhou,siæ⁴¹,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Wenzhou,sai⁴⁵,54,chinese_1964_prop_50_2_test:small:2,chinese_1964_prop_50_2_test
+small,Xiamen,sue¹¹,55,chinese_1964_prop_50_2_test:small:2,chinese_1964_prop_50_2_test
+small,Xian,ɕiɑu⁵³,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+small,Yangjiang,ɬɐi²⁴,55,chinese_1964_prop_50_2_test:small:4,chinese_1964_prop_50_2_test
+small,Yangzhou,ɕiɔ⁴²,54,chinese_1964_prop_50_2_test:small:1,chinese_1964_prop_50_2_test
+the eye,Beijing,ian²¹⁴₂₁tɕiŋ⁰,655,chinese_1964_prop_50_2_test:the eye:1,chinese_1964_prop_50_2_test
+the eye,Changsha,ŋan⁴¹tɕin⁰,655,chinese_1964_prop_50_2_test:the eye:1,chinese_1964_prop_50_2_test
+the eye,Chaozhou,mak⁴,657,chinese_1964_prop_50_2_test:the eye:3,chinese_1964_prop_50_2_test
+the eye,Chengdu,ian⁵³tɕin⁴⁴,655,chinese_1964_prop_50_2_test:the eye:1,chinese_1964_prop_50_2_test
+the eye,Fuzhou,meiʔ⁴tsiu⁴⁴,659,chinese_1964_prop_50_2_test:the eye:2,chinese_1964_prop_50_2_test
+the eye,Fuzhou,mɛʔ⁴,657,chinese_1964_prop_50_2_test:the eye:9,chinese_1964_prop_50_2_test
+the eye,Guangzhou,ŋan²³,654,chinese_1964_prop_50_2_test:the eye:4,chinese_1964_prop_50_2_test
+the eye,Hefei,iĩ²⁴,654,chinese_1964_prop_50_2_test:the eye:8,chinese_1964_prop_50_2_test
+the eye,Jinan,iæ̃⁵⁵,654,chinese_1964_prop_50_2_test:the eye:7,chinese_1964_prop_50_2_test
+the eye,Kunming,iɛ⁵³tɕĩ⁴⁴,655,chinese_1964_prop_50_2_test:the eye:1,chinese_1964_prop_50_2_test
+the eye,Meixian,muk²¹tsu⁴⁴,658,chinese_1964_prop_50_2_test:the eye:2,chinese_1964_prop_50_2_test
+the eye,Nanchang,ŋan²¹³tɕiaŋ⁴²,655,chinese_1964_prop_50_2_test:the eye:1,chinese_1964_prop_50_2_test
+the eye,Shenyang,ian²¹³₂₁tɕiŋ⁰,655,chinese_1964_prop_50_2_test:the eye:1,chinese_1964_prop_50_2_test
+the eye,Suzhou,ŋɛ³¹₂₂tsin⁴⁴,655,chinese_1964_prop_50_2_test:the eye:1,chinese_1964_prop_50_2_test
+the eye,Suzhou,ŋɛ³¹₂₂əu⁴⁴tsʮ⁴⁴₂₁,656,chinese_1964_prop_50_2_test:the eye:6,chinese_1964_prop_50_2_test
+the eye,Wenzhou,ŋau²⁴vu³¹tsɿ⁴⁴,656,chinese_1964_prop_50_2_test:the eye:5,chinese_1964_prop_50_2_test
+the eye,Xiamen,bat⁵₃₂tsiu⁵⁵,659,chinese_1964_prop_50_2_test:the eye:2,chinese_1964_prop_50_2_test
+the eye,Xiamen,bak⁵,657,chinese_1964_prop_50_2_test:the eye:3,chinese_1964_prop_50_2_test
+the eye,Xian,ȵiæ̃⁵³tɕiŋ⁰,655,chinese_1964_prop_50_2_test:the eye:1,chinese_1964_prop_50_2_test
+the eye,Yangjiang,ŋan²¹,654,chinese_1964_prop_50_2_test:the eye:4,chinese_1964_prop_50_2_test
+the eye,Yangzhou,iɛ̃⁴²tɕiŋ⁰,655,chinese_1964_prop_50_2_test:the eye:1,chinese_1964_prop_50_2_test
+to rain,Beijing,ɕia⁵¹y²¹⁴,1013,chinese_1964_prop_50_2_test:to rain:2,chinese_1964_prop_50_2_test
+to rain,Changsha,lo²⁴y⁴¹,1014,chinese_1964_prop_50_2_test:to rain:1,chinese_1964_prop_50_2_test
+to rain,Chaozhou,loʔ⁴₂₁hou³⁵,1014,chinese_1964_prop_50_2_test:to rain:3,chinese_1964_prop_50_2_test
+to rain,Chengdu,ɕia¹³y⁵³,1013,chinese_1964_prop_50_2_test:to rain:2,chinese_1964_prop_50_2_test
+to rain,Fuzhou,touŋ²⁴²₅₂ŋy³¹,1016,chinese_1964_prop_50_2_test:to rain:5,chinese_1964_prop_50_2_test
+to rain,Guangzhou,lɔk²²jy²³,1014,chinese_1964_prop_50_2_test:to rain:1,chinese_1964_prop_50_2_test
+to rain,Guangzhou,lɔk²²ʃøy³⁵,1015,chinese_1964_prop_50_2_test:to rain:1,chinese_1964_prop_50_2_test
+to rain,Hefei,ɕia⁵³y²⁴,1013,chinese_1964_prop_50_2_test:to rain:2,chinese_1964_prop_50_2_test
+to rain,Hefei,nəʔ⁴y²⁴,1014,chinese_1964_prop_50_2_test:to rain:1,chinese_1964_prop_50_2_test
+to rain,Jinan,ɕia²¹y⁵⁵,1013,chinese_1964_prop_50_2_test:to rain:2,chinese_1964_prop_50_2_test
+to rain,Kunming,ɕia¹³i⁵³,1013,chinese_1964_prop_50_2_test:to rain:2,chinese_1964_prop_50_2_test
+to rain,Meixian,lɔk⁴ji³¹,1014,chinese_1964_prop_50_2_test:to rain:1,chinese_1964_prop_50_2_test
+to rain,Meixian,lɔk⁴sui³¹,1015,chinese_1964_prop_50_2_test:to rain:1,chinese_1964_prop_50_2_test
+to rain,Nanchang,lɔk⁵y²¹³,1014,chinese_1964_prop_50_2_test:to rain:1,chinese_1964_prop_50_2_test
+to rain,Shenyang,ɕia⁴¹y²¹³,1013,chinese_1964_prop_50_2_test:to rain:2,chinese_1964_prop_50_2_test
+to rain,Suzhou,loʔ²³y³¹,1014,chinese_1964_prop_50_2_test:to rain:1,chinese_1964_prop_50_2_test
+to rain,Wenzhou,lo¹²vu²⁴,1014,chinese_1964_prop_50_2_test:to rain:4,chinese_1964_prop_50_2_test
+to rain,Xiamen,loʔ⁵₃₂hɔ³³,1014,chinese_1964_prop_50_2_test:to rain:3,chinese_1964_prop_50_2_test
+to rain,Xian,ɕia⁴⁵y⁵³,1013,chinese_1964_prop_50_2_test:to rain:2,chinese_1964_prop_50_2_test
+to rain,Yangjiang,lɔk⁴⁵⁴ʃui²¹,1015,chinese_1964_prop_50_2_test:to rain:1,chinese_1964_prop_50_2_test
+to rain,Yangzhou,ɕiɑ⁵⁵y⁴²,1013,chinese_1964_prop_50_2_test:to rain:2,chinese_1964_prop_50_2_test
+the head,Beijing,nau²¹⁴₂₁tai⁰,640,chinese_1964_prop_50_2_test:the head:2,chinese_1964_prop_50_2_test
+the head,Changsha,lau⁴¹kʰo²⁴,642,chinese_1964_prop_50_2_test:the head:2,chinese_1964_prop_50_2_test
+the head,Chaozhou,tʰau⁵⁵₂₁₃kʰak²¹,644,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Chengdu,nau⁵³kʰo³¹,641,chinese_1964_prop_50_2_test:the head:2,chinese_1964_prop_50_2_test
+the head,Fuzhou,tʰau⁵²,643,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Guangzhou,tʰɐu²¹hɔk³³,644,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Hefei,tʰɯ⁵⁵,643,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Jinan,tʰou⁴²,643,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Kunming,tʰəu³¹,643,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Kunming,nau⁵³kʰuo³¹,641,chinese_1964_prop_50_2_test:the head:2,chinese_1964_prop_50_2_test
+the head,Meixian,tʰɛu¹²na¹²,645,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Nanchang,tʰɛu²⁴,643,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Shenyang,nau²¹³₂₁tai⁰,640,chinese_1964_prop_50_2_test:the head:2,chinese_1964_prop_50_2_test
+the head,Suzhou,dʏ²⁴,643,chinese_1964_prop_50_2_test:the head:3,chinese_1964_prop_50_2_test
+the head,Wenzhou,diu³¹,643,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Xiamen,tʰau²⁴₃₃kʰak³²,644,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Xian,nɑn⁵³kʰu⁰,641,chinese_1964_prop_50_2_test:the head:2,chinese_1964_prop_50_2_test
+the head,Yangjiang,tʰɐu⁴⁴³hɔk²¹,644,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the head,Yangzhou,tʰɤɯ³⁴,643,chinese_1964_prop_50_2_test:the head:1,chinese_1964_prop_50_2_test
+the wing,Beijing,tʂʰʅ⁵¹paŋr²¹⁴,390,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+the wing,Changsha,tsʰɿ⁵⁵pan⁴¹,390,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+the wing,Chaozhou,sik⁴,393,chinese_1964_prop_50_2_test:the wing:2,chinese_1964_prop_50_2_test
+the wing,Chengdu,tsɿ¹³pər⁵³,390,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+the wing,Fuzhou,siʔ⁴,393,chinese_1964_prop_50_2_test:the wing:2,chinese_1964_prop_50_2_test
+the wing,Fuzhou,pu⁴⁴liʔ⁴,398,chinese_1964_prop_50_2_test:the wing:8,chinese_1964_prop_50_2_test
+the wing,Guangzhou,jɪk²,393,chinese_1964_prop_50_2_test:the wing:3,chinese_1964_prop_50_2_test
+the wing,Hefei,pɑ̃²⁴tsə⁰,392,chinese_1964_prop_50_2_test:the wing:7,chinese_1964_prop_50_2_test
+the wing,Jinan,tʂʰʅ²¹paŋ⁰,390,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+the wing,Kunming,tʂʰʅ¹³pã⁵³,390,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+the wing,Meixian,jit⁴ɛ⁰,395,chinese_1964_prop_50_2_test:the wing:6,chinese_1964_prop_50_2_test
+the wing,Nanchang,tsʰɿ²¹³pɔŋ⁵⁵,390,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+the wing,Shenyang,paŋr²¹³,391,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+the wing,Suzhou,tsʰʮ⁴⁴pɒŋ⁴¹₂₁,390,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+the wing,Wenzhou,ɦiai¹²pʰuɔ⁴⁵,394,chinese_1964_prop_50_2_test:the wing:5,chinese_1964_prop_50_2_test
+the wing,Xiamen,sit⁵,397,chinese_1964_prop_50_2_test:the wing:2,chinese_1964_prop_50_2_test
+the wing,Xiamen,sit⁵₃₂kɔ⁵¹,396,chinese_1964_prop_50_2_test:the wing:4,chinese_1964_prop_50_2_test
+the wing,Xian,tsʰɿ⁴⁵pɑŋ⁰,390,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+the wing,Yangjiang,jɪk⁴⁵⁴,393,chinese_1964_prop_50_2_test:the wing:3,chinese_1964_prop_50_2_test
+the wing,Yangzhou,tsʰɿ⁵⁵pɑŋ⁰,390,chinese_1964_prop_50_2_test:the wing:1,chinese_1964_prop_50_2_test
+narrow,Beijing,tʂai²¹⁴,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Changsha,tsə²⁴,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Chaozhou,oiʔ⁴,72,chinese_1964_prop_50_2_test:narrow:3,chinese_1964_prop_50_2_test
+narrow,Chengdu,tse³¹,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Fuzhou,tsaʔ²³,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Fuzhou,tøyʔ⁴,73,chinese_1964_prop_50_2_test:narrow:3,chinese_1964_prop_50_2_test
+narrow,Guangzhou,tʃak³³,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Hefei,tsɐʔ⁴,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Jinan,tʂei²¹³,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Kunming,tsə³¹,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Meixian,hap⁴,72,chinese_1964_prop_50_2_test:narrow:2,chinese_1964_prop_50_2_test
+narrow,Nanchang,tsɛt⁵,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Shenyang,tsai²¹³,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Shenyang,tsai²¹³₂₁pa⁰,71,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Suzhou,ɦɒʔ²³,72,chinese_1964_prop_50_2_test:narrow:2,chinese_1964_prop_50_2_test
+narrow,Wenzhou,ɦa¹²,72,chinese_1964_prop_50_2_test:narrow:2,chinese_1964_prop_50_2_test
+narrow,Xiamen,ueʔ⁵,72,chinese_1964_prop_50_2_test:narrow:3,chinese_1964_prop_50_2_test
+narrow,Xian,tsei²¹,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Yangjiang,tʃak²¹,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+narrow,Yangzhou,tsəʔ⁴,70,chinese_1964_prop_50_2_test:narrow:1,chinese_1964_prop_50_2_test
+today,Beijing,tɕin⁵⁵tʰian⁰,527,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Beijing,tɕinr⁵⁵,526,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Changsha,tɕin³³zɿ²⁴,530,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Chaozhou,kim³³₂₃zik⁴,530,chinese_1964_prop_50_2_test:today:4,chinese_1964_prop_50_2_test
+today,Chaozhou,kĩã⁵³₂₄zik⁴,536,chinese_1964_prop_50_2_test:today:3,chinese_1964_prop_50_2_test
+today,Chengdu,tɕin⁴⁴tʰian⁴⁴,527,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Fuzhou,kiŋ⁴⁴₅₂naŋ²¹³,534,chinese_1964_prop_50_2_test:today:5,chinese_1964_prop_50_2_test
+today,Guangzhou,kɐm⁵³mɐt²,530,chinese_1964_prop_50_2_test:today:2,chinese_1964_prop_50_2_test
+today,Guangzhou,kɐm⁵⁵tʃiu⁵³,531,chinese_1964_prop_50_2_test:today:6,chinese_1964_prop_50_2_test
+today,Hefei,tɕin²¹²kə⁰,529,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Jinan,tɕiẽ²¹³tʰiæ̃⁰,527,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Jinan,tɕiẽ²¹³mẽr⁴²,528,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Kunming,tɕĩr⁴⁴ʐʅ³¹₄₄,530,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Meixian,kim⁴⁴pu⁴⁴ȵit²¹,532,chinese_1964_prop_50_2_test:today:7,chinese_1964_prop_50_2_test
+today,Nanchang,tɕin⁴²ȵit⁵,530,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Shenyang,tɕinr³³kə⁰,529,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Suzhou,tɕin⁴⁴tsæ⁴⁴₂₁,531,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Wenzhou,ki²³nɛ¹²,535,chinese_1964_prop_50_2_test:today:8,chinese_1964_prop_50_2_test
+today,Xiamen,kĩã⁵⁵₃₃nã⁵¹₅₅lit⁵,533,chinese_1964_prop_50_2_test:today:9,chinese_1964_prop_50_2_test
+today,Xian,tɕiẽr²¹kə⁰,529,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+today,Yangjiang,kiɛm³³jɐt⁴⁵⁴,530,chinese_1964_prop_50_2_test:today:2,chinese_1964_prop_50_2_test
+today,Yangzhou,tɕiŋ³¹kɤɯ⁰,529,chinese_1964_prop_50_2_test:today:1,chinese_1964_prop_50_2_test
+hot,Beijing,ʐə⁵¹,168,chinese_1964_prop_50_2_test:hot:1,chinese_1964_prop_50_2_test
+hot,Changsha,ye²⁴,168,chinese_1964_prop_50_2_test:hot:5,chinese_1964_prop_50_2_test
+hot,Chaozhou,sie³³,169,chinese_1964_prop_50_2_test:hot:4,chinese_1964_prop_50_2_test
+hot,Chengdu,ze³¹,168,chinese_1964_prop_50_2_test:hot:1,chinese_1964_prop_50_2_test
+hot,Fuzhou,ieʔ⁴,168,chinese_1964_prop_50_2_test:hot:3,chinese_1964_prop_50_2_test
+hot,Guangzhou,jit²²,168,chinese_1964_prop_50_2_test:hot:2,chinese_1964_prop_50_2_test
+hot,Hefei,ʐɐʔ⁴,168,chinese_1964_prop_50_2_test:hot:1,chinese_1964_prop_50_2_test
+hot,Jinan,ʐə²¹,168,chinese_1964_prop_50_2_test:hot:1,chinese_1964_prop_50_2_test
+hot,Kunming,ʐə³¹,168,chinese_1964_prop_50_2_test:hot:1,chinese_1964_prop_50_2_test
+hot,Meixian,ȵiayt⁴,168,chinese_1964_prop_50_2_test:hot:2,chinese_1964_prop_50_2_test
+hot,Meixian,sau⁴⁴,169,chinese_1964_prop_50_2_test:hot:4,chinese_1964_prop_50_2_test
+hot,Nanchang,lɛt⁵,168,chinese_1964_prop_50_2_test:hot:2,chinese_1964_prop_50_2_test
+hot,Shenyang,ie⁴¹,168,chinese_1964_prop_50_2_test:hot:5,chinese_1964_prop_50_2_test
+hot,Suzhou,ȵiɪʔ²³,168,chinese_1964_prop_50_2_test:hot:3,chinese_1964_prop_50_2_test
+hot,Wenzhou,ȵi¹²,168,chinese_1964_prop_50_2_test:hot:3,chinese_1964_prop_50_2_test
+hot,Xiamen,liat⁵,168,chinese_1964_prop_50_2_test:hot:2,chinese_1964_prop_50_2_test
+hot,Xiamen,sio⁵⁵,169,chinese_1964_prop_50_2_test:hot:4,chinese_1964_prop_50_2_test
+hot,Xian,ʐə²¹,168,chinese_1964_prop_50_2_test:hot:1,chinese_1964_prop_50_2_test
+hot,Yangjiang,jit⁴⁵⁴,168,chinese_1964_prop_50_2_test:hot:2,chinese_1964_prop_50_2_test
+hot,Yangzhou,iəʔ⁴,168,chinese_1964_prop_50_2_test:hot:3,chinese_1964_prop_50_2_test
+bad,Beijing,xuai⁵¹,157,chinese_1964_prop_50_2_test:bad:2,chinese_1964_prop_50_2_test
+bad,Beijing,lai⁵¹,158,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Changsha,fai²¹,157,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Chaozhou,hai¹¹,165,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Chengdu,xuai¹³,157,chinese_1964_prop_50_2_test:bad:2,chinese_1964_prop_50_2_test
+bad,Fuzhou,pʰai³¹,163,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Fuzhou,ŋai⁵²,166,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Guangzhou,wai²²,157,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Hefei,xuɛ⁵³,157,chinese_1964_prop_50_2_test:bad:2,chinese_1964_prop_50_2_test
+bad,Jinan,xuɛ²¹,157,chinese_1964_prop_50_2_test:bad:2,chinese_1964_prop_50_2_test
+bad,Jinan,nɔ²¹³,159,chinese_1964_prop_50_2_test:bad:3,chinese_1964_prop_50_2_test
+bad,Kunming,xuɛ¹³,157,chinese_1964_prop_50_2_test:bad:2,chinese_1964_prop_50_2_test
+bad,Meixian,fai⁴²,157,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Nanchang,fai³¹,157,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Shenyang,xuai⁴¹,157,chinese_1964_prop_50_2_test:bad:2,chinese_1964_prop_50_2_test
+bad,Suzhou,uɒ⁵¹³,157,chinese_1964_prop_50_2_test:bad:4,chinese_1964_prop_50_2_test
+bad,Suzhou,tɕʰiʏ⁴⁴,161,chinese_1964_prop_50_2_test:bad:5,chinese_1964_prop_50_2_test
+bad,Wenzhou,mɜ³¹,162,chinese_1964_prop_50_2_test:bad:6,chinese_1964_prop_50_2_test
+bad,Xiamen,pʰãĩ⁵¹,163,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Xiamen,mãĩ⁵¹,164,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Xian,xuæ⁴³,157,chinese_1964_prop_50_2_test:bad:2,chinese_1964_prop_50_2_test
+bad,Xian,xɑ²¹,160,chinese_1964_prop_50_2_test:bad:2,chinese_1964_prop_50_2_test
+bad,Yangjiang,wai⁴⁵⁴,157,chinese_1964_prop_50_2_test:bad:1,chinese_1964_prop_50_2_test
+bad,Yangzhou,xuɛ⁵⁵,157,chinese_1964_prop_50_2_test:bad:2,chinese_1964_prop_50_2_test
+the stick,Beijing,kuai²¹⁴₂₁kuənr⁵¹,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+the stick,Changsha,kuai⁴¹kuən⁵⁵,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+the stick,Chaozhou,tɔŋ³⁵₂₁kak²¹,573,chinese_1964_prop_50_2_test:the stick:4,chinese_1964_prop_50_2_test
+the stick,Chengdu,kuai⁵³kuər¹³,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+the stick,Fuzhou,ky⁵²₃₁øyŋ²⁴²,574,chinese_1964_prop_50_2_test:the stick:10,chinese_1964_prop_50_2_test
+the stick,Fuzhou,tuɔŋ²⁴²₃₁nuɔŋ²⁴²,568,chinese_1964_prop_50_2_test:the stick:9,chinese_1964_prop_50_2_test
+the stick,Guangzhou,kwɐi³⁵tʃœŋ²²₃₅,567,chinese_1964_prop_50_2_test:the stick:8,chinese_1964_prop_50_2_test
+the stick,Guangzhou,ʃi²²tɪk⁵,572,chinese_1964_prop_50_2_test:the stick:3,chinese_1964_prop_50_2_test
+the stick,Hefei,kuɛ²⁴kun⁵³,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+the stick,Jinan,kuɛ⁵⁵kuẽ²¹,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+the stick,Kunming,kuɛ⁵³kuə̃¹³,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+the stick,Meixian,kat⁴ɛ³¹kun⁴²,571,chinese_1964_prop_50_2_test:the stick:7,chinese_1964_prop_50_2_test
+the stick,Nanchang,kuai²¹³kun⁵⁵,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+the stick,Shenyang,kuai²¹³₂₁kuənr⁴¹,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+the stick,Suzhou,kuɒ⁴¹zaŋ³¹₂₄,567,chinese_1964_prop_50_2_test:the stick:6,chinese_1964_prop_50_2_test
+the stick,Suzhou,sɿ⁴⁴tiɪʔ⁴₂₁kʰɤʔ⁴₂₁,569,chinese_1964_prop_50_2_test:the stick:2,chinese_1964_prop_50_2_test
+the stick,Wenzhou,buɔ²⁴tsɿ⁴²,570,chinese_1964_prop_50_2_test:the stick:5,chinese_1964_prop_50_2_test
+the stick,Wenzhou,sɿ⁴⁴tei²³kʰɛ²³,569,chinese_1964_prop_50_2_test:the stick:2,chinese_1964_prop_50_2_test
+the stick,Xiamen,tɔŋ³³₁₁kat³²,573,chinese_1964_prop_50_2_test:the stick:4,chinese_1964_prop_50_2_test
+the stick,Xian,kuæ⁵³kuẽr⁴⁵,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+the stick,Yangjiang,ʃi⁴⁵⁴tɪk²⁴,572,chinese_1964_prop_50_2_test:the stick:3,chinese_1964_prop_50_2_test
+the stick,Yangzhou,kuɛ⁴²kuəŋ⁰,566,chinese_1964_prop_50_2_test:the stick:1,chinese_1964_prop_50_2_test
+tomorrow,Beijing,miŋ³⁵tʰian⁰,552,chinese_1964_prop_50_2_test:tomorrow:1,chinese_1964_prop_50_2_test
+tomorrow,Beijing,miŋr³⁵,551,chinese_1964_prop_50_2_test:tomorrow:2,chinese_1964_prop_50_2_test
+tomorrow,Changsha,min¹³zɿ²⁴,554,chinese_1964_prop_50_2_test:tomorrow:14,chinese_1964_prop_50_2_test
+tomorrow,Chaozhou,mua²¹³₅₃kʰi⁵³₂₁,565,chinese_1964_prop_50_2_test:tomorrow:13,chinese_1964_prop_50_2_test
+tomorrow,Chaozhou,mua²¹³₅₃zik⁴,564,chinese_1964_prop_50_2_test:tomorrow:12,chinese_1964_prop_50_2_test
+tomorrow,Chengdu,min³¹tʰian⁴⁴,552,chinese_1964_prop_50_2_test:tomorrow:1,chinese_1964_prop_50_2_test
+tomorrow,Fuzhou,miŋ⁵²₃₁naŋ²¹³,558,chinese_1964_prop_50_2_test:tomorrow:1,chinese_1964_prop_50_2_test
+tomorrow,Guangzhou,tʰɪŋ⁵³jɐt²,561,chinese_1964_prop_50_2_test:tomorrow:11,chinese_1964_prop_50_2_test
+tomorrow,Hefei,min⁵⁵kə⁰,553,chinese_1964_prop_50_2_test:tomorrow:2,chinese_1964_prop_50_2_test
+tomorrow,Hefei,ma⁵⁵tʰiĩ²¹²,560,chinese_1964_prop_50_2_test:tomorrow:10,chinese_1964_prop_50_2_test
+tomorrow,Jinan,miŋ⁴²tʰiæ̃⁰,552,chinese_1964_prop_50_2_test:tomorrow:1,chinese_1964_prop_50_2_test
+tomorrow,Jinan,miŋr⁴²,551,chinese_1964_prop_50_2_test:tomorrow:2,chinese_1964_prop_50_2_test
+tomorrow,Kunming,mĩr³¹ʐʅ³¹₄₄,554,chinese_1964_prop_50_2_test:tomorrow:9,chinese_1964_prop_50_2_test
+tomorrow,Meixian,tʰiɛn⁴⁴kuɔŋ⁴⁴ȵit²¹,559,chinese_1964_prop_50_2_test:tomorrow:8,chinese_1964_prop_50_2_test
+tomorrow,Meixian,tʰin⁴⁴pu⁴⁴ȵit²¹,562,chinese_1964_prop_50_2_test:tomorrow:7,chinese_1964_prop_50_2_test
+tomorrow,Nanchang,miaŋ⁵⁵ȵit⁵,554,chinese_1964_prop_50_2_test:tomorrow:6,chinese_1964_prop_50_2_test
+tomorrow,Shenyang,miŋr³⁵kə⁰,553,chinese_1964_prop_50_2_test:tomorrow:2,chinese_1964_prop_50_2_test
+tomorrow,Suzhou,mən²⁴₂₂tsæ⁴⁴,555,chinese_1964_prop_50_2_test:tomorrow:1,chinese_1964_prop_50_2_test
+tomorrow,Wenzhou,maŋ³¹tɕiɛ⁴⁴,555,chinese_1964_prop_50_2_test:tomorrow:1,chinese_1964_prop_50_2_test
+tomorrow,Xiamen,bin²⁴₃₃nã⁵¹₅₅lit⁵,556,chinese_1964_prop_50_2_test:tomorrow:5,chinese_1964_prop_50_2_test
+tomorrow,Xiamen,bin²⁴₃₃nã⁵¹₅₅tsai¹¹,557,chinese_1964_prop_50_2_test:tomorrow:4,chinese_1964_prop_50_2_test
+tomorrow,Xian,miŋr²⁴kə⁰,553,chinese_1964_prop_50_2_test:tomorrow:2,chinese_1964_prop_50_2_test
+tomorrow,Yangjiang,lɔi⁴⁴³jɐt⁴⁵⁴,563,chinese_1964_prop_50_2_test:tomorrow:3,chinese_1964_prop_50_2_test
+tomorrow,Yangzhou,miŋ³⁴kɤɯ⁰,553,chinese_1964_prop_50_2_test:tomorrow:2,chinese_1964_prop_50_2_test
+the sheep,Beijing,iaŋ³⁵,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Changsha,ian¹³,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Chaozhou,iẽ⁵⁵,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Chengdu,iaŋ³¹tsɿ⁵³,451,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Fuzhou,yɔŋ⁵²,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Guangzhou,jœŋ²¹,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Hefei,iɑ̃⁵⁵,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Jinan,iaŋ⁴²,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Kunming,iã³¹,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Meixian,jɔŋ¹²,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Nanchang,iɔŋ⁵⁵,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Shenyang,iaŋ³⁵,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Suzhou,iaŋ²⁴,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Suzhou,iaŋ²⁴₂₂mɒ⁴⁴mɒ⁴⁴₂₁,452,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Wenzhou,ɦi³¹ῃ⁰,450,chinese_1964_prop_50_2_test:the sheep:2,chinese_1964_prop_50_2_test
+the sheep,Xiamen,ĩũ²⁴,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Xian,iɑŋ²⁴,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Yangjiang,iiɛŋ⁴⁴³,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+the sheep,Yangzhou,iɑŋ³⁴.,449,chinese_1964_prop_50_2_test:the sheep:1,chinese_1964_prop_50_2_test
+to eat,Beijing,tʂʰʅ⁵⁵,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Changsha,tɕʰia²⁴,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Chaozhou,tsiaʔ⁴,1044,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Chengdu,tsʰๅ³¹,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Fuzhou,sieʔ⁴,1044,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Guangzhou,ʃɪk²,1044,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Guangzhou,jak³³,1043,chinese_1964_prop_50_2_test:to eat:3,chinese_1964_prop_50_2_test
+to eat,Hefei,tɕʰiəʔ⁴,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Jinan,tʂʰʅ²¹³,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Kunming,tʂʰʅ³¹,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Meixian,sət⁴,1044,chinese_1964_prop_50_2_test:to eat:2,chinese_1964_prop_50_2_test
+to eat,Nanchang,tɕʰiak⁵,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Shenyang,tsʰๅ³³,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Suzhou,tɕʰiɪʔ⁴,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Wenzhou,tsʰๅ²³,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Xiamen,tsiaʔ⁵,1044,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Xian,tʂʰʅ²¹,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to eat,Yangjiang,hɐt²⁴,1043,chinese_1964_prop_50_2_test:to eat:2,chinese_1964_prop_50_2_test
+to eat,Yangzhou,tɕʰiəʔ⁴,1043,chinese_1964_prop_50_2_test:to eat:1,chinese_1964_prop_50_2_test
+to laugh,Beijing,ɕiau⁵¹,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Changsha,ɕiau⁵⁵,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Chaozhou,tsʰie²¹³,483,chinese_1964_prop_50_2_test:to laugh:2,chinese_1964_prop_50_2_test
+to laugh,Chengdu,ɕiau¹³,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Fuzhou,tsʰiu²¹³,483,chinese_1964_prop_50_2_test:to laugh:2,chinese_1964_prop_50_2_test
+to laugh,Guangzhou,ʃiu³³,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Hefei,ɕiɔ⁵³,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Jinan,ɕiɔ²¹,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Kunming,ɕiau¹³,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Meixian,siau⁴²,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Nanchang,ɕiɛu⁵⁵,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Shenyang,ɕiau⁴¹,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Suzhou,siæ⁵¹³,483,chinese_1964_prop_50_2_test:to laugh:2,chinese_1964_prop_50_2_test
+to laugh,Wenzhou,ɕiɛ⁴²,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Xiamen,tsʰio¹¹,483,chinese_1964_prop_50_2_test:to laugh:2,chinese_1964_prop_50_2_test
+to laugh,Xian,ɕiɑu⁴⁵,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Yangjiang,ɬiu²⁴,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+to laugh,Yangzhou,ɕiɔ⁵⁵,483,chinese_1964_prop_50_2_test:to laugh:1,chinese_1964_prop_50_2_test
+here,Beijing,tʂər⁵¹,275,chinese_1964_prop_50_2_test:here:1,chinese_1964_prop_50_2_test
+here,Changsha,ko²⁴li⁰,286,chinese_1964_prop_50_2_test:here:3,chinese_1964_prop_50_2_test
+here,Chaozhou,tsi⁵³₂₄ko²¹³,293,chinese_1964_prop_50_2_test:here:2,chinese_1964_prop_50_2_test
+here,Chengdu,tsər⁴⁴,275,chinese_1964_prop_50_2_test:here:1,chinese_1964_prop_50_2_test
+here,Fuzhou,tsie⁵²nœ³¹,294,chinese_1964_prop_50_2_test:here:2,chinese_1964_prop_50_2_test
+here,Fuzhou,tsu⁴⁴uai³¹,295,chinese_1964_prop_50_2_test:here:4,chinese_1964_prop_50_2_test
+here,Guangzhou,ni⁵³tou²²,289,chinese_1964_prop_50_2_test:here:5,chinese_1964_prop_50_2_test
+here,Guangzhou,ni⁵³ʃy³³,290,chinese_1964_prop_50_2_test:here:6,chinese_1964_prop_50_2_test
+here,Hefei,tʂʅ⁵³kɐʔ⁴tsə⁰,279,chinese_1964_prop_50_2_test:here:7,chinese_1964_prop_50_2_test
+here,Jinan,tʂə²¹li⁰,276,chinese_1964_prop_50_2_test:here:1,chinese_1964_prop_50_2_test
+here,Kunming,tʂʅ¹³tiɛr⁵³,278,chinese_1964_prop_50_2_test:here:1,chinese_1964_prop_50_2_test
+here,Meixian,li³¹ɛ⁰,287,chinese_1964_prop_50_2_test:here:8,chinese_1964_prop_50_2_test
+here,Meixian,kɛ³¹lɛ³¹,282,chinese_1964_prop_50_2_test:here:3,chinese_1964_prop_50_2_test
+here,Nanchang,kɔ²¹³li⁰,286,chinese_1964_prop_50_2_test:here:3,chinese_1964_prop_50_2_test
+here,Shenyang,tsə⁴¹,275,chinese_1964_prop_50_2_test:here:1,chinese_1964_prop_50_2_test
+here,Suzhou,kɛ⁴⁴taʔ⁴₂₁,281,chinese_1964_prop_50_2_test:here:9,chinese_1964_prop_50_2_test
+here,Suzhou,ɛ⁴⁴taʔ⁴₂₁,284,chinese_1964_prop_50_2_test:here:10,chinese_1964_prop_50_2_test
+here,Suzhou,gɤʔ²³taʔ⁴,285,chinese_1964_prop_50_2_test:here:11,chinese_1964_prop_50_2_test
+here,Wenzhou,ki²³lei²⁴,286,chinese_1964_prop_50_2_test:here:3,chinese_1964_prop_50_2_test
+here,Xiamen,tsia²⁴,288,chinese_1964_prop_50_2_test:here:2,chinese_1964_prop_50_2_test
+here,Xiamen,tsit³²₅ui³³,292,chinese_1964_prop_50_2_test:here:2,chinese_1964_prop_50_2_test
+here,Xian,tʂə⁵³tɑr⁰,277,chinese_1964_prop_50_2_test:here:1,chinese_1964_prop_50_2_test
+here,Yangjiang,kɔi²¹,291,chinese_1964_prop_50_2_test:here:12,chinese_1964_prop_50_2_test
+here,Yangzhou,tsəʔ⁴kʰuɛ⁰,280,chinese_1964_prop_50_2_test:here:2,chinese_1964_prop_50_2_test
+the knee,Beijing,po³⁵ləŋ⁰kair⁵¹,757,chinese_1964_prop_50_2_test:the knee:1,chinese_1964_prop_50_2_test
+the knee,Changsha,tɕʰi²⁴təu¹³ku²⁴,766,chinese_1964_prop_50_2_test:the knee:4,chinese_1964_prop_50_2_test
+the knee,Chaozhou,kʰa³³₂₃tʰau⁵⁵₂₁₃u³³,776,chinese_1964_prop_50_2_test:the knee:3,chinese_1964_prop_50_2_test
+the knee,Chengdu,kʰe³¹ɕi³¹₄₄tʰər³¹,764,chinese_1964_prop_50_2_test:the knee:2,chinese_1964_prop_50_2_test
+the knee,Fuzhou,kʰa⁴⁴₅₂βuʔ²³₃₁lau⁵²,777,chinese_1964_prop_50_2_test:the knee:16,chinese_1964_prop_50_2_test
+the knee,Guangzhou,ʃɐt⁵tʰɐu²¹kɔ⁵⁵,767,chinese_1964_prop_50_2_test:the knee:15,chinese_1964_prop_50_2_test
+the knee,Hefei,kɐʔ⁴nɔ²⁴tʰɯ⁵⁵tsə⁰,772,chinese_1964_prop_50_2_test:the knee:14,chinese_1964_prop_50_2_test
+the knee,Jinan,pə⁴²lə⁰kɛ⁰,758,chinese_1964_prop_50_2_test:the knee:13,chinese_1964_prop_50_2_test
+the knee,Kunming,kʰə³¹ɕi³¹₄₄tʰəu³¹,764,chinese_1964_prop_50_2_test:the knee:2,chinese_1964_prop_50_2_test
+the knee,Meixian,tsʰit²¹tʰɛu¹²,765,chinese_1964_prop_50_2_test:the knee:4,chinese_1964_prop_50_2_test
+the knee,Nanchang,ɕit⁵lau²¹³kuai²¹³tsๅ,768,chinese_1964_prop_50_2_test:the knee:12,chinese_1964_prop_50_2_test
+the knee,Nanchang,kiɛt⁵hit⁵,770,chinese_1964_prop_50_2_test:the knee:11,chinese_1964_prop_50_2_test
+the knee,Shenyang,pə³⁵la⁰kair⁴¹,758,chinese_1964_prop_50_2_test:the knee:1,chinese_1964_prop_50_2_test
+the knee,Suzhou,siɪʔ⁴mø²⁴dʏ²⁴₂₁,769,chinese_1964_prop_50_2_test:the knee:10,chinese_1964_prop_50_2_test
+the knee,Suzhou,tɕiɒʔ⁴mø²⁴dʏ²⁴₂₁,773,chinese_1964_prop_50_2_test:the knee:9,chinese_1964_prop_50_2_test
+the knee,Wenzhou,tɕia²³kʰy⁴²diu³¹,774,chinese_1964_prop_50_2_test:the knee:8,chinese_1964_prop_50_2_test
+the knee,Xiamen,kʰa⁵⁵₃₃tʰɐu²⁴₃₃u⁵⁵,775,chinese_1964_prop_50_2_test:the knee:3,chinese_1964_prop_50_2_test
+the knee,Xian,kʰə²¹tɕʰi²¹kæ⁴⁵,763,chinese_1964_prop_50_2_test:the knee:7,chinese_1964_prop_50_2_test
+the knee,Yangjiang,ɬɐt²⁴tʰɐu⁴⁴³,765,chinese_1964_prop_50_2_test:the knee:6,chinese_1964_prop_50_2_test
+the knee,Yangzhou,kəʔ⁴ɕiəʔ⁴tʰɤɯ³⁴tsɛ⁰,771,chinese_1964_prop_50_2_test:the knee:5,chinese_1964_prop_50_2_test
+the needle (for sewing),Beijing,tʂən⁵⁵,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Changsha,tsən³³,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Chaozhou,tsam³³,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Chengdu,tsən⁴⁴,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Fuzhou,tseiŋ⁴⁴,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Guangzhou,tʃɐm⁵³,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Hefei,tʂən²¹²,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Jinan,tʂẽ²¹³,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Kunming,tʂə̃⁴⁴,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Meixian,tsəm⁴⁴,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Nanchang,tsən⁴²,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Shenyang,tsən³³,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Suzhou,tsən⁴⁴,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Suzhou,in³¹₂₂siɪ⁵¹³₄₄,541,chinese_1964_prop_50_2_test:the needle (for sewing):2,chinese_1964_prop_50_2_test
+the needle (for sewing),Wenzhou,tsaŋ⁴⁴,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Xiamen,tsiam⁵⁵,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Xian,tʂẽ²¹,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Yangjiang,tʃɐm³³,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+the needle (for sewing),Yangzhou,tsəŋ³¹,540,chinese_1964_prop_50_2_test:the needle (for sewing):1,chinese_1964_prop_50_2_test
+round,Beijing,yan³⁵,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Changsha,yẽ¹³,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Chaozhou,ĩ⁵⁵,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Chengdu,yan³¹,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Fuzhou,ieŋ⁵²,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Guangzhou,jyn²¹,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Hefei,yĩ⁵⁵,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Jinan,yæ̃⁴²,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Kunming,iɛ³¹,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Meixian,jan¹²,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Nanchang,yɔn⁵⁵,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Shenyang,yan³⁵,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Suzhou,iø²⁴,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Wenzhou,ɦy³¹,82,chinese_1964_prop_50_2_test:round:2,chinese_1964_prop_50_2_test
+round,Xiamen,ĩ²⁴,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Xian,yæ̃²⁴,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Yangjiang,jin⁴⁴³,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+round,Yangzhou,yĩ³⁴,82,chinese_1964_prop_50_2_test:round:1,chinese_1964_prop_50_2_test
+sharp,Beijing,kʰuai⁵¹,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Changsha,kʰuai⁵⁵,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Chaozhou,lai¹¹,143,chinese_1964_prop_50_2_test:sharp:2,chinese_1964_prop_50_2_test
+sharp,Chengdu,kʰuai¹³,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Fuzhou,lei²⁴²,143,chinese_1964_prop_50_2_test:sharp:2,chinese_1964_prop_50_2_test
+sharp,Guangzhou,lei²²,143,chinese_1964_prop_50_2_test:sharp:2,chinese_1964_prop_50_2_test
+sharp,Hefei,nๅ⁵³,143,chinese_1964_prop_50_2_test:sharp:2,chinese_1964_prop_50_2_test
+sharp,Jinan,kʰuɛ²¹,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Kunming,kʰuɛ¹³,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Meixian,li⁴²,143,chinese_1964_prop_50_2_test:sharp:2,chinese_1964_prop_50_2_test
+sharp,Nanchang,kʰuai²¹³,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Shenyang,kʰuai⁴¹,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Suzhou,kʰuɒ⁵¹³,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Wenzhou,kʰa⁴²,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Xiamen,lai³³,143,chinese_1964_prop_50_2_test:sharp:2,chinese_1964_prop_50_2_test
+sharp,Xian,kʰuæ⁴⁵,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+sharp,Yangjiang,lei⁴⁵⁴,143,chinese_1964_prop_50_2_test:sharp:2,chinese_1964_prop_50_2_test
+sharp,Yangzhou,kʰuɛ⁵⁵,142,chinese_1964_prop_50_2_test:sharp:1,chinese_1964_prop_50_2_test
+to bite,Beijing,iau²¹⁴,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Changsha,ŋa⁵⁵,1053,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Chaozhou,ka³⁵,1052,chinese_1964_prop_50_2_test:to bite:2,chinese_1964_prop_50_2_test
+to bite,Chengdu,ŋau⁵³,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Fuzhou,ka²⁴²,1052,chinese_1964_prop_50_2_test:to bite:2,chinese_1964_prop_50_2_test
+to bite,Guangzhou,ŋau²³,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Hefei,iɔ²⁴,1052,chinese_1964_prop_50_2_test:to bite:3,chinese_1964_prop_50_2_test
+to bite,Jinan,iɔ⁵⁵,1052,chinese_1964_prop_50_2_test:to bite:3,chinese_1964_prop_50_2_test
+to bite,Kunming,iau⁵³,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Meixian,ŋau⁴⁴,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Nanchang,ŋau²¹³,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Shenyang,iau²¹³,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Suzhou,ŋæ³¹,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Wenzhou,ŋuɔ²⁴,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Xiamen,ka³³,1052,chinese_1964_prop_50_2_test:to bite:2,chinese_1964_prop_50_2_test
+to bite,Xian,ȵiɑu⁵³,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Yangjiang,ŋau²¹,1052,chinese_1964_prop_50_2_test:to bite:1,chinese_1964_prop_50_2_test
+to bite,Yangzhou,ɔ⁴²,1052,chinese_1964_prop_50_2_test:to bite:3,chinese_1964_prop_50_2_test
+to hear,Beijing,tʰiŋ⁵⁵,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Changsha,tʰin⁵⁵,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Chaozhou,tʰĩã³³,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Chengdu,tʰin⁴⁴,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Fuzhou,tʰiaŋ⁴⁴,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Guangzhou,tʰɛŋ⁵³,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Hefei,tʰin²¹²,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Jinan,tʰiŋ²¹³,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Kunming,tʰĩ⁴⁴,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Meixian,tʰaŋ⁴⁴,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Nanchang,tʰiaŋ⁴²,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Shenyang,tʰiŋ³³,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Suzhou,tʰin⁴⁴,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Wenzhou,tʰəŋ⁴⁴,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Xiamen,tʰĩã⁵⁵,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Xian,tʰiŋ²¹,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Yangjiang,tʰɪŋ³³,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to hear,Yangzhou,tʰiŋ³¹,1038,chinese_1964_prop_50_2_test:to hear:1,chinese_1964_prop_50_2_test
+to think (reflect),Beijing,ɕiaŋ²¹⁴,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Changsha,ɕian⁴¹,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Chaozhou,sĩẽ³⁵,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Chengdu,ɕiaŋ⁵³,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Fuzhou,suɔŋ²¹³,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Guangzhou,ʃœŋ³⁵,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Hefei,ɕiɑ̃²⁴,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Jinan,ɕiaŋ⁵⁵,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Kunming,ɕiã⁵³,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Meixian,siɔŋ³¹,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Nanchang,ɕiɔŋ²¹³,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Shenyang,ɕiaŋ²¹³,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Shenyang,ɕin³⁵sๅ⁰,44,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Suzhou,siaŋ⁴¹,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Wenzhou,ɕi⁴⁵,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Xiamen,sĩũ³³,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Xian,ɕiɑŋ⁵³,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Yangjiang,ɬiɛŋ²¹,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to think (reflect),Yangzhou,ɕiɑŋ⁴²,43,chinese_1964_prop_50_2_test:to think (reflect):1,chinese_1964_prop_50_2_test
+to kill,Beijing,ʂa⁵⁵,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Changsha,sa²⁴,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Chaozhou,tʰai⁵⁵,1152,chinese_1964_prop_50_2_test:to kill:2,chinese_1964_prop_50_2_test
+to kill,Chengdu,sa³¹,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Fuzhou,tʰai⁵²,1152,chinese_1964_prop_50_2_test:to kill:2,chinese_1964_prop_50_2_test
+to kill,Guangzhou,ʃat³³,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Hefei,ʂɐʔ⁴,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Jinan,ʂa²¹³,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Kunming,ʂa³¹,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Meixian,sat²¹,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Nanchang,sat⁵,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Shenyang,sa³³,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Suzhou,saʔ⁴,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Wenzhou,sa²³,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Xiamen,tʰai²⁴,1152,chinese_1964_prop_50_2_test:to kill:2,chinese_1964_prop_50_2_test
+to kill,Xian,sɑ²¹,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Yangjiang,ʃat²¹,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to kill,Yangzhou,sæʔ⁴,1151,chinese_1964_prop_50_2_test:to kill:1,chinese_1964_prop_50_2_test
+to fight,Beijing,ta²¹⁴₂₁tɕia⁵¹,1195,chinese_1964_prop_50_2_test:to fight:1,chinese_1964_prop_50_2_test
+to fight,Changsha,ta⁴¹tɕia⁵⁵,1195,chinese_1964_prop_50_2_test:to fight:1,chinese_1964_prop_50_2_test
+to fight,Chaozhou,sĩẽ³³₂₃pʰaʔ²¹,1200,chinese_1964_prop_50_2_test:to fight:2,chinese_1964_prop_50_2_test
+to fight,Chengdu,ta⁵³tɕia¹³,1195,chinese_1964_prop_50_2_test:to fight:1,chinese_1964_prop_50_2_test
+to fight,Chengdu,ta⁵³tsʰuei³¹,1196,chinese_1964_prop_50_2_test:to fight:1,chinese_1964_prop_50_2_test
+to fight,Fuzhou,souŋ⁴⁴₅₂pʰaʔ²³,1200,chinese_1964_prop_50_2_test:to fight:2,chinese_1964_prop_50_2_test
+to fight,Guangzhou,ta³⁵kau⁵³,1198,chinese_1964_prop_50_2_test:to fight:3,chinese_1964_prop_50_2_test
+to fight,Hefei,ta²⁴tɕia⁵³,1195,chinese_1964_prop_50_2_test:to fight:1,chinese_1964_prop_50_2_test
+to fight,Jinan,ta⁵⁵tɕia²¹,1195,chinese_1964_prop_50_2_test:to fight:1,chinese_1964_prop_50_2_test
+to fight,Kunming,ta⁵³tɕia¹³,1195,chinese_1964_prop_50_2_test:to fight:1,chinese_1964_prop_50_2_test
+to fight,Meixian,siɔŋ⁴⁴ta³¹,1199,chinese_1964_prop_50_2_test:to fight:7,chinese_1964_prop_50_2_test
+to fight,Nanchang,ta²¹³ka⁵⁵,1195,chinese_1964_prop_50_2_test:to fight:3,chinese_1964_prop_50_2_test
+to fight,Shenyang,ta²¹³₂₁tɕia⁴¹,1195,chinese_1964_prop_50_2_test:to fight:1,chinese_1964_prop_50_2_test
+to fight,Suzhou,taŋ⁴¹siaŋ⁴⁴₃₅taŋ⁴¹₂₁,1197,chinese_1964_prop_50_2_test:to fight:6,chinese_1964_prop_50_2_test
+to fight,Wenzhou,ɕi⁴²tiɛ⁴⁵,1199,chinese_1964_prop_50_2_test:to fight:5,chinese_1964_prop_50_2_test
+to fight,Xiamen,sio⁵⁵₃₃pʰaʔ³²,1200,chinese_1964_prop_50_2_test:to fight:2,chinese_1964_prop_50_2_test
+to fight,Xian,tɑ⁵³pfʰei²⁴,1196,chinese_1964_prop_50_2_test:to fight:4,chinese_1964_prop_50_2_test
+to fight,Yangjiang,ta²¹kau³³,1198,chinese_1964_prop_50_2_test:to fight:3,chinese_1964_prop_50_2_test
+to fight,Yangzhou,tɑ⁴²tɕiɑ⁵⁵,1195,chinese_1964_prop_50_2_test:to fight:1,chinese_1964_prop_50_2_test
+the star,Beijing,ɕiŋ⁵⁵,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Changsha,ɕin³³tsɿ⁰,549,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Chaozhou,tsʰẽ³³,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Chengdu,ɕin⁴⁴ɕiər¹³,548,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Fuzhou,siŋ⁴⁴,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Guangzhou,ʃɪŋ⁵³,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Hefei,ɕin²¹²,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Jinan,ɕiŋ²¹³,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Kunming,ɕĩ⁴⁴ɕio¹³,548,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Meixian,sɛn⁴⁴,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Nanchang,ɕiaŋ⁴²tsɿ⁰,549,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Shenyang,ɕiŋ³³,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Suzhou,sin⁴⁴,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Wenzhou,səŋ⁴⁴,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Xiamen,tsʰi⁵⁵,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Xian,ɕiŋ²¹,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+the star,Yangjiang,tʰin³³ɬɪŋ³³,550,chinese_1964_prop_50_2_test:the star:2,chinese_1964_prop_50_2_test
+the star,Yangzhou,ɕiŋ³¹,547,chinese_1964_prop_50_2_test:the star:1,chinese_1964_prop_50_2_test
+to scratch,Beijing,nau³⁵iaŋ²¹⁴,21,chinese_1964_prop_50_2_test:to scratch:4,chinese_1964_prop_50_2_test
+to scratch,Beijing,kʰuai²¹⁴₃₅iaŋ²¹⁴,22,chinese_1964_prop_50_2_test:to scratch:2,chinese_1964_prop_50_2_test
+to scratch,Changsha,tɕya³³ian⁴¹,24,chinese_1964_prop_50_2_test:to scratch:1,chinese_1964_prop_50_2_test
+to scratch,Chaozhou,pe⁵⁵₂₁₃tsĩẽ³⁵,27,chinese_1964_prop_50_2_test:to scratch:3,chinese_1964_prop_50_2_test
+to scratch,Chengdu,kʰəu⁴⁴iaŋ⁵³,25,chinese_1964_prop_50_2_test:to scratch:2,chinese_1964_prop_50_2_test
+to scratch,Fuzhou,pa⁵²₃₁louŋ²⁴²,27,chinese_1964_prop_50_2_test:to scratch:5,chinese_1964_prop_50_2_test
+to scratch,Guangzhou,ŋɐu⁵³hɐn²²,29,chinese_1964_prop_50_2_test:to scratch:6,chinese_1964_prop_50_2_test
+to scratch,Hefei,tʂua²¹²iɑ̃²⁴,24,chinese_1964_prop_50_2_test:to scratch:1,chinese_1964_prop_50_2_test
+to scratch,Jinan,kʰuɛ⁵⁵iaŋ⁵⁵iaŋ⁰,23,chinese_1964_prop_50_2_test:to scratch:2,chinese_1964_prop_50_2_test
+to scratch,Kunming,tʂua⁴⁴iã⁵³,24,chinese_1964_prop_50_2_test:to scratch:1,chinese_1964_prop_50_2_test
+to scratch,Meixian,ja³¹jɔŋ⁴¹,28,chinese_1964_prop_50_2_test:to scratch:2,chinese_1964_prop_50_2_test
+to scratch,Nanchang,tsɛ⁴²iɔŋ²¹³,26,chinese_1964_prop_50_2_test:to scratch:1,chinese_1964_prop_50_2_test
+to scratch,Shenyang,nau³⁵iaŋ²¹³,21,chinese_1964_prop_50_2_test:to scratch:4,chinese_1964_prop_50_2_test
+to scratch,Suzhou,tsæ⁴⁴iaŋ³¹,26,chinese_1964_prop_50_2_test:to scratch:1,chinese_1964_prop_50_2_test
+to scratch,Wenzhou,bo³¹ɦi²⁴,27,chinese_1964_prop_50_2_test:to scratch:7,chinese_1964_prop_50_2_test
+to scratch,Xiamen,pe³³tsĩũ³³,27,chinese_1964_prop_50_2_test:to scratch:3,chinese_1964_prop_50_2_test
+to scratch,Xian,tsɑu²¹iɑŋ⁵³,24,chinese_1964_prop_50_2_test:to scratch:1,chinese_1964_prop_50_2_test
+to scratch,Yangjiang,jɐu³³jiɛŋ²¹,30,chinese_1964_prop_50_2_test:to scratch:2,chinese_1964_prop_50_2_test
+to scratch,Yangzhou,tsuɑ³¹iɑŋ⁴²,24,chinese_1964_prop_50_2_test:to scratch:1,chinese_1964_prop_50_2_test
+to pull,Beijing,tʰuo⁵⁵,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Beijing,tʂuai⁵¹,1098,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Changsha,tʰo³³,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Chaozhou,tʰua³³,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Chengdu,tʰo⁴⁴,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Fuzhou,tʰua⁴⁴,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Guangzhou,tʰɔ⁵³,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Hefei,tʰʊ²¹²,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Jinan,tʰuə²¹³,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Kunming,tʰuo⁴⁴,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Meixian,tʰɔ⁴⁴,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Nanchang,tʰɔ⁴²,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Shenyang,tʰuə³³,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Suzhou,tʰəu⁴⁴,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Wenzhou,tʰa⁴⁴,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Xiamen,tʰua⁵⁵,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Xian,tʰuo²¹,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Yangjiang,tʰɔ³³,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to pull,Yangzhou,tʰo³¹,1097,chinese_1964_prop_50_2_test:to pull:1,chinese_1964_prop_50_2_test
+to die,Beijing,sๅ²¹⁴,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Changsha,sๅ⁴¹,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Chaozhou,si⁵³,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Chengdu,sๅ⁵³,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Fuzhou,si³¹,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Fuzhou,seiŋ⁴⁴,1214,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Guangzhou,ʃei³⁵,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Hefei,sๅ²⁴,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Jinan,sๅ⁵⁵,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Kunming,sๅ⁵³,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Meixian,si³¹,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Nanchang,sๅ²¹³,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Shenyang,sๅ²¹³,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Suzhou,si⁴¹,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Wenzhou,sๅ⁴⁵,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Xiamen,si⁵¹,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Xian,sๅ⁵³,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+to die,Yangjiang,ɬɐi²¹,1213,chinese_1964_prop_50_2_test:to die:2,chinese_1964_prop_50_2_test
+to die,Yangzhou,sๅ⁴²,1213,chinese_1964_prop_50_2_test:to die:1,chinese_1964_prop_50_2_test
+the goat,Beijing,iaŋ³⁵,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Changsha,ian¹³,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Chaozhou,iẽ⁵⁵,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Chengdu,iaŋ³¹tsɿ⁵³,447,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Fuzhou,yɔŋ⁵²,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Guangzhou,jœŋ²¹,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Hefei,iɑ̃⁵⁵,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Jinan,iaŋ⁴²,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Kunming,iã³¹,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Meixian,jɔŋ¹²,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Nanchang,iɔŋ⁵⁵,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Shenyang,iaŋ³⁵,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Suzhou,iaŋ²⁴,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Suzhou,iaŋ²⁴₂₂mɒ⁴⁴mɒ⁴⁴₂₁,448,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Wenzhou,ɦi³¹ῃ⁰,446,chinese_1964_prop_50_2_test:the goat:2,chinese_1964_prop_50_2_test
+the goat,Xiamen,ĩũ²⁴,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Xian,iɑŋ²⁴,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Yangjiang,iiɛŋ⁴⁴³,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the goat,Yangzhou,iɑŋ³⁴.,445,chinese_1964_prop_50_2_test:the goat:1,chinese_1964_prop_50_2_test
+the mosquito,Beijing,uən³⁵tsɿ⁰,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Changsha,mən³³tsɿ⁰,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Chaozhou,maŋ⁵³,358,chinese_1964_prop_50_2_test:the mosquito:2,chinese_1964_prop_50_2_test
+the mosquito,Chaozhou,buŋ³³,314,chinese_1964_prop_50_2_test:the mosquito:3,chinese_1964_prop_50_2_test
+the mosquito,Chengdu,uən³¹tsɿ⁵³,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Fuzhou,xuŋ⁴⁴muɔŋ⁵²,367,chinese_1964_prop_50_2_test:the mosquito:4,chinese_1964_prop_50_2_test
+the mosquito,Guangzhou,mɐn²¹₅₅,314,chinese_1964_prop_50_2_test:the mosquito:2,chinese_1964_prop_50_2_test
+the mosquito,Hefei,un⁵⁵tsə⁰,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Jinan,uẽ⁴²tsɿ⁰,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Kunming,uə̃³¹tsɿ⁵³,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Meixian,mun⁴⁴,314,chinese_1964_prop_50_2_test:the mosquito:5,chinese_1964_prop_50_2_test
+the mosquito,Nanchang,un⁵⁵tsʰuŋ²⁴,316,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Shenyang,uən³⁵tsɿ⁰,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Suzhou,mən²⁴₂₂tsɿ⁴¹₄₄,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Wenzhou,maŋ³¹dʑyoŋ³¹,316,chinese_1964_prop_50_2_test:the mosquito:6,chinese_1964_prop_50_2_test
+the mosquito,Xiamen,baŋ⁵¹₅₅ã⁵¹,343,chinese_1964_prop_50_2_test:the mosquito:7,chinese_1964_prop_50_2_test
+the mosquito,Xian,vẽ²⁴tsɿ⁰,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Yangjiang,mɐn⁴⁴³tʃʰʊŋ⁴⁴³,316,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+the mosquito,Yangzhou,uəŋ³⁴tsɛ⁰,315,chinese_1964_prop_50_2_test:the mosquito:1,chinese_1964_prop_50_2_test
+to run,Beijing,pʰau²¹⁴,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Changsha,pʰau⁴¹,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Chaozhou,tsau⁵³,1119,chinese_1964_prop_50_2_test:to run:2,chinese_1964_prop_50_2_test
+to run,Chengdu,pʰau⁵³,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Fuzhou,pie²¹³,1120,chinese_1964_prop_50_2_test:to run:4,chinese_1964_prop_50_2_test
+to run,Guangzhou,tʃɐu³⁵,1119,chinese_1964_prop_50_2_test:to run:2,chinese_1964_prop_50_2_test
+to run,Hefei,pʰɔ⁵⁵,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Jinan,pʰɔ⁵⁵,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Kunming,pʰau⁵³,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Meixian,tsɛu³¹,1119,chinese_1964_prop_50_2_test:to run:2,chinese_1964_prop_50_2_test
+to run,Nanchang,pʰau²¹³,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Shenyang,pʰau²¹³,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Suzhou,bæ²⁴,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Suzhou,pən⁴⁴,1114,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Wenzhou,zei¹²,1118,chinese_1964_prop_50_2_test:to run:3,chinese_1964_prop_50_2_test
+to run,Xiamen,tsau⁵¹,1119,chinese_1964_prop_50_2_test:to run:2,chinese_1964_prop_50_2_test
+to run,Xian,pʰɑu²⁴,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Yangjiang,tʃɐu²¹,1119,chinese_1964_prop_50_2_test:to run:2,chinese_1964_prop_50_2_test
+to run,Yangzhou,pʰɔ⁴²,1113,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+to run,Yangzhou,pəŋ³¹,1114,chinese_1964_prop_50_2_test:to run:1,chinese_1964_prop_50_2_test
+the man (male human),Beijing,nan³⁵ʐən⁰,778,chinese_1964_prop_50_2_test:the man (male human):1,chinese_1964_prop_50_2_test
+the man (male human),Beijing,nan³⁵tə⁰,780,chinese_1964_prop_50_2_test:the man (male human):2,chinese_1964_prop_50_2_test
+the man (male human),Beijing,ie³⁵mən⁰,786,chinese_1964_prop_50_2_test:the man (male human):6,chinese_1964_prop_50_2_test
+the man (male human),Changsha,lan¹³zən¹³,778,chinese_1964_prop_50_2_test:the man (male human):3,chinese_1964_prop_50_2_test
+the man (male human),Chaozhou,ta³³₂₃pou³³,791,chinese_1964_prop_50_2_test:the man (male human):4,chinese_1964_prop_50_2_test
+the man (male human),Chengdu,nan³¹ni⁴⁴,780,chinese_1964_prop_50_2_test:the man (male human):1,chinese_1964_prop_50_2_test
+the man (male human),Fuzhou,touŋ⁵²₃₁muɔ⁴⁴nøyŋ⁵²,793,chinese_1964_prop_50_2_test:the man (male human):7,chinese_1964_prop_50_2_test
+the man (male human),Fuzhou,naŋ⁵²₃₁ŋai²¹³,785,chinese_1964_prop_50_2_test:the man (male human):15,chinese_1964_prop_50_2_test
+the man (male human),Guangzhou,nam²¹jɐn²¹₃₅,778,chinese_1964_prop_50_2_test:the man (male human):5,chinese_1964_prop_50_2_test
+the man (male human),Guangzhou,lou²³₃₅,789,chinese_1964_prop_50_2_test:the man (male human):16,chinese_1964_prop_50_2_test
+the man (male human),Hefei,næ̃⁵⁵tə⁰,780,chinese_1964_prop_50_2_test:the man (male human):2,chinese_1964_prop_50_2_test
+the man (male human),Jinan,næ̃⁴²ʐẽ⁰,778,chinese_1964_prop_50_2_test:the man (male human):1,chinese_1964_prop_50_2_test
+the man (male human),Jinan,næ̃⁴²ti⁰,780,chinese_1964_prop_50_2_test:the man (male human):2,chinese_1964_prop_50_2_test
+the man (male human),Jinan,ie⁴²mẽr⁰,787,chinese_1964_prop_50_2_test:the man (male human):8,chinese_1964_prop_50_2_test
+the man (male human),Kunming,nã³¹ʐə̃³¹,781,chinese_1964_prop_50_2_test:the man (male human):1,chinese_1964_prop_50_2_test
+the man (male human),Meixian,nam¹²tsๅ³¹ȵin¹²,783,chinese_1964_prop_50_2_test:the man (male human):9,chinese_1964_prop_50_2_test
+the man (male human),Nanchang,lan⁵⁵ȵin⁵⁵,778,chinese_1964_prop_50_2_test:the man (male human):3,chinese_1964_prop_50_2_test
+the man (male human),Shenyang,nan³⁵in⁰,778,chinese_1964_prop_50_2_test:the man (male human):1,chinese_1964_prop_50_2_test
+the man (male human),Suzhou,nø²⁴₂₂ȵin²⁴₃₃,778,chinese_1964_prop_50_2_test:the man (male human):1,chinese_1964_prop_50_2_test
+the man (male human),Wenzhou,nø³¹gei⁰,782,chinese_1964_prop_50_2_test:the man (male human):10,chinese_1964_prop_50_2_test
+the man (male human),Wenzhou,nø³¹tsๅ⁴⁵kʰa²³,784,chinese_1964_prop_50_2_test:the man (male human):11,chinese_1964_prop_50_2_test
+the man (male human),Xiamen,ta⁵⁵₃₃po⁵⁵₃₃laŋ²⁴,792,chinese_1964_prop_50_2_test:the man (male human):12,chinese_1964_prop_50_2_test
+the man (male human),Xian,næ̃²⁴ʐẽ⁰,778,chinese_1964_prop_50_2_test:the man (male human):1,chinese_1964_prop_50_2_test
+the man (male human),Yangjiang,lou²¹tʃɐi²¹,790,chinese_1964_prop_50_2_test:the man (male human):13,chinese_1964_prop_50_2_test
+the man (male human),Yangzhou,lɛ̃³⁴ləŋ³⁴tɕiɑ⁰,779,chinese_1964_prop_50_2_test:the man (male human):14,chinese_1964_prop_50_2_test
+to sleep,Beijing,ʂuei⁵¹tɕiau⁵¹,10,chinese_1964_prop_50_2_test:to sleep:1,chinese_1964_prop_50_2_test
+to sleep,Changsha,kʰuən⁵⁵kau⁵⁵,15,chinese_1964_prop_50_2_test:to sleep:2,chinese_1964_prop_50_2_test
+to sleep,Chaozhou,uk⁴,19,chinese_1964_prop_50_2_test:to sleep:12,chinese_1964_prop_50_2_test
+to sleep,Chaozhou,ĩ⁵⁵,20,chinese_1964_prop_50_2_test:to sleep:11,chinese_1964_prop_50_2_test
+to sleep,Chengdu,suei¹³kʰo³¹suei¹³,11,chinese_1964_prop_50_2_test:to sleep:13,chinese_1964_prop_50_2_test
+to sleep,Fuzhou,kʰouŋ²¹³,14,chinese_1964_prop_50_2_test:to sleep:3,chinese_1964_prop_50_2_test
+to sleep,Guangzhou,fɐn³³kau³³,17,chinese_1964_prop_50_2_test:to sleep:10,chinese_1964_prop_50_2_test
+to sleep,Hefei,ʂui⁵³tɕiɔ⁵³,10,chinese_1964_prop_50_2_test:to sleep:1,chinese_1964_prop_50_2_test
+to sleep,Jinan,ʂuei²¹tɕiɔ²¹,10,chinese_1964_prop_50_2_test:to sleep:1,chinese_1964_prop_50_2_test
+to sleep,Kunming,ʂue¹³tɕiau¹³,10,chinese_1964_prop_50_2_test:to sleep:1,chinese_1964_prop_50_2_test
+to sleep,Meixian,sɔi⁴²muk²¹,12,chinese_1964_prop_50_2_test:to sleep:9,chinese_1964_prop_50_2_test
+to sleep,Nanchang,kʰun²¹³kau⁵⁵,15,chinese_1964_prop_50_2_test:to sleep:2,chinese_1964_prop_50_2_test
+to sleep,Shenyang,suei⁴¹tɕiau⁴¹,10,chinese_1964_prop_50_2_test:to sleep:1,chinese_1964_prop_50_2_test
+to sleep,Suzhou,kʰuən⁵¹³₄₄kæ⁵¹³₂₁,15,chinese_1964_prop_50_2_test:to sleep:2,chinese_1964_prop_50_2_test
+to sleep,Wenzhou,kʰy⁴²,14,chinese_1964_prop_50_2_test:to sleep:8,chinese_1964_prop_50_2_test
+to sleep,Xiamen,kʰun¹¹,14,chinese_1964_prop_50_2_test:to sleep:3,chinese_1964_prop_50_2_test
+to sleep,Xiamen,ka⁵⁵₃₃tsue³³,18,chinese_1964_prop_50_2_test:to sleep:7,chinese_1964_prop_50_2_test
+to sleep,Xian,fei⁴⁵tɕiɑu⁴⁵,10,chinese_1964_prop_50_2_test:to sleep:1,chinese_1964_prop_50_2_test
+to sleep,Xian,kʰə²¹fei⁰,13,chinese_1964_prop_50_2_test:to sleep:6,chinese_1964_prop_50_2_test
+to sleep,Yangjiang,fɐn²⁴,16,chinese_1964_prop_50_2_test:to sleep:5,chinese_1964_prop_50_2_test
+to sleep,Yangzhou,suəi⁵⁵kɔ⁵⁵,10,chinese_1964_prop_50_2_test:to sleep:4,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Beijing,uən³⁵,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Changsha,uən¹³,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Changsha,tʰin⁵⁵,1041,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Chaozhou,pʰĩ¹¹,1042,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:2,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Chengdu,uən³¹,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Fuzhou,pei²⁴²,1042,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:2,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Guangzhou,nɐn²¹,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:3,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Hefei,un⁵⁵,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Jinan,uẽ⁴²,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Kunming,uə̃³¹,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Meixian,pʰi⁴²,1042,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:2,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Nanchang,ɕiuŋ⁵⁵,1040,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Nanchang,un⁵⁵,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Shenyang,uən³⁵,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Suzhou,mən²⁴,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Wenzhou,hoŋ⁴²,1040,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:4,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Xiamen,pʰĩ³³,1042,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:2,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Xian,vẽ²⁴,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:2,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Yangjiang,mɐn⁴⁴³,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:3,chinese_1964_prop_50_2_test
+to smell (perceive odor) [transitive],Yangzhou,uəŋ³⁴,1039,chinese_1964_prop_50_2_test:to smell (perceive odor) [transitive]:1,chinese_1964_prop_50_2_test
+the son,Beijing,ɚ³⁵tsๅ⁰,893,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Changsha,ŋa¹³tsๅ⁰,895,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Changsha,tsai⁴¹,896,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Chaozhou,kĩã⁵³,899,chinese_1964_prop_50_2_test:the son:2,chinese_1964_prop_50_2_test
+the son,Chengdu,ɚ³¹,892,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Fuzhou,kiaŋ³¹,899,chinese_1964_prop_50_2_test:the son:2,chinese_1964_prop_50_2_test
+the son,Guangzhou,tʃɐi³⁵,898,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Hefei,a⁵⁵tsə⁰,893,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Jinan,ɕiɔ⁵⁵tsๅ⁰,894,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Kunming,ə³¹tsๅ⁵³,893,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Meixian,lai⁴²ɛ⁰,897,chinese_1964_prop_50_2_test:the son:3,chinese_1964_prop_50_2_test
+the son,Nanchang,tsai²¹³,896,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Shenyang,ɚ³⁵tsๅ⁰,893,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Suzhou,ȵi²⁴₂₂tsๅ⁴¹₄₄,893,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Wenzhou,ῃ³¹,892,chinese_1964_prop_50_2_test:the son:4,chinese_1964_prop_50_2_test
+the son,Xiamen,kĩã⁵¹,899,chinese_1964_prop_50_2_test:the son:2,chinese_1964_prop_50_2_test
+the son,Xiamen,hau³³₁₁sĩ⁵⁵,900,chinese_1964_prop_50_2_test:the son:5,chinese_1964_prop_50_2_test
+the son,Xian,ɚ²⁴tsๅ⁰,893,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Yangjiang,tʃɐi²¹,898,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+the son,Yangzhou,ɑ³⁴tsɛ⁰,893,chinese_1964_prop_50_2_test:the son:1,chinese_1964_prop_50_2_test
+black,Beijing,xei⁵⁵,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Changsha,xə²⁴,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Chaozhou,ou³³,92,chinese_1964_prop_50_2_test:black:2,chinese_1964_prop_50_2_test
+black,Chengdu,xe³¹,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Fuzhou,u⁴⁴,92,chinese_1964_prop_50_2_test:black:2,chinese_1964_prop_50_2_test
+black,Guangzhou,hɐk⁵,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Hefei,xɐʔ⁴,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Jinan,xei²¹³,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Kunming,xə³¹,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Meixian,vu⁴⁴,92,chinese_1964_prop_50_2_test:black:2,chinese_1964_prop_50_2_test
+black,Nanchang,hɛt⁵,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Nanchang,u⁴²,92,chinese_1964_prop_50_2_test:black:2,chinese_1964_prop_50_2_test
+black,Shenyang,xei³³,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Suzhou,hɤʔ⁴,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Wenzhou,hɛ²³,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Xiamen,ɔ⁵⁵,92,chinese_1964_prop_50_2_test:black:2,chinese_1964_prop_50_2_test
+black,Xian,xei²¹,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Yangjiang,hɐk²⁴,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+black,Yangzhou,xəʔ⁴,91,chinese_1964_prop_50_2_test:black:1,chinese_1964_prop_50_2_test
+wet,Beijing,ʂʅ⁵⁵,99,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Changsha,sๅ²⁴,99,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Chaozhou,tan⁵⁵,104,chinese_1964_prop_50_2_test:wet:4,chinese_1964_prop_50_2_test
+wet,Chengdu,sๅ³¹,99,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Fuzhou,laŋ²⁴²,102,chinese_1964_prop_50_2_test:wet:5,chinese_1964_prop_50_2_test
+wet,Fuzhou,seiʔ²³,99,chinese_1964_prop_50_2_test:wet:2,chinese_1964_prop_50_2_test
+wet,Guangzhou,ʃɐp⁵,99,chinese_1964_prop_50_2_test:wet:3,chinese_1964_prop_50_2_test
+wet,Hefei,tʂʰɔ⁵⁵,101,chinese_1964_prop_50_2_test:wet:4,chinese_1964_prop_50_2_test
+wet,Jinan,ʂʅ²¹³,99,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Kunming,ʂʅ³¹,99,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Meixian,səp²¹,99,chinese_1964_prop_50_2_test:wet:3,chinese_1964_prop_50_2_test
+wet,Nanchang,sət⁵,99,chinese_1964_prop_50_2_test:wet:2,chinese_1964_prop_50_2_test
+wet,Shenyang,sๅ³³,99,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Suzhou,sɤʔ⁴,99,chinese_1964_prop_50_2_test:wet:2,chinese_1964_prop_50_2_test
+wet,Suzhou,zæ²⁴,101,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Wenzhou,sai²³,99,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Wenzhou,la¹¹,102,chinese_1964_prop_50_2_test:wet:5,chinese_1964_prop_50_2_test
+wet,Xiamen,tam²⁴,103,chinese_1964_prop_50_2_test:wet:4,chinese_1964_prop_50_2_test
+wet,Xiamen,sip³²,99,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Xian,ʂʅ²¹,99,chinese_1964_prop_50_2_test:wet:1,chinese_1964_prop_50_2_test
+wet,Yangjiang,ʃɐp²⁴,99,chinese_1964_prop_50_2_test:wet:3,chinese_1964_prop_50_2_test
+wet,Yangzhou,səʔ⁴,99,chinese_1964_prop_50_2_test:wet:2,chinese_1964_prop_50_2_test
+the upper level (above),Beijing,ʂaŋ⁵¹tʰou⁰,948,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Changsha,san²¹təu⁰,948,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Chaozhou,teŋ⁵³₂₁₃põĩ⁵⁵,961,chinese_1964_prop_50_2_test:the upper level (above):3,chinese_1964_prop_50_2_test
+the upper level (above),Chengdu,kau⁴⁴tʰəu³¹,957,chinese_1964_prop_50_2_test:the upper level (above):2,chinese_1964_prop_50_2_test
+the upper level (above),Chengdu,saŋ¹³tʰəu³¹,948,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Fuzhou,kɛ³¹leiŋ³¹,962,chinese_1964_prop_50_2_test:the upper level (above):8,chinese_1964_prop_50_2_test
+the upper level (above),Guangzhou,ʃœŋ²²pin²²,955,chinese_1964_prop_50_2_test:the upper level (above):7,chinese_1964_prop_50_2_test
+the upper level (above),Hefei,kɐʔ⁴tʰɯ⁰,958,chinese_1964_prop_50_2_test:the upper level (above):6,chinese_1964_prop_50_2_test
+the upper level (above),Hefei,ʂɑ̃⁵³tʰɯ⁰,948,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Jinan,ʂaŋ²¹pɛr⁰,949,chinese_1964_prop_50_2_test:the upper level (above):5,chinese_1964_prop_50_2_test
+the upper level (above),Kunming,ʂã¹³ʂəu⁵³,952,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Meixian,sɔŋ⁴²pɔi⁴²,954,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Nanchang,sɔŋ³¹tʰɛu²⁴,948,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Nanchang,sɔŋ³¹tit⁵,953,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Shenyang,saŋ⁴¹mian⁰,950,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Suzhou,zɒŋ³¹₂₂dʏ²⁴₃₃,948,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Wenzhou,ɦi¹¹mai¹¹,950,chinese_1964_prop_50_2_test:the upper level (above):4,chinese_1964_prop_50_2_test
+the upper level (above),Xiamen,tiŋ⁵¹₅₅bin³³,960,chinese_1964_prop_50_2_test:the upper level (above):3,chinese_1964_prop_50_2_test
+the upper level (above),Xiamen,tiŋ⁵¹₅₅tʰau²⁴,959,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Xian,ʂɑŋ⁴⁵tʰou⁰,948,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Yangjiang,ʃiɛŋ⁴⁵⁴kou³³,951,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+the upper level (above),Yangzhou,kɔ³¹tʰɤɯ⁰,957,chinese_1964_prop_50_2_test:the upper level (above):2,chinese_1964_prop_50_2_test
+the upper level (above),Yangzhou,saŋ⁵⁵tʰɤɯ⁰,948,chinese_1964_prop_50_2_test:the upper level (above):1,chinese_1964_prop_50_2_test
+to cry (weep),Beijing,kʰu⁵⁵,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Changsha,kʰu²⁴,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Chaozhou,kʰau²¹³,1182,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Chengdu,kʰu³¹,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Fuzhou,tʰie⁵²,1183,chinese_1964_prop_50_2_test:to cry (weep):2,chinese_1964_prop_50_2_test
+to cry (weep),Guangzhou,hʊk⁵,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Hefei,kʰuɐʔ⁴,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Jinan,kʰu²¹³,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Kunming,kʰu³¹,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Meixian,kiau⁴²,1179,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Nanchang,tɕiɛu⁵⁵,1179,chinese_1964_prop_50_2_test:to cry (weep):2,chinese_1964_prop_50_2_test
+to cry (weep),Nanchang,kʰuk⁵,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Shenyang,kʰu³³,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Suzhou,kʰoʔ⁴,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Wenzhou,kʰu²³,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Xiamen,kʰiau¹¹,1180,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Xiamen,hau⁵¹,1181,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Xian,kʰu²¹,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Yangjiang,hʊk²⁴,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+to cry (weep),Yangzhou,kʰɔʔ⁴,1178,chinese_1964_prop_50_2_test:to cry (weep):1,chinese_1964_prop_50_2_test
+the sparrow,Beijing,tɕia⁵⁵tɕʰiaur²¹⁴,176,chinese_1964_prop_50_2_test:the sparrow:2,chinese_1964_prop_50_2_test
+the sparrow,Changsha,ma¹³tɕʰio²⁴,177,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Chaozhou,mua⁵⁵₂₁₃tsʰiaʔ²¹,177,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Chengdu,ma³¹tɕʰyər³¹₄₄,177,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Chengdu,ma³¹tɕʰyo³¹₄₄tsɿ⁵³,178,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Fuzhou,tsie³¹zieʔ²³,194,chinese_1964_prop_50_2_test:the sparrow:3,chinese_1964_prop_50_2_test
+the sparrow,Guangzhou,ma²¹tʃœk³³₃₅,177,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Guangzhou,wɔ²¹fa⁵³tʃœk³³₃₅,187,chinese_1964_prop_50_2_test:the sparrow:4,chinese_1964_prop_50_2_test
+the sparrow,Hefei,ma⁵⁵tɕʰiɯ²¹²tsə⁰,179,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Jinan,tɕia²¹³tɕʰyer⁰,176,chinese_1964_prop_50_2_test:the sparrow:2,chinese_1964_prop_50_2_test
+the sparrow,Kunming,ɕiau⁵³tɕʰio³¹,180,chinese_1964_prop_50_2_test:the sparrow:5,chinese_1964_prop_50_2_test
+the sparrow,Kunming,ku³¹tɕʰio³¹,181,chinese_1964_prop_50_2_test:the sparrow:6,chinese_1964_prop_50_2_test
+the sparrow,Meixian,ŋa³¹luŋ⁴²pit²¹,186,chinese_1964_prop_50_2_test:the sparrow:7,chinese_1964_prop_50_2_test
+the sparrow,Nanchang,ma⁵⁵tɕʰiɔk⁵tsɿ⁰,178,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Nanchang,kan⁴²tɕʰiɔk⁵tsɿ⁰,185,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Shenyang,tɕia³³tɕʰiaur²¹³,176,chinese_1964_prop_50_2_test:the sparrow:2,chinese_1964_prop_50_2_test
+the sparrow,Suzhou,mo²⁴₂₂tsʰiɒʔ⁴,177,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Wenzhou,ɦuɔ³¹diu³¹tɕi⁴⁴ῃ⁰,182,chinese_1964_prop_50_2_test:the sparrow:8,chinese_1964_prop_50_2_test
+the sparrow,Xiamen,tsʰik³²₅tsiau⁵¹₅₅a⁵¹,188,chinese_1964_prop_50_2_test:the sparrow:9,chinese_1964_prop_50_2_test
+the sparrow,Xian,ma²⁴tɕʰyer²¹,177,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Yangjiang,ma⁴⁴³tʃiɛk²¹,177,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+the sparrow,Yangzhou,mɑ³⁴tɕʰiɑʔ⁴tsɛ,178,chinese_1964_prop_50_2_test:the sparrow:1,chinese_1964_prop_50_2_test
+to buy cloth,Beijing,mai²¹⁴₂₁pu⁵¹,1205,chinese_1964_prop_50_2_test:to buy cloth:2,chinese_1964_prop_50_2_test
+to buy cloth,Changsha,tsʰə⁴¹pu⁵⁵,576,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Chaozhou,ka³³₂₃pou²¹³,1208,chinese_1964_prop_50_2_test:to buy cloth:4,chinese_1964_prop_50_2_test
+to buy cloth,Chengdu,tsʰe⁵³pu¹³,576,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Fuzhou,touŋ²⁴²₅₂puɔ²¹³,1210,chinese_1964_prop_50_2_test:to buy cloth:3,chinese_1964_prop_50_2_test
+to buy cloth,Guangzhou,tʃin³⁵pou³³,1207,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Hefei,tʂʰei²⁴pu⁵³,576,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Jinan,tɕie⁴²pu²¹,1206,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Kunming,tʂʰə⁵³pu¹³,576,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Meixian,tsiɛn³¹pu⁴²,1207,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Nanchang,tsʰa²¹³pu⁵⁵,576,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Shenyang,mai²¹³₂₁pu⁴¹,1205,chinese_1964_prop_50_2_test:to buy cloth:2,chinese_1964_prop_50_2_test
+to buy cloth,Suzhou,tsiɪ⁴¹pu⁵¹³,1207,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Wenzhou,tɕi⁴⁵pøy⁴²,1207,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Xiamen,tsian⁵¹₅₅pɔ¹¹,1207,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Xian,tʂʰə⁵³pu⁴⁵,576,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Yangjiang,tʃin²¹pou²⁴,1207,chinese_1964_prop_50_2_test:to buy cloth:1,chinese_1964_prop_50_2_test
+to buy cloth,Yangzhou,mɛ⁴²pu⁵⁵,1205,chinese_1964_prop_50_2_test:to buy cloth:2,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Beijing,tʰou³⁵fa⁰,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Changsha,təu¹³fa²⁴,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Chaozhou,tʰau⁵⁵₂₁₃mo⁵⁵,648,chinese_1964_prop_50_2_test:the body hair (hair or fur):2,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Chengdu,tʰəu³¹fa³¹₄₄,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Fuzhou,tʰan⁵²₃₁uɔʔ²³,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):3,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Guangzhou,tʰɐu²¹at³³,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Hefei,tʰɯ⁵⁵fɐʔ⁴,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Jinan,tʰou⁴²fa⁰,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Kunming,tʰəu³¹fa³¹₄₄,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Meixian,tʰɛu¹²na¹²mau⁴⁴,647,chinese_1964_prop_50_2_test:the body hair (hair or fur):2,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Nanchang,tʰɛn²⁴fat⁵,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Shenyang,tʰou³⁵fa⁰,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Suzhou,dʏ²⁴₂₂faʔ⁴,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Wenzhou,diu³¹fo²³,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Xiamen,tʰau²⁴₃₃mῃ²⁴,648,chinese_1964_prop_50_2_test:the body hair (hair or fur):2,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Xian,tʰou²⁴fɑ⁰,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Yangjiang,tʰɐu⁴⁴³mou⁴⁴³,648,chinese_1964_prop_50_2_test:the body hair (hair or fur):2,chinese_1964_prop_50_2_test
+the body hair (hair or fur),Yangzhou,tʰɤɯ³⁴fæʔ⁴,646,chinese_1964_prop_50_2_test:the body hair (hair or fur):1,chinese_1964_prop_50_2_test
+there,Beijing,nar⁵¹,296,chinese_1964_prop_50_2_test:there:1,chinese_1964_prop_50_2_test
+there,Changsha,la⁵⁵li⁰,297,chinese_1964_prop_50_2_test:there:1,chinese_1964_prop_50_2_test
+there,Chaozhou,hɯ⁵³₂₄ko²¹³,311,chinese_1964_prop_50_2_test:there:19,chinese_1964_prop_50_2_test
+there,Chengdu,nər⁴⁴,296,chinese_1964_prop_50_2_test:there:1,chinese_1964_prop_50_2_test
+there,Fuzhou,xuai⁵²nœ³¹,312,chinese_1964_prop_50_2_test:there:18,chinese_1964_prop_50_2_test
+there,Fuzhou,xu⁴⁴uai³¹,313,chinese_1964_prop_50_2_test:there:17,chinese_1964_prop_50_2_test
+there,Guangzhou,kɔ³⁵ʃy³³,987,chinese_1964_prop_50_2_test:there:16,chinese_1964_prop_50_2_test
+there,Guangzhou,kɔ³⁵tou²²,986,chinese_1964_prop_50_2_test:there:15,chinese_1964_prop_50_2_test
+there,Hefei,na⁵³kɐʔ⁴tsə⁰,299,chinese_1964_prop_50_2_test:there:14,chinese_1964_prop_50_2_test
+there,Jinan,na²¹li⁰,297,chinese_1964_prop_50_2_test:there:1,chinese_1964_prop_50_2_test
+there,Kunming,nə¹³tiɛr⁵³,298,chinese_1964_prop_50_2_test:there:13,chinese_1964_prop_50_2_test
+there,Meixian,kɛ⁴²ɛ⁰,305,chinese_1964_prop_50_2_test:there:12,chinese_1964_prop_50_2_test
+there,Meixian,kɛ⁴²lɛ³¹,306,chinese_1964_prop_50_2_test:there:11,chinese_1964_prop_50_2_test
+there,Nanchang,hɛ²⁴li⁰,304,chinese_1964_prop_50_2_test:there:10,chinese_1964_prop_50_2_test
+there,Shenyang,na⁴¹,296,chinese_1964_prop_50_2_test:there:1,chinese_1964_prop_50_2_test
+there,Suzhou,kuɛ⁴⁴taʔ⁴₂₁,167,chinese_1964_prop_50_2_test:there:9,chinese_1964_prop_50_2_test
+there,Suzhou,uɛ⁴⁴taʔ⁴₂₁,300,chinese_1964_prop_50_2_test:there:8,chinese_1964_prop_50_2_test
+there,Wenzhou,ba¹²ta⁴⁴,303,chinese_1964_prop_50_2_test:there:7,chinese_1964_prop_50_2_test
+there,Xiamen,hia²⁴,309,chinese_1964_prop_50_2_test:there:6,chinese_1964_prop_50_2_test
+there,Xiamen,hit³²₅ui³³,310,chinese_1964_prop_50_2_test:there:5,chinese_1964_prop_50_2_test
+there,Xian,uo⁵³tɑr⁰,300,chinese_1964_prop_50_2_test:there:4,chinese_1964_prop_50_2_test
+there,Yangjiang,nai²¹ʃi²⁴,308,chinese_1964_prop_50_2_test:there:3,chinese_1964_prop_50_2_test
+there,Yangzhou,ləʔ⁴kʰuɛ⁰,302,chinese_1964_prop_50_2_test:there:2,chinese_1964_prop_50_2_test
+the dew,Beijing,lu⁵¹ʂueir²¹⁴,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Changsha,ləu²¹ɕyei⁴¹,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Chaozhou,lou¹¹₁₂tsui⁵³,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Chengdu,nu¹³suei⁵³,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Fuzhou,lou²¹³,61,chinese_1964_prop_50_2_test:the dew:2,chinese_1964_prop_50_2_test
+the dew,Guangzhou,lou²²ʃøy³⁵,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Hefei,nu⁵³ʂui⁰,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Jinan,lu²¹ʂuei⁰,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Kunming,lu¹³ʂue⁵³,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Meixian,lu⁴²sui³¹,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Nanchang,lu³¹sui²¹³,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Shenyang,lu⁴¹suei⁰,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Suzhou,ləu³¹₂₂sʮ⁴¹₄₄,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Wenzhou,ləu¹¹sɿ⁴⁵,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Xiamen,lɔ³³₁₁tsui⁵¹,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Xian,lou⁴⁵fei⁵³,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Yangjiang,mou⁴⁵⁴ʃui²¹,63,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dew,Yangzhou,lu⁵⁵suəi⁴²,62,chinese_1964_prop_50_2_test:the dew:1,chinese_1964_prop_50_2_test
+the dust,Beijing,tʰu²¹⁴,1184,chinese_1964_prop_50_2_test:the dust:4,chinese_1964_prop_50_2_test
+the dust,Changsha,fei³³,1186,chinese_1964_prop_50_2_test:the dust:5,chinese_1964_prop_50_2_test
+the dust,Chaozhou,tʰou⁵⁵₂₁₃huŋ⁵³,1192,chinese_1964_prop_50_2_test:the dust:2,chinese_1964_prop_50_2_test
+the dust,Chengdu,xuei⁴⁴,1186,chinese_1964_prop_50_2_test:the dust:1,chinese_1964_prop_50_2_test
+the dust,Fuzhou,uŋ⁴⁴niŋ⁵²,1194,chinese_1964_prop_50_2_test:the dust:7,chinese_1964_prop_50_2_test
+the dust,Fuzhou,tʰu⁵²₃₁ʔuŋ³¹,1192,chinese_1964_prop_50_2_test:the dust:2,chinese_1964_prop_50_2_test
+the dust,Guangzhou,jin⁵³tʃʰɐn²¹,1191,chinese_1964_prop_50_2_test:the dust:6,chinese_1964_prop_50_2_test
+the dust,Hefei,xui²¹²,1186,chinese_1964_prop_50_2_test:the dust:1,chinese_1964_prop_50_2_test
+the dust,Jinan,pu²¹tʰu⁰,1185,chinese_1964_prop_50_2_test:the dust:11,chinese_1964_prop_50_2_test
+the dust,Jinan,tʰu⁵⁵,1184,chinese_1964_prop_50_2_test:the dust:4,chinese_1964_prop_50_2_test
+the dust,Jinan,xuei²¹³,1186,chinese_1964_prop_50_2_test:the dust:1,chinese_1964_prop_50_2_test
+the dust,Kunming,xue⁴⁴,1186,chinese_1964_prop_50_2_test:the dust:1,chinese_1964_prop_50_2_test
+the dust,Meixian,tsʰən¹²fɔi⁴⁴,1188,chinese_1964_prop_50_2_test:the dust:10,chinese_1964_prop_50_2_test
+the dust,Nanchang,fei⁴²,1186,chinese_1964_prop_50_2_test:the dust:5,chinese_1964_prop_50_2_test
+the dust,Shenyang,xuei³³tsʰən³⁵,1187,chinese_1964_prop_50_2_test:the dust:1,chinese_1964_prop_50_2_test
+the dust,Suzhou,huɛ⁴⁴zən²⁴₂₁,1187,chinese_1964_prop_50_2_test:the dust:1,chinese_1964_prop_50_2_test
+the dust,Suzhou,boŋ³¹₂₂zən²⁴₃₃,1189,chinese_1964_prop_50_2_test:the dust:3,chinese_1964_prop_50_2_test
+the dust,Wenzhou,baŋ³¹dzaŋ³¹,1189,chinese_1964_prop_50_2_test:the dust:3,chinese_1964_prop_50_2_test
+the dust,Wenzhou,baŋ³¹yoŋ⁴⁴,1190,chinese_1964_prop_50_2_test:the dust:9,chinese_1964_prop_50_2_test
+the dust,Xiamen,tʰɔ²⁴₃₃hun⁵¹,1192,chinese_1964_prop_50_2_test:the dust:2,chinese_1964_prop_50_2_test
+the dust,Xiamen,iŋ⁵⁵₃₃ia⁵⁵,1193,chinese_1964_prop_50_2_test:the dust:8,chinese_1964_prop_50_2_test
+the dust,Xian,xuei²¹tʂʰẽ²⁴,1187,chinese_1964_prop_50_2_test:the dust:1,chinese_1964_prop_50_2_test
+the dust,Yangjiang,jin³³tʃʰɐn⁴⁴³,1191,chinese_1964_prop_50_2_test:the dust:6,chinese_1964_prop_50_2_test
+the dust,Yangzhou,xuəi³¹,1186,chinese_1964_prop_50_2_test:the dust:1,chinese_1964_prop_50_2_test
+the frost,Beijing,ʂuaŋ⁵⁵,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Changsha,ɕyan³³,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Chaozhou,sɯŋ³³,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Chengdu,suaŋ⁴⁴,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Fuzhou,souŋ⁴⁴,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Guangzhou,ʃœŋ⁵³,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Hefei,ʂuɑ̃²¹²,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Jinan,ʂuaŋ²¹³,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Kunming,ʂuã⁴⁴,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Meixian,sɔŋ⁴⁴,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Nanchang,sɔŋ⁴²,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Shenyang,ʂuaŋ³³,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Suzhou,sɒŋ⁴⁴,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Wenzhou,ɕyɔ⁴⁴,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Xiamen,sῃ⁵⁵,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Xian,fɑŋ²¹,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Yangjiang,ʃɔŋ³³,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+the frost,Yangzhou,suɑŋ³¹,615,chinese_1964_prop_50_2_test:the frost:1,chinese_1964_prop_50_2_test
+old (of person),Beijing,lau²¹⁴,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Changsha,lau⁴¹,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Chaozhou,lau³⁵,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Chengdu,nau⁵³,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Fuzhou,kuai⁴⁴,109,chinese_1964_prop_50_2_test:old (of person):2,chinese_1964_prop_50_2_test
+old (of person),Guangzhou,lou²³,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Hefei,nɔ²⁴,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Jinan,lɔ⁵⁵,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Kunming,lau⁵³,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Meixian,lau³¹,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Nanchang,lau²¹³,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Shenyang,lau²¹³,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Suzhou,læ³¹,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Wenzhou,lɜ²⁴,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Xiamen,lau³³,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Xian,lɑu⁵³,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Yangjiang,lou²¹,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+old (of person),Yangzhou,lɔ⁴²,108,chinese_1964_prop_50_2_test:old (of person):1,chinese_1964_prop_50_2_test
+the mouse or rat,Beijing,xau⁵¹tsɿ⁰,64,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Changsha,lau⁴¹ɕy⁴¹tsɿ⁰,66,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Chaozhou,ŋiəu³³₃₅tsʰɿ⁵³₂₁,69,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Chengdu,xau¹³tsɿ⁵³,64,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Fuzhou,lɔ³¹₄₅zy³¹,65,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Guangzhou,lou²³ʃy³⁵,65,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Hefei,nɔ²⁴tʂʰu²⁴tsə⁰,66,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Jinan,lɔ⁵⁵ʂu⁰,65,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Kunming,lau⁵³tʂʰu⁵³,65,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Meixian,lau³¹tsʰu³¹,65,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Nanchang,lau³¹ɕy²¹³,65,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Shenyang,xau⁴¹tsɿ⁰,64,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Suzhou,læ³¹₂₂zoŋ²⁴₃₃,67,chinese_1964_prop_50_2_test:the mouse or rat:2,chinese_1964_prop_50_2_test
+the mouse or rat,Wenzhou,lɜ²⁴tsʰei⁴⁵,65,chinese_1964_prop_50_2_test:the mouse or rat:3,chinese_1964_prop_50_2_test
+the mouse or rat,Xiamen,nĩãũ⁵⁵₃₃tsʰu⁵¹,69,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Xian,lɑu⁵³₂₁fu⁰,65,chinese_1964_prop_50_2_test:the mouse or rat:4,chinese_1964_prop_50_2_test
+the mouse or rat,Yangjiang,lou²¹ʃi²¹,65,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+the mouse or rat,Yangzhou,lɔ⁴²tsʰu⁰,65,chinese_1964_prop_50_2_test:the mouse or rat:1,chinese_1964_prop_50_2_test
+to lie down,Beijing,tʰaŋ²¹⁴,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Changsha,tʰan⁴¹,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Chaozhou,to⁵³,1132,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Chaozhou,kũã²¹³,1133,chinese_1964_prop_50_2_test:to lie down:3,chinese_1964_prop_50_2_test
+to lie down,Chengdu,tʰaŋ⁵³,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Fuzhou,tɔ³¹,1132,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Guangzhou,fɐn³³,1130,chinese_1964_prop_50_2_test:to lie down:2,chinese_1964_prop_50_2_test
+to lie down,Hefei,tʰɑ̃²⁴,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Jinan,tʰaŋ⁵⁵,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Kunming,tʰã⁵³,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Meixian,min¹²,1129,chinese_1964_prop_50_2_test:to lie down:6,chinese_1964_prop_50_2_test
+to lie down,Nanchang,tʰɔŋ²¹³,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Shenyang,tʰaŋ²¹³,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Suzhou,kʰuən⁵¹³,1126,chinese_1964_prop_50_2_test:to lie down:3,chinese_1964_prop_50_2_test
+to lie down,Suzhou,gɛ³¹,1127,chinese_1964_prop_50_2_test:to lie down:5,chinese_1964_prop_50_2_test
+to lie down,Wenzhou,fa⁴⁴,1128,chinese_1964_prop_50_2_test:to lie down:2,chinese_1964_prop_50_2_test
+to lie down,Xiamen,to⁵¹,1132,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Xian,tʰɑŋ⁵³,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+to lie down,Yangjiang,ʃui⁴⁵⁴,1131,chinese_1964_prop_50_2_test:to lie down:4,chinese_1964_prop_50_2_test
+to lie down,Yangzhou,tʰɑŋ⁴²,1125,chinese_1964_prop_50_2_test:to lie down:1,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Beijing,i⁵¹tʰiau³⁵y³⁵,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):1,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Changsha,i²⁴tiau¹³y¹³,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):1,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Chaozhou,tsek⁴₂₁bue⁵³₂₄hɯ⁵⁵,191,chinese_1964_prop_50_2_test:the fish (one piece of fish):2,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Chengdu,i³¹tʰiau³¹y³¹,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):1,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Chengdu,i³¹kən⁴⁴y³¹,190,chinese_1964_prop_50_2_test:the fish (one piece of fish):9,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Fuzhou,sɔ³¹lau⁵²ŋy⁵²,192,chinese_1964_prop_50_2_test:the fish (one piece of fish):8,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Guangzhou,jɐt⁵tʰiu²¹jy²¹₃₅,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):3,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Hefei,ieʔ⁴tʰiɔ⁵⁵y⁵⁵,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):1,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Jinan,i²¹³tʰiɔ⁴²y⁴²,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):1,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Kunming,i³¹₁₃ue⁵³i³¹,191,chinese_1964_prop_50_2_test:the fish (one piece of fish):7,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Meixian,jit²¹tʰiau¹²ῃ¹²,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):1,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Nanchang,it⁵tsak⁵ȵiɛ⁵⁵,193,chinese_1964_prop_50_2_test:the fish (one piece of fish):6,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Shenyang,i⁴¹tʰiau³⁵y³⁵,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):1,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Suzhou,iɪʔ⁴diæ²⁴ῃ²⁴,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):5,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Wenzhou,i²³diu³¹ŋøy³¹,192,chinese_1964_prop_50_2_test:the fish (one piece of fish):4,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Xiamen,tsit⁵₃₂be⁵¹₅₅hi²⁴,191,chinese_1964_prop_50_2_test:the fish (one piece of fish):2,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Xian,i²¹tʰiɑu²⁴y²⁴,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):1,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Yangjiang,jɐt²⁴tʰiu⁴⁴³ji⁴⁴³,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):3,chinese_1964_prop_50_2_test
+the fish (one piece of fish),Yangzhou,iəʔ⁴tʰiɔ³⁴y³⁴,189,chinese_1964_prop_50_2_test:the fish (one piece of fish):1,chinese_1964_prop_50_2_test
+to thunder,Beijing,ta²¹⁴₂₁lei³⁵,1017,chinese_1964_prop_50_2_test:to thunder:1,chinese_1964_prop_50_2_test
+to thunder,Changsha,ta⁴¹lei¹³,1017,chinese_1964_prop_50_2_test:to thunder:1,chinese_1964_prop_50_2_test
+to thunder,Chaozhou,pʰaʔ²¹lui⁵⁵,1027,chinese_1964_prop_50_2_test:to thunder:4,chinese_1964_prop_50_2_test
+to thunder,Chaozhou,lui⁵⁵taŋ¹¹,1020,chinese_1964_prop_50_2_test:to thunder:10,chinese_1964_prop_50_2_test
+to thunder,Chengdu,ta⁵³nuei³¹,1017,chinese_1964_prop_50_2_test:to thunder:1,chinese_1964_prop_50_2_test
+to thunder,Fuzhou,lai⁵²₃₁ug⁴⁴xyɔŋ,1019,chinese_1964_prop_50_2_test:to thunder:9,chinese_1964_prop_50_2_test
+to thunder,Fuzhou,pʰaʔ²³₃₁lai⁵²,1027,chinese_1964_prop_50_2_test:to thunder:4,chinese_1964_prop_50_2_test
+to thunder,Guangzhou,haŋ²¹løy²¹,1024,chinese_1964_prop_50_2_test:to thunder:2,chinese_1964_prop_50_2_test
+to thunder,Hefei,ta²⁴lei⁵⁵,1017,chinese_1964_prop_50_2_test:to thunder:1,chinese_1964_prop_50_2_test
+to thunder,Jinan,ta⁵⁵luei⁴²,1017,chinese_1964_prop_50_2_test:to thunder:1,chinese_1964_prop_50_2_test
+to thunder,Kunming,ta⁵³lue³¹,1017,chinese_1964_prop_50_2_test:to thunder:1,chinese_1964_prop_50_2_test
+to thunder,Meixian,hiɔŋ³¹lui¹²,1021,chinese_1964_prop_50_2_test:to thunder:2,chinese_1964_prop_50_2_test
+to thunder,Nanchang,ta²¹³lui⁵⁵,1017,chinese_1964_prop_50_2_test:to thunder:1,chinese_1964_prop_50_2_test
+to thunder,Shenyang,ta²¹³₂₁lei³⁵,1017,chinese_1964_prop_50_2_test:to thunder:1,chinese_1964_prop_50_2_test
+to thunder,Suzhou,lɛ²⁴₂₂ɕiaŋ⁴¹₄₄,1018,chinese_1964_prop_50_2_test:to thunder:8,chinese_1964_prop_50_2_test
+to thunder,Suzhou,ɕiaŋ⁴¹lɛ²⁴,1021,chinese_1964_prop_50_2_test:to thunder:2,chinese_1964_prop_50_2_test
+to thunder,Wenzhou,ɕi⁴⁵vai¹²,1022,chinese_1964_prop_50_2_test:to thunder:7,chinese_1964_prop_50_2_test
+to thunder,Wenzhou,ɕi⁴⁵lai³¹,1021,chinese_1964_prop_50_2_test:to thunder:6,chinese_1964_prop_50_2_test
+to thunder,Xiamen,tan²⁴₃₃lui²⁴,1026,chinese_1964_prop_50_2_test:to thunder:1,chinese_1964_prop_50_2_test
+to thunder,Xiamen,lui²⁴₃₃kɔŋ⁵⁵₃₃hian⁵¹,1019,chinese_1964_prop_50_2_test:to thunder:3,chinese_1964_prop_50_2_test
+to thunder,Xian,ɕiɑŋ⁵³luei²⁴,1021,chinese_1964_prop_50_2_test:to thunder:2,chinese_1964_prop_50_2_test
+to thunder,Yangjiang,lui⁴⁴³kʊŋ³³hiɛŋ²¹,1019,chinese_1964_prop_50_2_test:to thunder:3,chinese_1964_prop_50_2_test
+to thunder,Yangjiang,kʊŋ³³haŋ⁴⁴³lɪŋ⁴⁵⁴,1025,chinese_1964_prop_50_2_test:to thunder:5,chinese_1964_prop_50_2_test
+to thunder,Yangzhou,ɕiɑŋ⁴²luəi³⁴,1021,chinese_1964_prop_50_2_test:to thunder:2,chinese_1964_prop_50_2_test
+cold (of temperature),Beijing,liaŋ³⁵,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Changsha,lian¹³,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Chaozhou,tsʰiŋ²¹³,172,chinese_1964_prop_50_2_test:cold (of temperature):2,chinese_1964_prop_50_2_test
+cold (of temperature),Chengdu,niaŋ³¹,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Fuzhou,tsʰeiŋ²¹³,172,chinese_1964_prop_50_2_test:cold (of temperature):2,chinese_1964_prop_50_2_test
+cold (of temperature),Guangzhou,lœŋ²¹,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Hefei,nən²⁴,171,chinese_1964_prop_50_2_test:cold (of temperature):3,chinese_1964_prop_50_2_test
+cold (of temperature),Jinan,liaŋ⁴²,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Kunming,liã³¹,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Meixian,laŋ⁴⁴,171,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Nanchang,liɔŋ⁵⁵,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Shenyang,liaŋ³⁵,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Suzhou,laŋ³¹,171,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Wenzhou,li³¹,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Xiamen,tsʰin¹¹,172,chinese_1964_prop_50_2_test:cold (of temperature):2,chinese_1964_prop_50_2_test
+cold (of temperature),Xian,liɑŋ²⁴,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Yangjiang,liɛŋ⁴⁴³,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+cold (of temperature),Yangzhou,liɑŋ³⁴,170,chinese_1964_prop_50_2_test:cold (of temperature):1,chinese_1964_prop_50_2_test
+abacus,Beijing,suan⁵¹pʰan⁰,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Changsha,sõ⁵⁵põ¹³,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Chaozhou,sɯŋ²¹³₅₃pũã⁵⁵,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Chengdu,suan¹³pʰan³¹,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Fuzhou,souŋ²¹³₄₄muaŋ⁵²,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Guangzhou,ʃyn³³pʰun²¹,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Hefei,sʊ̃⁵³pʰʊ̃⁵⁵,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Jinan,suæ̃²¹pʰæ̃⁴²,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Kunming,suã¹³pʰã³¹,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Meixian,sɔn⁴²pʰan¹²,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Nanchang,sɔn⁵⁵pʰɔn²⁴,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Shenyang,suan⁴¹pʰan³⁵,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Suzhou,sø⁵¹³₄₄bø²⁴₂₁,575,chinese_1964_prop_50_2_test:abacus:2,chinese_1964_prop_50_2_test
+abacus,Wenzhou,sø⁴²bø³¹,575,chinese_1964_prop_50_2_test:abacus:2,chinese_1964_prop_50_2_test
+abacus,Xiamen,sῃ¹¹₅₁pũã²⁴,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Xian,suæ̃⁴⁵pʰæ̃⁰,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Yangjiang,ɬun²⁴pʰun⁴⁴³,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+abacus,Yangzhou,sõ⁵⁵pʰõ³⁴,575,chinese_1964_prop_50_2_test:abacus:1,chinese_1964_prop_50_2_test
+the fog,Beijing,u⁵¹,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Changsha,u²¹,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Chaozhou,bu¹¹,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Chengdu,vu¹³,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Fuzhou,muɔ⁵²,1157,chinese_1964_prop_50_2_test:the fog:2,chinese_1964_prop_50_2_test
+the fog,Fuzhou,ou²⁴²,1153,chinese_1964_prop_50_2_test:the fog:2,chinese_1964_prop_50_2_test
+the fog,Guangzhou,mou²²,1153,chinese_1964_prop_50_2_test:the fog:2,chinese_1964_prop_50_2_test
+the fog,Hefei,u⁵³,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Jinan,u²¹,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Kunming,u¹³,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Meixian,vu⁴²,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Nanchang,u³¹,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Shenyang,u⁴¹,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Suzhou,mi²⁴₂₂ləu³¹₃₃,1155,chinese_1964_prop_50_2_test:the fog:4,chinese_1964_prop_50_2_test
+the fog,Wenzhou,møy¹¹,1153,chinese_1964_prop_50_2_test:the fog:2,chinese_1964_prop_50_2_test
+the fog,Xiamen,bu³³,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Xiamen,bɔŋ²⁴,1156,chinese_1964_prop_50_2_test:the fog:3,chinese_1964_prop_50_2_test
+the fog,Xian,vu⁴⁵,1153,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+the fog,Yangjiang,mou⁴⁵⁴,1153,chinese_1964_prop_50_2_test:the fog:2,chinese_1964_prop_50_2_test
+the fog,Yangzhou,u⁵⁵,1154,chinese_1964_prop_50_2_test:the fog:1,chinese_1964_prop_50_2_test
+he or she [third person singular],Beijing,tʰa⁵⁵,219,chinese_1964_prop_50_2_test:he or she [third person singular]:1,chinese_1964_prop_50_2_test
+he or she [third person singular],Changsha,tʰa³³,219,chinese_1964_prop_50_2_test:he or she [third person singular]:1,chinese_1964_prop_50_2_test
+he or she [third person singular],Chaozhou,i³³,9,chinese_1964_prop_50_2_test:he or she [third person singular]:3,chinese_1964_prop_50_2_test
+he or she [third person singular],Chengdu,tʰa⁴⁴,219,chinese_1964_prop_50_2_test:he or she [third person singular]:1,chinese_1964_prop_50_2_test
+he or she [third person singular],Fuzhou,i⁴⁴,9,chinese_1964_prop_50_2_test:he or she [third person singular]:3,chinese_1964_prop_50_2_test
+he or she [third person singular],Guangzhou,kʰøy²³,224,chinese_1964_prop_50_2_test:he or she [third person singular]:2,chinese_1964_prop_50_2_test
+he or she [third person singular],Hefei,tʰa²¹²,219,chinese_1964_prop_50_2_test:he or she [third person singular]:1,chinese_1964_prop_50_2_test
+he or she [third person singular],Jinan,tʰa⁵⁵,219,chinese_1964_prop_50_2_test:he or she [third person singular]:1,chinese_1964_prop_50_2_test
+he or she [third person singular],Kunming,tʰa⁴⁴,219,chinese_1964_prop_50_2_test:he or she [third person singular]:1,chinese_1964_prop_50_2_test
+he or she [third person singular],Meixian,ki¹²,224,chinese_1964_prop_50_2_test:he or she [third person singular]:2,chinese_1964_prop_50_2_test
+he or she [third person singular],Nanchang,tɕʰiɛ²⁴,223,chinese_1964_prop_50_2_test:he or she [third person singular]:4,chinese_1964_prop_50_2_test
+he or she [third person singular],Shenyang,tʰa³³,219,chinese_1964_prop_50_2_test:he or she [third person singular]:1,chinese_1964_prop_50_2_test
+he or she [third person singular],Suzhou,li⁴⁴,221,chinese_1964_prop_50_2_test:he or she [third person singular]:3,chinese_1964_prop_50_2_test
+he or she [third person singular],Wenzhou,gi³¹,222,chinese_1964_prop_50_2_test:he or she [third person singular]:2,chinese_1964_prop_50_2_test
+he or she [third person singular],Xiamen,i⁵⁵,9,chinese_1964_prop_50_2_test:he or she [third person singular]:3,chinese_1964_prop_50_2_test
+he or she [third person singular],Xian,tʰɑ²¹,220,chinese_1964_prop_50_2_test:he or she [third person singular]:1,chinese_1964_prop_50_2_test
+he or she [third person singular],Yangjiang,kei⁴⁴³,222,chinese_1964_prop_50_2_test:he or she [third person singular]:2,chinese_1964_prop_50_2_test
+he or she [third person singular],Yangzhou,tʰɑ³¹,219,chinese_1964_prop_50_2_test:he or she [third person singular]:1,chinese_1964_prop_50_2_test
+to lick,Beijing,tʰian²¹⁴,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Changsha,tʰiẽ⁴¹,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Chaozhou,tsi³⁵,1061,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Chengdu,tʰian⁵³,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Fuzhou,neu⁴⁴,1062,chinese_1964_prop_50_2_test:to lick:6,chinese_1964_prop_50_2_test
+to lick,Fuzhou,liaʔ²³,1059,chinese_1964_prop_50_2_test:to lick:5,chinese_1964_prop_50_2_test
+to lick,Guangzhou,tʰim³⁵,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Guangzhou,lai³⁵,1060,chinese_1964_prop_50_2_test:to lick:4,chinese_1964_prop_50_2_test
+to lick,Hefei,tʰiĩ²⁴,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Jinan,tʰiæ̃⁵⁵,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Kunming,tʰiɛ⁵³,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Meixian,sɛ⁴⁴,1059,chinese_1964_prop_50_2_test:to lick:3,chinese_1964_prop_50_2_test
+to lick,Nanchang,tʰiɛn²¹³,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Shenyang,tʰian²¹³,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Suzhou,tʰiɪ⁴¹,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Wenzhou,tʰi⁴⁵,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Xiamen,tsĩ³³,1061,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Xian,tʰiæ̃⁵³,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to lick,Yangjiang,ʃai²¹,1059,chinese_1964_prop_50_2_test:to lick:2,chinese_1964_prop_50_2_test
+to lick,Yangzhou,tʰiĩ⁴²,1058,chinese_1964_prop_50_2_test:to lick:1,chinese_1964_prop_50_2_test
+to chew,Beijing,tɕiau³⁵,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Changsha,tɕio²⁴,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Chaozhou,pou¹¹,1057,chinese_1964_prop_50_2_test:to chew:5,chinese_1964_prop_50_2_test
+to chew,Chengdu,tɕiau³¹,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Fuzhou,tsuɔʔ⁴,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Guangzhou,tʃiu²²,1055,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Hefei,tɕiɔ⁵⁵,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Jinan,tɕiɔ⁴²,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Kunming,tɕio³¹,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Meixian,tsʰiau⁴²,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Nanchang,tɕiɔk⁵,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Shenyang,tɕiau³⁵.,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Suzhou,ziɒʔ²³,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Wenzhou,ɦia¹²,1054,chinese_1964_prop_50_2_test:to chew:4,chinese_1964_prop_50_2_test
+to chew,Xiamen,pɔ³³,1057,chinese_1964_prop_50_2_test:to chew:3,chinese_1964_prop_50_2_test
+to chew,Xian,tɕyo²⁴,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+to chew,Yangjiang,ŋai²⁴,1056,chinese_1964_prop_50_2_test:to chew:2,chinese_1964_prop_50_2_test
+to chew,Yangzhou,tɕiɑʔ⁴,1054,chinese_1964_prop_50_2_test:to chew:1,chinese_1964_prop_50_2_test
+the sickle,Beijing,lian³⁵tau⁵⁵,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Changsha,liẽ¹³tau³³,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Chaozhou,liəm⁵⁵₂₁₃to³³,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Chengdu,nian³¹tau⁴⁴,602,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Fuzhou,lieŋ⁵²₃₁ŋaiʔ²³,601,chinese_1964_prop_50_2_test:the sickle:4,chinese_1964_prop_50_2_test
+the sickle,Guangzhou,lim²¹tou⁵³,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Hefei,niĩ⁵⁵tɔ²¹²,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Jinan,liæ̃⁴²tɔ²¹³,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Kunming,liɛ³¹tau⁴⁴,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Meixian,liam¹²ɛ⁰,599,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Nanchang,liɛn⁵²tau⁴²,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Shenyang,lian³⁵tau³³,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Suzhou,liɪ²⁴₂₂tæ⁴⁴,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Wenzhou,dɜ²⁴tɕi²³,604,chinese_1964_prop_50_2_test:the sickle:3,chinese_1964_prop_50_2_test
+the sickle,Xiamen,kue⁵¹₅₅a⁵¹,605,chinese_1964_prop_50_2_test:the sickle:2,chinese_1964_prop_50_2_test
+the sickle,Xian,liæ̃²⁴tɑu²¹,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Yangjiang,lim⁴⁴³tʃɐi²¹,600,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Yangzhou,liĩ³⁴tɔ³¹,598,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+the sickle,Yangzhou,uɛ̃³¹tɔ³¹,603,chinese_1964_prop_50_2_test:the sickle:1,chinese_1964_prop_50_2_test
+late,Beijing,uan²¹⁴,145,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Changsha,ŋan⁵⁵,146,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Chaozhou,ũã²¹³,146,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Chengdu,ŋan¹³,146,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Fuzhou,ti⁵²,147,chinese_1964_prop_50_2_test:late:2,chinese_1964_prop_50_2_test
+late,Guangzhou,an³³,146,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Guangzhou,tʃʰi²¹,147,chinese_1964_prop_50_2_test:late:2,chinese_1964_prop_50_2_test
+late,Hefei,tʂʰʅ⁵⁵,147,chinese_1964_prop_50_2_test:late:2,chinese_1964_prop_50_2_test
+late,Jinan,uæ̃⁵⁵,145,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Kunming,tʂʰʅ³¹,147,chinese_1964_prop_50_2_test:late:2,chinese_1964_prop_50_2_test
+late,Kunming,uã⁵³,145,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Meixian,tsʰๅ¹²,147,chinese_1964_prop_50_2_test:late:2,chinese_1964_prop_50_2_test
+late,Nanchang,uan²¹³,145,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Shenyang,uan²¹³,145,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Suzhou,ɛ⁵¹³,146,chinese_1964_prop_50_2_test:late:3,chinese_1964_prop_50_2_test
+late,Wenzhou,dzๅ³¹,147,chinese_1964_prop_50_2_test:late:2,chinese_1964_prop_50_2_test
+late,Xiamen,ũã¹¹,146,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Xian,uæ̃⁵³,145,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Yangjiang,an²⁴,146,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+late,Yangzhou,uɛ̃⁴²,145,chinese_1964_prop_50_2_test:late:1,chinese_1964_prop_50_2_test
+the last year,Beijing,tɕʰy⁵¹nian⁰,489,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Beijing,tʰou³⁵nian⁰,492,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Changsha,kʰə⁵⁵ȵiẽ¹³,489,chinese_1964_prop_50_2_test:the last year:4,chinese_1964_prop_50_2_test
+the last year,Chaozhou,ku¹¹₁₂ni⁵⁵,508,chinese_1964_prop_50_2_test:the last year:2,chinese_1964_prop_50_2_test
+the last year,Chengdu,tɕʰy¹³ȵian³¹,489,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Fuzhou,kʰɔ²¹³₄₄nieŋ⁵²₄₄maŋ⁵²,490,chinese_1964_prop_50_2_test:the last year:5,chinese_1964_prop_50_2_test
+the last year,Guangzhou,kɐu²²nin²¹₃₅,508,chinese_1964_prop_50_2_test:the last year:2,chinese_1964_prop_50_2_test
+the last year,Hefei,tɕʰy⁵³niĩ⁵⁵,489,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Jinan,tɕʰy²¹ȵiæ̃⁰,489,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Jinan,ȵiæ̃⁴²ʂʅ⁰,491,chinese_1964_prop_50_2_test:the last year:6,chinese_1964_prop_50_2_test
+the last year,Kunming,tɕʰi¹³niɛ³¹₄₄,489,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Meixian,kʰiu⁴²ȵiɛn¹²,508,chinese_1964_prop_50_2_test:the last year:2,chinese_1964_prop_50_2_test
+the last year,Nanchang,tɕʰiu³¹ȵiɛu⁵⁵,508,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Shenyang,tɕʰy⁴¹ȵian⁰,489,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Shenyang,tʰou³⁵ȵian⁰,492,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Suzhou,dʑiʏ³¹₂₂ȵiɪ²⁴₃₃,508,chinese_1964_prop_50_2_test:the last year:3,chinese_1964_prop_50_2_test
+the last year,Wenzhou,dʑiau¹¹ȵi³¹,508,chinese_1964_prop_50_2_test:the last year:3,chinese_1964_prop_50_2_test
+the last year,Xiamen,ku³³₁₁nĩ²⁴,508,chinese_1964_prop_50_2_test:the last year:2,chinese_1964_prop_50_2_test
+the last year,Xian,tɕʰy⁴⁵ȵiæ̃⁰,489,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Yangjiang,kiɛu⁴⁵⁴nin⁴⁴³,508,chinese_1964_prop_50_2_test:the last year:2,chinese_1964_prop_50_2_test
+the last year,Yangzhou,tɕʰy⁵⁵liĩ⁰³⁴,489,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the last year,Yangzhou,tsʰəŋ³⁴liĩ⁰,493,chinese_1964_prop_50_2_test:the last year:1,chinese_1964_prop_50_2_test
+the ant,Beijing,ma²¹⁴₃₅i²¹⁴,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Changsha,ma⁴¹ȵi⁰,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Chaozhou,hia³⁵,244,chinese_1964_prop_50_2_test:the ant:3,chinese_1964_prop_50_2_test
+the ant,Chengdu,ma⁵³ȵi³¹tsɿ⁵³,239,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Chengdu,ma⁵³ɳiər³¹₄₄,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Fuzhou,øyŋ⁵²₃₁ŋie²⁴²,307,chinese_1964_prop_50_2_test:the ant:4,chinese_1964_prop_50_2_test
+the ant,Guangzhou,ŋɐi²³,244,chinese_1964_prop_50_2_test:the ant:2,chinese_1964_prop_50_2_test
+the ant,Hefei,ma²⁴zɿ²⁴,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Jinan,i⁵⁵iaŋ⁰,245,chinese_1964_prop_50_2_test:the ant:5,chinese_1964_prop_50_2_test
+the ant,Jinan,mi⁵⁵iaŋ⁰,263,chinese_1964_prop_50_2_test:the ant:6,chinese_1964_prop_50_2_test
+the ant,Kunming,ma⁵³i³¹₄₄,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Meixian,ŋɛ⁴²,244,chinese_1964_prop_50_2_test:the ant:2,chinese_1964_prop_50_2_test
+the ant,Nanchang,ma²¹³ȵi⁰,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Shenyang,ma²¹³₃₅i⁰,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Suzhou,mo²⁴₂₂mi³¹₃₃,240,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Suzhou,mo²⁴₂₂ȵi²⁴₃₃,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Wenzhou,fu⁴⁵ŋa²⁴,283,chinese_1964_prop_50_2_test:the ant:7,chinese_1964_prop_50_2_test
+the ant,Xiamen,kau⁵¹₅₅hia³³,301,chinese_1964_prop_50_2_test:the ant:8,chinese_1964_prop_50_2_test
+the ant,Xian,mɑ⁵³₂₁i⁵³,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the ant,Yangjiang,ŋɐi²¹,244,chinese_1964_prop_50_2_test:the ant:2,chinese_1964_prop_50_2_test
+the ant,Yangzhou,mɑ⁴²i⁰,238,chinese_1964_prop_50_2_test:the ant:1,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Beijing,i⁵¹ɕiau²¹⁴₂₁pʰianr⁵¹tsʰau²¹⁴,496,chinese_1964_prop_50_2_test:the grass (one tuft of grass):3,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Changsha,i²⁴pu²⁴tsʰau⁴¹,503,chinese_1964_prop_50_2_test:the grass (one tuft of grass):1,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Chaozhou,tsek⁴₂₁pʰou⁵⁵₂₁₃tsʰau⁵³,494,chinese_1964_prop_50_2_test:the grass (one tuft of grass):1,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Chengdu,i³¹o⁴⁴tsʰau⁵³,499,chinese_1964_prop_50_2_test:the grass (one tuft of grass):1,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Fuzhou,sɔ³¹βiaʔ⁴tsʰau³¹,495,chinese_1964_prop_50_2_test:the grass (one tuft of grass):4,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Guangzhou,jɐt⁵tøy⁵³tʃʰou³⁵,498,chinese_1964_prop_50_2_test:the grass (one tuft of grass):2,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Hefei,iəʔ⁴pəʔ⁴ləŋ²⁴tsʰɔ²⁴,501,chinese_1964_prop_50_2_test:the grass (one tuft of grass):5,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Jinan,i²¹³ku²¹³tueir⁰tsʰɔ⁵⁵,497,chinese_1964_prop_50_2_test:the grass (one tuft of grass):6,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Kunming,i³¹₁₃pʰoŋ³¹tsʰau⁵³,500,chinese_1964_prop_50_2_test:the grass (one tuft of grass):1,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Meixian,jit²¹tsʰuk²¹tsʰau³¹,505,chinese_1964_prop_50_2_test:the grass (one tuft of grass):2,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Nanchang,it⁵tɛu⁴²tsʰau²¹³,504,chinese_1964_prop_50_2_test:the grass (one tuft of grass):2,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Shenyang,i⁴¹tuei³³tsau²¹³,498,chinese_1964_prop_50_2_test:the grass (one tuft of grass):7,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Suzhou,iɪʔ⁴boŋ²⁴tsʰæ⁴¹,500,chinese_1964_prop_50_2_test:the grass (one tuft of grass):1,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Wenzhou,i²³boŋ³¹tsʰɛ⁴⁵,500,chinese_1964_prop_50_2_test:the grass (one tuft of grass):1,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Xiamen,tsit⁵₃₂tsaŋ²⁴₃₃tsʰau⁵¹,507,chinese_1964_prop_50_2_test:the grass (one tuft of grass):2,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Xian,i²¹₂₄uo²¹tsʰɑu⁵³,499,chinese_1964_prop_50_2_test:the grass (one tuft of grass):1,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Yangjiang,jɐt²⁴tei⁴⁵⁴tʃʰou²¹,506,chinese_1964_prop_50_2_test:the grass (one tuft of grass):2,chinese_1964_prop_50_2_test
+the grass (one tuft of grass),Yangzhou,iəʔ⁴tsʰoŋ³itsʰɔ⁴²,502,chinese_1964_prop_50_2_test:the grass (one tuft of grass):8,chinese_1964_prop_50_2_test
+the hail,Beijing,pau³⁵tsɿ⁰,155,chinese_1964_prop_50_2_test:the hail:1,chinese_1964_prop_50_2_test
+the hail,Changsha,pau⁵⁵,154,chinese_1964_prop_50_2_test:the hail:2,chinese_1964_prop_50_2_test
+the hail,Chaozhou,pʰak⁴,154,chinese_1964_prop_50_2_test:the hail:3,chinese_1964_prop_50_2_test
+the hail,Chengdu,ɕye³¹tan¹³tsɿ⁵³,184,chinese_1964_prop_50_2_test:the hail:1,chinese_1964_prop_50_2_test
+the hail,Fuzhou,pʰøyʔ⁴,154,chinese_1964_prop_50_2_test:the hail:4,chinese_1964_prop_50_2_test
+the hail,Guangzhou,pɔk²²,154,chinese_1964_prop_50_2_test:the hail:3,chinese_1964_prop_50_2_test
+the hail,Hefei,nən²⁴tsə⁰,200,chinese_1964_prop_50_2_test:the hail:7,chinese_1964_prop_50_2_test
+the hail,Jinan,pa⁴²tsɿ⁰,175,chinese_1964_prop_50_2_test:the hail:1,chinese_1964_prop_50_2_test
+the hail,Kunming,ɕie³¹pau³¹tsɿ⁵³,183,chinese_1964_prop_50_2_test:the hail:1,chinese_1964_prop_50_2_test
+the hail,Meixian,pʰau⁴²ɛ⁰,156,chinese_1964_prop_50_2_test:the hail:2,chinese_1964_prop_50_2_test
+the hail,Nanchang,pʰɔk⁵tsɿ⁰,155,chinese_1964_prop_50_2_test:the hail:1,chinese_1964_prop_50_2_test
+the hail,Shenyang,pau³⁵tsɿ⁰,155,chinese_1964_prop_50_2_test:the hail:1,chinese_1964_prop_50_2_test
+the hail,Suzhou,pin⁴⁴bæ³¹₂₁,207,chinese_1964_prop_50_2_test:the hail:6,chinese_1964_prop_50_2_test
+the hail,Wenzhou,liɛ³¹bo¹²,216,chinese_1964_prop_50_2_test:the hail:5,chinese_1964_prop_50_2_test
+the hail,Xiamen,pʰauʔ⁵,154,chinese_1964_prop_50_2_test:the hail:4,chinese_1964_prop_50_2_test
+the hail,Xian,pɑu²¹,154,chinese_1964_prop_50_2_test:the hail:2,chinese_1964_prop_50_2_test
+the hail,Yangjiang,pʊk⁴⁵⁴,154,chinese_1964_prop_50_2_test:the hail:3,chinese_1964_prop_50_2_test
+the hail,Yangzhou,piŋ³¹pɑʔ⁴tsɛ⁰,208,chinese_1964_prop_50_2_test:the hail:1,chinese_1964_prop_50_2_test
+the ice,Beijing,piŋ⁵⁵,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Changsha,pin³³,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Chaozhou,sɯŋ³³,100,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Chengdu,pin⁴⁴,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Fuzhou,piŋ⁴⁴,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Guangzhou,ʃyt³³,2,chinese_1964_prop_50_2_test:the ice:2,chinese_1964_prop_50_2_test
+the ice,Hefei,pin²¹²təŋ⁵³,1032,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Jinan,piŋ²¹³,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Kunming,pĩ⁴⁴,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Meixian,siɛt²¹,2,chinese_1964_prop_50_2_test:the ice:2,chinese_1964_prop_50_2_test
+the ice,Nanchang,pin⁴²,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Shenyang,piŋ³³,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Suzhou,pin⁴⁴,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Wenzhou,pəŋ⁴⁴,1138,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Xiamen,sῃ⁵⁵,100,chinese_1964_prop_50_2_test:the ice:3,chinese_1964_prop_50_2_test
+the ice,Xian,piŋ²¹,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the ice,Yangjiang,ɬit²¹,2,chinese_1964_prop_50_2_test:the ice:2,chinese_1964_prop_50_2_test
+the ice,Yangzhou,piŋ³¹,1031,chinese_1964_prop_50_2_test:the ice:1,chinese_1964_prop_50_2_test
+the mud,Beijing,ni³⁵,1158,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Changsha,ȵi¹³pa³³,1159,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Chaozhou,tʰou⁵⁵,1162,chinese_1964_prop_50_2_test:the mud:2,chinese_1964_prop_50_2_test
+the mud,Chengdu,ȵi³¹pa⁴⁴,1159,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Fuzhou,tʰu⁵²,1162,chinese_1964_prop_50_2_test:the mud:2,chinese_1964_prop_50_2_test
+the mud,Guangzhou,nɐi²¹,1158,chinese_1964_prop_50_2_test:the mud:3,chinese_1964_prop_50_2_test
+the mud,Hefei,nɿ⁵⁵,1158,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Jinan,ȵi⁴²,1158,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Kunming,ȵi³¹pa⁴⁴,1159,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Meixian,nɛ¹²,1158,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Nanchang,ȵi⁵⁵pa⁴²,1159,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Shenyang,ȵi³⁵,1158,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Suzhou,lɛ³¹₂₂ȵi²⁴₃₃,1160,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Wenzhou,la¹¹vu³¹ȵi³¹,1161,chinese_1964_prop_50_2_test:the mud:4,chinese_1964_prop_50_2_test
+the mud,Xiamen,tʰɔ²⁴,1162,chinese_1964_prop_50_2_test:the mud:2,chinese_1964_prop_50_2_test
+the mud,Xian,ȵi²⁴,1158,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the mud,Yangjiang,nɐui⁴⁴³,1158,chinese_1964_prop_50_2_test:the mud:3,chinese_1964_prop_50_2_test
+the mud,Yangzhou,li³⁴,1158,chinese_1964_prop_50_2_test:the mud:1,chinese_1964_prop_50_2_test
+the lower level (below),Beijing,ti²¹⁴₂₁ɕia⁰,963,chinese_1964_prop_50_2_test:the lower level (below):2,chinese_1964_prop_50_2_test
+the lower level (below),Beijing,ɕia⁵¹tʰou⁰,965,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Changsha,xa²¹təu⁰,965,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Chaozhou,e³⁵₂₁põi⁵⁵,974,chinese_1964_prop_50_2_test:the lower level (below):10,chinese_1964_prop_50_2_test
+the lower level (below),Chengdu,ti⁵³ɕia¹³₃₁,963,chinese_1964_prop_50_2_test:the lower level (below):2,chinese_1964_prop_50_2_test
+the lower level (below),Chengdu,ɕia¹³tʰəu³¹,965,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Fuzhou,a²⁴²₃₁lɛ³¹,964,chinese_1964_prop_50_2_test:the lower level (below):4,chinese_1964_prop_50_2_test
+the lower level (below),Guangzhou,ha²²pin²²,971,chinese_1964_prop_50_2_test:the lower level (below):3,chinese_1964_prop_50_2_test
+the lower level (below),Hefei,ɕia⁵³tʰɯ⁰,965,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Hefei,tsๅ²⁴ɕia⁰,963,chinese_1964_prop_50_2_test:the lower level (below):2,chinese_1964_prop_50_2_test
+the lower level (below),Jinan,ɕia²¹pɛr⁰,966,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Kunming,ɕia¹³ʂəu⁵³,968,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Meixian,ha²⁴pɔi⁴²,970,chinese_1964_prop_50_2_test:the lower level (below):3,chinese_1964_prop_50_2_test
+the lower level (below),Nanchang,ha³¹tʰɛu²⁴,965,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Nanchang,ha³¹tit⁵,969,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Shenyang,ɕia⁴¹mian⁰,967,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Suzhou,ɦo³¹₂₂dʏ²⁴₃₃,965,chinese_1964_prop_50_2_test:the lower level (below):5,chinese_1964_prop_50_2_test
+the lower level (below),Wenzhou,ho²⁴mai¹¹,967,chinese_1964_prop_50_2_test:the lower level (below):6,chinese_1964_prop_50_2_test
+the lower level (below),Xiamen,e³³₁₁kʰa⁴⁴,973,chinese_1964_prop_50_2_test:the lower level (below):7,chinese_1964_prop_50_2_test
+the lower level (below),Xiamen,e³³₁₁bin³³,967,chinese_1964_prop_50_2_test:the lower level (below):8,chinese_1964_prop_50_2_test
+the lower level (below),Xiamen,e³³₁₁tue⁵¹,964,chinese_1964_prop_50_2_test:the lower level (below):9,chinese_1964_prop_50_2_test
+the lower level (below),Xian,ti⁵³xɑ⁰,963,chinese_1964_prop_50_2_test:the lower level (below):2,chinese_1964_prop_50_2_test
+the lower level (below),Xian,xɑ⁴⁵tʰou⁰,965,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Yangjiang,ha⁴⁵⁴tɐi³³,972,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Yangzhou,xɑ⁵⁵tʰɤɯ⁰,965,chinese_1964_prop_50_2_test:the lower level (below):1,chinese_1964_prop_50_2_test
+the lower level (below),Yangzhou,ti⁴²ɕiɑ⁰,963,chinese_1964_prop_50_2_test:the lower level (below):2,chinese_1964_prop_50_2_test
+high / tall,Beijing,kau⁵⁵,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Changsha,kau³³,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Chaozhou,kũĩ⁵⁵,58,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Chengdu,kau⁴⁴,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Fuzhou,keiŋ⁵²,58,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Guangzhou,kou⁵³,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Hefei,kɔ²¹²,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Jinan,kɔ²¹³,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Kunming,kau⁴⁴,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Meixian,kau⁴⁴,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Nanchang,kau⁴²,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Shenyang,kau³³,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Suzhou,kæ⁴⁴,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Wenzhou,kɜ⁴⁴,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Xiamen,kũãĩ²⁴,58,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Xian,kɑu²¹,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Yangjiang,kou³³,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+high / tall,Yangzhou,kɔ³¹,57,chinese_1964_prop_50_2_test:high / tall:1,chinese_1964_prop_50_2_test
+outside,Beijing,uai⁵¹tʰou⁰,939,chinese_1964_prop_50_2_test:outside:1,chinese_1964_prop_50_2_test
+outside,Beijing,iuai⁵¹pianr⁰,947,chinese_1964_prop_50_2_test:outside:10,chinese_1964_prop_50_2_test
+outside,Changsha,uai²¹təu⁰,939,chinese_1964_prop_50_2_test:outside:1,chinese_1964_prop_50_2_test
+outside,Chaozhou,gua¹¹₁₂põĩ⁵⁵,946,chinese_1964_prop_50_2_test:outside:2,chinese_1964_prop_50_2_test
+outside,Chengdu,uai¹³tʰəu³¹,939,chinese_1964_prop_50_2_test:outside:1,chinese_1964_prop_50_2_test
+outside,Fuzhou,ŋie²⁴²₃₁lau³¹,939,chinese_1964_prop_50_2_test:outside:9,chinese_1964_prop_50_2_test
+outside,Guangzhou,ŋɔi²²pin²²,944,chinese_1964_prop_50_2_test:outside:8,chinese_1964_prop_50_2_test
+outside,Hefei,uɛ⁵³tʰɯ⁰,939,chinese_1964_prop_50_2_test:outside:1,chinese_1964_prop_50_2_test
+outside,Jinan,uɛ²¹pɛr⁰,940,chinese_1964_prop_50_2_test:outside:7,chinese_1964_prop_50_2_test
+outside,Kunming,uɛ¹³ʂəu⁵³,941,chinese_1964_prop_50_2_test:outside:1,chinese_1964_prop_50_2_test
+outside,Meixian,ŋuai⁴²pɔi⁴²,943,chinese_1964_prop_50_2_test:outside:6,chinese_1964_prop_50_2_test
+outside,Nanchang,uai³¹tʰɛu²⁴,939,chinese_1964_prop_50_2_test:outside:1,chinese_1964_prop_50_2_test
+outside,Shenyang,uai⁴¹tʰou⁰,939,chinese_1964_prop_50_2_test:outside:1,chinese_1964_prop_50_2_test
+outside,Suzhou,ŋɒ³¹₂₂dʏ²⁴₃₃,939,chinese_1964_prop_50_2_test:outside:5,chinese_1964_prop_50_2_test
+outside,Wenzhou,va¹¹mai¹¹,942,chinese_1964_prop_50_2_test:outside:4,chinese_1964_prop_50_2_test
+outside,Xiamen,gua³³₁₁bin³³,942,chinese_1964_prop_50_2_test:outside:2,chinese_1964_prop_50_2_test
+outside,Xian,uæ⁴⁵tʰou⁰,939,chinese_1964_prop_50_2_test:outside:1,chinese_1964_prop_50_2_test
+outside,Yangjiang,wui⁴⁵⁴tɐi³³,945,chinese_1964_prop_50_2_test:outside:3,chinese_1964_prop_50_2_test
+outside,Yangzhou,uɛ⁵⁵tʰɤɯ⁰,939,chinese_1964_prop_50_2_test:outside:1,chinese_1964_prop_50_2_test
+the snow,Beijing,ɕye²¹⁴,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Changsha,ɕie²⁴,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Chaozhou,soʔ²¹,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Chengdu,ɕye⁵¹,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Fuzhou,suɔʔ²³,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Guangzhou,ʃyt³³,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Hefei,ɕyɐʔ⁴,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Jinan,ɕye²¹³,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Kunming,ɕie³¹,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Meixian,siɛt²¹,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Nanchang,ɕyɔt⁵,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Shenyang,ɕye²¹³,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Suzhou,siɪʔ⁴,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Wenzhou,ɕy²³,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Xiamen,seʔ³²,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Xian,ɕye²¹,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Yangjiang,ɬit²¹,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the snow,Yangzhou,ɕyəʔ⁴,438,chinese_1964_prop_50_2_test:the snow:1,chinese_1964_prop_50_2_test
+the spider,Beijing,tʂu⁵⁵tʂu⁰,369,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Changsha,tsɿ³³tɕy³³tsɿ⁰,375,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Chaozhou,ti³³₂₃tu³³,374,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Chengdu,tse⁴⁴₃₁tsu⁴⁴,374,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Fuzhou,tʰi⁴⁴ly⁴⁴,374,chinese_1964_prop_50_2_test:the spider:7,chinese_1964_prop_50_2_test
+the spider,Guangzhou,kʰɐm²¹lou²¹₃₅,379,chinese_1964_prop_50_2_test:the spider:2,chinese_1964_prop_50_2_test
+the spider,Hefei,tʂei²⁴tʂu²¹²,374,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Jinan,ŋə⁴²laŋ⁴²tʂu²¹³tsɿ⁰,370,chinese_1964_prop_50_2_test:the spider:3,chinese_1964_prop_50_2_test
+the spider,Jinan,ɕi⁵⁵tʂu²¹³tʂu⁰,371,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Kunming,tʂʅ⁴⁴tʂu⁴⁴,374,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Meixian,la¹²kʰia¹²,378,chinese_1964_prop_50_2_test:the spider:4,chinese_1964_prop_50_2_test
+the spider,Nanchang,tsɿ⁴²tɕy⁴²,374,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Shenyang,lai⁴¹lai⁴¹tsu³³,373,chinese_1964_prop_50_2_test:the spider:5,chinese_1964_prop_50_2_test
+the spider,Suzhou,tsiɪʔ⁴tsʮ⁴⁴₃₅,376,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Wenzhou,sɿ⁴⁴muɔ²⁴tsɿ⁴⁴tsɿ⁰,377,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Xiamen,ti⁵⁵₃₃tu⁵⁵,374,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Xian,pfu²¹pfu⁰,369,chinese_1964_prop_50_2_test:the spider:6,chinese_1964_prop_50_2_test
+the spider,Yangjiang,kʰɐm⁴⁴³lou⁴⁴³,379,chinese_1964_prop_50_2_test:the spider:2,chinese_1964_prop_50_2_test
+the spider,Yangzhou,tsɿ³¹tsu³¹,374,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the spider,Yangzhou,ɕi⁵⁵ɕi⁵⁵tsu³¹tsɛ⁰,372,chinese_1964_prop_50_2_test:the spider:1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Beijing,i⁵¹kʰə⁵⁵ʂu⁵¹,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Changsha,i²⁴kʰo⁵⁵ɕy²¹,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Chaozhou,tsek⁴₂₁tsaŋ⁵⁵₂₁₃tsʰiu¹¹,419,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):2,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Chengdu,i³¹kən⁴⁴su¹³tsๅ⁵³,416,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Fuzhou,sɔ³¹lau⁴⁴tsʰiu²⁴²,414,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):3,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Guangzhou,jɐt⁵pʰɔ⁵³ʃy²²,420,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):8,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Hefei,iəʔ⁴kʰʊ²¹²ʂu⁵³,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Jinan,i²¹³kʰə²¹³ʂu²¹,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Kunming,i³¹₁₃kʰuo⁴⁴ʂu¹³,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Meixian,jit²¹tʰɛu¹²su⁴²,418,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):4,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Nanchang,it⁵kʰuɔ⁴²ɕy³¹,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Shenyang,i⁴¹kʰə³³su⁴¹,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Suzhou,iɪʔ⁴kʰəu⁴⁴zʮ³¹,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Wenzhou,i²³tsๅ⁴⁴zๅ¹¹,417,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):5,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Xiamen,tsit⁵₃₂tsaŋ²⁴₃₃tsʰiu³³,419,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):2,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Xian,i²¹kʰuɔ⁵³fu²¹,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):6,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Yangjiang,jɐt²⁴tɐu³³ʃi⁴⁵⁴,414,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):7,chinese_1964_prop_50_2_test
+the tree (one exemplar of a tree),Yangzhou,iəʔ⁴kʰo³¹su⁵⁵,415,chinese_1964_prop_50_2_test:the tree (one exemplar of a tree):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Beijing,i⁵¹kʰou²¹⁴₃₅ʂuei²¹⁴,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Changsha,i²⁴kʰəu⁴¹ɕyei⁴¹,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Chaozhou,tsek⁴₂₁tsʰui²¹³₅₃tsui⁵³₂₁,1117,chinese_1964_prop_50_2_test:the water (one mouth of water):2,chinese_1964_prop_50_2_test
+the water (one mouth of water),Chengdu,i³¹kʰəu⁵³suei⁵³,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Fuzhou,sɔ³¹zui²¹³tsui³¹,1117,chinese_1964_prop_50_2_test:the water (one mouth of water):2,chinese_1964_prop_50_2_test
+the water (one mouth of water),Guangzhou,jɐt⁵tam²²ʃøy³⁵,1116,chinese_1964_prop_50_2_test:the water (one mouth of water):3,chinese_1964_prop_50_2_test
+the water (one mouth of water),Hefei,iəʔ⁴kʰɯ²⁴ʂui²⁴,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Jinan,i²¹³kʰou⁵⁵ʂuei⁵⁵,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Kunming,i³¹₁₃kʰəu⁵³ʂue⁵³,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Meixian,jit²¹kʰɛu³¹sui³¹,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Nanchang,it⁵kʰiɛu²¹³sui²¹³,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Shenyang,i⁴¹kʰou²¹³₃₅suei²¹³,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Suzhou,iɪʔ⁴kʰʏ⁴¹sʮ⁴¹,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):5,chinese_1964_prop_50_2_test
+the water (one mouth of water),Wenzhou,i²³kʰau⁴⁵sๅ⁴⁵,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):4,chinese_1964_prop_50_2_test
+the water (one mouth of water),Xiamen,tsit⁵₃₂tsʰui¹¹₅₁tsui⁵¹,1117,chinese_1964_prop_50_2_test:the water (one mouth of water):2,chinese_1964_prop_50_2_test
+the water (one mouth of water),Xian,i²¹kʰou⁵³fei⁵³,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the water (one mouth of water),Yangjiang,jɐt²⁴tam⁴⁵⁴ʃui²¹,1116,chinese_1964_prop_50_2_test:the water (one mouth of water):3,chinese_1964_prop_50_2_test
+the water (one mouth of water),Yangzhou,iəʔ⁴kʰɤɯ⁴²suəi⁴²,1115,chinese_1964_prop_50_2_test:the water (one mouth of water):1,chinese_1964_prop_50_2_test
+the wind,Beijing,fəŋ⁵⁵,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Changsha,xən³³,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Chaozhou,huaŋ³³,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Chengdu,foŋ⁴⁴,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Fuzhou,xuŋ⁴⁴,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Guangzhou,hʊŋ⁵³,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Hefei,fəŋ²¹²,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Jinan,fəŋ²¹³,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Kunming,foŋ⁴⁴,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Meixian,fuŋ⁴⁴,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Nanchang,fuŋ⁴²,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Shenyang,fəŋ³³,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Suzhou,foŋ⁴⁴,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Wenzhou,hoŋ⁴⁴,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Xiamen,hoŋ⁵⁵,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Xian,fəŋ²¹,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Yangjiang,hʊŋ³³,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+the wind,Yangzhou,foŋ³¹,746,chinese_1964_prop_50_2_test:the wind:1,chinese_1964_prop_50_2_test
+all,Beijing,tou⁵⁵,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Beijing,tɕʰyan³⁵,433,chinese_1964_prop_50_2_test:all:3,chinese_1964_prop_50_2_test
+all,Beijing,ta⁵¹xuor²¹⁴,625,chinese_1964_prop_50_2_test:all:4,chinese_1964_prop_50_2_test
+all,Changsha,xa²¹,436,chinese_1964_prop_50_2_test:all:12,chinese_1964_prop_50_2_test
+all,Changsha,tai²¹ka³³,628,chinese_1964_prop_50_2_test:all:2,chinese_1964_prop_50_2_test
+all,Chaozhou,tai³⁵₂₁ke³³,628,chinese_1964_prop_50_2_test:all:2,chinese_1964_prop_50_2_test
+all,Chaozhou,loŋ⁵³,105,chinese_1964_prop_50_2_test:all:5,chinese_1964_prop_50_2_test
+all,Chengdu,təu⁴⁴,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Chengdu,ta¹³tɕia⁴⁴,628,chinese_1964_prop_50_2_test:all:3,chinese_1964_prop_50_2_test
+all,Fuzhou,tu⁴⁴,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Fuzhou,tai²⁴²₄₄a⁴⁴nøyŋ⁵²,629,chinese_1964_prop_50_2_test:all:11,chinese_1964_prop_50_2_test
+all,Fuzhou,kɔʔ²³₃₁nøyŋ⁵²,247,chinese_1964_prop_50_2_test:all:10,chinese_1964_prop_50_2_test
+all,Guangzhou,ʃai³³,437,chinese_1964_prop_50_2_test:all:9,chinese_1964_prop_50_2_test
+all,Guangzhou,tai²²ka⁵³,628,chinese_1964_prop_50_2_test:all:2,chinese_1964_prop_50_2_test
+all,Guangzhou,tai²²tʃʊŋ³³,627,chinese_1964_prop_50_2_test:all:2,chinese_1964_prop_50_2_test
+all,Hefei,tu²¹²,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Hefei,ta⁵³tɕia²¹²,628,chinese_1964_prop_50_2_test:all:3,chinese_1964_prop_50_2_test
+all,Jinan,tou²¹³,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Jinan,ta²¹xuər⁵⁵,625,chinese_1964_prop_50_2_test:all:4,chinese_1964_prop_50_2_test
+all,Kunming,tu⁴⁴,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Kunming,ta¹³tɕia⁴⁴,628,chinese_1964_prop_50_2_test:all:3,chinese_1964_prop_50_2_test
+all,Meixian,tu⁴⁴,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Meixian,tsʰɛ¹²ka⁴⁴,246,chinese_1964_prop_50_2_test:all:2,chinese_1964_prop_50_2_test
+all,Nanchang,tu⁴²,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Nanchang,tʰai³¹ka⁴²,628,chinese_1964_prop_50_2_test:all:2,chinese_1964_prop_50_2_test
+all,Nanchang,tʰai³¹kan⁰,626,chinese_1964_prop_50_2_test:all:2,chinese_1964_prop_50_2_test
+all,Shenyang,tou³³,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Shenyang,ta⁴¹xuər²¹³,625,chinese_1964_prop_50_2_test:all:4,chinese_1964_prop_50_2_test
+all,Suzhou,zɛ²⁴,434,chinese_1964_prop_50_2_test:all:8,chinese_1964_prop_50_2_test
+all,Suzhou,dɒ³¹₂₂kɒ⁴⁴,628,chinese_1964_prop_50_2_test:all:6,chinese_1964_prop_50_2_test
+all,Wenzhou,o²³,435,chinese_1964_prop_50_2_test:all:7,chinese_1964_prop_50_2_test
+all,Wenzhou,da¹¹ko⁴⁴naŋ⁰,629,chinese_1964_prop_50_2_test:all:6,chinese_1964_prop_50_2_test
+all,Xiamen,lɔŋ⁵¹₅₅,105,chinese_1964_prop_50_2_test:all:5,chinese_1964_prop_50_2_test
+all,Xiamen,tai³³₁₁ke³³,628,chinese_1964_prop_50_2_test:all:2,chinese_1964_prop_50_2_test
+all,Xian,tou²¹,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Xian,tɑ⁴⁵tɕiɑ⁰,628,chinese_1964_prop_50_2_test:all:3,chinese_1964_prop_50_2_test
+all,Yangjiang,tou³³,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Yangjiang,tai⁴⁵⁴ka³³,628,chinese_1964_prop_50_2_test:all:2,chinese_1964_prop_50_2_test
+all,Yangzhou,tu³¹,432,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test
+all,Yangzhou,tɑ⁵⁵kɑ⁰,628,chinese_1964_prop_50_2_test:all:1,chinese_1964_prop_50_2_test

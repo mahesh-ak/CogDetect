@@ -1,0 +1,932 @@
+db,concept,doculect,counterpart,fullCC,inferredCC
+st_3_train,warm,Alike Tibetan,ćo_ɣə,st_3_train:warm:1010,st_3_train:warm:3
+st_3_train,warm,Apatari,gùbú,st_3_train:warm:1290,st_3_train:warm:3
+st_3_train,warm,Batang Tibetan,ćo¹³_bo⁵³,st_3_train:warm:1010,st_3_train:warm:3
+st_3_train,warm,Beijing,nuǎnxuo,st_3_train:warm:811,st_3_train:warm:5
+st_3_train,warm,Bodo,duŋloʔb,st_3_train:warm:1029,st_3_train:warm:8
+st_3_train,warm,Bokar,yiː_po,st_3_train:warm:1090,st_3_train:warm:9
+st_3_train,warm,Bola,lam⁵⁵,st_3_train:warm:422,st_3_train:warm:1
+st_3_train,warm,Burmese,nweː,st_3_train:warm:811,st_3_train:warm:10
+st_3_train,warm,Dhimal,boboka,st_3_train:warm:1125,st_3_train:warm:11
+st_3_train,warm,Dulong,lɨm⁵³,st_3_train:warm:422,st_3_train:warm:1
+st_3_train,warm,Ersu,cha⁵⁵_cha⁵⁵,st_3_train:warm:176,st_3_train:warm:4
+st_3_train,warm,Fuzhou,nuoŋ³³_xuo⁵²,st_3_train:warm:811,st_3_train:warm:5
+st_3_train,warm,Garo,diŋ-a,st_3_train:warm:1029,st_3_train:warm:26
+st_3_train,warm,Geba,ʔək̯o²²_k̯o²²,st_3_train:warm:422,st_3_train:warm:7
+st_3_train,warm,Geker,k̯əɨʔ⁵³_la²²,st_3_train:warm:422,st_3_train:warm:12
+st_3_train,warm,Guiqiong,jo³⁵,st_3_train:warm:1011,st_3_train:warm:27
+st_3_train,warm,Gurung,laː¹-la,st_3_train:warm:422,st_3_train:warm:2
+st_3_train,warm,Hakka,non¹,st_3_train:warm:811,st_3_train:warm:6
+st_3_train,warm,Hill-Miri,og,st_3_train:warm:1290,st_3_train:warm:13
+st_3_train,warm,Hmar,lum,st_3_train:warm:422,st_3_train:warm:1
+st_3_train,warm,Horpa,xcɛ,st_3_train:warm:176,st_3_train:warm:14
+st_3_train,warm,Idu,loŋ²,st_3_train:warm:422,st_3_train:warm:6
+st_3_train,warm,Jingpo,lum³³,st_3_train:warm:422,st_3_train:warm:1
+st_3_train,warm,Jinuo,ło⁴²_khə⁴²,st_3_train:warm:422,st_3_train:warm:15
+st_3_train,warm,Jirel,ṭhom_L¹mu_L¹_E,st_3_train:warm:1010,st_3_train:warm:16
+st_3_train,warm,Kaike,mhummɔ,st_3_train:warm:1160,st_3_train:warm:17
+st_3_train,warm,Khaling,hɔynpɛ_L,st_3_train:warm:1134,st_3_train:warm:18
+st_3_train,warm,Lepcha,ă,st_3_train:warm:1220,st_3_train:warm:2
+st_3_train,warm,Lhasa Tibetan,ćho¹³_po⁵⁵,st_3_train:warm:1010,st_3_train:warm:3
+st_3_train,warm,Lhota,elama,st_3_train:warm:422,st_3_train:warm:1
+st_3_train,warm,Lijiang-Naxi,lv³¹_fv⁵⁵,st_3_train:warm:422,st_3_train:warm:19
+st_3_train,warm,Limbu,mɔkmaʔ,st_3_train:warm:1160,st_3_train:warm:20
+st_3_train,warm,Lushai,lum,st_3_train:warm:422,st_3_train:warm:1
+st_3_train,warm,Lüsu,mæ³³nphi⁵⁵_m,st_3_train:warm:176,st_3_train:warm:21
+st_3_train,warm,Manu,lạ¹¹,st_3_train:warm:422,st_3_train:warm:2
+st_3_train,warm,Motuo-M,gom_bo,st_3_train:warm:1290,st_3_train:warm:3
+st_3_train,warm,N-Qiang,ṣća_lə,st_3_train:warm:176,st_3_train:warm:2
+st_3_train,warm,Ninglang-Naxi,chɨ³³,st_3_train:warm:176,st_3_train:warm:4
+st_3_train,warm,Nusu,lɔ³⁵_ńɛr³⁵,st_3_train:warm:422,st_3_train:warm:6
+st_3_train,warm,Old Chinese,ʔūn,st_3_train:warm:1320,st_3_train:warm:22
+st_3_train,warm,Pa'O,lom²²²²,st_3_train:warm:422,st_3_train:warm:1
+st_3_train,warm,Padam,i-ga,st_3_train:warm:1290,st_3_train:warm:23
+st_3_train,warm,Quueyu,ły⁵⁵_ły³³,st_3_train:warm:422,st_3_train:warm:2
+st_3_train,warm,Rawang,lim,st_3_train:warm:422,st_3_train:warm:1
+st_3_train,warm,Rourou,læ³³,st_3_train:warm:422,st_3_train:warm:2
+st_3_train,warm,Sgaw,k̯o⁴⁴_lə³³,st_3_train:warm:422,st_3_train:warm:2
+st_3_train,warm,Sherpa,chandi_LR,st_3_train:warm:1446,st_3_train:warm:4
+st_3_train,warm,Shixing,ji⁵⁵,st_3_train:warm:1011,st_3_train:warm:24
+st_3_train,warm,Tujia,lo¹_xo¹_xui¹,st_3_train:warm:422,st_3_train:warm:25
+st_3_train,warm,W. Kayah,lẹ¹¹,st_3_train:warm:422,st_3_train:warm:2
+st_3_train,warm,Written Tibetan,dron__po,st_3_train:warm:1446,st_3_train:warm:3
+st_3_train,warm,Xiaxe Tibetan,ćo_mbo,st_3_train:warm:1010,st_3_train:warm:3
+st_3_train,warm,Yeinbaw,lạ³³,st_3_train:warm:422,st_3_train:warm:2
+st_3_train,warm,Yintale,la¹¹,st_3_train:warm:422,st_3_train:warm:2
+st_3_train,warm,Zhaba,lum⁵⁵,st_3_train:warm:422,st_3_train:warm:1
+st_3_train,we,Alike Tibetan,ŋu_L²ruŋ_T¹,st_3_train:we:616,st_3_train:we:3
+st_3_train,we,Alike Tibetan,ŋə_ćho,st_3_train:we:1012,st_3_train:we:2
+st_3_train,we,Ao-Chungli,ikhala,st_3_train:we:770,st_3_train:we:10
+st_3_train,we,Ao-Mongsen,akhrumei,st_3_train:we:1433,st_3_train:we:26
+st_3_train,we,Ao-Mongsen,ikhala,st_3_train:we:1332,st_3_train:we:10
+st_3_train,we,Apatari,ŋolu,st_3_train:we:616,st_3_train:we:3
+st_3_train,we,Apatari,ŋúnu,st_3_train:we:1332,st_3_train:we:3
+st_3_train,we,Batang Tibetan,ʔo_ćho,st_3_train:we:616,st_3_train:we:2
+st_3_train,we,Beijing,wǒmen,st_3_train:we:616,st_3_train:we:25
+st_3_train,we,Bodo,ʒinisi,st_3_train:we:765,st_3_train:we:11
+st_3_train,we,Bokar,ŋul,st_3_train:we:616,st_3_train:we:3
+st_3_train,we,Bokar,ŋoːlu,st_3_train:we:1332,st_3_train:we:3
+st_3_train,we,Bola,ŋa³³_dɨ³¹,st_3_train:we:812,st_3_train:we:1
+st_3_train,we,Bola,ŋă⁵⁵_maʔ³¹,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Burmese,ŋɔ̆³¹_na̲uŋ⁵⁵,st_3_train:we:616,st_3_train:we:3
+st_3_train,we,Burmese,ŋa_tui,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Dhimal,ŋ¹_ću³,st_3_train:we:616,st_3_train:we:3
+st_3_train,we,Dimasa,ciŋa,st_3_train:we:765,st_3_train:we:5
+st_3_train,we,Dulong,qa³¹_thya⁵⁵,st_3_train:we:812,st_3_train:we:24
+st_3_train,we,Ersu,an⁵⁵_the³³,st_3_train:we:812,st_3_train:we:8
+st_3_train,we,Ersu,a⁵⁵_rɨ⁵⁵,st_3_train:we:770,st_3_train:we:4
+st_3_train,we,Fuzhou,ŋuai⁵⁵,st_3_train:we:616,st_3_train:we:4
+st_3_train,we,Garo,ciŋ,st_3_train:we:765,st_3_train:we:5
+st_3_train,we,Geba,p̯wa³³,st_3_train:we:1242,st_3_train:we:6
+st_3_train,we,Geker,p̯aː³³,st_3_train:we:1242,st_3_train:we:6
+st_3_train,we,Guiqiong,a⁵⁵_rɨ⁵⁵,st_3_train:we:884,st_3_train:we:4
+st_3_train,we,Guiqiong,ŋɔ³³_zi⁵⁵,st_3_train:we:616,st_3_train:we:4
+st_3_train,we,Gurung,ńiː¹,st_3_train:we:770,st_3_train:we:7
+st_3_train,we,Hakka,ŋai²_deu²,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Hill-Miri,ŋoːlu,st_3_train:we:616,st_3_train:we:3
+st_3_train,we,Hill-Miri,ŋu-lu,st_3_train:we:1332,st_3_train:we:3
+st_3_train,we,Hmar,eiuh,st_3_train:we:770,st_3_train:we:23
+st_3_train,we,Horpa,ŋâ⁵⁵_rɛ̃⁵⁵,st_3_train:we:884,st_3_train:we:4
+st_3_train,we,Idu,ŋa-ŋi,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Jingpo,eikhoi,st_3_train:we:770,st_3_train:we:22
+st_3_train,we,Jinuo,ŋo³³_pe³³,st_3_train:we:616,st_3_train:we:2
+st_3_train,we,Jinuo,ŋa⁵⁵_vu³³,st_3_train:we:616,st_3_train:we:2
+st_3_train,we,Jirel,ŋyokon_LF,st_3_train:we:616,st_3_train:we:9
+st_3_train,we,Jirel,ŋu_L²ruŋ_T¹,st_3_train:we:1433,st_3_train:we:3
+st_3_train,we,Kaike,ŋa_tui,st_3_train:we:812,st_3_train:we:1
+st_3_train,we,Khaling,iŋki,st_3_train:we:616,st_3_train:we:5
+st_3_train,we,Kulung,ok_L,st_3_train:we:616,st_3_train:we:21
+st_3_train,we,Lepcha,kin¹,st_3_train:we:616,st_3_train:we:5
+st_3_train,we,Lhasa Tibetan,ŋöy¹³,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Lhasa Tibetan,ŋa¹³_cho⁵⁵,st_3_train:we:1012,st_3_train:we:2
+st_3_train,we,Lhota,hiri,st_3_train:we:770,st_3_train:we:20
+st_3_train,we,Lijiang-Naxi,ńə³³_sɨ³³_kv,st_3_train:we:616,st_3_train:we:4
+st_3_train,we,Limbu,kaniŋ,st_3_train:we:616,st_3_train:we:5
+st_3_train,we,Lushai,kanmah,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Lüsu,ŋa³³_chə³¹_T,st_3_train:we:79,st_3_train:we:1
+st_3_train,we,Lüsu,an⁵⁵_the³³,st_3_train:we:770,st_3_train:we:8
+st_3_train,we,Manu,pạ¹¹,st_3_train:we:1242,st_3_train:we:6
+st_3_train,we,Motuo-M,goA_pukiA,st_3_train:we:616,st_3_train:we:19
+st_3_train,we,N-Qiang,ŋɨ⁵⁵_ŋɨ⁵³,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,N-Qiang,cə_χa,st_3_train:we:765,st_3_train:we:5
+st_3_train,we,Namuzi,ŋɔ³³_zi⁵⁵,st_3_train:we:884,st_3_train:we:4
+st_3_train,we,Namuzi,ŋa⁵⁵_χo³³,st_3_train:we:616,st_3_train:we:2
+st_3_train,we,Ninglang-Naxi,ŋa⁵⁵_vu³³,st_3_train:we:1016,st_3_train:we:2
+st_3_train,we,Nusu,a³¹_źɨ³³,st_3_train:we:770,st_3_train:we:18
+st_3_train,we,Old Chinese,ŋhājʔ,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Old Chinese,Ła,st_3_train:we:1332,st_3_train:we:17
+st_3_train,we,Pa'O,ni⁴⁴²²,st_3_train:we:616,st_3_train:we:7
+st_3_train,we,Padam,ŋo-lu,st_3_train:we:1332,st_3_train:we:3
+st_3_train,we,Quueyu,ŋɛ_ńɨ,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Rawang,iŋ⁵⁵,st_3_train:we:616,st_3_train:we:5
+st_3_train,we,Rourou,ŋa³⁵_dɨ³¹,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Serdukpen,gə¹_ɣəń¹,st_3_train:we:616,st_3_train:we:16
+st_3_train,we,Sgaw,p̯əwe⁴⁴,st_3_train:we:1016,st_3_train:we:6
+st_3_train,we,Sherpa,ŋa³⁵_raʔ⁵³,st_3_train:we:616,st_3_train:we:1
+st_3_train,we,Sherpa,ŋyokon_LF,st_3_train:we:1014,st_3_train:we:9
+st_3_train,we,Shixing,ŋa⁵⁵_χo³³,st_3_train:we:1013,st_3_train:we:2
+st_3_train,we,Shixing,ŋâ⁵⁵_rɛ̃⁵⁵,st_3_train:we:616,st_3_train:we:4
+st_3_train,we,Tangkul,enni,st_3_train:we:616,st_3_train:we:7
+st_3_train,we,Tujia,ka-yu,st_3_train:we:616,st_3_train:we:15
+st_3_train,we,W. Kayah,pɛ̣¹¹,st_3_train:we:1242,st_3_train:we:6
+st_3_train,we,Written Tibetan,ŋa¹³_cho⁵⁵,st_3_train:we:616,st_3_train:we:2
+st_3_train,we,Written Tibetan,ŋa_cho,st_3_train:we:1012,st_3_train:we:2
+st_3_train,we,Xiaxe Tibetan,ŋə_ćho,st_3_train:we:616,st_3_train:we:2
+st_3_train,we,Xiaxe Tibetan,ʔo_ćho,st_3_train:we:1012,st_3_train:we:2
+st_3_train,we,Yeinbaw,pṿ¹¹,st_3_train:we:1242,st_3_train:we:14
+st_3_train,we,Yintale,hɛ⁵⁵_thɔ⁵⁵_ph,st_3_train:we:1242,st_3_train:we:13
+st_3_train,we,Zeme,aliu,st_3_train:we:1332,st_3_train:we:12
+st_3_train,we,Zhaba,ŋɔ⁵⁵_tuʔ³¹,st_3_train:we:812,st_3_train:we:1
+st_3_train,we,Zhaba,ŋa⁵⁵_moʔ⁵⁵,st_3_train:we:616,st_3_train:we:2
+st_3_train,yellow,Alike Tibetan,si⁵⁵_ru⁵³,st_3_train:yellow:312,st_3_train:yellow:1
+st_3_train,yellow,Ao-Chungli,mezɨ,st_3_train:yellow:236,st_3_train:yellow:5
+st_3_train,yellow,Ao-Mongsen,kɨmɨhɨ,st_3_train:yellow:669,st_3_train:yellow:11
+st_3_train,yellow,Apatari,šɨr_pu_TIB,st_3_train:yellow:81,st_3_train:yellow:1
+st_3_train,yellow,Batang Tibetan,ser_L¹mu_T¹,st_3_train:yellow:312,st_3_train:yellow:1
+st_3_train,yellow,Beijing,uoŋ⁵²,st_3_train:yellow:669,st_3_train:yellow:15
+st_3_train,yellow,Bodo,bai-a,st_3_train:yellow:1028,st_3_train:yellow:3
+st_3_train,yellow,Bokar,yaniŋ,st_3_train:yellow:818,st_3_train:yellow:31
+st_3_train,yellow,Bola,sɨ³¹_kuə³³,st_3_train:yellow:312,st_3_train:yellow:16
+st_3_train,yellow,Burmese,ləŋ³⁵,st_3_train:yellow:86,st_3_train:yellow:8
+st_3_train,yellow,Dhimal,pe-po,st_3_train:yellow:1209,st_3_train:yellow:4
+st_3_train,yellow,Dimasa,ńàn,st_3_train:yellow:818,st_3_train:yellow:6
+st_3_train,yellow,Dulong,nɨ̲⁵⁵_nɨ̲³³,st_3_train:yellow:818,st_3_train:yellow:12
+st_3_train,yellow,Ersu,ksər_po_TIB,st_3_train:yellow:82,st_3_train:yellow:1
+st_3_train,yellow,Fuzhou,ʔəb̄a⁴⁴,st_3_train:yellow:1344,st_3_train:yellow:2
+st_3_train,yellow,Garo,ńanpu,st_3_train:yellow:818,st_3_train:yellow:6
+st_3_train,yellow,Geba,bvɨ̃⁴⁴,st_3_train:yellow:1344,st_3_train:yellow:32
+st_3_train,yellow,Geker,ʔa¹¹_baŋ³⁵,st_3_train:yellow:1344,st_3_train:yellow:2
+st_3_train,yellow,Guiqiong,sə²⁴,st_3_train:yellow:312,st_3_train:yellow:1
+st_3_train,yellow,Gurung,chwɔrmɔ,st_3_train:yellow:162,st_3_train:yellow:17
+st_3_train,yellow,Hakka,báŋ,st_3_train:yellow:1344,st_3_train:yellow:2
+st_3_train,yellow,Hmar,ur¹,st_3_train:yellow:1209,st_3_train:yellow:13
+st_3_train,yellow,Horpa,u⁵⁵_ṣa⁵⁵,st_3_train:yellow:312,st_3_train:yellow:9
+st_3_train,yellow,Jingpo,aone,st_3_train:yellow:818,st_3_train:yellow:18
+st_3_train,yellow,Jinuo,ćɨ⁵⁵_pɨ³¹_ś,st_3_train:yellow:335,st_3_train:yellow:14
+st_3_train,yellow,Jirel,ser_bo,st_3_train:yellow:312,st_3_train:yellow:1
+st_3_train,yellow,Kaike,xui⁵¹,st_3_train:yellow:312,st_3_train:yellow:3
+st_3_train,yellow,Khaling,peːswarajikpa,st_3_train:yellow:83,st_3_train:yellow:19
+st_3_train,yellow,Kulung,ɔm,st_3_train:yellow:669,st_3_train:yellow:7
+st_3_train,yellow,Lepcha,aha,st_3_train:yellow:669,st_3_train:yellow:10
+st_3_train,yellow,Lhasa Tibetan,ser_ro,st_3_train:yellow:312,st_3_train:yellow:1
+st_3_train,yellow,Liangmai,nʒinmei,st_3_train:yellow:236,st_3_train:yellow:20
+st_3_train,yellow,Lijiang-Naxi,yi⁵⁵,st_3_train:yellow:818,st_3_train:yellow:21
+st_3_train,yellow,Limbu,min¹,st_3_train:yellow:1553,st_3_train:yellow:22
+st_3_train,yellow,Lushai,eŋ,st_3_train:yellow:669,st_3_train:yellow:8
+st_3_train,yellow,Manu,ʔəb̄ɔ⁴⁴,st_3_train:yellow:1344,st_3_train:yellow:2
+st_3_train,yellow,Motuo-M,öːm_L,st_3_train:yellow:669,st_3_train:yellow:7
+st_3_train,yellow,N-Qiang,ɣã¹³,st_3_train:yellow:669,st_3_train:yellow:3
+st_3_train,yellow,Namuzi,de³³_ṣü⁵³,st_3_train:yellow:312,st_3_train:yellow:23
+st_3_train,yellow,Ninglang-Naxi,ńhe³⁵,st_3_train:yellow:818,st_3_train:yellow:24
+st_3_train,yellow,Nusu,mar⁵³,st_3_train:yellow:1553,st_3_train:yellow:5
+st_3_train,yellow,Old Chinese,ghʷāŋ_?,st_3_train:yellow:669,st_3_train:yellow:2
+st_3_train,yellow,Pa'O,bã¹¹,st_3_train:yellow:1344,st_3_train:yellow:3
+st_3_train,yellow,Padam,popo,st_3_train:yellow:1209,st_3_train:yellow:4
+st_3_train,yellow,Quueyu,śa⁵⁵_qo³³_qo,st_3_train:yellow:312,st_3_train:yellow:25
+st_3_train,yellow,Rawang,χa,st_3_train:yellow:669,st_3_train:yellow:3
+st_3_train,yellow,Rourou,phaŋ,st_3_train:yellow:1344,st_3_train:yellow:2
+st_3_train,yellow,Serdukpen,ser_po,st_3_train:yellow:312,st_3_train:yellow:1
+st_3_train,yellow,Sgaw,wan⁴_ka¹_la¹,st_3_train:yellow:669,st_3_train:yellow:26
+st_3_train,yellow,Sherpa,hawA,st_3_train:yellow:669,st_3_train:yellow:10
+st_3_train,yellow,Shixing,ṣu⁵⁵,st_3_train:yellow:312,st_3_train:yellow:9
+st_3_train,yellow,Tangkul,hoŋhi,st_3_train:yellow:669,st_3_train:yellow:27
+st_3_train,yellow,Tujia,pīg,st_3_train:yellow:1169,st_3_train:yellow:28
+st_3_train,yellow,W. Kayah,a³¹_bɔ̲⁵⁵,st_3_train:yellow:1344,st_3_train:yellow:2
+st_3_train,yellow,Written Tibetan,she_ro,st_3_train:yellow:312,st_3_train:yellow:1
+st_3_train,yellow,Xiaxe Tibetan,serwuHR,st_3_train:yellow:312,st_3_train:yellow:1
+st_3_train,yellow,Yeinbaw,bɔ¹¹,st_3_train:yellow:1344,st_3_train:yellow:4
+st_3_train,yellow,Yintale,ʔəb̄ɔʔ⁵³_bɔʔ⁵,st_3_train:yellow:1344,st_3_train:yellow:2
+st_3_train,yellow,Zeme,wuluŋba,st_3_train:yellow:459,st_3_train:yellow:29
+st_3_train,yellow,Zhaba,ŋju̲ŋ⁵⁵,st_3_train:yellow:85,st_3_train:yellow:30
+st_3_train,cloud,Alike Tibetan,wćən,st_3_train:cloud:1422,st_3_train:cloud:6
+st_3_train,cloud,Ao-Chungli,mepet,st_3_train:cloud:831,st_3_train:cloud:31
+st_3_train,cloud,Ao-Mongsen,cuŋmiluŋ,st_3_train:cloud:417,st_3_train:cloud:2
+st_3_train,cloud,Apatari,ʒómɨ,st_3_train:cloud:322,st_3_train:cloud:7
+st_3_train,cloud,Batang Tibetan,ći⁵⁵,st_3_train:cloud:1422,st_3_train:cloud:1
+st_3_train,cloud,Beijing,yún,st_3_train:cloud:489,st_3_train:cloud:8
+st_3_train,cloud,Bodo,zəməʔj,st_3_train:cloud:169,st_3_train:cloud:7
+st_3_train,cloud,Bokar,daŋ_muk,st_3_train:cloud:322,st_3_train:cloud:2
+st_3_train,cloud,Bola,tʃa̲m⁵⁵,st_3_train:cloud:206,st_3_train:cloud:11
+st_3_train,cloud,Burmese,tim,st_3_train:cloud:1335,st_3_train:cloud:11
+st_3_train,cloud,Dhimal,badel__<_NPL,st_3_train:cloud:7,st_3_train:cloud:14
+st_3_train,cloud,Dimasa,ʒimi,st_3_train:cloud:169,st_3_train:cloud:7
+st_3_train,cloud,Dulong,rɨ³¹_mɨ̆t⁵⁵,st_3_train:cloud:371,st_3_train:cloud:4
+st_3_train,cloud,Ersu,cɛ⁵⁵,st_3_train:cloud:223,st_3_train:cloud:1
+st_3_train,cloud,Fuzhou,xuŋ⁵²_chai³¹,st_3_train:cloud:489,st_3_train:cloud:15
+st_3_train,cloud,Garo,aram,st_3_train:cloud:1457,st_3_train:cloud:13
+st_3_train,cloud,Geba,t̯ɛ²²_ṭo²²_b̄,st_3_train:cloud:1255,st_3_train:cloud:16
+st_3_train,cloud,Geker,đɨʔ⁵³_ʔu⁵³,st_3_train:cloud:489,st_3_train:cloud:9
+st_3_train,cloud,Guiqiong,ẓɔ̃³⁵_kuɛ̃³⁵,st_3_train:cloud:1335,st_3_train:cloud:32
+st_3_train,cloud,Gurung,nxãːm³ʒyo,st_3_train:cloud:223,st_3_train:cloud:33
+st_3_train,cloud,Hakka,iun²,st_3_train:cloud:489,st_3_train:cloud:8
+st_3_train,cloud,Hill-Miri,dumuk,st_3_train:cloud:322,st_3_train:cloud:2
+st_3_train,cloud,Hmar,suːm,st_3_train:cloud:1335,st_3_train:cloud:3
+st_3_train,cloud,Horpa,zdo,st_3_train:cloud:1335,st_3_train:cloud:3
+st_3_train,cloud,Idu,a¹_mu¹,st_3_train:cloud:260,st_3_train:cloud:2
+st_3_train,cloud,Jingpo,sə³³_mui³³,st_3_train:cloud:169,st_3_train:cloud:17
+st_3_train,cloud,Jinuo,m⁴²_tɛ⁴⁴,st_3_train:cloud:1335,st_3_train:cloud:4
+st_3_train,cloud,Jirel,muk_L¹pa_T¹,st_3_train:cloud:322,st_3_train:cloud:2
+st_3_train,cloud,Kaike,nɔmle,st_3_train:cloud:901,st_3_train:cloud:18
+st_3_train,cloud,Khaling,kömH,st_3_train:cloud:516,st_3_train:cloud:5
+st_3_train,cloud,Kulung,mɔm,st_3_train:cloud:322,st_3_train:cloud:19
+st_3_train,cloud,Lepcha,byoŋ,st_3_train:cloud:540,st_3_train:cloud:20
+st_3_train,cloud,Lhasa Tibetan,ćĩ⁵⁵_pə⁵⁵,st_3_train:cloud:1422,st_3_train:cloud:12
+st_3_train,cloud,Lhota,eloːk,st_3_train:cloud:903,st_3_train:cloud:21
+st_3_train,cloud,Liangmai,kamwaŋ,st_3_train:cloud:349,st_3_train:cloud:5
+st_3_train,cloud,Lijiang-Naxi,ći³¹,st_3_train:cloud:192,st_3_train:cloud:1
+st_3_train,cloud,Limbu,khaːpmiː,st_3_train:cloud:516,st_3_train:cloud:22
+st_3_train,cloud,Lushai,chhuːm,st_3_train:cloud:1335,st_3_train:cloud:3
+st_3_train,cloud,Lüsu,će⁵⁵,st_3_train:cloud:223,st_3_train:cloud:1
+st_3_train,cloud,Manu,pu²²_u³³_lụ,st_3_train:cloud:489,st_3_train:cloud:23
+st_3_train,cloud,Motuo-M,muk_pa,st_3_train:cloud:322,st_3_train:cloud:2
+st_3_train,cloud,N-Qiang,zdəm,st_3_train:cloud:1335,st_3_train:cloud:3
+st_3_train,cloud,Namuzi,c̣u³³,st_3_train:cloud:223,st_3_train:cloud:3
+st_3_train,cloud,Ninglang-Naxi,ći³¹,st_3_train:cloud:192,st_3_train:cloud:1
+st_3_train,cloud,Nusu,c̣huẽ³¹_mɔ⁵,st_3_train:cloud:206,st_3_train:cloud:3
+st_3_train,cloud,Old Chinese,u̯hən,st_3_train:cloud:489,st_3_train:cloud:6
+st_3_train,cloud,Pa'O,mouʔ⁵⁵_ʔe⁴⁴,st_3_train:cloud:489,st_3_train:cloud:10
+st_3_train,cloud,Padam,do-muk,st_3_train:cloud:322,st_3_train:cloud:2
+st_3_train,cloud,Quueyu,ćtie⁵⁵,st_3_train:cloud:1335,st_3_train:cloud:1
+st_3_train,cloud,Rawang,rəmit,st_3_train:cloud:371,st_3_train:cloud:4
+st_3_train,cloud,Rourou,ćiæ̃⁵⁵,st_3_train:cloud:206,st_3_train:cloud:1
+st_3_train,cloud,Serdukpen,sinti,st_3_train:cloud:1188,st_3_train:cloud:24
+st_3_train,cloud,Sgaw,t̯a³³_ʔə̃ʔ⁵³,st_3_train:cloud:489,st_3_train:cloud:9
+st_3_train,cloud,Sherpa,mukpɛHF,st_3_train:cloud:322,st_3_train:cloud:2
+st_3_train,cloud,Shixing,ći⁵⁵_rã³³,st_3_train:cloud:223,st_3_train:cloud:25
+st_3_train,cloud,Shixing,ći⁵⁵_rã³³,st_3_train:cloud:1422,st_3_train:cloud:12
+st_3_train,cloud,Tangkul,muiya,st_3_train:cloud:169,st_3_train:cloud:26
+st_3_train,cloud,Tujia,mɨe³_la¹_ɣoŋ,st_3_train:cloud:1422,st_3_train:cloud:27
+st_3_train,cloud,W. Kayah,ɔ⁵⁵_lɨə̣⁴⁴,st_3_train:cloud:489,st_3_train:cloud:28
+st_3_train,cloud,Written Tibetan,sprin,st_3_train:cloud:1422,st_3_train:cloud:29
+st_3_train,cloud,Xiaxe Tibetan,śən,st_3_train:cloud:1422,st_3_train:cloud:6
+st_3_train,cloud,Yeinbaw,cə¹¹_ʔvo⁴⁴,st_3_train:cloud:489,st_3_train:cloud:1
+st_3_train,cloud,Yintale,kan³³_ʔuŋ⁵⁵,st_3_train:cloud:489,st_3_train:cloud:30
+st_3_train,cloud,Zeme,kemau,st_3_train:cloud:349,st_3_train:cloud:5
+st_3_train,cloud,Zhaba,mu̲t⁵⁵_mau⁵⁵,st_3_train:cloud:371,st_3_train:cloud:10
+st_3_train,know,Alike Tibetan,xhi,st_3_train:know:297,st_3_train:know:2
+st_3_train,know,Ao-Chungli,metet,st_3_train:know:1517,st_3_train:know:3
+st_3_train,know,Ao-Chungli,šitet,st_3_train:know:297,st_3_train:know:3
+st_3_train,know,Ao-Mongsen,metet,st_3_train:know:1517,st_3_train:know:3
+st_3_train,know,Ao-Mongsen,ši,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Apatari,cì,st_3_train:know:639,st_3_train:know:2
+st_3_train,know,Batang Tibetan,xhe⁵⁵,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Beijing,zhīdao,st_3_train:know:1454,st_3_train:know:9
+st_3_train,know,Bokar,ćen,st_3_train:know:639,st_3_train:know:8
+st_3_train,know,Bola,sɛ³⁵,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Burmese,si,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Dhimal,gi,st_3_train:know:1116,st_3_train:know:2
+st_3_train,know,Dimasa,mithi,st_3_train:know:158,st_3_train:know:3
+st_3_train,know,Dulong,sɔ⁵⁵,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Ersu,ha³³_sɛ⁵⁵,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Garo,uia,st_3_train:know:1095,st_3_train:know:6
+st_3_train,know,Geba,ṭɛʔ⁵³_hɛ⁴⁴,st_3_train:know:297,st_3_train:know:5
+st_3_train,know,Geker,ṭʌiʔ⁵³_laʔ⁵³,st_3_train:know:297,st_3_train:know:5
+st_3_train,know,Guiqiong,ma⁵⁵_sɨ⁵⁵,st_3_train:know:297,st_3_train:know:10
+st_3_train,know,Guiqiong,ma⁵⁵_sɨ⁵⁵,st_3_train:know:758,st_3_train:know:1
+st_3_train,know,Gurung,se²,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Hakka,di¹,st_3_train:know:1454,st_3_train:know:2
+st_3_train,know,Hill-Miri,cin,st_3_train:know:639,st_3_train:know:2
+st_3_train,know,Hmar,hrie,st_3_train:know:1454,st_3_train:know:7
+st_3_train,know,Horpa,ha_goŋ,st_3_train:know:573,st_3_train:know:4
+st_3_train,know,Idu,ka³_sa⁴,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Jinuo,sə⁴⁴,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Jirel,čha_T¹_še_L¹,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Kaike,hako,st_3_train:know:573,st_3_train:know:4
+st_3_train,know,Khaling,cuH,st_3_train:know:340,st_3_train:know:2
+st_3_train,know,Kulung,chet-,st_3_train:know:762,st_3_train:know:3
+st_3_train,know,Lepcha,thyak,st_3_train:know:1509,st_3_train:know:3
+st_3_train,know,Lepcha,yă,st_3_train:know:265,st_3_train:know:6
+st_3_train,know,Lhasa Tibetan,ćẽ⁵²,st_3_train:know:297,st_3_train:know:3
+st_3_train,know,Lhota,nci,st_3_train:know:158,st_3_train:know:2
+st_3_train,know,Liangmai,ši,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Lijiang-Naxi,sɨ³³,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Limbu,lɛːmaʔ,st_3_train:know:470,st_3_train:know:11
+st_3_train,know,Lushai,hria,st_3_train:know:1454,st_3_train:know:7
+st_3_train,know,Lüsu,hũ³³_sɨ⁵³,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Manu,se³³_kə¹¹_nạ,st_3_train:know:297,st_3_train:know:5
+st_3_train,know,Motuo-M,se,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,N-Qiang,sə,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Namuzi,sɨ³⁵,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Ninglang-Naxi,sɨ³³,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Nusu,su⁴²,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Old Chinese,te_,st_3_train:know:1454,st_3_train:know:3
+st_3_train,know,Pa'O,se²²,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Padam,ken,st_3_train:know:639,st_3_train:know:8
+st_3_train,know,Quueyu,xa⁵⁵_kuə¹³,st_3_train:know:699,st_3_train:know:4
+st_3_train,know,Rawang,ša,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Rourou,ńiæ³⁵,st_3_train:know:277,st_3_train:know:2
+st_3_train,know,Serdukpen,dan,st_3_train:know:1517,st_3_train:know:8
+st_3_train,know,Sgaw,ṭeʔ⁵³_ńa⁴⁴,st_3_train:know:297,st_3_train:know:5
+st_3_train,know,Sherpa,še_LF,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Shixing,sɛ⁵³,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Tangkul,thei,st_3_train:know:158,st_3_train:know:3
+st_3_train,know,Tujia,xa¹_zi⁴,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,W. Kayah,ćɛ⁵⁵_ńe³³,st_3_train:know:297,st_3_train:know:12
+st_3_train,know,Written Tibetan,ćes,st_3_train:know:297,st_3_train:know:3
+st_3_train,know,Xiaxe Tibetan,ćhi,st_3_train:know:297,st_3_train:know:2
+st_3_train,know,Yeinbaw,θe⁴⁴,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Yintale,ʃi⁵⁵_na¹¹,st_3_train:know:297,st_3_train:know:1
+st_3_train,know,Zeme,chi,st_3_train:know:158,st_3_train:know:2
+st_3_train,know,Zhaba,se⁵⁵,st_3_train:know:297,st_3_train:know:1
+st_3_train,many,Alike Tibetan,maŋ_ŋæ,st_3_train:many:1468,st_3_train:many:3
+st_3_train,many,Ao-Chungli,aeiga,st_3_train:many:956,st_3_train:many:33
+st_3_train,many,Ao-Mongsen,iya,st_3_train:many:956,st_3_train:many:34
+st_3_train,many,Batang Tibetan,mõ¹³___mbo⁵³,st_3_train:many:1468,st_3_train:many:5
+st_3_train,many,Beijing,duō,st_3_train:many:1507,st_3_train:many:8
+st_3_train,many,Bodo,babəŋ,st_3_train:many:850,st_3_train:many:4
+st_3_train,many,Bokar,a_ɨ,st_3_train:many:1240,st_3_train:many:35
+st_3_train,many,Bola,mja³¹,st_3_train:many:212,st_3_train:many:2
+st_3_train,many,Burmese,mjaː,st_3_train:many:212,st_3_train:many:2
+st_3_train,many,Dhimal,istu,st_3_train:many:1507,st_3_train:many:11
+st_3_train,many,Dimasa,gabaŋ,st_3_train:many:850,st_3_train:many:4
+st_3_train,many,Dulong,bɨm⁵³,st_3_train:many:850,st_3_train:many:5
+st_3_train,many,Ersu,ja³³_mi⁵⁵,st_3_train:many:212,st_3_train:many:2
+st_3_train,many,Fuzhou,sa²⁴²,st_3_train:many:1299,st_3_train:many:12
+st_3_train,many,Garo,baŋ-a,st_3_train:many:850,st_3_train:many:4
+st_3_train,many,Geba,ʔɔ³³_ʔɛ̃ʔ⁵³_ʔ,st_3_train:many:1240,st_3_train:many:7
+st_3_train,many,Geker,ʔɔ³³_du³³_ʔɔ,st_3_train:many:1240,st_3_train:many:7
+st_3_train,many,Guiqiong,tö³³_nbu⁵³,st_3_train:many:850,st_3_train:many:9
+st_3_train,many,Gurung,lxe²,st_3_train:many:432,st_3_train:many:36
+st_3_train,many,Hakka,do¹,st_3_train:many:1507,st_3_train:many:8
+st_3_train,many,Hill-Miri,hama,st_3_train:many:1468,st_3_train:many:1
+st_3_train,many,Hmar,tam,st_3_train:many:122,st_3_train:many:6
+st_3_train,many,Horpa,_ɣre,st_3_train:many:1466,st_3_train:many:13
+st_3_train,many,Idu,pa¹_ca¹,st_3_train:many:172,st_3_train:many:14
+st_3_train,many,Jingpo,loʔ⁵⁵,st_3_train:many:410,st_3_train:many:1
+st_3_train,many,Jinuo,thə⁴²,st_3_train:many:1507,st_3_train:many:15
+st_3_train,many,Jirel,kal_L¹ba_T¹,st_3_train:many:955,st_3_train:many:4
+st_3_train,many,Kaike,yalma,st_3_train:many:956,st_3_train:many:16
+st_3_train,many,Khaling,gholeH,st_3_train:many:1139,st_3_train:many:17
+st_3_train,many,Lepcha,gyap,st_3_train:many:638,st_3_train:many:18
+st_3_train,many,Lhasa Tibetan,maŋ¹³_ko⁵⁵,st_3_train:many:1468,st_3_train:many:3
+st_3_train,many,Lhota,elam,st_3_train:many:412,st_3_train:many:19
+st_3_train,many,Lhota,koːša,st_3_train:many:156,st_3_train:many:20
+st_3_train,many,Liangmai,malinna,st_3_train:many:412,st_3_train:many:3
+st_3_train,many,Liangmai,keŋbu,st_3_train:many:957,st_3_train:many:9
+st_3_train,many,Lijiang-Naxi,mbɨ³¹,st_3_train:many:212,st_3_train:many:5
+st_3_train,many,Lushai,tam,st_3_train:many:122,st_3_train:many:6
+st_3_train,many,Lüsu,miæ⁵³miæ⁵³,st_3_train:many:212,st_3_train:many:21
+st_3_train,many,Manu,a¹¹_ßø̣⁴⁴_le,st_3_train:many:1240,st_3_train:many:22
+st_3_train,many,Motuo-M,zak_po,st_3_train:many:172,st_3_train:many:23
+st_3_train,many,N-Qiang,quə_ɣli,st_3_train:many:1466,st_3_train:many:24
+st_3_train,many,Namuzi,da⁵⁵_bər³³,st_3_train:many:850,st_3_train:many:25
+st_3_train,many,Ninglang-Naxi,ʒ́i¹³,st_3_train:many:212,st_3_train:many:10
+st_3_train,many,Nusu,mia⁵⁵,st_3_train:many:212,st_3_train:many:2
+st_3_train,many,Old Chinese,tāj,st_3_train:many:1507,st_3_train:many:6
+st_3_train,many,Pa'O,ʔa²²,st_3_train:many:1240,st_3_train:many:1
+st_3_train,many,Padam,bo-ʒe,st_3_train:many:172,st_3_train:many:26
+st_3_train,many,Quueyu,qa⁵⁵_ji³³,st_3_train:many:172,st_3_train:many:1
+st_3_train,many,Rawang,bim,st_3_train:many:850,st_3_train:many:5
+st_3_train,many,Rourou,mi⁴²,st_3_train:many:212,st_3_train:many:2
+st_3_train,many,Serdukpen,ieb-chaŋ,st_3_train:many:156,st_3_train:many:27
+st_3_train,many,Sgaw,ʔa⁴⁴_ʔa⁴⁴_ɣɔ,st_3_train:many:1240,st_3_train:many:1
+st_3_train,many,Sherpa,alɛHR,st_3_train:many:432,st_3_train:many:28
+st_3_train,many,Shixing,bɛ̃³⁵,st_3_train:many:850,st_3_train:many:29
+st_3_train,many,Tangkul,kachuŋha,st_3_train:many:156,st_3_train:many:30
+st_3_train,many,Tujia,zi⁴,st_3_train:many:172,st_3_train:many:10
+st_3_train,many,W. Kayah,o¹¹_rọ⁴⁴,st_3_train:many:1240,st_3_train:many:31
+st_3_train,many,Written Tibetan,maŋ_mo,st_3_train:many:1468,st_3_train:many:3
+st_3_train,many,Xiaxe Tibetan,maŋ,st_3_train:many:1468,st_3_train:many:3
+st_3_train,many,Yeinbaw,ʔo¹¹_ʔa⁵⁵,st_3_train:many:1240,st_3_train:many:1
+st_3_train,many,Yintale,ʔa⁵⁵_ʔuŋ³³,st_3_train:many:1240,st_3_train:many:1
+st_3_train,many,Zeme,misoŋga,st_3_train:many:156,st_3_train:many:32
+st_3_train,many,Zhaba,mjo²¹,st_3_train:many:212,st_3_train:many:2
+st_3_train,mouth,Alike Tibetan,khä,st_3_train:mouth:680,st_3_train:mouth:1
+st_3_train,mouth,Ao-Chungli,tebaŋ,st_3_train:mouth:870,st_3_train:mouth:2
+st_3_train,mouth,Ao-Mongsen,tɨpaŋ,st_3_train:mouth:870,st_3_train:mouth:2
+st_3_train,mouth,Apatari,à_guŋ,st_3_train:mouth:572,st_3_train:mouth:9
+st_3_train,mouth,Batang Tibetan,kha⁵³,st_3_train:mouth:680,st_3_train:mouth:1
+st_3_train,mouth,Beijing,zuǐ,st_3_train:mouth:228,st_3_train:mouth:6
+st_3_train,mouth,Bokar,nap_paŋ,st_3_train:mouth:1087,st_3_train:mouth:2
+st_3_train,mouth,Bola,nɔ̲t⁵⁵,st_3_train:mouth:707,st_3_train:mouth:8
+st_3_train,mouth,Burmese,paː_cap,st_3_train:mouth:960,st_3_train:mouth:10
+st_3_train,mouth,Dhimal,nui,st_3_train:mouth:707,st_3_train:mouth:3
+st_3_train,mouth,Dimasa,khu,st_3_train:mouth:593,st_3_train:mouth:1
+st_3_train,mouth,Dulong,nɨi⁵⁵,st_3_train:mouth:707,st_3_train:mouth:3
+st_3_train,mouth,Ersu,sɨ⁵⁵_npha⁵⁵,st_3_train:mouth:271,st_3_train:mouth:4
+st_3_train,mouth,Fuzhou,chui³¹,st_3_train:mouth:228,st_3_train:mouth:13
+st_3_train,mouth,Garo,ku-sik,st_3_train:mouth:593,st_3_train:mouth:11
+st_3_train,mouth,Geba,kəkɔʔ⁵³_p̯u³³,st_3_train:mouth:858,st_3_train:mouth:5
+st_3_train,mouth,Geker,khaʔ⁵³_kəɨ⁴⁴,st_3_train:mouth:593,st_3_train:mouth:1
+st_3_train,mouth,Guiqiong,wũ³¹_pu⁵⁵,st_3_train:mouth:858,st_3_train:mouth:5
+st_3_train,mouth,Gurung,sũ¹,st_3_train:mouth:961,st_3_train:mouth:12
+st_3_train,mouth,Hakka,zoi⁴,st_3_train:mouth:228,st_3_train:mouth:6
+st_3_train,mouth,Hill-Miri,nepti,st_3_train:mouth:1087,st_3_train:mouth:14
+st_3_train,mouth,Hill-Miri,agom,st_3_train:mouth:572,st_3_train:mouth:9
+st_3_train,mouth,Hmar,bau,st_3_train:mouth:858,st_3_train:mouth:15
+st_3_train,mouth,Horpa,ja,st_3_train:mouth:707,st_3_train:mouth:16
+st_3_train,mouth,Idu,e¹_ko¹_be⁴,st_3_train:mouth:1130,st_3_train:mouth:4
+st_3_train,mouth,Jingpo,n³¹_kup³¹,st_3_train:mouth:1310,st_3_train:mouth:4
+st_3_train,mouth,Jinuo,mhö⁴⁴_mhö⁴⁴,st_3_train:mouth:707,st_3_train:mouth:17
+st_3_train,mouth,Jirel,kha_T²,st_3_train:mouth:680,st_3_train:mouth:1
+st_3_train,mouth,Kaike,khapra,st_3_train:mouth:680,st_3_train:mouth:1
+st_3_train,mouth,Khaling,kwam_L,st_3_train:mouth:572,st_3_train:mouth:1
+st_3_train,mouth,Kulung,Nə,st_3_train:mouth:619,st_3_train:mouth:18
+st_3_train,mouth,Lepcha,a-boŋ,st_3_train:mouth:870,st_3_train:mouth:2
+st_3_train,mouth,Lhasa Tibetan,kha⁵⁵,st_3_train:mouth:680,st_3_train:mouth:1
+st_3_train,mouth,Lhota,oːpaŋ,st_3_train:mouth:870,st_3_train:mouth:2
+st_3_train,mouth,Liangmai,chamun,st_3_train:mouth:355,st_3_train:mouth:19
+st_3_train,mouth,Lijiang-Naxi,nv⁵⁵_ta³³,st_3_train:mouth:707,st_3_train:mouth:3
+st_3_train,mouth,Limbu,məʔra,st_3_train:mouth:1166,st_3_train:mouth:20
+st_3_train,mouth,Lushai,ka,st_3_train:mouth:680,st_3_train:mouth:1
+st_3_train,mouth,Lushai,kam,st_3_train:mouth:572,st_3_train:mouth:1
+st_3_train,mouth,Lüsu,ku³³_pe⁵³,st_3_train:mouth:593,st_3_train:mouth:4
+st_3_train,mouth,Manu,khu⁴⁴_phiɛ⁴⁴,st_3_train:mouth:593,st_3_train:mouth:21
+st_3_train,mouth,Manu,khu⁴⁴_phiɛ⁴⁴,st_3_train:mouth:1266,st_3_train:mouth:4
+st_3_train,mouth,Motuo-M,no_waŋ,st_3_train:mouth:707,st_3_train:mouth:2
+st_3_train,mouth,N-Qiang,ʒə_kuə,st_3_train:mouth:166,st_3_train:mouth:22
+st_3_train,mouth,N-Qiang,ʒə_kuə,st_3_train:mouth:593,st_3_train:mouth:23
+st_3_train,mouth,Namuzi,mi³³_mphsɨ⁵⁵,st_3_train:mouth:271,st_3_train:mouth:7
+st_3_train,mouth,Ninglang-Naxi,ńi³³_to³³,st_3_train:mouth:707,st_3_train:mouth:3
+st_3_train,mouth,Nusu,nha⁵⁵_khoŋ³⁵,st_3_train:mouth:1087,st_3_train:mouth:5
+st_3_train,mouth,Old Chinese,khōʔ,st_3_train:mouth:593,st_3_train:mouth:1
+st_3_train,mouth,Pa'O,phrɔŋ⁵⁵y,st_3_train:mouth:1266,st_3_train:mouth:24
+st_3_train,mouth,Padam,naːp-paŋ,st_3_train:mouth:1087,st_3_train:mouth:2
+st_3_train,mouth,Quueyu,ćnə³³_mbə³³,st_3_train:mouth:707,st_3_train:mouth:7
+st_3_train,mouth,Rawang,ner,st_3_train:mouth:707,st_3_train:mouth:25
+st_3_train,mouth,Rourou,ńi⁴⁴_,st_3_train:mouth:707,st_3_train:mouth:3
+st_3_train,mouth,Serdukpen,nichaw,st_3_train:mouth:228,st_3_train:mouth:26
+st_3_train,mouth,Sgaw,kɔʔ⁵³_p̯ụ³³,st_3_train:mouth:858,st_3_train:mouth:5
+st_3_train,mouth,Sherpa,khaHR,st_3_train:mouth:680,st_3_train:mouth:1
+st_3_train,mouth,Shixing,ńi⁵⁵_śã³³,st_3_train:mouth:707,st_3_train:mouth:3
+st_3_train,mouth,Tangkul,khamor,st_3_train:mouth:355,st_3_train:mouth:1
+st_3_train,mouth,Tujia,ca³_ćhi¹,st_3_train:mouth:166,st_3_train:mouth:27
+st_3_train,mouth,W. Kayah,kha³³_ʔu¹¹,st_3_train:mouth:593,st_3_train:mouth:1
+st_3_train,mouth,Written Tibetan,kha,st_3_train:mouth:680,st_3_train:mouth:1
+st_3_train,mouth,Xiaxe Tibetan,kha,st_3_train:mouth:680,st_3_train:mouth:1
+st_3_train,mouth,Yeinbaw,kạu¹¹_ko⁵⁵,st_3_train:mouth:1241,st_3_train:mouth:1
+st_3_train,mouth,Yintale,kha⁵⁵_khu³³,st_3_train:mouth:593,st_3_train:mouth:5
+st_3_train,mouth,Zeme,mimui,st_3_train:mouth:355,st_3_train:mouth:28
+st_3_train,mouth,Zhaba,nu̲t⁵⁵,st_3_train:mouth:707,st_3_train:mouth:8
+st_3_train,new,Alike Tibetan,sho_mæ,st_3_train:new:189,st_3_train:new:5
+st_3_train,new,Ao-Chungli,tasen,st_3_train:new:301,st_3_train:new:4
+st_3_train,new,Ao-Mongsen,tesen,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Apatari,níti,st_3_train:new:1405,st_3_train:new:6
+st_3_train,new,Batang Tibetan,sɛ⁵⁵_ba⁵³,st_3_train:new:189,st_3_train:new:2
+st_3_train,new,Beijing,śīn,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Bodo,gadan,st_3_train:new:1225,st_3_train:new:4
+st_3_train,new,Bokar,nɨ_tiː,st_3_train:new:1405,st_3_train:new:6
+st_3_train,new,Bola,sak⁵⁵,st_3_train:new:301,st_3_train:new:8
+st_3_train,new,Burmese,sac,st_3_train:new:301,st_3_train:new:8
+st_3_train,new,Dhimal,nawa_IND,st_3_train:new:37,st_3_train:new:12
+st_3_train,new,Dimasa,gadaiŋ,st_3_train:new:1225,st_3_train:new:4
+st_3_train,new,Dulong,aŋ³¹_sar⁵⁵,st_3_train:new:189,st_3_train:new:9
+st_3_train,new,Ersu,sɨ⁵⁵,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Fuzhou,siŋ⁵⁵,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Garo,gital,st_3_train:new:1225,st_3_train:new:4
+st_3_train,new,Geba,ʔəṭɛ⁴⁴,st_3_train:new:301,st_3_train:new:11
+st_3_train,new,Geker,ṭaː⁵³,st_3_train:new:301,st_3_train:new:3
+st_3_train,new,Guiqiong,sö⁵⁵_pö⁵⁵,st_3_train:new:301,st_3_train:new:2
+st_3_train,new,Gurung,chaː²ra,st_3_train:new:189,st_3_train:new:3
+st_3_train,new,Hakka,sin¹,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Hill-Miri,nite-ne,st_3_train:new:1405,st_3_train:new:6
+st_3_train,new,Hmar,thar,st_3_train:new:189,st_3_train:new:3
+st_3_train,new,Horpa,xso_xso,st_3_train:new:301,st_3_train:new:7
+st_3_train,new,Idu,me¹_eŋ¹,st_3_train:new:1542,st_3_train:new:13
+st_3_train,new,Jingpo,n³¹_nan³³,st_3_train:new:1366,st_3_train:new:14
+st_3_train,new,Jinuo,ʃi⁵⁵,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Jirel,sam_L¹ba_T¹,st_3_train:new:189,st_3_train:new:5
+st_3_train,new,Kaike,sɔrba__TIB?,st_3_train:new:189,st_3_train:new:5
+st_3_train,new,Khaling,nin_L,st_3_train:new:1405,st_3_train:new:10
+st_3_train,new,Lepcha,ăl,st_3_train:new:1216,st_3_train:new:4
+st_3_train,new,Lepcha,car,st_3_train:new:189,st_3_train:new:3
+st_3_train,new,Lhasa Tibetan,saː⁵⁵_pa⁵⁵,st_3_train:new:189,st_3_train:new:2
+st_3_train,new,Lhota,ethã,st_3_train:new:189,st_3_train:new:3
+st_3_train,new,Liangmai,kašan,st_3_train:new:301,st_3_train:new:4
+st_3_train,new,Lijiang-Naxi,ṣɨ⁵⁵,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Limbu,kɔsɔN,st_3_train:new:154,st_3_train:new:7
+st_3_train,new,Lushai,thar,st_3_train:new:189,st_3_train:new:3
+st_3_train,new,Lüsu,ʒ́e³³_ʒ́e³³,st_3_train:new:1149,st_3_train:new:2
+st_3_train,new,Manu,sa¹¹,st_3_train:new:301,st_3_train:new:8
+st_3_train,new,Motuo-M,siŋ_ma,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,N-Qiang,khsə,st_3_train:new:301,st_3_train:new:7
+st_3_train,new,Namuzi,sɨ⁵⁵_cɛ³³,st_3_train:new:301,st_3_train:new:2
+st_3_train,new,Ninglang-Naxi,ṣɨ¹³,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Nusu,ʒ́ɔ⁵⁵_ɔ³¹,st_3_train:new:301,st_3_train:new:15
+st_3_train,new,Old Chinese,sin,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Pa'O,tə⁵⁵_sa³³,st_3_train:new:301,st_3_train:new:2
+st_3_train,new,Padam,a-ni,st_3_train:new:1405,st_3_train:new:10
+st_3_train,new,Rawang,aŋ_səR,st_3_train:new:189,st_3_train:new:9
+st_3_train,new,Rourou,ćiæ³¹,st_3_train:new:301,st_3_train:new:16
+st_3_train,new,Sgaw,ʔəṭɔː⁴⁴,st_3_train:new:301,st_3_train:new:11
+st_3_train,new,Sherpa,sambɛHF,st_3_train:new:189,st_3_train:new:5
+st_3_train,new,Shixing,ṣɛ⁵⁵_hĩ³³,st_3_train:new:301,st_3_train:new:2
+st_3_train,new,Tangkul,kathar,st_3_train:new:189,st_3_train:new:3
+st_3_train,new,Tujia,a³_si¹,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,W. Kayah,ćɛ³³,st_3_train:new:301,st_3_train:new:2
+st_3_train,new,Written Tibetan,gsar__pa,st_3_train:new:189,st_3_train:new:5
+st_3_train,new,Xiaxe Tibetan,sho_ma,st_3_train:new:189,st_3_train:new:5
+st_3_train,new,Yeinbaw,θi⁵⁵,st_3_train:new:301,st_3_train:new:1
+st_3_train,new,Yintale,ʔa¹¹_ṣaŋ³⁵,st_3_train:new:301,st_3_train:new:4
+st_3_train,new,Zeme,karchibe,st_3_train:new:189,st_3_train:new:17
+st_3_train,new,Zhaba,a²¹_sik⁵⁵,st_3_train:new:301,st_3_train:new:1
+st_3_train,root,Alike Tibetan,ɣca_pa,st_3_train:root:283,st_3_train:root:2
+st_3_train,root,Ao-Chungli,tera,st_3_train:root:1416,st_3_train:root:10
+st_3_train,root,Ao-Mongsen,tezuŋ,st_3_train:root:785,st_3_train:root:3
+st_3_train,root,Apatari,lɨma,st_3_train:root:337,st_3_train:root:11
+st_3_train,root,Batang Tibetan,nʒ́ɛʔ⁵³,st_3_train:root:283,st_3_train:root:12
+st_3_train,root,Beijing,gēn,st_3_train:root:1308,st_3_train:root:8
+st_3_train,root,Bodo,rodəj,st_3_train:root:1543,st_3_train:root:17
+st_3_train,root,Bokar,pa_pɨr,st_3_train:root:1356,st_3_train:root:1
+st_3_train,root,Bola,sak⁵⁵_kji³¹,st_3_train:root:568,st_3_train:root:18
+st_3_train,root,Burmese,amrac,st_3_train:root:244,st_3_train:root:13
+st_3_train,root,Dimasa,jader,st_3_train:root:1543,st_3_train:root:5
+st_3_train,root,Dulong,aːŋ⁵⁵_rɨ⁵⁵,st_3_train:root:1416,st_3_train:root:19
+st_3_train,root,Ersu,nbar⁵⁵,st_3_train:root:1356,st_3_train:root:1
+st_3_train,root,Fuzhou,chiu³¹_küŋ⁵⁵,st_3_train:root:1308,st_3_train:root:14
+st_3_train,root,Garo,ja-dil,st_3_train:root:1543,st_3_train:root:5
+st_3_train,root,Geba,wi²²,st_3_train:root:1416,st_3_train:root:6
+st_3_train,root,Geker,ṭəɨ³¹_ʃwiʔ⁵³,st_3_train:root:1416,st_3_train:root:15
+st_3_train,root,Guiqiong,nɛ³⁵,st_3_train:root:976,st_3_train:root:16
+st_3_train,root,Gurung,ʒara_NPL,st_3_train:root:49,st_3_train:root:20
+st_3_train,root,Hakka,gin¹,st_3_train:root:1308,st_3_train:root:8
+st_3_train,root,Hill-Miri,rɨga,st_3_train:root:1416,st_3_train:root:36
+st_3_train,root,Hmar,thiŋzuŋ,st_3_train:root:785,st_3_train:root:3
+st_3_train,root,Horpa,shə_rko,st_3_train:root:598,st_3_train:root:21
+st_3_train,root,Idu,ho¹_ro¹,st_3_train:root:1416,st_3_train:root:22
+st_3_train,root,Jingpo,ʒu³¹,st_3_train:root:1217,st_3_train:root:3
+st_3_train,root,Jinuo,a³³_ćhe⁴⁴,st_3_train:root:568,st_3_train:root:23
+st_3_train,root,Jirel,cab_L¹reŋ_T¹,st_3_train:root:1481,st_3_train:root:2
+st_3_train,root,Khaling,sɛm_L,st_3_train:root:1449,st_3_train:root:7
+st_3_train,root,Kulung,sam,st_3_train:root:1449,st_3_train:root:7
+st_3_train,root,Lepcha,fya,st_3_train:root:1202,st_3_train:root:24
+st_3_train,root,Lhasa Tibetan,caː⁵⁵,st_3_train:root:283,st_3_train:root:9
+st_3_train,root,Lhota,oːyaŋ,st_3_train:root:785,st_3_train:root:25
+st_3_train,root,Liangmai,paminh,st_3_train:root:337,st_3_train:root:26
+st_3_train,root,Lijiang-Naxi,khɨ³³,st_3_train:root:568,st_3_train:root:4
+st_3_train,root,Limbu,saːp,st_3_train:root:1449,st_3_train:root:7
+st_3_train,root,Lushai,zuŋ,st_3_train:root:785,st_3_train:root:3
+st_3_train,root,Lüsu,_nbɨ⁵³,st_3_train:root:1356,st_3_train:root:1
+st_3_train,root,Manu,kɔ³³_ßi³³⁴⁴,st_3_train:root:1416,st_3_train:root:4
+st_3_train,root,Motuo-M,ca,st_3_train:root:283,st_3_train:root:9
+st_3_train,root,N-Qiang,kapa,st_3_train:root:1356,st_3_train:root:2
+st_3_train,root,Namuzi,pɛ̲r⁴⁴,st_3_train:root:1356,st_3_train:root:1
+st_3_train,root,Ninglang-Naxi,khɨ³³_tər¹³,st_3_train:root:568,st_3_train:root:4
+st_3_train,root,Nusu,grə⁵⁵_ma³¹,st_3_train:root:1481,st_3_train:root:27
+st_3_train,root,Old Chinese,pə̄rʔ,st_3_train:root:1356,st_3_train:root:1
+st_3_train,root,Pa'O,ʔa¹¹_rwi⁵⁵²²,st_3_train:root:1416,st_3_train:root:6
+st_3_train,root,Padam,a-pɨr,st_3_train:root:1356,st_3_train:root:1
+st_3_train,root,Quueyu,_ṣce⁵,st_3_train:root:1449,st_3_train:root:28
+st_3_train,root,Rawang,rer,st_3_train:root:1416,st_3_train:root:5
+st_3_train,root,Rourou,_kã³¹,st_3_train:root:1481,st_3_train:root:2
+st_3_train,root,Serdukpen,rabo,st_3_train:root:1202,st_3_train:root:2
+st_3_train,root,Sgaw,ɣi²²,st_3_train:root:1416,st_3_train:root:29
+st_3_train,root,Sherpa,mɛrHR,st_3_train:root:337,st_3_train:root:1
+st_3_train,root,Shixing,khɨ³⁵,st_3_train:root:568,st_3_train:root:4
+st_3_train,root,Tangkul,aŋayuŋ,st_3_train:root:785,st_3_train:root:30
+st_3_train,root,Tujia,ći¹_la⁴,st_3_train:root:568,st_3_train:root:31
+st_3_train,root,W. Kayah,rũi⁴⁴,st_3_train:root:1416,st_3_train:root:32
+st_3_train,root,Written Tibetan,rca_ba,st_3_train:root:283,st_3_train:root:2
+st_3_train,root,Xiaxe Tibetan,hca_pa,st_3_train:root:283,st_3_train:root:2
+st_3_train,root,Yeinbaw,sɨ¹¹_rwẹ⁵⁵,st_3_train:root:1416,st_3_train:root:33
+st_3_train,root,Yintale,wei¹¹,st_3_train:root:1416,st_3_train:root:6
+st_3_train,root,Zeme,pema,st_3_train:root:337,st_3_train:root:34
+st_3_train,root,Zhaba,a²¹_pu̲n⁵¹,st_3_train:root:1356,st_3_train:root:35
+st_3_train,seed,Alike Tibetan,sä_won,st_3_train:seed:286,st_3_train:seed:2
+st_3_train,seed,Ao-Chungli,mecɨ,st_3_train:seed:164,st_3_train:seed:10
+st_3_train,seed,Ao-Mongsen,teʒɨŋ,st_3_train:seed:342,st_3_train:seed:3
+st_3_train,seed,Apatari,àlí,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Batang Tibetan,shö̃⁵⁵,st_3_train:seed:286,st_3_train:seed:2
+st_3_train,seed,Beijing,zhǒngzǐ,st_3_train:seed:111,st_3_train:seed:13
+st_3_train,seed,Beijing,zǐ,st_3_train:seed:1329,st_3_train:seed:5
+st_3_train,seed,Bodo,begoʔr,st_3_train:seed:748,st_3_train:seed:9
+st_3_train,seed,Bokar,um_li,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Bola,a³¹_mjuŋ³¹,st_3_train:seed:232,st_3_train:seed:6
+st_3_train,seed,Burmese,mjuiː_ceː,st_3_train:seed:232,st_3_train:seed:28
+st_3_train,seed,Burmese,mjuiː_ceː,st_3_train:seed:164,st_3_train:seed:11
+st_3_train,seed,Dhimal,calai,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Dimasa,bogoroŋ,st_3_train:seed:748,st_3_train:seed:9
+st_3_train,seed,Dimasa,bumu,st_3_train:seed:232,st_3_train:seed:8
+st_3_train,seed,Dulong,aːŋ³¹_śi⁵⁵,st_3_train:seed:342,st_3_train:seed:14
+st_3_train,seed,Ersu,gɛ⁵⁵,st_3_train:seed:1489,st_3_train:seed:29
+st_3_train,seed,Fuzhou,cüŋ⁵⁵_ci⁵²,st_3_train:seed:111,st_3_train:seed:3
+st_3_train,seed,Garo,bicil,st_3_train:seed:399,st_3_train:seed:12
+st_3_train,seed,Geba,khwi⁴⁴,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Geker,ṭəɨ³¹_ṭa³¹_ßw,st_3_train:seed:399,st_3_train:seed:15
+st_3_train,seed,Guiqiong,ćhyi⁵⁵,st_3_train:seed:286,st_3_train:seed:16
+st_3_train,seed,Gurung,plxu²,st_3_train:seed:399,st_3_train:seed:4
+st_3_train,seed,Hakka,z³,st_3_train:seed:1329,st_3_train:seed:5
+st_3_train,seed,Hill-Miri,aš,st_3_train:seed:399,st_3_train:seed:17
+st_3_train,seed,Hmar,chi,st_3_train:seed:164,st_3_train:seed:3
+st_3_train,seed,Horpa,fłhə,st_3_train:seed:399,st_3_train:seed:4
+st_3_train,seed,Idu,a¹_pre¹,st_3_train:seed:399,st_3_train:seed:18
+st_3_train,seed,Jingpo,li³³,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Jinuo,tʃə³⁵,st_3_train:seed:164,st_3_train:seed:3
+st_3_train,seed,Jirel,son_T¹,st_3_train:seed:286,st_3_train:seed:2
+st_3_train,seed,Kaike,ryu,st_3_train:seed:1489,st_3_train:seed:7
+st_3_train,seed,Khaling,raru_L,st_3_train:seed:1489,st_3_train:seed:7
+st_3_train,seed,Kulung,calei,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Lepcha,lí,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Lhasa Tibetan,sö̃⁵⁵,st_3_train:seed:286,st_3_train:seed:2
+st_3_train,seed,Lhota,caŋthi,st_3_train:seed:164,st_3_train:seed:3
+st_3_train,seed,Liangmai,pašiu,st_3_train:seed:286,st_3_train:seed:19
+st_3_train,seed,Lijiang-Naxi,lər⁵⁵,st_3_train:seed:399,st_3_train:seed:20
+st_3_train,seed,Limbu,seː,st_3_train:seed:746,st_3_train:seed:2
+st_3_train,seed,Lushai,mu,st_3_train:seed:232,st_3_train:seed:8
+st_3_train,seed,Lüsu,ɣɨr³³_zɨ⁵⁵,st_3_train:seed:1489,st_3_train:seed:5
+st_3_train,seed,Manu,phluə⁴⁴⁵⁵,st_3_train:seed:429,st_3_train:seed:4
+st_3_train,seed,Motuo-M,li,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,N-Qiang,tʃhaz,st_3_train:seed:342,st_3_train:seed:3
+st_3_train,seed,Namuzi,ẓɨ⁵⁵,st_3_train:seed:286,st_3_train:seed:5
+st_3_train,seed,Ninglang-Naxi,la¹³,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Nusu,vɨ⁵⁵,st_3_train:seed:988,st_3_train:seed:21
+st_3_train,seed,Old Chinese,toŋʔ,st_3_train:seed:111,st_3_train:seed:22
+st_3_train,seed,Pa'O,ʔa¹¹_khu³³³³,st_3_train:seed:399,st_3_train:seed:23
+st_3_train,seed,Padam,a-li,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Quueyu,riɨ⁵⁵,st_3_train:seed:1489,st_3_train:seed:24
+st_3_train,seed,Rawang,aŋ_ɛ,st_3_train:seed:342,st_3_train:seed:25
+st_3_train,seed,Rourou,źɨ³¹_læ³¹,st_3_train:seed:342,st_3_train:seed:26
+st_3_train,seed,Serdukpen,alih,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Sgaw,khli⁴⁴,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Sherpa,sen_LF,st_3_train:seed:286,st_3_train:seed:2
+st_3_train,seed,Shixing,ha⁵⁵_lye³³,st_3_train:seed:399,st_3_train:seed:4
+st_3_train,seed,Tangkul,atha,st_3_train:seed:164,st_3_train:seed:3
+st_3_train,seed,Tujia,ńie¹_lan¹,st_3_train:seed:429,st_3_train:seed:27
+st_3_train,seed,W. Kayah,plɔ¹¹,st_3_train:seed:429,st_3_train:seed:4
+st_3_train,seed,Written Tibetan,son,st_3_train:seed:286,st_3_train:seed:2
+st_3_train,seed,Written Tibetan,sa_bon,st_3_train:seed:1020,st_3_train:seed:2
+st_3_train,seed,Xiaxe Tibetan,shə_ʁoŋ,st_3_train:seed:286,st_3_train:seed:2
+st_3_train,seed,Yeinbaw,θɨ̃¹¹_phlvu¹,st_3_train:seed:429,st_3_train:seed:4
+st_3_train,seed,Yintale,ʔa¹¹_phlo³³,st_3_train:seed:429,st_3_train:seed:4
+st_3_train,seed,Zeme,helai,st_3_train:seed:399,st_3_train:seed:1
+st_3_train,seed,Zhaba,a²¹_mji²¹,st_3_train:seed:232,st_3_train:seed:6
+st_3_train,skin,Ao-Chungli,kɨp,st_3_train:skin:507,st_3_train:skin:6
+st_3_train,skin,Ao-Mongsen,kap,st_3_train:skin:507,st_3_train:skin:6
+st_3_train,skin,Apatari,àlyò,st_3_train:skin:272,st_3_train:skin:9
+st_3_train,skin,Batang Tibetan,xha⁵⁵_pâ⁵³,st_3_train:skin:864,st_3_train:skin:2
+st_3_train,skin,Beijing,pífū,st_3_train:skin:1309,st_3_train:skin:4
+st_3_train,skin,Beijing,fū,st_3_train:skin:690,st_3_train:skin:4
+st_3_train,skin,Bodo,biguʔr,st_3_train:skin:584,st_3_train:skin:5
+st_3_train,skin,Bokar,a_pin,st_3_train:skin:848,st_3_train:skin:1
+st_3_train,skin,Bola,ʃă³⁵_ka̲uʔ⁵,st_3_train:skin:503,st_3_train:skin:36
+st_3_train,skin,Burmese,are,st_3_train:skin:715,st_3_train:skin:14
+st_3_train,skin,Dhimal,dhale,st_3_train:skin:1112,st_3_train:skin:11
+st_3_train,skin,Dimasa,bugur,st_3_train:skin:584,st_3_train:skin:5
+st_3_train,skin,Dulong,aːŋ³¹_pɨn⁵⁵,st_3_train:skin:848,st_3_train:skin:1
+st_3_train,skin,Ersu,nʒ̣o⁵⁵_pi⁵⁵,st_3_train:skin:713,st_3_train:skin:15
+st_3_train,skin,Ersu,nʒ̣o⁵⁵_pi⁵⁵,st_3_train:skin:873,st_3_train:skin:12
+st_3_train,skin,Fuzhou,phui⁵²,st_3_train:skin:690,st_3_train:skin:2
+st_3_train,skin,Garo,bigil,st_3_train:skin:584,st_3_train:skin:5
+st_3_train,skin,Geba,ʔəphəiʔ⁵³,st_3_train:skin:873,st_3_train:skin:2
+st_3_train,skin,Geker,ʔəphʌiʔ⁵³,st_3_train:skin:873,st_3_train:skin:2
+st_3_train,skin,Guiqiong,śi⁵³,st_3_train:skin:713,st_3_train:skin:16
+st_3_train,skin,Gurung,ṭxu¹bi,st_3_train:skin:715,st_3_train:skin:13
+st_3_train,skin,Hakka,pi²,st_3_train:skin:690,st_3_train:skin:1
+st_3_train,skin,Hill-Miri,epin,st_3_train:skin:848,st_3_train:skin:1
+st_3_train,skin,Hmar,vun,st_3_train:skin:675,st_3_train:skin:4
+st_3_train,skin,Horpa,ʒ́i_ʒ́a,st_3_train:skin:713,st_3_train:skin:17
+st_3_train,skin,Idu,ko¹_pra¹,st_3_train:skin:584,st_3_train:skin:3
+st_3_train,skin,Jingpo,phjiʔ³¹,st_3_train:skin:873,st_3_train:skin:2
+st_3_train,skin,Jinuo,a⁴⁴_kho⁴²,st_3_train:skin:503,st_3_train:skin:18
+st_3_train,skin,Jirel,kok_L¹ten_T¹,st_3_train:skin:503,st_3_train:skin:19
+st_3_train,skin,Kaike,phon,st_3_train:skin:848,st_3_train:skin:1
+st_3_train,skin,Khaling,sɔkɔ_L,st_3_train:skin:713,st_3_train:skin:20
+st_3_train,skin,Khaling,sɔkɔ_L,st_3_train:skin:584,st_3_train:skin:3
+st_3_train,skin,Kulung,sɔkɔwar,st_3_train:skin:713,st_3_train:skin:21
+st_3_train,skin,Kulung,sɔkɔwar,st_3_train:skin:584,st_3_train:skin:3
+st_3_train,skin,Lepcha,kryu,st_3_train:skin:584,st_3_train:skin:22
+st_3_train,skin,Lhasa Tibetan,pak⁵⁵_pa⁵⁵,st_3_train:skin:864,st_3_train:skin:1
+st_3_train,skin,Lhota,fhu,st_3_train:skin:665,st_3_train:skin:4
+st_3_train,skin,Liangmai,pagih,st_3_train:skin:715,st_3_train:skin:8
+st_3_train,skin,Lijiang-Naxi,ɣɨ³³_phi³¹,st_3_train:skin:715,st_3_train:skin:2
+st_3_train,skin,Limbu,hoːrik,st_3_train:skin:503,st_3_train:skin:23
+st_3_train,skin,Lushai,vun,st_3_train:skin:675,st_3_train:skin:4
+st_3_train,skin,Lüsu,ŋar³³_pi⁵³,st_3_train:skin:715,st_3_train:skin:24
+st_3_train,skin,Lüsu,ŋar³³_pi⁵³,st_3_train:skin:873,st_3_train:skin:10
+st_3_train,skin,Manu,be⁴⁴,st_3_train:skin:864,st_3_train:skin:1
+st_3_train,skin,Motuo-M,moŋ_naŋ,st_3_train:skin:1182,st_3_train:skin:25
+st_3_train,skin,N-Qiang,nə_rə_pi,st_3_train:skin:715,st_3_train:skin:26
+st_3_train,skin,N-Qiang,nə_rə_pi,st_3_train:skin:873,st_3_train:skin:10
+st_3_train,skin,Namuzi,ər⁵⁵_ṣɨ³³,st_3_train:skin:713,st_3_train:skin:27
+st_3_train,skin,Ninglang-Naxi,ɣɨ¹³,st_3_train:skin:715,st_3_train:skin:7
+st_3_train,skin,Nusu,khu³¹_,st_3_train:skin:584,st_3_train:skin:28
+st_3_train,skin,Old Chinese,pa_,st_3_train:skin:1309,st_3_train:skin:1
+st_3_train,skin,Pa'O,ʔapi⁴⁴²²,st_3_train:skin:864,st_3_train:skin:1
+st_3_train,skin,Padam,a-yo,st_3_train:skin:272,st_3_train:skin:9
+st_3_train,skin,Quueyu,ri¹³_riɛ³³,st_3_train:skin:715,st_3_train:skin:29
+st_3_train,skin,Rawang,phin,st_3_train:skin:848,st_3_train:skin:1
+st_3_train,skin,Rourou,lo³¹_,st_3_train:skin:993,st_3_train:skin:30
+st_3_train,skin,Serdukpen,skuk,st_3_train:skin:503,st_3_train:skin:31
+st_3_train,skin,Sgaw,ʔəphĩʔ⁵³,st_3_train:skin:873,st_3_train:skin:2
+st_3_train,skin,Sherpa,kowa_LF,st_3_train:skin:503,st_3_train:skin:3
+st_3_train,skin,Shixing,ɣâ³⁵,st_3_train:skin:994,st_3_train:skin:7
+st_3_train,skin,Tangkul,ahui,st_3_train:skin:665,st_3_train:skin:32
+st_3_train,skin,Tujia,tha¹_pha⁴,st_3_train:skin:690,st_3_train:skin:33
+st_3_train,skin,W. Kayah,pha⁵⁵,st_3_train:skin:873,st_3_train:skin:1
+st_3_train,skin,Written Tibetan,śa_pags,st_3_train:skin:864,st_3_train:skin:8
+st_3_train,skin,Xiaxe Tibetan,hćə_mo,st_3_train:skin:713,st_3_train:skin:34
+st_3_train,skin,Yeinbaw,phe⁵⁵,st_3_train:skin:873,st_3_train:skin:1
+st_3_train,skin,Yintale,bei³³,st_3_train:skin:864,st_3_train:skin:1
+st_3_train,skin,Zeme,migei,st_3_train:skin:715,st_3_train:skin:35
+st_3_train,skin,Zhaba,ʃŏ²¹_ku̲²¹,st_3_train:skin:503,st_3_train:skin:3
+st_3_train,sun,Alike Tibetan,ńə_mä,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Ao-Chungli,anɨ,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Ao-Mongsen,cuŋi,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Apatari,dàńi,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Batang Tibetan,ńi¹³_mâ⁵⁵,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Beijing,rìtou_śY,st_3_train:sun:1394,st_3_train:sun:11
+st_3_train,sun,Beijing,t`ai_yaŋ,st_3_train:sun:458,st_3_train:sun:10
+st_3_train,sun,Bodo,san,st_3_train:sun:160,st_3_train:sun:4
+st_3_train,sun,Bokar,duŋ_ńi,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Bola,pui⁵⁵,st_3_train:sun:846,st_3_train:sun:6
+st_3_train,sun,Burmese,ne,st_3_train:sun:1394,st_3_train:sun:3
+st_3_train,sun,Dhimal,sanhe,st_3_train:sun:1394,st_3_train:sun:4
+st_3_train,sun,Dulong,nam⁵³_,st_3_train:sun:1371,st_3_train:sun:3
+st_3_train,sun,Ersu,ńo⁵⁵_ma⁵⁵_TI,st_3_train:sun:71,st_3_train:sun:1
+st_3_train,sun,Fuzhou,lik³_thau⁵²,st_3_train:sun:1394,st_3_train:sun:12
+st_3_train,sun,Garo,sal,st_3_train:sun:160,st_3_train:sun:4
+st_3_train,sun,Geba,lu²²_mu²²,st_3_train:sun:147,st_3_train:sun:7
+st_3_train,sun,Geker,məɨʔ⁵³,st_3_train:sun:147,st_3_train:sun:5
+st_3_train,sun,Guiqiong,mi³³_nchö⁵⁵,st_3_train:sun:1394,st_3_train:sun:13
+st_3_train,sun,Gurung,txiyãː,st_3_train:sun:1394,st_3_train:sun:14
+st_3_train,sun,Hakka,ŋit⁵_teu²,st_3_train:sun:1394,st_3_train:sun:9
+st_3_train,sun,Hill-Miri,duńi,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Hmar,nisa,st_3_train:sun:1394,st_3_train:sun:9
+st_3_train,sun,Horpa,ɣbə,st_3_train:sun:846,st_3_train:sun:15
+st_3_train,sun,Idu,i¹_ńi¹,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Jingpo,tšan³³,st_3_train:sun:160,st_3_train:sun:4
+st_3_train,sun,Jinuo,ńə⁴²_ɔ³³,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Jirel,ńi_L¹ma_L¹,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Kaike,nhima_TIB?,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Khaling,nwam_L,st_3_train:sun:1371,st_3_train:sun:3
+st_3_train,sun,Kulung,nam,st_3_train:sun:1371,st_3_train:sun:3
+st_3_train,sun,Lepcha,să-cŭk,st_3_train:sun:221,st_3_train:sun:16
+st_3_train,sun,Lhasa Tibetan,ńi¹³_mə⁵⁵,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Lhota,eŋi,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Liangmai,naimik,st_3_train:sun:1394,st_3_train:sun:17
+st_3_train,sun,Liangmai,naimik,st_3_train:sun:143,st_3_train:sun:3
+st_3_train,sun,Lijiang-Naxi,ńi³³_me³³,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Limbu,nam,st_3_train:sun:1371,st_3_train:sun:3
+st_3_train,sun,Lushai,ni,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Lüsu,ńi³³_mi⁵³_TI,st_3_train:sun:74,st_3_train:sun:1
+st_3_train,sun,Manu,lụ-mọ⁴⁴²²,st_3_train:sun:147,st_3_train:sun:7
+st_3_train,sun,Motuo-M,ŋam,st_3_train:sun:1394,st_3_train:sun:3
+st_3_train,sun,N-Qiang,mun,st_3_train:sun:1394,st_3_train:sun:18
+st_3_train,sun,N-Qiang,mun,st_3_train:sun:147,st_3_train:sun:19
+st_3_train,sun,Namuzi,ńimi⁵⁵_TIB,st_3_train:sun:73,st_3_train:sun:1
+st_3_train,sun,Ninglang-Naxi,ńi³³_mi³³,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Nusu,ńi³⁵_a⁵⁵,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Old Chinese,nit,st_3_train:sun:1394,st_3_train:sun:9
+st_3_train,sun,Pa'O,mɨ⁵⁵²²,st_3_train:sun:147,st_3_train:sun:5
+st_3_train,sun,Padam,do-ńi,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Quueyu,pu⁵⁵,st_3_train:sun:846,st_3_train:sun:6
+st_3_train,sun,Rawang,nəm,st_3_train:sun:1371,st_3_train:sun:3
+st_3_train,sun,Rourou,mɨ³⁵_læ³¹,st_3_train:sun:1394,st_3_train:sun:5
+st_3_train,sun,Serdukpen,nini,st_3_train:sun:1394,st_3_train:sun:2
+st_3_train,sun,Sgaw,mɨ¹¹,st_3_train:sun:147,st_3_train:sun:5
+st_3_train,sun,Sherpa,ŋyima_LF,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Shixing,ńɛ⁵⁵_mi⁵³_TI,st_3_train:sun:72,st_3_train:sun:1
+st_3_train,sun,Tangkul,zimik,st_3_train:sun:1394,st_3_train:sun:3
+st_3_train,sun,Tujia,lau⁴_chi⁴,st_3_train:sun:221,st_3_train:sun:20
+st_3_train,sun,W. Kayah,təmɔ⁴⁴̣,st_3_train:sun:147,st_3_train:sun:8
+st_3_train,sun,Written Tibetan,ńi_ma,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Xiaxe Tibetan,ńə_ma,st_3_train:sun:1394,st_3_train:sun:1
+st_3_train,sun,Yeinbaw,lv⁴⁴__mụ¹¹,st_3_train:sun:147,st_3_train:sun:7
+st_3_train,sun,Yintale,tə¹¹_məv¹¹,st_3_train:sun:147,st_3_train:sun:8
+st_3_train,sun,Zeme,naimik,st_3_train:sun:1394,st_3_train:sun:21
+st_3_train,sun,Zeme,naimik,st_3_train:sun:143,st_3_train:sun:3
+st_3_train,sun,Zhaba,pui⁵¹,st_3_train:sun:846,st_3_train:sun:6
+st_3_train,tongue,Alike Tibetan,rći,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Ao-Chungli,temeli,st_3_train:tongue:381,st_3_train:tongue:7
+st_3_train,tongue,Ao-Mongsen,tɨmeli,st_3_train:tongue:381,st_3_train:tongue:7
+st_3_train,tongue,Apatari,àljó,st_3_train:tongue:381,st_3_train:tongue:8
+st_3_train,tongue,Batang Tibetan,će⁵⁵_le⁵³,st_3_train:tongue:381,st_3_train:tongue:3
+st_3_train,tongue,Beijing,shétou_śY,st_3_train:tongue:381,st_3_train:tongue:13
+st_3_train,tongue,Bodo,salaʔj,st_3_train:tongue:381,st_3_train:tongue:6
+st_3_train,tongue,Bokar,a_yo,st_3_train:tongue:381,st_3_train:tongue:10
+st_3_train,tongue,Bola,ʃa⁵⁵,st_3_train:tongue:381,st_3_train:tongue:5
+st_3_train,tongue,Burmese,hlja,st_3_train:tongue:381,st_3_train:tongue:8
+st_3_train,tongue,Dhimal,detoŋ,st_3_train:tongue:381,st_3_train:tongue:23
+st_3_train,tongue,Dimasa,salai,st_3_train:tongue:381,st_3_train:tongue:6
+st_3_train,tongue,Dulong,pɨ³¹_lai⁵³,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Ersu,hcɨ³³_psɨ⁵⁵,st_3_train:tongue:381,st_3_train:tongue:12
+st_3_train,tongue,Fuzhou,chui³¹_liek⁵,st_3_train:tongue:381,st_3_train:tongue:6
+st_3_train,tongue,Garo,sre,st_3_train:tongue:381,st_3_train:tongue:22
+st_3_train,tongue,Geba,kəpli³³,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Geker,pleːi³³,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Guiqiong,ʒ̣ɨ³⁵,st_3_train:tongue:381,st_3_train:tongue:5
+st_3_train,tongue,Gurung,le²,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Hill-Miri,ari,st_3_train:tongue:381,st_3_train:tongue:14
+st_3_train,tongue,Hmar,lei,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Horpa,vlʒɛ_TIB?,st_3_train:tongue:381,st_3_train:tongue:15
+st_3_train,tongue,Idu,e¹_li¹_na¹,st_3_train:tongue:393,st_3_train:tongue:11
+st_3_train,tongue,Jingpo,šiŋ³¹_let³¹,st_3_train:tongue:381,st_3_train:tongue:16
+st_3_train,tongue,Jinuo,a³³_łɔ⁴⁴,st_3_train:tongue:381,st_3_train:tongue:4
+st_3_train,tongue,Jirel,če_L¹la_T¹,st_3_train:tongue:381,st_3_train:tongue:11
+st_3_train,tongue,Kaike,lɔi,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Khaling,lem_L,st_3_train:tongue:393,st_3_train:tongue:1
+st_3_train,tongue,Kulung,lem,st_3_train:tongue:393,st_3_train:tongue:1
+st_3_train,tongue,Lepcha,lí,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Lhasa Tibetan,će⁵⁵,st_3_train:tongue:381,st_3_train:tongue:3
+st_3_train,tongue,Lhota,nni,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Liangmai,chali,st_3_train:tongue:381,st_3_train:tongue:6
+st_3_train,tongue,Lijiang-Naxi,ći⁵⁵,st_3_train:tongue:381,st_3_train:tongue:3
+st_3_train,tongue,Limbu,lɛsoːʔl,st_3_train:tongue:393,st_3_train:tongue:17
+st_3_train,tongue,Lushai,lei,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Lüsu,ti⁵³_pi⁵³_EE,st_3_train:tongue:381,st_3_train:tongue:9
+st_3_train,tongue,Manu,plẹ¹¹,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Motuo-M,le,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,N-Qiang,zəq,st_3_train:tongue:381,st_3_train:tongue:18
+st_3_train,tongue,Namuzi,ji³³_łɛ⁵⁵,st_3_train:tongue:381,st_3_train:tongue:4
+st_3_train,tongue,Ninglang-Naxi,ći³¹_mi¹³,st_3_train:tongue:381,st_3_train:tongue:9
+st_3_train,tongue,Old Chinese,mlat,st_3_train:tongue:381,st_3_train:tongue:19
+st_3_train,tongue,Pa'O,pre²²²²,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Padam,ai-o,st_3_train:tongue:381,st_3_train:tongue:10
+st_3_train,tongue,Quueyu,łli⁵⁵,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Rawang,phəlɛ,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Rourou,le⁵⁵_tæ³¹,st_3_train:tongue:381,st_3_train:tongue:3
+st_3_train,tongue,Serdukpen,laphõ,st_3_train:tongue:381,st_3_train:tongue:20
+st_3_train,tongue,Sgaw,pleː³³,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Sherpa,celakHF,st_3_train:tongue:381,st_3_train:tongue:11
+st_3_train,tongue,Shixing,ṣɨ⁵⁵,st_3_train:tongue:381,st_3_train:tongue:5
+st_3_train,tongue,Tangkul,male,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Tujia,ji³_la¹,st_3_train:tongue:381,st_3_train:tongue:4
+st_3_train,tongue,W. Kayah,plị¹¹,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Written Tibetan,lće,st_3_train:tongue:381,st_3_train:tongue:1
+st_3_train,tongue,Xiaxe Tibetan,hće,st_3_train:tongue:381,st_3_train:tongue:3
+st_3_train,tongue,Yeinbaw,plẹ¹¹,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Yintale,pli¹¹,st_3_train:tongue:381,st_3_train:tongue:2
+st_3_train,tongue,Zeme,milei,st_3_train:tongue:381,st_3_train:tongue:7
+st_3_train,tongue,Zhaba,ʃo⁵¹,st_3_train:tongue:381,st_3_train:tongue:21
+st_3_train,tree,Alike Tibetan,ɣdoŋ_ŋo,st_3_train:tree:129,st_3_train:tree:4
+st_3_train,tree,Ao-Chungli,sɨŋdoŋ,st_3_train:tree:303,st_3_train:tree:37
+st_3_train,tree,Ao-Chungli,sɨŋdoŋ,st_3_train:tree:129,st_3_train:tree:2
+st_3_train,tree,Ao-Mongsen,asuŋ,st_3_train:tree:303,st_3_train:tree:9
+st_3_train,tree,Ao-Mongsen,asuŋ,st_3_train:tree:129,st_3_train:tree:1
+st_3_train,tree,Apatari,sànɨ,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Batang Tibetan,xĩ⁵⁵_phũ⁵⁵,st_3_train:tree:303,st_3_train:tree:3
+st_3_train,tree,Beijing,shù,st_3_train:tree:1317,st_3_train:tree:7
+st_3_train,tree,Bodo,bompaŋ,st_3_train:tree:605,st_3_train:tree:10
+st_3_train,tree,Bodo,bompaŋ,st_3_train:tree:1357,st_3_train:tree:8
+st_3_train,tree,Bokar,ɨ_šɨŋ,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Bola,sak⁵⁵,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Burmese,sac_paŋ,st_3_train:tree:303,st_3_train:tree:11
+st_3_train,tree,Burmese,sac_paŋ,st_3_train:tree:605,st_3_train:tree:3
+st_3_train,tree,Dhimal,sute,st_3_train:tree:303,st_3_train:tree:7
+st_3_train,tree,Dimasa,bophaŋ,st_3_train:tree:605,st_3_train:tree:8
+st_3_train,tree,Dulong,śiːŋ⁵⁵,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Ersu,si⁵⁵_pu⁵⁵,st_3_train:tree:605,st_3_train:tree:12
+st_3_train,tree,Ersu,si⁵⁵_pu⁵⁵,st_3_train:tree:303,st_3_train:tree:3
+st_3_train,tree,Fuzhou,chiu³¹,st_3_train:tree:1317,st_3_train:tree:13
+st_3_train,tree,Garo,bol,st_3_train:tree:1357,st_3_train:tree:38
+st_3_train,tree,Geba,ṭoʔ⁵³,st_3_train:tree:303,st_3_train:tree:6
+st_3_train,tree,Geker,ṭəɨʔ⁵³,st_3_train:tree:303,st_3_train:tree:6
+st_3_train,tree,Guiqiong,sɛ̃³³_po⁵³,st_3_train:tree:605,st_3_train:tree:14
+st_3_train,tree,Guiqiong,sɛ̃³³_po⁵³,st_3_train:tree:303,st_3_train:tree:3
+st_3_train,tree,Gurung,dũ⁴__TIB,st_3_train:tree:78,st_3_train:tree:15
+st_3_train,tree,Hakka,su⁴-ui³,st_3_train:tree:1317,st_3_train:tree:7
+st_3_train,tree,Hill-Miri,sən,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Hmar,thiŋ,st_3_train:tree:303,st_3_train:tree:2
+st_3_train,tree,Horpa,lə_phu,st_3_train:tree:605,st_3_train:tree:16
+st_3_train,tree,Idu,ma¹_seŋ¹_boŋ,st_3_train:tree:303,st_3_train:tree:17
+st_3_train,tree,Idu,ma¹_seŋ¹_boŋ,st_3_train:tree:605,st_3_train:tree:2
+st_3_train,tree,Jingpo,phun⁵⁵,st_3_train:tree:1357,st_3_train:tree:18
+st_3_train,tree,Jinuo,a³³_cə⁴⁴,st_3_train:tree:303,st_3_train:tree:5
+st_3_train,tree,Jirel,doŋ_L²bo_L¹,st_3_train:tree:129,st_3_train:tree:4
+st_3_train,tree,Kaike,ṭɔŋpu,st_3_train:tree:129,st_3_train:tree:4
+st_3_train,tree,Khaling,saŋ_L,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Kulung,siːchɔ,st_3_train:tree:303,st_3_train:tree:3
+st_3_train,tree,Lepcha,kuŋ,st_3_train:tree:559,st_3_train:tree:19
+st_3_train,tree,Lhasa Tibetan,śiŋ⁵³_tuŋ⁵⁵,st_3_train:tree:303,st_3_train:tree:20
+st_3_train,tree,Lhasa Tibetan,śiŋ⁵³_tuŋ⁵⁵,st_3_train:tree:129,st_3_train:tree:2
+st_3_train,tree,Lhota,oːtoːŋ,st_3_train:tree:129,st_3_train:tree:4
+st_3_train,tree,Liangmai,šiŋbaŋ,st_3_train:tree:303,st_3_train:tree:21
+st_3_train,tree,Liangmai,šiŋbaŋ,st_3_train:tree:605,st_3_train:tree:2
+st_3_train,tree,Lijiang-Naxi,nʒər³¹,st_3_train:tree:303,st_3_train:tree:22
+st_3_train,tree,Limbu,siNboːN,st_3_train:tree:303,st_3_train:tree:23
+st_3_train,tree,Limbu,siNboːN,st_3_train:tree:605,st_3_train:tree:3
+st_3_train,tree,Lushai,thiŋ,st_3_train:tree:303,st_3_train:tree:2
+st_3_train,tree,Lüsu,se³³_pu⁵³,st_3_train:tree:605,st_3_train:tree:24
+st_3_train,tree,Lüsu,se³³_pu⁵³,st_3_train:tree:303,st_3_train:tree:3
+st_3_train,tree,Manu,sø⁴⁴⁵⁵,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Motuo-M,śiŋ,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,N-Qiang,phəq,st_3_train:tree:605,st_3_train:tree:25
+st_3_train,tree,Namuzi,sɨ³³_po⁵⁵,st_3_train:tree:605,st_3_train:tree:26
+st_3_train,tree,Namuzi,sɨ³³_po⁵⁵,st_3_train:tree:303,st_3_train:tree:3
+st_3_train,tree,Ninglang-Naxi,sɨ⁵⁵_ʒɨ³³,st_3_train:tree:303,st_3_train:tree:5
+st_3_train,tree,Nusu,si⁵³_ʒə̃³⁵_a,st_3_train:tree:303,st_3_train:tree:27
+st_3_train,tree,Nusu,si⁵³_ʒə̃³⁵_a,st_3_train:tree:1007,st_3_train:tree:5
+st_3_train,tree,Old Chinese,mhōk,st_3_train:tree:807,st_3_train:tree:28
+st_3_train,tree,Pa'O,seŋ⁴⁴⁵⁵_mɨ⁵⁵,st_3_train:tree:303,st_3_train:tree:29
+st_3_train,tree,Pa'O,seŋ⁴⁴⁵⁵_mɨ⁵⁵,st_3_train:tree:807,st_3_train:tree:1
+st_3_train,tree,Padam,ə-šiŋ,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Quueyu,se⁵⁵,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Rawang,šiŋ,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Rourou,sæ⁴²_cẽ³³,st_3_train:tree:303,st_3_train:tree:30
+st_3_train,tree,Rourou,sæ⁴²_cẽ³³,st_3_train:tree:1007,st_3_train:tree:7
+st_3_train,tree,Serdukpen,hiŋ-thuŋ,st_3_train:tree:303,st_3_train:tree:2
+st_3_train,tree,Sgaw,ṭẽʔ⁵³,st_3_train:tree:303,st_3_train:tree:6
+st_3_train,tree,Sherpa,doŋbu_LF,st_3_train:tree:129,st_3_train:tree:4
+st_3_train,tree,Shixing,sa⁵⁵_zə̃⁵⁵,st_3_train:tree:303,st_3_train:tree:5
+st_3_train,tree,Tangkul,thiŋroŋ,st_3_train:tree:303,st_3_train:tree:2
+st_3_train,tree,Tujia,kha⁴_moŋ⁴,st_3_train:tree:807,st_3_train:tree:31
+st_3_train,tree,W. Kayah,ćɔ¹¹,st_3_train:tree:303,st_3_train:tree:32
+st_3_train,tree,Written Tibetan,śiŋ_sdoŋ,st_3_train:tree:303,st_3_train:tree:33
+st_3_train,tree,Written Tibetan,śiŋ_sdoŋ,st_3_train:tree:129,st_3_train:tree:2
+st_3_train,tree,Xiaxe Tibetan,doŋ_wo,st_3_train:tree:129,st_3_train:tree:4
+st_3_train,tree,Yeinbaw,θɨ̃¹¹_mɨ¹¹,st_3_train:tree:303,st_3_train:tree:34
+st_3_train,tree,Yeinbaw,θɨ̃¹¹_mɨ¹¹,st_3_train:tree:807,st_3_train:tree:35
+st_3_train,tree,Yintale,sein¹³,st_3_train:tree:303,st_3_train:tree:1
+st_3_train,tree,Zeme,hiŋbaŋ,st_3_train:tree:303,st_3_train:tree:36
+st_3_train,tree,Zeme,hiŋbaŋ,st_3_train:tree:605,st_3_train:tree:2
+st_3_train,tree,Zhaba,sik⁵⁵,st_3_train:tree:303,st_3_train:tree:1

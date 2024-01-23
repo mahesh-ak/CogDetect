@@ -1,0 +1,578 @@
+ID	DOCULECT	CONCEPT	IPA	TOKENS	COGID	SOURCE_DOCULECT	SOURCE_COGNATE_CLASS	CLPA	CONCEPTICON_ID	GLOTTOLOG
+7962	Cua	I, me	go	ɡ o	19	Cua	I, me/7	831 887	1209	cuaa1241
+7957	BahnarPleiku	I, me	ʔiɲ	ʔ i ɲ	3	Bahnar-Pleiku	I, me/1	409 1076 595	1209	bahn1262
+7959	Bunong	I, me	kə̤p	k ə̤ p	20	Bunong	I, me/8	838 1025 291	1209	cent1992
+7960	Cheng	I, me	ʔaɨ	ʔ a ɨ	18	Cheng	I, me/6	409 997 983	1209	jeng1241
+7975	Sre	I, me	ʔaɲ	ʔ a ɲ	3	Sre	I, me/1	409 997 595	1209	koho1244
+7961	Chrau	I, me	ʔaɲ / ʔiɲ	ʔ a ɲ	3	Chrau	I, me/1	409 997 595	1209	chra1242
+7964	Jeh	I, me	ʔaw	ʔ a w	18	Jeh	I, me/6	409 997 462	1209	jehh1245
+7977	Tampuan	I, me	ʔaɲ	ʔ a ɲ	3	Tampuan	I, me/1	409 997 595	1209	1251
+7954	Alak	I, me	ʔal	ʔ a l	17	Alak	I, me/5	409 997 554	1209	alak1253
+7955	BahnarGolar	I, me	ʔiɲ	ʔ i ɲ	3	Bahnar-Golar	I, me/1	409 1076 595	1209	bahn1262
+7956	BahnarKontum	I, me	ʔiɲ	ʔ i ɲ	3	Bahnar-Kontum	I, me/1	409 1076 595	1209	bahn1262
+7963	Halang	I, me	ʔau	ʔ a u	18	Halang	I, me/6	409 997 868	1209	hala1252
+7969	MnongRlm	I, me	ʔaɲ	ʔ a ɲ	3	Mnong-Rölöm	I, me/1	409 997 595	1209	east2333
+7972	Rengao	I, me	ʔaw	ʔ a w	18	Rengao	I, me/6	409 997 462	1209	reng1252
+7958	Brao	I, me	ʔaj	ʔ a j	18	Brao	I, me/6	409 997 570	1209	lave1249
+7965	JruLaven	I, me	ʔaːj	ʔ aː j	18	Jru-Laven	I, me/6	409 1004 570	1209	lave1248
+7966	Kasseng	I, me	ʔaɯ	ʔ a ɯ	18	Kasseng	I, me/6	409 997 944	1209	kass1248
+7967	Khaonh	I, me	ʔɡəp	ʔ ɡ ə p	20	Khaonh	I, me/8	409 831 1022 291	1209	cent1992
+7968	Mel	I, me	ʔɡəp	ʔ ɡ ə p	20	Mel	I, me/8	409 831 1022 291	1209	cent1992
+7970	Nyaheun	I, me	ʔaː	ʔ aː	18	Nyaheun	I, me/6	409 1004	1209	nyah1249
+7971	Ramam	I, me	ʔaj	ʔ a j	18	Ramam	I, me/6	409 997 570	1209	roma1331
+7973	Sapuan	I, me	ʔaj	ʔ a j	18	Sapuan	I, me/6	409 997 570	1209	sapu1248
+7974	Sedang	I, me	ʔaw	ʔ a w	18	Sedang	I, me/6	409 997 462	1209	seda1262
+7976	Stieng	I, me	hej	h e j	21	Stieng	I, me/9	405 1089 570	1209	bulo1242
+1272	Alak	belly/stomach	klaːk	k l aː k	390	Alak	belly/stomach/5	838 554 1004 838	2114	alak1253
+1273	BahnarGolar	belly/stomach	klaːk	k l aː k	390	Bahnar-Golar	belly/stomach/5	838 554 1004 838	2114	bahn1262
+1274	BahnarKontum	belly/stomach	klaːk	k l aː k	390	Bahnar-Kontum	belly/stomach/5	838 554 1004 838	2114	bahn1262
+1275	BahnarPleiku	belly/stomach	klaːk	k l aː k	390	Bahnar-Pleiku	belly/stomach/5	838 554 1004 838	2114	bahn1262
+1276	Brao	belly/stomach	pədiw	p ə d i w	391	Brao	belly/stomach/6	291 1022 145 1076 462	2114	lave1249
+1277	Bunong	belly/stomach	ntul	n t u l	355	Bunong	belly/stomach/11	107 120 868 554	2114	cent1992
+1278	Cheng	belly/stomach	klaːk	k l aː k	390	Cheng	belly/stomach/5	838 554 1004 838	2114	jeng1241
+1279	Chrau	belly/stomach	pəram	p ə r a m	392	Chrau	belly/stomach/7	291 1022 153 997 241	2114	chra1242
+1280	Chrau	belly/stomach	kʰləːm	kʰ l əː m	393	Chrau	belly/stomach/8	820 554 845 241	2114	chra1242
+1281	Cua	belly/stomach	bʌŋ	b ʌ ŋ	394	Cua	belly/stomach/9	257 960 801	2114	cuaa1241
+1282	Halang	belly/stomach	bətuk	b ə t u k	354	Halang	belly/stomach/10	257 1022 120 868 838	2114	hala1252
+1283	Jeh	belly/stomach	pədo̤k	p ə d o̤ k	354	Jeh	belly/stomach/10	291 1022 145 875 838	2114	jehh1245
+1284	Jeh	belly/stomach	klaːk	k l aː k	390	Jeh	belly/stomach/5	838 554 1004 838	2114	jehh1245
+1285	JruLaven	belly/stomach	klaːk	k l aː k	390	Jru-Laven	belly/stomach/5	838 554 1004 838	2114	lave1248
+1286	Kasseng	belly/stomach	klaːk	k l aː k	390	Kasseng	belly/stomach/5	838 554 1004 838	2114	kass1248
+1287	Khaonh	belly/stomach	kəndʊl	k ə n d ʊ l	355	Khaonh	belly/stomach/11	838 1022 107 145 904 554	2114	cent1992
+1288	Mel	belly/stomach	kədʊːl	k ə d ʊː l	355	Mel	belly/stomach/11	838 1022 145 909 554	2114	cent1992
+1289	MnongRlm	belly/stomach	kʰuŋ	kʰ u ŋ	356	Mnong-Rölöm	belly/stomach/12	820 868 801	2114	east2333
+1290	MnongRlm	belly/stomach	ndɨːl	n d ɨː l	391	Mnong-Rölöm	belly/stomach/6	107 145 976 554	2114	east2333
+1291	Nyaheun	belly/stomach	klaːk	k l aː k	390	Nyaheun	belly/stomach/5	838 554 1004 838	2114	nyah1249
+1292	Ramam	belly/stomach	pətuk	p ə t u k	354	Ramam	belly/stomach/10	291 1022 120 868 838	2114	roma1331
+1293	Rengao	belly/stomach	pədṳk	p ə d ṳ k	354	Rengao	belly/stomach/10	291 1022 145 861 838	2114	reng1252
+1294	Sapuan	belly/stomach	klaːk	k l aː k	390	Sapuan	belly/stomach/5	838 554 1004 838	2114	sapu1248
+1295	Sedang	belly/stomach	kleə	k l e ə	390	Sedang	belly/stomach/5	838 554 1089 1022	2114	seda1262
+1296	Sre	belly/stomach	kəndul	k ə n d u l	391	Sre	belly/stomach/6	838 1022 107 145 868 554	2114	koho1244
+1297	Stieng	belly/stomach	kəndɨl	k ə n d ɨ l	391	Stieng	belly/stomach/6	838 1022 107 145 983 554	2114	bulo1242
+1298	Tampuan	belly/stomach	wac	w a c	357	Tampuan	belly/stomach/13	462 997 606	2114	1251
+1542	Chrau	bitter	taŋ	t a ŋ	423	Chrau	bitter/3	120 997 801	887	chra1242
+1544	Halang	bitter	ʔɲaŋ	ʔ ɲ a ŋ	422	Halang	bitter/2	409 595 997 801	887	hala1252
+1545	Jeh	bitter	ʔɲaŋ	ʔ ɲ a ŋ	422	Jeh	bitter/2	409 595 997 801	887	jehh1245
+1546	JruLaven	bitter	ʔtaŋ	ʔ t a ŋ	423	Jru-Laven	bitter/3	409 120 997 801	887	lave1248
+1547	Kasseng	bitter	ɲaŋ	ɲ a ŋ	422	Kasseng	bitter/2	595 997 801	887	kass1248
+1549	Mel	bitter	kətaŋ	k ə t a ŋ	423	Mel	bitter/3	838 1022 120 997 801	887	cent1992
+1550	MnongRlm	bitter	taŋ	t a ŋ	423	Mnong-Rölöm	bitter/3	120 997 801	887	east2333
+1551	Nyaheun	bitter	daŋ	d a ŋ	423	Nyaheun	bitter/3	145 997 801	887	nyah1249
+1553	Rengao	bitter	ʦaŋ	ts a ŋ	423	Rengao	bitter/3	15 997 801	887	reng1252
+1554	Sapuan	bitter	daŋ	d a ŋ	423	Sapuan	bitter/3	145 997 801	887	sapu1248
+1534	Alak	bitter	ʔjaŋ	ʔ j a ŋ	422	Alak	bitter/2	409 570 997 801	887	alak1253
+1535	BahnarGolar	bitter	taŋ	t a ŋ	423	Bahnar-Golar	bitter/3	120 997 801	887	bahn1262
+1536	BahnarKontum	bitter	taŋ	t a ŋ	423	Bahnar-Kontum	bitter/3	120 997 801	887	bahn1262
+1537	BahnarPleiku	bitter	taŋ	t a ŋ	423	Bahnar-Pleiku	bitter/3	120 997 801	887	bahn1262
+1538	BahnarPleiku	bitter	haːr	h aː r	424	Bahnar-Pleiku	bitter/4	405 1004 153	887	bahn1262
+1539	Brao	bitter	daŋ	d a ŋ	423	Brao	bitter/3	145 997 801	887	lave1249
+1541	Cheng	bitter	daŋ	d a ŋ	423	Cheng	bitter/3	145 997 801	887	jeng1241
+1543	Cua	bitter	ʔwal-ʔwal	ʔ w a l ʔ w a l	425	Cua	bitter/5	409 462 997 554 409 462 997 554	887	cuaa1241
+1548	Khaonh	bitter	taŋ	t a ŋ	423	Khaonh	bitter/3	120 997 801	887	cent1992
+1552	Ramam	bitter	pəʦaŋ	p ə ts a ŋ	423	Ramam	bitter/3	291 1022 15 997 801	887	roma1331
+1555	Sedang	bitter	sa̰ŋ	s a̰ ŋ	423	Sedang	bitter/3	89 995 801	887	seda1262
+1556	Sre	bitter	bətaŋ	b ə t a ŋ	423	Sre	bitter/3	257 1022 120 997 801	887	koho1244
+1557	Stieng	bitter	taŋ	t a ŋ	423	Stieng	bitter/3	120 997 801	887	bulo1242
+1558	Tampuan	bitter	taŋ	t a ŋ	423	Tampuan	bitter/3	120 997 801	887	1251
+2422	BahnarGolar	brain	ʔŋɔːk	ʔ ŋ ɔː k	595	Bahnar-Golar	brain/4	409 801 914 838	1583	bahn1262
+2423	BahnarKontum	brain	ʔŋɔːk	ʔ ŋ ɔː k	595	Bahnar-Kontum	brain/4	409 801 914 838	1583	bahn1262
+2424	BahnarPleiku	brain	ʔŋɔːk	ʔ ŋ ɔː k	595	Bahnar-Pleiku	brain/4	409 801 914 838	1583	bahn1262
+2429	Cua	brain	ŋɔːk	ŋ ɔː k	595	Cua	brain/4	801 914 838	1583	cuaa1241
+2430	Halang	brain	ŋɔak	ŋ ɔ a k	595	Halang	brain/4	801 916 997 838	1583	hala1252
+2432	JruLaven	brain	htok	h t o k	596	Jru-Laven	brain/5	405 120 887 838	1583	lave1248
+2433	Kasseng	brain	ʔəduək	ʔ ə d u ə k	596	Kasseng	brain/5	409 1022 145 868 1022 838	1583	kass1248
+2436	MnongRlm	brain	dlɔː / dluo	d l ɔː	597	Mnong-Rölöm	brain/6	145 554 914	1583	east2333
+2438	Ramam	brain	kluɔ	k l u ɔ	597	Ramam	brain/6	838 554 868 916	1583	roma1331
+2439	Rengao	brain	ŋɔːk	ŋ ɔː k	595	Rengao	brain/4	801 914 838	1583	reng1252
+2441	Sedang	brain	ŋɔə	ŋ ɔ ə	595	Sedang	brain/4	801 916 1022	1583	seda1262
+2442	Sre	brain	təŋoh	t ə ŋ o h	598	Sre	brain/7	120 1022 801 887 405	1583	koho1244
+2444	Tampuan	brain	taŋɔːk	t a ŋ ɔː k	595	Tampuan	brain/4	120 997 801 914 838	1583	1251
+2437	Nyaheun	brain	tʔɔk	t ʔ ɔ k	596	Nyaheun	brain/5	120 409 916 838	1583	nyah1249
+2431	Jeh	brain	ʔnɔk	ʔ n ɔ k	596	Jeh	brain/5	409 107 916 838	1583	jehh1245
+2443	Stieng	brain	rŋɔːk	r ŋ ɔː k	595	Stieng	brain/4	153 801 914 838	1583	bulo1242
+2930	Alak	child/son	kɔːn	k ɔː n	694	Alak	child/son/3	838 914 107	2391	alak1253
+2931	BahnarGolar	child/son	kɔːn	k ɔː n	694	Bahnar-Golar	child/son/3	838 914 107	2391	bahn1262
+2932	BahnarKontum	child/son	kɔːn	k ɔː n	694	Bahnar-Kontum	child/son/3	838 914 107	2391	bahn1262
+2933	BahnarPleiku	child/son	kɔːn	k ɔː n	694	Bahnar-Pleiku	child/son/3	838 914 107	2391	bahn1262
+2934	Brao	child/son	kuan	k u a n	694	Brao	child/son/3	838 868 997 107	2391	lave1249
+2935	Bunong	child/son	kɔːn	k ɔː n	694	Bunong	child/son/3	838 914 107	2391	cent1992
+2936	Cheng	child/son	mɛː trkuan	m ɛː _ t r k u a n	694	Cheng	child/son/3	241 1117 1190 120 153 838 868 997 107	2391	jeng1241
+2937	Chrau	child/son	kɔːn	k ɔː n	694	Chrau	child/son/3	838 914 107	2391	chra1242
+2938	Cua	child/son	kɔːt	k ɔː t	694	Cua	child/son/3	838 914 120	2391	cuaa1241
+2939	Halang	child/son	koan	k o a n	694	Halang	child/son/3	838 887 997 107	2391	hala1252
+2940	Jeh	child/son	kɔːn	k ɔː n	694	Jeh	child/son/3	838 914 107	2391	jehh1245
+2941	JruLaven	child/son	kuan	k u a n	694	Jru-Laven	child/son/3	838 868 997 107	2391	lave1248
+2942	Kasseng	child/son	ʔan kɔːn	ʔ a n _ k ɔː n	694	Kasseng	child/son/3	409 997 107 1190 838 914 107	2391	kass1248
+2943	Khaonh	child/son	kɑwn	k ɑ w n	694	Khaonh	child/son/3	838 952 462 107	2391	cent1992
+2944	Mel	child/son	kɔːn	k ɔː n	694	Mel	child/son/3	838 914 107	2391	cent1992
+2945	MnongRlm	child/son	kuon	k u o n	694	Mnong-Rölöm	child/son/3	838 868 887 107	2391	east2333
+2946	Nyaheun	child/son	kuan	k u a n	694	Nyaheun	child/son/3	838 868 997 107	2391	nyah1249
+2947	Ramam	child/son	kɔːn	k ɔː n	694	Ramam	child/son/3	838 914 107	2391	roma1331
+2948	Rengao	child/son	kɔːn	k ɔː n	694	Rengao	child/son/3	838 914 107	2391	reng1252
+2949	Sapuan	child/son	kuan	k u a n	694	Sapuan	child/son/3	838 868 997 107	2391	sapu1248
+2950	Sedang	child/son	kɔn	k ɔ n	694	Sedang	child/son/3	838 916 107	2391	seda1262
+2951	Sre	child/son	kon	k o n	694	Sre	child/son/3	838 887 107	2391	koho1244
+2952	Stieng	child/son	kɔːn	k ɔː n	694	Stieng	child/son/3	838 914 107	2391	bulo1242
+2953	Tampuan	child/son	koːn	k oː n	694	Tampuan	child/son/3	838 880 107	2391	1251
+4263	Tampuan	far/distant	caŋhaːjʔ	c a ŋʰ aː j ʔ	999	Tampuan	far/distant/7	606 997 797 1004 570 409	1406	1251
+4238	Alak	far/distant	cəŋaːj	c ə ŋ aː j	999	Alak	far/distant/7	606 1022 801 1004 570	1406	alak1253
+4239	BahnarGolar	far/distant	hətɔl	h ə t ɔ l	995	Bahnar-Golar	far/distant/30	405 1022 120 916 554	1406	bahn1262
+4240	BahnarKontum	far/distant	ʔatajh	ʔ a t a jʰ	1000	Bahnar-Kontum	far/distant/8	409 997 120 997 573	1406	bahn1262
+4241	BahnarPleiku	far/distant	ʔatajh / hətajh	ʔ a t a jʰ	1000	Bahnar-Pleiku	far/distant/8	409 997 120 997 573	1406	bahn1262
+4242	Brao	far/distant	cɨŋaːj	c ɨ ŋ aː j	999	Brao	far/distant/7	606 983 801 1004 570	1406	lave1249
+4243	Bunong	far/distant	ŋaːj	ŋ aː j	999	Bunong	far/distant/7	801 1004 570	1406	cent1992
+4244	Cheng	far/distant	trŋaːj	t r ŋ aː j	999	Cheng	far/distant/7	120 153 801 1004 570	1406	jeng1241
+4245	Chrau	far/distant	ŋaːj	ŋ aː j	999	Chrau	far/distant/7	801 1004 570	1406	chra1242
+4246	Cua	far/distant	saŋɨːj	s a ŋ ɨː j	999	Cua	far/distant/7	89 997 801 976 570	1406	cuaa1241
+4247	Halang	far/distant	həʔŋaːj	h ə ʔ ŋ aː j	999	Halang	far/distant/7	405 1022 409 801 1004 570	1406	hala1252
+4248	Jeh	far/distant	siʔŋaːj	s i ʔ ŋ aː j	999	Jeh	far/distant/7	89 1076 409 801 1004 570	1406	jehh1245
+4249	JruLaven	far/distant	hŋaːj	h ŋ aː j	999	Jru-Laven	far/distant/7	405 801 1004 570	1406	lave1248
+4250	Kasseng	far/distant	waːc	w aː c	1000	Kasseng	far/distant/8	462 1004 606	1406	kass1248
+4251	Khaonh	far/distant	ŋɑːj	ŋ ɑː j	999	Khaonh	far/distant/7	801 954 570	1406	cent1992
+4252	Mel	far/distant	ŋaːj	ŋ aː j	999	Mel	far/distant/7	801 1004 570	1406	cent1992
+4253	MnongRlm	far/distant	məːɲ maːɲ	m əː ɲ _ m aː ɲ	1001	Mnong-Rölöm	far/distant/9	241 845 595 1190 241 1004 595	1406	east2333
+4254	MnongRlm	far/distant	wac	w a c	1000	Mnong-Rölöm	far/distant/8	462 997 606	1406	east2333
+4255	MnongRlm	far/distant	ɗaŋ	ɗ a ŋ	973	Mnong-Rölöm	far/distant/10	93 997 801	1406	east2333
+4256	Nyaheun	far/distant	ŋjɛː	ŋ j ɛː	999	Nyaheun	far/distant/7	801 570 1117	1406	nyah1249
+4257	Ramam	far/distant	təhãːj	t ə h ãː j	999	Ramam	far/distant/7	120 1022 405 992 570	1406	roma1331
+4258	Rengao	far/distant	həʔŋaːj	h ə ʔ ŋ aː j	999	Rengao	far/distant/7	405 1022 409 801 1004 570	1406	reng1252
+4259	Sapuan	far/distant	saŋaːj	s a ŋ aː j	999	Sapuan	far/distant/7	89 997 801 1004 570	1406	sapu1248
+4260	Sedang	far/distant	həŋḛ	h ə ŋ ḛ	999	Sedang	far/distant/7	405 1022 801 1093	1406	seda1262
+4261	Sre	far/distant	ŋaj	ŋ a j	999	Sre	far/distant/7	801 997 570	1406	koho1244
+4262	Stieng	far/distant	ŋaːj	ŋ aː j	999	Stieng	far/distant/7	801 1004 570	1406	bulo1242
+6030	Alak	frog	kiːt	k iː t	1362	Alak	frog/6	838 1068 120	503	alak1253
+6038	Cua	frog	ʔoː ɟiː	ʔ oː _ ɟ iː	1363	Cua	frog/7	409 880 1190 609 1068	503	cuaa1241
+6039	Halang	frog	kiːt	k iː t	1362	Halang	frog/6	838 1068 120	503	hala1252
+6046	MnongRlm	frog	kɨt	k ɨ t	1362	Mnong-Rölöm	frog/6	838 983 120	503	east2333
+6052	Sedang	frog	kɛt	k ɛ t	1362	Sedang	frog/6	838 1121 120	503	seda1262
+6049	Ramam	frog	kʌt	k ʌ t	1362	Ramam	frog/6	838 960 120	503	roma1331
+6031	BahnarGolar	frog	kiːt	k iː t	1362	Bahnar-Golar	frog/6	838 1068 120	503	bahn1262
+6032	BahnarKontum	frog	kit	k i t	1362	Bahnar-Kontum	frog/6	838 1076 120	503	bahn1262
+6034	Brao	frog	kiːt	k iː t	1362	Brao	frog/6	838 1068 120	503	lave1249
+6036	Cheng	frog	kiːt	k iː t	1362	Cheng	frog/6	838 1068 120	503	jeng1241
+6037	Chrau	frog	kɨt	k ɨ t	1362	Chrau	frog/6	838 983 120	503	chra1242
+6040	Jeh	frog	ki̤at	k i̤ a t	1362	Jeh	frog/6	838 1072 997 120	503	jehh1245
+6033	BahnarPleiku	frog	kɨːt	k ɨː t	1362	Bahnar-Pleiku	frog/6	838 976 120	503	bahn1262
+6041	JruLaven	frog	ʔkiet	ʔ k i e t	1362	Jru-Laven	frog/6	409 838 1076 1089 120	503	lave1248
+6042	JruLaven	frog	ʔrɔːk	ʔ r ɔː k	1364	Jru-Laven	frog/8	409 153 914 838	503	lave1248
+6043	Kasseng	frog	kiːt	k iː t	1362	Kasseng	frog/6	838 1068 120	503	kass1248
+6044	Khaonh	frog	kət	k ə t	1362	Khaonh	frog/6	838 1022 120	503	cent1992
+6045	Mel	frog	kət	k ə t	1362	Mel	frog/6	838 1022 120	503	cent1992
+6047	Nyaheun	frog	kiet	k i e t	1362	Nyaheun	frog/6	838 1076 1089 120	503	nyah1249
+6048	Nyaheun	frog	ndrɔk	n d r ɔ k	1364	Nyaheun	frog/8	107 145 153 916 838	503	nyah1249
+6050	Rengao	frog	ki̤t drɔk	k i̤ t _ d r ɔ k	1364	Rengao	frog/8	838 1072 120 1190 145 153 916 838	503	reng1252
+6051	Sapuan	frog	kiet	k i e t	1362	Sapuan	frog/6	838 1076 1089 120	503	sapu1248
+6053	Sre	frog	kit	k i t	1362	Sre	frog/6	838 1076 120	503	koho1244
+6054	Stieng	frog	kɨt	k ɨ t	1362	Stieng	frog/6	838 983 120	503	bulo1242
+6055	Tampuan	frog	kət	k ə t	1362	Tampuan	frog/6	838 1022 120	503	1251
+7045	Chrau	head	voːʔ	v oː ʔ	1556	Chrau	head/4	451 880 409	1256	chra1242
+7049	JruLaven	head	tuːs	t uː s	1555	Jru-Laven	head/3	120 860 89	1256	lave1248
+7051	Khaonh	head	ɓo̤ːk	ɓ o̤ː k	1556	Khaonh	head/4	229 896 838	1256	cent1992
+7053	MnongRlm	head	boːk	b oː k	1556	Mnong-Rölöm	head/4	257 880 838	1256	east2333
+7056	Rengao	head	gə̤l	ɡ ə̤ l	1549	Rengao	head/2	831 1025 554	1256	reng1252
+7058	Sedang	head	kɔ	k ɔ	1549	Sedang	head/2	838 916	1256	seda1262
+7042	Brao	head	tuːx	t uː x	1555	Brao	head/3	120 860 778	1256	lave1249
+7047	Halang	head	kəːl	k əː l	1549	Halang	head/2	838 845 554	1256	hala1252
+7038	Alak	head	kʻɨː	kʼ ɨː	1549	Alak	head/2	776 976	1256	alak1253
+7039	BahnarGolar	head	kəl	k ə l	1549	Bahnar-Golar	head/2	838 1022 554	1256	bahn1262
+7040	BahnarKontum	head	kəl	k ə l	1549	Bahnar-Kontum	head/2	838 1022 554	1256	bahn1262
+7041	BahnarPleiku	head	kəl	k ə l	1549	Bahnar-Pleiku	head/2	838 1022 554	1256	bahn1262
+7043	Bunong	head	po̤ːk	p o̤ː k	1556	Bunong	head/4	291 896 838	1256	cent1992
+7044	Cheng	head	tuːç	t uː ç	1555	Cheng	head/3	120 860 583	1256	jeng1241
+7046	Cua	head	gɨl	ɡ ɨ l	1549	Cua	head/2	831 983 554	1256	cuaa1241
+7048	Jeh	head	ka̤l	k a̤ l	1549	Jeh	head/2	838 998 554	1256	jehh1245
+7050	Kasseng	head	tuːç	t uː ç	1555	Kasseng	head/3	120 860 583	1256	kass1248
+7052	Mel	head	ɓo̤ːk	ɓ o̤ː k	1556	Mel	head/4	229 896 838	1256	cent1992
+7054	Nyaheun	head	tujh	t u jʰ	1555	Nyaheun	head/3	120 868 573	1256	nyah1249
+7055	Ramam	head	kuoɺ / ɣuoɺ	k u o ɺ	1549	Ramam	head/2	838 868 887 531	1256	roma1331
+7057	Sapuan	head	tuih	t u i h	1555	Sapuan	head/3	120 868 1076 405	1256	sapu1248
+7059	Sre	head	bou	b o u	1556	Sre	head/4	257 887 868	1256	koho1244
+7060	Stieng	head	boːk	b oː k	1556	Stieng	head/4	257 880 838	1256	bulo1242
+7061	Stieng	head	kəl	k ə l	1549	Stieng	head/2	838 1022 554	1256	bulo1242
+7062	Tampuan	head	kɔl	k ɔ l	1549	Tampuan	head/2	838 916 554	1256	1251
+9623	Alak	monkey/ape	məːw	m əː w	2136	Alak	monkey/ape/5	241 845 462	1350	alak1253
+9625	BahnarKontum	monkey/ape	ɗɔk	ɗ ɔ k	2128	Bahnar-Kontum	monkey/ape/3	93 916 838	1350	bahn1262
+9626	BahnarPleiku	monkey/ape	ɗɔk	ɗ ɔ k	2128	Bahnar-Pleiku	monkey/ape/3	93 916 838	1350	bahn1262
+9627	Brao	monkey/ape	niw	n i w	2137	Brao	monkey/ape/6	107 1076 462	1350	lave1249
+9628	Bunong	monkey/ape	to̤ːk	t o̤ː k	2128	Bunong	monkey/ape/3	120 896 838	1350	cent1992
+9629	Cheng	monkey/ape	niw	n i w	2137	Cheng	monkey/ape/6	107 1076 462	1350	jeng1241
+9630	Chrau	monkey/ape	doːʔ	d oː ʔ	2128	Chrau	monkey/ape/3	145 880 409	1350	chra1242
+9631	Cua	monkey/ape	dʌk	d ʌ k	2128	Cua	monkey/ape/3	145 960 838	1350	cuaa1241
+9632	Cua	monkey/ape	ʔoː talok	ʔ oː _ t a l o k	2133	Cua	monkey/ape/34	409 880 1190 120 997 554 887 838	1350	cuaa1241
+9633	Halang	monkey/ape	dɔk	d ɔ k	2128	Halang	monkey/ape/3	145 916 838	1350	hala1252
+9634	Jeh	monkey/ape	dɔk	d ɔ k	2128	Jeh	monkey/ape/3	145 916 838	1350	jehh1245
+9635	JruLaven	monkey/ape	ŋoːk	ŋ oː k	2134	Jru-Laven	monkey/ape/35	801 880 838	1350	lave1248
+9636	Kasseng	monkey/ape	ʔanmaːw	ʔ a n m aː w	2136	Kasseng	monkey/ape/5	409 997 107 241 1004 462	1350	kass1248
+9637	Khaonh	monkey/ape	ɗo̤ːk	ɗ o̤ː k	2128	Khaonh	monkey/ape/3	93 896 838	1350	cent1992
+9638	Mel	monkey/ape	ɗo̤ːk	ɗ o̤ː k	2128	Mel	monkey/ape/3	93 896 838	1350	cent1992
+9639	MnongRlm	monkey/ape	doːk	d oː k	2128	Mnong-Rölöm	monkey/ape/3	145 880 838	1350	east2333
+9640	Nyaheun	monkey/ape	niw	n i w	2137	Nyaheun	monkey/ape/6	107 1076 462	1350	nyah1249
+9641	Ramam	monkey/ape	tuɔk	t u ɔ k	2128	Ramam	monkey/ape/3	120 868 916 838	1350	roma1331
+9642	Rengao	monkey/ape	dɔk	d ɔ k	2128	Rengao	monkey/ape/3	145 916 838	1350	reng1252
+9643	Sapuan	monkey/ape	niːw	n iː w	2137	Sapuan	monkey/ape/6	107 1068 462	1350	sapu1248
+9644	Sedang	monkey/ape	tɔ	t ɔ	2128	Sedang	monkey/ape/3	120 916	1350	seda1262
+9645	Sre	monkey/ape	dou	d o u	2128	Sre	monkey/ape/3	145 887 868	1350	koho1244
+9646	Stieng	monkey/ape	doːk	d oː k	2128	Stieng	monkey/ape/3	145 880 838	1350	bulo1242
+9647	Tampuan	monkey/ape	tɔ̤k	t ɔ̤ k	2128	Tampuan	monkey/ape/3	120 912 838	1350	1251
+9624	BahnarGolar	monkey/ape	ɗɔk	ɗ ɔ k	2128	Bahnar-Golar	monkey/ape/3	93 916 838	1350	bahn1262
+10528	Alak	name	canɔʔ	c a n ɔ ʔ	2363	Alak	name/7	606 997 107 916 409	1405	alak1253
+10529	BahnarGolar	name	hənan	h ə n a n	2364	Bahnar-Golar	name/8	405 1022 107 997 107	1405	bahn1262
+10530	BahnarKontum	name	mat	m a t	2365	Bahnar-Kontum	name/9	241 997 120	1405	bahn1262
+10531	BahnarPleiku	name	ʔanan	ʔ a n a n	2364	Bahnar-Pleiku	name/8	409 997 107 997 107	1405	bahn1262
+10532	BahnarPleiku	name	mat	m a t	2365	Bahnar-Pleiku	name/9	241 997 120	1405	bahn1262
+10533	Brao	name	mat	m a t	2365	Brao	name/9	241 997 120	1405	lave1249
+10534	Bunong	name	mɔːh	m ɔː h	2345	Bunong	name/2	241 914 405	1405	cent1992
+10536	Chrau	name	saʔ	s a ʔ	2335	Chrau	name/10	89 997 409	1405	chra1242
+10538	Cua	name	ʔal	ʔ a l	2337	Cua	name/12	409 997 554	1405	cuaa1241
+10539	Halang	name	ɟiəŋ	ɟ i ə ŋ	2338	Halang	name/13	609 1076 1022 801	1405	hala1252
+10540	Jeh	name	təliʔ	t ə l i ʔ	2339	Jeh	name/14	120 1022 554 1076 409	1405	jehh1245
+10541	JruLaven	name	mɔh	m ɔ h	2345	Jru-Laven	name/2	241 916 405	1405	lave1248
+10542	Kasseng	name	ʔəloːm	ʔ ə l oː m	2340	Kasseng	name/15	409 1022 554 880 241	1405	kass1248
+10547	Ramam	name	mat	m a t	2365	Ramam	name/9	241 997 120	1405	roma1331
+10548	Rengao	name	mat	m a t	2365	Rengao	name/9	241 997 120	1405	reng1252
+10550	Sedang	name	ʔinàj	ʔ i n a j	2341	Sedang	name/16	409 1076 107 997 570	1405	seda1262
+10551	Sre	name	təmɔh	t ə m ɔ h	2345	Sre	name/2	120 1022 241 916 405	1405	koho1244
+10552	Stieng	name	təmɔh	t ə m ɔ h	2345	Stieng	name/2	120 1022 241 916 405	1405	bulo1242
+10553	Tampuan	name	sɛc	s ɛ c	2342	Tampuan	name/17	89 1121 606	1405	1251
+10537	Cua	name	ɗat	ɗ a t	2336	Cua	name/11	93 997 120	1405	cuaa1241
+10545	MnongRlm	name		n a n	2364	Mnong-Rölöm	name/8	107 997 107	1405	east2333
+12999	Sedang	rice (cooked)	ba̰w	b a̰ w	2934	Sedang	rice (cooked)/10	257 995 462	1191	seda1262
+12978	Alak	rice (cooked)	paːj	p aː j	2938	Alak	rice (cooked)/14	291 1004 570	1191	alak1253
+12979	BahnarGolar	rice (cooked)	pɔːr	p ɔː r	2966	Bahnar-Golar	rice (cooked)/4	291 914 153	1191	bahn1262
+12980	BahnarKontum	rice (cooked)	pɔːr	p ɔː r	2966	Bahnar-Kontum	rice (cooked)/4	291 914 153	1191	bahn1262
+12981	BahnarPleiku	rice (cooked)	pɔːr	p ɔː r	2966	Bahnar-Pleiku	rice (cooked)/4	291 914 153	1191	bahn1262
+12982	BahnarPleiku	rice (cooked)	məh	m ə h	2969	Bahnar-Pleiku	rice (cooked)/5	241 1022 405	1191	bahn1262
+12983	Brao	rice (cooked)	puar	p u a r	2966	Brao	rice (cooked)/4	291 868 997 153	1191	lave1249
+12984	Bunong	rice (cooked)	piaːŋ	p i aː ŋ	2970	Bunong	rice (cooked)/6	291 1076 1004 801	1191	cent1992
+12985	Cheng	rice (cooked)	puar	p u a r	2966	Cheng	rice (cooked)/4	291 868 997 153	1191	jeng1241
+12986	Chrau	rice (cooked)	pieŋ	p i e ŋ	2970	Chrau	rice (cooked)/6	291 1076 1089 801	1191	chra1242
+12988	Halang	rice (cooked)	pɔar	p ɔ a r	2966	Halang	rice (cooked)/4	291 916 997 153	1191	hala1252
+12989	Jeh	rice (cooked)	pɔːl	p ɔː l	2966	Jeh	rice (cooked)/4	291 914 554	1191	jehh1245
+12990	JruLaven	rice (cooked)	ʔʌːp	ʔ ʌː p	2971	Jru-Laven	rice (cooked)/7	409 956 291	1191	lave1248
+12991	Kasseng	rice (cooked)	nsaːj	n s aː j	2972	Kasseng	rice (cooked)/8	107 89 1004 570	1191	kass1248
+12992	Khaonh	rice (cooked)	peəŋ	p e ə ŋ	2970	Khaonh	rice (cooked)/6	291 1089 1022 801	1191	cent1992
+12993	Mel	rice (cooked)	piəŋ	p i ə ŋ	2970	Mel	rice (cooked)/6	291 1076 1022 801	1191	cent1992
+12994	MnongRlm	rice (cooked)	pieŋ	p i e ŋ	2970	Mnong-Rölöm	rice (cooked)/6	291 1076 1089 801	1191	east2333
+12995	Nyaheun	rice (cooked)	puan	p u a n	2966	Nyaheun	rice (cooked)/4	291 868 997 107	1191	nyah1249
+12996	Ramam	rice (cooked)	paː / hapaː	p aː	2973	Ramam	rice (cooked)/9	291 1004	1191	roma1331
+12997	Rengao	rice (cooked)	pɔːr	p ɔː r	2966	Rengao	rice (cooked)/4	291 914 153	1191	reng1252
+12998	Sapuan	rice (cooked)	pual / puar	p u a l	2966	Sapuan	rice (cooked)/4	291 868 997 554	1191	sapu1248
+13000	Sre	rice (cooked)	piaŋ	p i a ŋ	2970	Sre	rice (cooked)/6	291 1076 997 801	1191	koho1244
+13001	Stieng	rice (cooked)	piaŋ	p i a ŋ	2970	Stieng	rice (cooked)/6	291 1076 997 801	1191	bulo1242
+13002	Tampuan	rice (cooked)	poːr	p oː r	2966	Tampuan	rice (cooked)/4	291 880 153	1191	1251
+12987	Cua	rice (cooked)	pʌŋ	p ʌ ŋ	2970	Cua	rice (cooked)/6	291 960 801	1191	cuaa1241
+13664	Halang	road/path	trɔaŋ	t r ɔ a ŋ	3110	Halang	road/path/8	120 153 916 997 801	667	hala1252
+13665	Jeh	road/path	trṳaŋ	t r ṳ a ŋ	3110	Jeh	road/path/8	120 153 861 997 801	667	jehh1245
+13666	JruLaven	road/path	truoŋ	t r u o ŋ	3110	Jru-Laven	road/path/8	120 153 868 887 801	667	lave1248
+13667	Kasseng	road/path	truəŋ	t r u ə ŋ	3110	Kasseng	road/path/8	120 153 868 1022 801	667	kass1248
+13668	Khaonh	road/path	tʀawŋ	t ʀ a w ŋ	3110	Khaonh	road/path/8	120 767 997 462 801	667	cent1992
+13669	Mel	road/path	trɔːŋ	t r ɔː ŋ	3110	Mel	road/path/8	120 153 914 801	667	cent1992
+13670	MnongRlm	road/path	troːŋ / truoŋ	t r oː ŋ	3110	Mnong-Rölöm	road/path/8	120 153 880 801	667	east2333
+13671	Nyaheun	road/path	truoŋ	t r u o ŋ	3110	Nyaheun	road/path/8	120 153 868 887 801	667	nyah1249
+13672	Ramam	road/path	tɣɔːᵏŋ	t ɣ ɔː ŋ̊	3110	Ramam	road/path/8	120 780 914 802	667	roma1331
+13673	Rengao	road/path	trɔːŋ	t r ɔː ŋ	3110	Rengao	road/path/8	120 153 914 801	667	reng1252
+13674	Sapuan	road/path	truːŋ / truoŋ	t r uː ŋ	3110	Sapuan	road/path/8	120 153 860 801	667	sapu1248
+13675	Sedang	road/path	trɔ̰əŋ	t r ɔ̰ ə ŋ	3110	Sedang	road/path/8	120 153 920 1022 801	667	seda1262
+13676	Sre	road/path	guŋ	ɡ u ŋ	3079	Sre	road/path/10	831 868 801	667	koho1244
+13655	Alak	road/path	ntuːŋ	n t uː ŋ	3111	Alak	road/path/9	107 120 860 801	667	alak1253
+13656	BahnarGolar	road/path	trɔːŋ	t r ɔː ŋ	3110	Bahnar-Golar	road/path/8	120 153 914 801	667	bahn1262
+13658	BahnarPleiku	road/path	trɔːŋ	t r ɔː ŋ	3110	Bahnar-Pleiku	road/path/8	120 153 914 801	667	bahn1262
+13659	Brao	road/path	truːŋ	t r uː ŋ	3110	Brao	road/path/8	120 153 860 801	667	lave1249
+13662	Chrau	road/path	trɔːŋ	t r ɔː ŋ	3110	Chrau	road/path/8	120 153 914 801	667	chra1242
+13677	Stieng	road/path	trɔːŋ	t r ɔː ŋ	3110	Stieng	road/path/8	120 153 914 801	667	bulo1242
+13660	Bunong	road/path	troːŋ	t r oː ŋ	3110	Bunong	road/path/8	120 153 880 801	667	cent1992
+13661	Cheng	road/path	truːŋ	t r uː ŋ	3110	Cheng	road/path/8	120 153 860 801	667	jeng1241
+13657	BahnarKontum	road/path	trɔːŋ	t r ɔː ŋ	3110	Bahnar-Kontum	road/path/8	120 153 914 801	667	bahn1262
+13663	Cua	road/path	truək	t r u ə k	3110	Cua	road/path/8	120 153 868 1022 838	667	cuaa1241
+13678	Tampuan	road/path	troːŋ	t r oː ŋ	3110	Tampuan	road/path/8	120 153 880 801	667	1251
+13789	Alak	root	rɛːh	r ɛː h	3112	Alak	root/1	153 1117 405	670	alak1253
+13790	BahnarGolar	root	rəh	r ə h	3112	Bahnar-Golar	root/1	153 1022 405	670	bahn1262
+13791	BahnarKontum	root	rəh	r ə h	3112	Bahnar-Kontum	root/1	153 1022 405	670	bahn1262
+13792	BahnarPleiku	root	rəh	r ə h	3112	Bahnar-Pleiku	root/1	153 1022 405	670	bahn1262
+13793	Brao	root	riax	r i a x	3112	Brao	root/1	153 1076 997 778	670	lave1249
+13794	Bunong	root	reh siː	r e h _ s iː	3112	Bunong	root/1	153 1089 405 1190 89 1068	670	cent1992
+13795	Cheng	root	riah lɔːŋ	r i a h _ l ɔː ŋ	3112	Cheng	root/1	153 1076 997 405 1190 554 914 801	670	jeng1241
+13796	Chrau	root	drieh	d r i e h	3112	Chrau	root/1	145 153 1076 1089 405	670	chra1242
+13797	Cua	root	reah	r e a h	3112	Cua	root/1	153 1089 997 405	670	cuaa1241
+13798	Halang	root	riəh	r i ə h	3112	Halang	root/1	153 1076 1022 405	670	hala1252
+13799	Jeh	root	riaç	r i a ç	3112	Jeh	root/1	153 1076 997 583	670	jehh1245
+13800	JruLaven	root	rias	r i a s	3112	Jru-Laven	root/1	153 1076 997 89	670	lave1248
+13801	Kasseng	root	ʔəriəh	ʔ ə r i ə h	3112	Kasseng	root/1	409 1022 153 1076 1022 405	670	kass1248
+13802	Khaonh	root	ʀæhsiː	ʀ æ h s iː	3112	Khaonh	root/1	767 1087 405 89 1068	670	cent1992
+13803	Mel	root	ᵊɾiɛh	ə ɾ i ɛ h	3112	Mel	root/1	1022 66 1076 1121 405	670	cent1992
+13804	MnongRlm	root	rɛh	r ɛ h	3112	Mnong-Rölöm	root/1	153 1121 405	670	east2333
+13805	Nyaheun	root	riah	r i a h	3112	Nyaheun	root/1	153 1076 997 405	670	nyah1249
+13806	Ramam	root	rɔːʲç	r ɔː j ç	3112	Ramam	root/1	153 914 570 583	670	roma1331
+13807	Rengao	root	rih	r i h	3112	Rengao	root/1	153 1076 405	670	reng1252
+13808	Sapuan	root	riah lɔːŋ	r i a h _ l ɔː ŋ	3112	Sapuan	root/1	153 1076 997 405 1190 554 914 801	670	sapu1248
+13809	Sedang	root	rɛj	r ɛ j	3112	Sedang	root/1	153 1121 570	670	seda1262
+13810	Sre	root	rias	r i a s	3112	Sre	root/1	153 1076 997 89	670	koho1244
+13811	Stieng	root	drieh	d r i e h	3112	Stieng	root/1	145 153 1076 1089 405	670	bulo1242
+13812	Tampuan	root	rajah	r a j a h	3112	Tampuan	root/1	153 997 570 997 405	670	1251
+14180	Alak	sand	pʻahaːc	pʼ a h aː c	3203	Alak	sand/3	224 997 405 1004 606	671	alak1253
+14186	Cheng	sand	pʰaːc	pʰ aː c	3203	Cheng	sand/3	264 1004 606	671	jeng1241
+14187	Chrau	sand	sikieʔ	s i k i e ʔ	3208	Chrau	sand/4	89 1076 838 1076 1089 409	671	chra1242
+14191	JruLaven	sand	pʰaːc	pʰ aː c	3203	Jru-Laven	sand/3	264 1004 606	671	lave1248
+14192	Kasseng	sand	braːç	b r aː ç	3210	Kasseng	sand/6	257 153 1004 583	671	kass1248
+14196	Nyaheun	sand	pʰaːc	pʰ aː c	3203	Nyaheun	sand/3	264 1004 606	671	nyah1249
+14199	Sapuan	sand	pahaːc	p a h aː c	3203	Sapuan	sand/3	291 997 405 1004 606	671	sapu1248
+14200	Sedang	sand	prɛj	p r ɛ j	3210	Sedang	sand/6	291 153 1121 570	671	seda1262
+14201	Sre	sand	bras	b r a s	3210	Sre	sand/6	257 153 997 89	671	koho1244
+14202	Stieng	sand	kərʃɛː	k ə r ʃ ɛː	3211	Stieng	sand/7	838 1022 153 683 1117	671	bulo1242
+14203	Tampuan	sand	rəpṳk	r ə p ṳ k	3212	Tampuan	sand/8	153 1022 291 861 838	671	1251
+14184	Brao	sand	pʰaːc	pʰ aː c	3203	Brao	sand/3	264 1004 606	671	lave1249
+14733	Nyaheun	shame/ashamed	mmaːw / ŋwaːw	m m aː w	3359	Nyaheun	shame/ashamed/5	241 241 1004 462	1894	nyah1249
+14738	Sre	shame/ashamed	basil	b a s i l	3363	Sre	shame/ashamed/9	257 997 89 1076 554	1894	koho1244
+14735	Rengao	shame/ashamed	kəmɛç	k ə m ɛ ç	3361	Rengao	shame/ashamed/7	838 1022 241 1121 583	1894	reng1252
+14732	MnongRlm	shame/ashamed	preːŋ	p r eː ŋ	3360	Mnong-Rölöm	shame/ashamed/6	291 153 1091 801	1894	east2333
+14726	Jeh	shame/ashamed	kəmajh	k ə m a jʰ	3361	Jeh	shame/ashamed/7	838 1022 241 997 573	1894	jehh1245
+14727	JruLaven	shame/ashamed	kmaːl	k m aː l	3359	Jru-Laven	shame/ashamed/5	838 241 1004 554	1894	lave1248
+14731	MnongRlm	shame/ashamed	ɟiː toːr	ɟ iː _ t oː r	3362	Mnong-Rölöm	shame/ashamed/8	609 1068 1190 120 880 153	1894	east2333
+14736	Sapuan	shame/ashamed	kəmaːw / kəmʌːw	k ə m aː w	3359	Sapuan	shame/ashamed/5	838 1022 241 1004 462	1894	sapu1248
+14737	Sedang	shame/ashamed	kəmɛj	k ə m ɛ j	3361	Sedang	shame/ashamed/7	838 1022 241 1121 570	1894	seda1262
+14740	Tampuan	shame/ashamed	sṳəɲ parlṳəɲ	s ṳ ə ɲ _ p a r l ṳ ə ɲ	3329	Tampuan	shame/ashamed/10	89 861 1022 595 1190 291 997 153 554 861 1022 595	1894	1251
+14717	BahnarKontum	shame/ashamed	kədəʔ	k ə d ə ʔ	3358	Bahnar-Kontum	shame/ashamed/4	838 1022 145 1022 409	1894	bahn1262
+14718	BahnarPleiku	shame/ashamed	kədəʔ	k ə d ə ʔ	3358	Bahnar-Pleiku	shame/ashamed/4	838 1022 145 1022 409	1894	bahn1262
+14722	Cheng	shame/ashamed	kamaːw	k a m aː w	3359	Cheng	shame/ashamed/5	838 997 241 1004 462	1894	jeng1241
+14723	Chrau	shame/ashamed	preːɲ	p r eː ɲ	3360	Chrau	shame/ashamed/6	291 153 1091 595	1894	chra1242
+14724	Cua	shame/ashamed	kamɨːl	k a m ɨː l	3359	Cua	shame/ashamed/5	838 997 241 976 554	1894	cuaa1241
+14725	Halang	shame/ashamed	kəʔmaːs	k ə ʔ m aː s	3361	Halang	shame/ashamed/7	838 1022 409 241 1004 89	1894	hala1252
+14861	MnongRlm	sharp (edged)	cak	c a k	3368	Mnong-Rölöm	sharp (edged)/14	606 997 838	1396	east2333
+14864	Rengao	sharp (edged)	haːn	h aː n	3411	Rengao	sharp (edged)/7	405 1004 107	1396	reng1252
+14856	Kasseng	sharp (edged)	plaː	p l aː	3369	Kasseng	sharp (edged)/15	291 554 1004	1396	kass1248
+14851	Chrau	sharp (edged)	soːt	s oː t	3412	Chrau	sharp (edged)/8	89 880 120	1396	chra1242
+14858	Mel	sharp (edged)	soːt	s oː t	3412	Mel	sharp (edged)/8	89 880 120	1396	cent1992
+14866	Sedang	sharp (edged)	hḛn	h ḛ n	3411	Sedang	sharp (edged)/7	405 1093 107	1396	seda1262
+14843	Alak	sharp (edged)	muːt	m uː t	3407	Alak	sharp (edged)/5	241 860 120	1396	alak1253
+14844	Alak	sharp (edged)	cəkaːr	c ə k aː r	3410	Alak	sharp (edged)/6	606 1022 838 1004 153	1396	alak1253
+14846	BahnarKontum	sharp (edged)	haːn	h aː n	3411	Bahnar-Kontum	sharp (edged)/7	405 1004 107	1396	bahn1262
+14847	BahnarPleiku	sharp (edged)	haːn	h aː n	3411	Bahnar-Pleiku	sharp (edged)/7	405 1004 107	1396	bahn1262
+14848	Brao	sharp (edged)	mut	m u t	3407	Brao	sharp (edged)/5	241 868 120	1396	lave1249
+14849	Bunong	sharp (edged)	mploːɲ	m p l oː ɲ	3405	Bunong	sharp (edged)/48	241 291 554 880 595	1396	cent1992
+14852	Cua	sharp (edged)	pujʔ	p u j ʔ	3413	Cua	sharp (edged)/9	291 868 570 409	1396	cuaa1241
+14853	Halang	sharp (edged)	ruːt	r uː t	3365	Halang	sharp (edged)/10	153 860 120	1396	hala1252
+14854	Jeh	sharp (edged)	plaː ɟɛːj	p l aː _ ɟ ɛː j	3369	Jeh	sharp (edged)/15	291 554 1004 1190 609 1117 570	1396	jehh1245
+14855	JruLaven	sharp (edged)	muːt	m uː t	3407	Jru-Laven	sharp (edged)/5	241 860 120	1396	lave1248
+14862	Nyaheun	sharp (edged)	plaː	p l aː	3369	Nyaheun	sharp (edged)/15	291 554 1004	1396	nyah1249
+14845	BahnarGolar	sharp (edged)	haːn	h aː n	3411	Bahnar-Golar	sharp (edged)/7	405 1004 107	1396	bahn1262
+14857	Khaonh	sharp (edged)	soːt	s oː t	3412	Khaonh	sharp (edged)/8	89 880 120	1396	cent1992
+14859	MnongRlm	sharp (edged)	briʔ	b r i ʔ	3366	Mnong-Rölöm	sharp (edged)/12	257 153 1076 409	1396	east2333
+14860	MnongRlm	sharp (edged)	cʰip	cʰ i p	3367	Mnong-Rölöm	sharp (edged)/13	604 1076 291	1396	east2333
+14863	Ramam	sharp (edged)	tʌp	t ʌ p	3370	Ramam	sharp (edged)/16	120 960 291	1396	roma1331
+14867	Sre	sharp (edged)	sout	s o u t	3412	Sre	sharp (edged)/8	89 887 868 120	1396	koho1244
+14868	Stieng	sharp (edged)	cʰoːt	cʰ oː t	3412	Stieng	sharp (edged)/8	604 880 120	1396	bulo1242
+14869	Tampuan	sharp (edged)	saot	s a o t	3412	Tampuan	sharp (edged)/8	89 997 887 120	1396	1251
+15118	JruLaven	six	traw	t r a w	3447	Jru-Laven	six/1	120 153 997 462	1703	lave1248
+15117	Jeh	six	tədraw	t ə d r a w	3447	Jeh	six/1	120 1022 145 153 997 462	1703	jehh1245
+15120	Khaonh	six	pʀaw	p ʀ a w	3447	Khaonh	six/1	291 767 997 462	1703	cent1992
+15123	Nyaheun	six	troː	t r oː	3447	Nyaheun	six/1	120 153 880	1703	nyah1249
+15124	Ramam	six	tɣaw	t ɣ a w	3447	Ramam	six/1	120 780 997 462	1703	roma1331
+15128	Sre	six	praw	p r a w	3447	Sre	six/1	291 153 997 462	1703	koho1244
+15107	BahnarGolar	six	tədrɔw / tədrəw	t ə d r ɔ w	3447	Bahnar-Golar	six/1	120 1022 145 153 916 462	1703	bahn1262
+15113	Cheng	six	traw	t r a w	3447	Cheng	six/1	120 153 997 462	1703	jeng1241
+15127	Sedang	six	tədro̰w	t ə d r o̰ w	3447	Sedang	six/1	120 1022 145 153 877 462	1703	seda1262
+15129	Stieng	six	praw	p r a w	3447	Stieng	six/1	291 153 997 462	1703	bulo1242
+15119	Kasseng	six	təraw	t ə r a w	3447	Kasseng	six/1	120 1022 153 997 462	1703	kass1248
+15106	Alak	six	taraw	t a r a w	3447	Alak	six/1	120 997 153 997 462	1703	alak1253
+15108	BahnarKontum	six	tədrɔw / tədrəw	t ə d r ɔ w	3447	Bahnar-Kontum	six/1	120 1022 145 153 916 462	1703	bahn1262
+15111	Brao	six	traw	t r a w	3447	Brao	six/1	120 153 997 462	1703	lave1249
+15112	Bunong	six	praːw	p r aː w	3447	Bunong	six/1	291 153 1004 462	1703	cent1992
+15114	Chrau	six	praw	p r a w	3447	Chrau	six/1	291 153 997 462	1703	chra1242
+15115	Cua	six	kadrow	k a d r o w	3447	Cua	six/1	838 997 145 153 887 462	1703	cuaa1241
+15116	Halang	six	drədraw	d r ə d r a w	3447	Halang	six/1	145 153 1022 145 153 997 462	1703	hala1252
+15121	Mel	six	prow	p r o w	3447	Mel	six/1	291 153 887 462	1703	cent1992
+15122	MnongRlm	six	prɔː	p r ɔː	3447	Mnong-Rölöm	six/1	291 153 914	1703	east2333
+15125	Rengao	six	tədruː	t ə d r uː	3447	Rengao	six/1	120 1022 145 153 860	1703	reng1252
+15126	Sapuan	six	traw	t r a w	3447	Sapuan	six/1	120 153 997 462	1703	sapu1248
+15130	Tampuan	six	trao	t r a o	3447	Tampuan	six/1	120 153 997 887	1703	1251
+15109	BahnarPleiku	six	tədrɔw / tədrəw	t ə d r ɔ w	3447	Bahnar-Pleiku	six/1	120 1022 145 153 916 462	1703	bahn1262
+15110	BahnarPleiku	six	drɔw / drəw	d r ɔ w	3447	Bahnar-Pleiku	six/1	145 153 916 462	1703	bahn1262
+16386	Alak	sun/day	mat pʻrah	m a t _ pʼ r a h	3762	Alak	sun/day/5	241 997 120 1190 224 153 997 405	2140	alak1253
+16387	BahnarGolar	sun/day	nar	n a r	3763	Bahnar-Golar	sun/day/6	107 997 153	2140	bahn1262
+16388	BahnarKontum	sun/day	nar	n a r	3763	Bahnar-Kontum	sun/day/6	107 997 153	2140	bahn1262
+16389	BahnarPleiku	sun/day	ʔnar	ʔ n a r	3763	Bahnar-Pleiku	sun/day/6	409 107 997 153	2140	bahn1262
+16390	Brao	sun/day	təŋaj	t ə ŋ a j	3764	Brao	sun/day/7	120 1022 801 997 570	2140	lave1249
+16391	Bunong	sun/day	naːr	n aː r	3762	Bunong	sun/day/5	107 1004 153	2140	cent1992
+16392	Cheng	sun/day	mat taŋaj	m a t _ t a ŋ a j	3764	Cheng	sun/day/7	241 997 120 1190 120 997 801 997 570	2140	jeng1241
+16393	Chrau	sun/day	nar	n a r	3763	Chrau	sun/day/6	107 997 153	2140	chra1242
+16394	Cua	sun/day	hŋɨj	h ŋ ɨ j	3764	Cua	sun/day/7	405 801 983 570	2140	cuaa1241
+16395	Halang	sun/day	ŋaj	ŋ a j	3764	Halang	sun/day/7	801 997 570	2140	hala1252
+16404	Ramam	sun/day	mat hãj	m a t _ h ã j	3765	Ramam	sun/day/8	241 997 120 1190 405 1014 570	2140	roma1331
+16407	Sedang	sun/day	hãi	h ã i	3765	Sedang	sun/day/8	405 1014 1076	2140	seda1262
+16396	Jeh	sun/day	mat ŋaj	m a t _ ŋ a j	3764	Jeh	sun/day/7	241 997 120 1190 801 997 570	2140	jehh1245
+16397	Jeh	sun/day	ŋaj	ŋ a j	3764	Jeh	sun/day/7	801 997 570	2140	jehh1245
+16398	JruLaven	sun/day	tŋaj	t ŋ a j	3764	Jru-Laven	sun/day/7	120 801 997 570	2140	lave1248
+16399	Kasseng	sun/day	mat təŋaj	m a t _ t ə ŋ a j	3764	Kasseng	sun/day/7	241 997 120 1190 120 1022 801 997 570	2140	kass1248
+16400	Khaonh	sun/day	nɑɨ	n ɑ ɨ	3763	Khaonh	sun/day/6	107 952 983	2140	cent1992
+16401	Mel	sun/day	naɨ	n a ɨ	3763	Mel	sun/day/6	107 997 983	2140	cent1992
+16402	MnongRlm	sun/day	naːr	n aː r	3763	Mnong-Rölöm	sun/day/6	107 1004 153	2140	east2333
+16403	Nyaheun	sun/day	nɨeː	n ɨ eː	3763	Nyaheun	sun/day/6	107 983 1091	2140	nyah1249
+16406	Sapuan	sun/day	taŋaj	t a ŋ a j	3764	Sapuan	sun/day/7	120 997 801 997 570	2140	sapu1248
+16408	Sre	sun/day	ŋaːj	ŋ aː j	3764	Sre	sun/day/7	801 1004 570	2140	koho1244
+16409	Stieng	sun/day	nar	n a r	3763	Stieng	sun/day/6	107 997 153	2140	bulo1242
+16405	Rengao	sun/day	ma̤t hi	m a̤ t _ h i	3765	Rengao	sun/day/8	241 998 120 1190 405 1076	2140	reng1252
+16410	Tampuan	sun/day	ɗar	ɗ a r	3763	Tampuan	sun/day/6	93 997 153	2140	1251
+18193	Chrau	to climb/ascend	haːw	h aː w	4157	Chrau	to climb/ascend/8	405 1004 462	705	chra1242
+18194	Cua	to climb/ascend	gamaːk	ɡ a m aː k	4152	Cua	to climb/ascend/46	831 997 241 1004 838	705	cuaa1241
+18195	Cua	to climb/ascend	sɔːt	s ɔː t	4153	Cua	to climb/ascend/47	89 914 120	705	cuaa1241
+18196	Halang	to climb/ascend	haːw	h aː w	4157	Halang	to climb/ascend/8	405 1004 462	705	hala1252
+18197	Jeh	to climb/ascend	haːw	h aː w	4157	Jeh	to climb/ascend/8	405 1004 462	705	jehh1245
+18198	Jeh	to climb/ascend	da̤k	d a̤ k	4156	Jeh	to climb/ascend/7	145 998 838	705	jehh1245
+18199	JruLaven	to climb/ascend	haw	h a w	4157	Jru-Laven	to climb/ascend/8	405 997 462	705	lave1248
+18186	Alak	to climb/ascend	tʻɨk	tʼ ɨ k	4156	Alak	to climb/ascend/7	60 983 838	705	alak1253
+18187	BahnarGolar	to climb/ascend	haːw	h aː w	4157	Bahnar-Golar	to climb/ascend/8	405 1004 462	705	bahn1262
+18188	BahnarKontum	to climb/ascend	haːw	h aː w	4157	Bahnar-Kontum	to climb/ascend/8	405 1004 462	705	bahn1262
+18189	BahnarPleiku	to climb/ascend	haːw	h aː w	4157	Bahnar-Pleiku	to climb/ascend/8	405 1004 462	705	bahn1262
+18190	Brao	to climb/ascend	haːw	h aː w	4157	Brao	to climb/ascend/8	405 1004 462	705	lave1249
+18191	Bunong	to climb/ascend	haːw	h aː w	4157	Bunong	to climb/ascend/8	405 1004 462	705	cent1992
+18192	Cheng	to climb/ascend	dɨk	d ɨ k	4156	Cheng	to climb/ascend/7	145 983 838	705	jeng1241
+18207	Sapuan	to climb/ascend	dɨk	d ɨ k	4156	Sapuan	to climb/ascend/7	145 983 838	705	sapu1248
+18208	Sedang	to climb/ascend	hɛ̰o	h ɛ̰ o	4157	Sedang	to climb/ascend/8	405 1124 887	705	seda1262
+18209	Sre	to climb/ascend	haːw	h aː w	4157	Sre	to climb/ascend/8	405 1004 462	705	koho1244
+18210	Stieng	to climb/ascend	haːw	h aː w	4157	Stieng	to climb/ascend/8	405 1004 462	705	bulo1242
+18211	Tampuan	to climb/ascend	haːw	h aː w	4157	Tampuan	to climb/ascend/8	405 1004 462	705	1251
+18204	Nyaheun	to climb/ascend	haːw	h aː w	4157	Nyaheun	to climb/ascend/8	405 1004 462	705	nyah1249
+18203	MnongRlm	to climb/ascend	haːw	h aː w	4157	Mnong-Rölöm	to climb/ascend/8	405 1004 462	705	east2333
+18205	Ramam	to climb/ascend	haːw	h aː w	4157	Ramam	to climb/ascend/8	405 1004 462	705	roma1331
+18206	Rengao	to climb/ascend	haːw	h aː w	4157	Rengao	to climb/ascend/8	405 1004 462	705	reng1252
+18737	Sapuan	to descend	tieh	t i e h	4281	Sapuan	to descend/9	120 1076 1089 405	2014	sapu1248
+18718	Alak	to descend	cruːs	c r uː s	4279	Alak	to descend/7	606 153 860 89	2014	alak1253
+18719	BahnarGolar	to descend	ɟuːr	ɟ uː r	4280	Bahnar-Golar	to descend/8	609 860 153	2014	bahn1262
+18727	Halang	to descend	ɟur	ɟ u r	4280	Halang	to descend/8	609 868 153	2014	hala1252
+18729	JruLaven	to descend	tieh	t i e h	4281	Jru-Laven	to descend/9	120 1076 1089 405	2014	lave1248
+18736	Rengao	to descend	ɟṳːr	ɟ ṳː r	4280	Rengao	to descend/8	609 849 153	2014	reng1252
+18738	Sedang	to descend	cu	c u	4280	Sedang	to descend/8	606 868	2014	seda1262
+18741	Tampuan	to descend	cɨ̤r	c ɨ̤ r	4280	Tampuan	to descend/8	606 982 153	2014	1251
+18739	Sre	to descend	ɟur	ɟ u r	4280	Sre	to descend/8	609 868 153	2014	koho1244
+18720	BahnarKontum	to descend	ɟuːr	ɟ uː r	4280	Bahnar-Kontum	to descend/8	609 860 153	2014	bahn1262
+18721	BahnarPleiku	to descend	ɟuːr	ɟ uː r	4280	Bahnar-Pleiku	to descend/8	609 860 153	2014	bahn1262
+18722	Brao	to descend	tɨːx	t ɨː x	4281	Brao	to descend/9	120 976 778	2014	lave1249
+18723	Bunong	to descend	truɲ	t r u ɲ	4273	Bunong	to descend/30	120 153 868 595	2014	cent1992
+18724	Cheng	to descend	tih	t i h	4281	Cheng	to descend/9	120 1076 405	2014	jeng1241
+18725	Chrau	to descend	ɟɨr	ɟ ɨ r	4280	Chrau	to descend/8	609 983 153	2014	chra1242
+18726	Cua	to descend	ʔalʌh	ʔ a l ʌ h	4272	Cua	to descend/3	409 997 554 960 405	2014	cuaa1241
+18728	Jeh	to descend	ɟɔ̤l	ɟ ɔ̤ l	4280	Jeh	to descend/8	609 912 554	2014	jehh1245
+18730	Kasseng	to descend	trɔh	t r ɔ h	4252	Kasseng	to descend/10	120 153 916 405	2014	kass1248
+18734	Nyaheun	to descend	tieh	t i e h	4281	Nyaheun	to descend/9	120 1076 1089 405	2014	nyah1249
+18740	Stieng	to descend	ɟur	ɟ u r	4280	Stieng	to descend/8	609 868 153	2014	bulo1242
+18733	MnongRlm	to descend	ɟɨr / ɟɨːr	ɟ ɨ r	4280	Mnong-Rölöm	to descend/8	609 983 153	2014	east2333
+18964	Alak	to dig	ciːr	c iː r	4334	Alak	to dig/6	606 1068 153	1418	alak1253
+18965	BahnarGolar	to dig	siːr	s iː r	4334	Bahnar-Golar	to dig/6	89 1068 153	1418	bahn1262
+18966	BahnarKontum	to dig	siːr	s iː r	4334	Bahnar-Kontum	to dig/6	89 1068 153	1418	bahn1262
+18967	BahnarPleiku	to dig	siːr	s iː r	4334	Bahnar-Pleiku	to dig/6	89 1068 153	1418	bahn1262
+18968	Brao	to dig	cah	c a h	4335	Brao	to dig/7	606 997 405	1418	lave1249
+18969	Bunong	to dig	kuːç	k uː ç	4330	Bunong	to dig/36	838 860 583	1418	cent1992
+18983	Rengao	to dig	cɔːj	c ɔː j	4303	Rengao	to dig/10	606 914 570	1418	reng1252
+18988	Tampuan	to dig	səir	s ə i r	4334	Tampuan	to dig/6	89 1022 1076 153	1418	1251
+18973	Halang	to dig	ci̤ər	c i̤ ə r	4334	Halang	to dig/6	606 1072 1022 153	1418	hala1252
+18972	Cua	to dig	siːl	s iː l	4334	Cua	to dig/6	89 1068 554	1418	cuaa1241
+18970	Cheng	to dig	cah brɛh	c a h _ b r ɛ h	4335	Cheng	to dig/7	606 997 405 1190 257 153 1121 405	1418	jeng1241
+18971	Chrau	to dig	ɟiːʔ	ɟ iː ʔ	4336	Chrau	to dig/8	609 1068 409	1418	chra1242
+18974	Jeh	to dig	be̤t	b e̤ t	4337	Jeh	to dig/9	257 1100 120	1418	jehh1245
+18975	JruLaven	to dig	cah	c a h	4335	Jru-Laven	to dig/7	606 997 405	1418	lave1248
+18976	Kasseng	to dig	ciər	c i ə r	4334	Kasseng	to dig/6	606 1076 1022 153	1418	kass1248
+18977	Khaonh	to dig	siɨ	s i ɨ	4334	Khaonh	to dig/6	89 1076 983	1418	cent1992
+18978	Mel	to dig	siː	s iː	4334	Mel	to dig/6	89 1068	1418	cent1992
+18979	MnongRlm	to dig	kuç	k u ç	4330	Mnong-Rölöm	to dig/36	838 868 583	1418	east2333
+18980	MnongRlm	to dig	siːr	s iː r	4334	Mnong-Rölöm	to dig/6	89 1068 153	1418	east2333
+18981	Nyaheun	to dig	cah	c a h	4335	Nyaheun	to dig/7	606 997 405	1418	nyah1249
+18982	Ramam	to dig	coɺ	c o ɺ	4334	Ramam	to dig/6	606 887 531	1418	roma1331
+18984	Sapuan	to dig	cah	c a h	4335	Sapuan	to dig/7	606 997 405	1418	sapu1248
+18985	Sedang	to dig	ciə	c i ə	4334	Sedang	to dig/6	606 1076 1022	1418	seda1262
+18986	Sre	to dig	taː	t aː	4304	Sre	to dig/11	120 1004	1418	koho1244
+18987	Stieng	to dig	sir	s i r	4334	Stieng	to dig/6	89 1076 153	1418	bulo1242
+19488	Cheng	to extinguish/put out	tampat ʔuɲ	t a m p a t _ ʔ u ɲ	4415	Cheng	to extinguish/put out/1	120 997 241 291 997 120 1190 409 868 595	127	jeng1241
+19489	Chrau	to extinguish/put out	ŋət / təŋət	ŋ ə t	4435	Chrau	to extinguish/put out/5	801 1022 120	127	chra1242
+19490	Cua	to extinguish/put out	pʌt	p ʌ t	4415	Cua	to extinguish/put out/1	291 960 120	127	cuaa1241
+19491	Halang	to extinguish/put out	pat	p a t	4415	Halang	to extinguish/put out/1	291 997 120	127	hala1252
+19493	JruLaven	to extinguish/put out	pat	p a t	4415	Jru-Laven	to extinguish/put out/1	291 997 120	127	lave1248
+19494	Kasseng	to extinguish/put out	mpat	m p a t	4415	Kasseng	to extinguish/put out/1	241 291 997 120	127	kass1248
+19481	Alak	to extinguish/put out	mpat	m p a t	4415	Alak	to extinguish/put out/1	241 291 997 120	127	alak1253
+19483	BahnarKontum	to extinguish/put out	pəpăt	p ə p ă t	4415	Bahnar-Kontum	to extinguish/put out/1	291 1022 291 993 120	127	bahn1262
+19492	Jeh	to extinguish/put out	pat	p a t	4415	Jeh	to extinguish/put out/1	291 997 120	127	jehh1245
+19497	MnongRlm	to extinguish/put out	kʰɨt ʔɨːɲ	kʰ ɨ t _ ʔ ɨː ɲ	4436	Mnong-Rölöm	to extinguish/put out/6	820 983 120 1190 409 976 595	127	east2333
+19498	Nyaheun	to extinguish/put out	pat	p a t	4415	Nyaheun	to extinguish/put out/1	291 997 120	127	nyah1249
+19499	Ramam	to extinguish/put out	pat	p a t	4415	Ramam	to extinguish/put out/1	291 997 120	127	roma1331
+19500	Rengao	to extinguish/put out	pat	p a t	4415	Rengao	to extinguish/put out/1	291 997 120	127	reng1252
+19501	Sapuan	to extinguish/put out	mpat ʔuɲ	m p a t _ ʔ u ɲ	4415	Sapuan	to extinguish/put out/1	241 291 997 120 1190 409 868 595	127	sapu1248
+19502	Sedang	to extinguish/put out	təpa	t ə p a	4415	Sedang	to extinguish/put out/1	120 1022 291 997	127	seda1262
+19503	Sre	to extinguish/put out	ŋət	ŋ ə t	4435	Sre	to extinguish/put out/5	801 1022 120	127	koho1244
+19504	Stieng	to extinguish/put out	ŋɔt	ŋ ɔ t	4435	Stieng	to extinguish/put out/5	801 916 120	127	bulo1242
+19482	BahnarGolar	to extinguish/put out	tək	t ə k	4434	Bahnar-Golar	to extinguish/put out/4	120 1022 838	127	bahn1262
+19484	BahnarPleiku	to extinguish/put out	pat	p a t	4415	Bahnar-Pleiku	to extinguish/put out/1	291 997 120	127	bahn1262
+19485	BahnarPleiku	to extinguish/put out	tək	t ə k	4434	Bahnar-Pleiku	to extinguish/put out/4	120 1022 838	127	bahn1262
+19486	Brao	to extinguish/put out	pat	p a t	4415	Brao	to extinguish/put out/1	291 997 120	127	lave1249
+19505	Tampuan	to extinguish/put out	pat	p a t	4415	Tampuan	to extinguish/put out/1	291 997 120	127	1251
+19614	Brao	to fall	kliːh	k l iː h	4441	Brao	to fall/10	838 554 1068 405	1280	lave1249
+19615	Bunong	to fall	ŋklac	ŋ k l a c	4444	Bunong	to fall/13	801 838 554 997 606	1280	cent1992
+19617	Chrau	to fall	təlih	t ə l i h	4441	Chrau	to fall/10	120 1022 554 1076 405	1280	chra1242
+19618	Cua	to fall	kleh	k l e h	4441	Cua	to fall/10	838 554 1089 405	1280	cuaa1241
+19620	Jeh	to fall	təklih	t ə k l i h	4441	Jeh	to fall/10	120 1022 838 554 1076 405	1280	jehh1245
+19621	JruLaven	to fall	kleh	k l e h	4441	Jru-Laven	to fall/10	838 554 1089 405	1280	lave1248
+19613	BahnarPleiku	to fall	klih	k l i h	4441	Bahnar-Pleiku	to fall/10	838 554 1076 405	1280	bahn1262
+19619	Halang	to fall	klih	k l i h	4441	Halang	to fall/10	838 554 1076 405	1280	hala1252
+19622	Kasseng	to fall	kleh	k l e h	4441	Kasseng	to fall/10	838 554 1089 405	1280	kass1248
+19623	Khaonh	to fall	kᵊtop	k ə t o p	4442	Khaonh	to fall/11	838 1022 120 887 291	1280	cent1992
+19624	Mel	to fall	ʔaːtop	ʔ aː t o p	4442	Mel	to fall/11	409 1004 120 887 291	1280	cent1992
+19625	MnongRlm	to fall	boːŋ	b oː ŋ	4443	Mnong-Rölöm	to fall/12	257 880 801	1280	east2333
+19626	MnongRlm	to fall	lac	l a c	4444	Mnong-Rölöm	to fall/13	554 997 606	1280	east2333
+19627	Nyaheun	to fall	klieh	k l i e h	4441	Nyaheun	to fall/10	838 554 1076 1089 405	1280	nyah1249
+19628	Ramam	to fall	klauh	k l a u h	4441	Ramam	to fall/10	838 554 997 868 405	1280	roma1331
+19629	Rengao	to fall	bɔŋ	b ɔ ŋ	4443	Rengao	to fall/12	257 916 801	1280	reng1252
+19630	Rengao	to fall	kədṳŋ	k ə d ṳ ŋ	4444	Rengao	to fall/13	838 1022 145 861 801	1280	reng1252
+19631	Rengao	to fall	rələ̤m	r ə l ə̤ m	4445	Rengao	to fall/14	153 1022 554 1025 241	1280	reng1252
+19632	Sapuan	to fall	klieh	k l i e h	4441	Sapuan	to fall/10	838 554 1076 1089 405	1280	sapu1248
+19633	Sedang	to fall	klɛh	k l ɛ h	4441	Sedang	to fall/10	838 554 1121 405	1280	seda1262
+19634	Sre	to fall	duh	d u h	4446	Sre	to fall/15	145 868 405	1280	koho1244
+19635	Stieng	to fall	ʔatɔp	ʔ a t ɔ p	4442	Stieng	to fall/11	409 997 120 916 291	1280	bulo1242
+19636	Stieng	to fall	kleh	k l e h	4441	Stieng	to fall/10	838 554 1089 405	1280	bulo1242
+19637	Tampuan	to fall	lɛʔ	l ɛ ʔ	4509	Tampuan	to fall/9	554 1121 409	1280	1251
+19610	Alak	to fall	ʔlih	ʔ l i h	4441	Alak	to fall/10	409 554 1076 405	1280	alak1253
+19611	BahnarGolar	to fall	klih	k l i h	4441	Bahnar-Golar	to fall/10	838 554 1076 405	1280	bahn1262
+19612	BahnarKontum	to fall	klih	k l i h	4441	Bahnar-Kontum	to fall/10	838 554 1076 405	1280	bahn1262
+19920	Alak	to fly	par	p a r	4572	Alak	to fly/1	291 997 153	1441	alak1253
+19921	BahnarGolar	to fly	par	p a r	4572	Bahnar-Golar	to fly/1	291 997 153	1441	bahn1262
+19922	BahnarKontum	to fly	par	p a r	4572	Bahnar-Kontum	to fly/1	291 997 153	1441	bahn1262
+19923	BahnarPleiku	to fly	par	p a r	4572	Bahnar-Pleiku	to fly/1	291 997 153	1441	bahn1262
+19924	Brao	to fly	par	p a r	4572	Brao	to fly/1	291 997 153	1441	lave1249
+19925	Bunong	to fly	par	p a r	4572	Bunong	to fly/1	291 997 153	1441	cent1992
+19926	Cheng	to fly	par	p a r	4572	Cheng	to fly/1	291 997 153	1441	jeng1241
+19927	Chrau	to fly	par	p a r	4572	Chrau	to fly/1	291 997 153	1441	chra1242
+19928	Cua	to fly	pʌl	p ʌ l	4572	Cua	to fly/1	291 960 554	1441	cuaa1241
+19930	Jeh	to fly	təpal	t ə p a l	4572	Jeh	to fly/1	120 1022 291 997 554	1441	jehh1245
+19931	JruLaven	to fly	par	p a r	4572	Jru-Laven	to fly/1	291 997 153	1441	lave1248
+19932	Kasseng	to fly	par	p a r	4572	Kasseng	to fly/1	291 997 153	1441	kass1248
+19933	Khaonh	to fly	paɨ	p a ɨ	4572	Khaonh	to fly/1	291 997 983	1441	cent1992
+19935	MnongRlm	to fly	par	p a r	4572	Mnong-Rölöm	to fly/1	291 997 153	1441	east2333
+19936	Nyaheun	to fly	pan	p a n	4572	Nyaheun	to fly/1	291 997 107	1441	nyah1249
+19937	Ramam	to fly	paɺ	p a ɺ	4572	Ramam	to fly/1	291 997 531	1441	roma1331
+19938	Rengao	to fly	par	p a r	4572	Rengao	to fly/1	291 997 153	1441	reng1252
+19939	Sapuan	to fly	pal	p a l	4572	Sapuan	to fly/1	291 997 554	1441	sapu1248
+19940	Sedang	to fly	kəníaŋ	k ə n i a ŋ	4590	Sedang	to fly/6	838 1022 107 1076 997 801	1441	seda1262
+19942	Stieng	to fly	par	p a r	4572	Stieng	to fly/1	291 997 153	1441	bulo1242
+19943	Tampuan	to fly	par	p a r	4572	Tampuan	to fly/1	291 997 153	1441	1251
+19929	Halang	to fly	par	p a r	4572	Halang	to fly/1	291 997 153	1441	hala1252
+19941	Sre	to fly	par	p a r	4572	Sre	to fly/1	291 997 153	1441	koho1244
+23979	Alak	to wash (hands, things)	raːw	r aː w	5884	Alak	to wash (hands, things)/8	153 1004 462	1453	alak1253
+23980	BahnarGolar	to wash (hands, things)	ʔɲaːw	ʔ ɲ aː w	5885	Bahnar-Golar	to wash (hands, things)/9	409 595 1004 462	1453	bahn1262
+23981	BahnarKontum	to wash (hands, things)	ʔɲaːw	ʔ ɲ aː w	5885	Bahnar-Kontum	to wash (hands, things)/9	409 595 1004 462	1453	bahn1262
+23982	BahnarPleiku	to wash (hands, things)	ʔɲaːw	ʔ ɲ aː w	5885	Bahnar-Pleiku	to wash (hands, things)/9	409 595 1004 462	1453	bahn1262
+23983	Brao	to wash (hands, things)	cʰdaː	cʰ d aː	5843	Brao	to wash (hands, things)/10	604 145 1004	1453	lave1249
+23984	Bunong	to wash (hands, things)	raːw	r aː w	5884	Bunong	to wash (hands, things)/8	153 1004 462	1453	cent1992
+23985	Cheng	to wash (hands, things)	raːw	r aː w	5884	Cheng	to wash (hands, things)/8	153 1004 462	1453	jeng1241
+23986	Chrau	to wash (hands, things)	raːw	r aː w	5884	Chrau	to wash (hands, things)/8	153 1004 462	1453	chra1242
+23987	Cua	to wash (hands, things)	ʔɲaːw	ʔ ɲ aː w	5885	Cua	to wash (hands, things)/9	409 595 1004 462	1453	cuaa1241
+23988	Halang	to wash (hands, things)	raːw	r aː w	5884	Halang	to wash (hands, things)/8	153 1004 462	1453	hala1252
+23989	Jeh	to wash (hands, things)	raːw	r aː w	5884	Jeh	to wash (hands, things)/8	153 1004 462	1453	jehh1245
+23990	JruLaven	to wash (hands, things)	htaː	h t aː	5843	Jru-Laven	to wash (hands, things)/10	405 120 1004	1453	lave1248
+23991	Kasseng	to wash (hands, things)	ʔəraːw	ʔ ə r aː w	5884	Kasseng	to wash (hands, things)/8	409 1022 153 1004 462	1453	kass1248
+23992	Khaonh	to wash (hands, things)	ʀɑw	ʀ ɑ w	5884	Khaonh	to wash (hands, things)/8	767 952 462	1453	cent1992
+23993	Mel	to wash (hands, things)	ᵊraw	ə r a w	5884	Mel	to wash (hands, things)/8	1022 153 997 462	1453	cent1992
+23994	MnongRlm	to wash (hands, things)	raːw	r aː w	5884	Mnong-Rölöm	to wash (hands, things)/8	153 1004 462	1453	east2333
+23995	Nyaheun	to wash (hands, things)	hraː	h r aː	5884	Nyaheun	to wash (hands, things)/8	405 153 1004	1453	nyah1249
+23996	Ramam	to wash (hands, things)	ɣaːw	ɣ aː w	5884	Ramam	to wash (hands, things)/8	780 1004 462	1453	roma1331
+23997	Rengao	to wash (hands, things)	raːw	r aː w	5884	Rengao	to wash (hands, things)/8	153 1004 462	1453	reng1252
+23999	Sedang	to wash (hands, things)	ʂɛ̰o	ʂ ɛ̰ o	5884	Sedang	to wash (hands, things)/8	705 1124 887	1453	seda1262
+24000	Sre	to wash (hands, things)	raːw	r aː w	5884	Sre	to wash (hands, things)/8	153 1004 462	1453	koho1244
+24001	Stieng	to wash (hands, things)	raːw	r aː w	5884	Stieng	to wash (hands, things)/8	153 1004 462	1453	bulo1242
+24002	Tampuan	to wash (hands, things)	raːw	r aː w	5884	Tampuan	to wash (hands, things)/8	153 1004 462	1453	1251

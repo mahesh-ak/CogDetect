@@ -1,0 +1,441 @@
+ID	DOCULECT	CONCEPT	IPA	COGID	SOURCE_COGNATE_CLASS	NOTE	PARTIAL	PARTIALID	CONCEPTICON_ID	TOKENS	CLPA_IDS	GLOTTOLOG
+29140	Beijing	big	ta⁵¹	53	大		大	1052	1202	t a ⁵¹	120 997 1186	mand1415
+29141	Jinan	big	ta²¹	53	大		大	1052	1202	t a ²¹	120 997 1152	mand1415
+29142	Shenyang	big	ta⁴¹	53	大		大	1052	1202	t a ⁴¹	120 997 1177	mand1415
+29143	Xian	big	tɑ⁴⁵	53	大		大	1052	1202	t ɑ ⁴⁵	120 952 1181	mand1415
+29144	Chengdu	big	ta¹³	53	大		大	1052	1202	t a ¹³	120 997 1168	mand1415
+29145	Kunming	big	ta¹³	53	大		大	1052	1202	t a ¹³	120 997 1168	mand1415
+29146	Hefei	big	ta⁵³	53	大		大	1052	1202	t a ⁵³	120 997 1185	mand1415
+29147	Yangzhou	big	tɑ⁵⁵	53	大		大	1052	1202	t ɑ ⁵⁵	120 952 1189	mand1415
+29148	Suzhou	big	dəu³¹	53	大		大	1052	1202	d ə u ³¹	145 1022 868 1162	wuch1236
+29149	Wenzhou	big	du¹¹	53	大		大	1052	1202	d u ¹¹	145 868 1169	wuch1236
+29150	Changsha	big	tai²¹	53	大		大	1052	1202	t a i ²¹	120 997 1076 1152	xian1251
+29151	Nanchang	big	tʰai³¹	53	大		大	1052	1202	tʰ a i ³¹	138 997 1076 1162	gan1239
+29152	Meixian	big	tʰai⁴²	53	大		大	1052	1202	tʰ a i ⁴²	138 997 1076 1175	hak1236
+29153	Guangzhou	big	tai²²	53	大		大	1052	1202	t a i ²²	120 997 1076 1150	yuec1235
+29154	Yangjiang	big	tai⁴⁵⁴	53	大		大	1052	1202	t a i ⁴⁵⁴	120 997 1076 1182	yuec1235
+29155	Xiamen	big	tua³³	53	大		大	1052	1202	t u a ³³	120 868 997 1161	minn1241
+29156	Chaozhou	big	tua¹¹	53	大		大	1052	1202	t u a ¹¹	120 868 997 1169	min1241
+29157	Fuzhou	big	tuai²⁴²	53	大		大	1052	1202	t u a i ²⁴²	120 868 997 1076 1157	mind1253
+29403	Beijing	dark	xei⁵⁵	88	黑		黑	1089	706	x e i ⁵⁵	778 1089 1076 1189	mand1415
+29404	Jinan	dark	xei²¹³	88	黑		黑	1089	706	x e i ²¹³	778 1089 1076 1154	mand1415
+29405	Jinan	dark	ŋæ̃²¹	90	暗	[2]	暗	1090	706	ŋ æ̃ ∼ ²¹	801 1086 1191 1152	mand1415
+29406	Shenyang	dark	an⁴¹	90	暗		暗	1090	706	a n ⁴¹	997 107 1177	mand1415
+29407	Xian	dark	ŋæ̃⁴⁵	90	暗		暗	1090	706	ŋ æ̃ ∼ ⁴⁵	801 1086 1191 1181	mand1415
+29408	Chengdu	dark	xe³¹	88	黑		黑	1089	706	x e ³¹	778 1089 1162	mand1415
+29409	Kunming	dark	xə³¹	88	黑		黑	1089	706	x ə ³¹	778 1022 1162	mand1415
+29410	Hefei	dark	xɐʔ⁴	88	黑		黑	1089	706	x ɐ ʔ ⁴	778 986 409 1174	mand1415
+29411	Yangzhou	dark	ɛ̃⁵⁵	90	暗		暗	1090	706	ɛ̃ ∼ ⁵⁵	1123 1191 1189	mand1415
+29412	Yangzhou	dark	xəʔ⁴	88	黑	[2]	黑	1089	706	x ə ʔ ⁴	778 1022 409 1174	mand1415
+29413	Suzhou	dark	ø⁵¹³	90	暗		暗	1090	706	ø ⁵¹³	1052 1187	wuch1236
+29414	Suzhou	dark	hɤʔ⁴	88	黑	[2]	黑	1089	706	h ɤ ʔ ⁴	405 947 409 1174	wuch1236
+29415	Wenzhou	dark	ø¹²	90	暗		暗	1090	706	ø ¹²	1052 1167	wuch1236
+29416	Changsha	dark	ŋan⁵⁵	90	暗		暗	1090	706	ŋ a n ⁵⁵	801 997 107 1189	xian1251
+29417	Nanchang	dark	ŋɔn⁵⁵	90	暗		暗	1090	706	ŋ ɔ n ⁵⁵	801 916 107 1189	gan1239
+29418	Meixian	dark	am⁴²	90	暗		暗	1090	706	a m ⁴²	997 241 1175	hak1236
+29419	Guangzhou	dark	hɐk⁵	88	黑		黑	1089	706	h ɐ k ⁵	405 986 838 1183	yuec1235
+29420	Yangjiang	dark	ɐm²⁴	90	暗		暗	1090	706	ɐ m ²⁴	986 241 1156	yuec1235
+29421	Xiamen	dark	am¹¹	90	暗		暗	1090	706	a m ¹¹	997 241 1169	minn1241
+29422	Chaozhou	dark	am²¹³	90	暗		暗	1090	706	a m ²¹³	997 241 1154	min1241
+29423	Fuzhou	dark	aŋ²¹³	90	暗		暗	1090	706	a ŋ ²¹³	997 801 1154	mind1253
+29328	Beijing	full	man²¹⁴	78	滿		滿	1079	1429	m a n ²¹⁴	241 997 107 1155	mand1415
+29329	Jinan	full	mæ̃⁵⁵	78	滿		滿	1079	1429	m æ̃ ∼ ⁵⁵	241 1086 1191 1189	mand1415
+29330	Shenyang	full	man²¹³	78	滿		滿	1079	1429	m a n ²¹³	241 997 107 1154	mand1415
+29331	Xian	full	mæ̃⁵³	78	滿		滿	1079	1429	m æ̃ ∼ ⁵³	241 1086 1191 1185	mand1415
+29332	Chengdu	full	man⁵³	78	滿		滿	1079	1429	m a n ⁵³	241 997 107 1185	mand1415
+29333	Kunming	full	mã⁵³	78	滿		滿	1079	1429	m ã ∼ ⁵³	241 1014 1191 1185	mand1415
+29334	Hefei	full	mʊ̃²⁴	78	滿		滿	1079	1429	m ʊ̃ ∼ ²⁴	241 905 1191 1156	mand1415
+29335	Yangzhou	full	mõ⁴²	78	滿		滿	1079	1429	m õ ∼ ⁴²	241 883 1191 1175	mand1415
+29336	Suzhou	full	mø³¹	78	滿		滿	1079	1429	m ø ³¹	241 1052 1162	wuch1236
+29337	Wenzhou	full	mø²⁴	78	滿		滿	1079	1429	m ø ²⁴	241 1052 1156	wuch1236
+29338	Changsha	full	mõ⁴¹	78	滿		滿	1079	1429	m õ ∼ ⁴¹	241 883 1191 1177	xian1251
+29339	Nanchang	full	mɔn²¹³	78	滿		滿	1079	1429	m ɔ n ²¹³	241 916 107 1154	gan1239
+29340	Meixian	full	man⁴⁴	78	滿		滿	1079	1429	m a n ⁴⁴	241 997 107 1178	hak1236
+29341	Guangzhou	full	mun²³	78	滿		滿	1079	1429	m u n ²³	241 868 107 1151	yuec1235
+29342	Yangjiang	full	mei²⁴	79	瀰		瀰	1080	1429	m e i ²⁴	241 1089 1076 1156	yuec1235
+29343	Xiamen	full	mũã⁵¹	78	滿		滿	1079	1429	m ũ ã ∼ ⁵¹	241 866 1014 1191 1186	minn1241
+29344	Chaozhou	full	mũã⁵³	78	滿		滿	1079	1429	m ũ ã ∼ ⁵³	241 866 1014 1191 1185	min1241
+29345	Chaozhou	full	tĩ³⁵	80	! □	[2]	A	1081	1429	t ĩ ∼ ³⁵	120 1078 1191 1165	min1241
+29346	Fuzhou	full	paʔ⁴	81	!		B	1082	1429	p a ʔ ⁴	291 997 409 1174	mind1253
+27691	Suzhou	hard	ŋaŋ³¹	700	硬		硬	465	1884	ŋ a ŋ ³¹	801 997 801 1162	wuch1236
+29522	Beijing	hard	iŋ⁵¹	700	硬		硬	465	1884	i ŋ ⁵¹	1076 801 1186	mand1415
+29523	Jinan	hard	iŋ²¹	700	硬		硬	465	1884	i ŋ ²¹	1076 801 1152	mand1415
+29524	Shenyang	hard	iŋ⁴¹	700	硬		硬	465	1884	i ŋ ⁴¹	1076 801 1177	mand1415
+29525	Xian	hard	ȵiŋ⁴⁵	700	硬		硬	465	1884	nʲ i ŋ ⁴⁵	101 1076 801 1181	mand1415
+29526	Chengdu	hard	ŋən¹³	700	硬		硬	465	1884	ŋ ə n ¹³	801 1022 107 1168	mand1415
+29527	Kunming	hard	ə̃¹³	700	硬		硬	465	1884	ə̃ ∼ ¹³	1020 1191 1168	mand1415
+29528	Hefei	hard	ʐən⁵³	700	硬		硬	465	1884	ʐ ə n ⁵³	706 1022 107 1185	mand1415
+29529	Yangzhou	hard	iŋ⁵⁵	700	硬		硬	465	1884	i ŋ ⁵⁵	1076 801 1189	mand1415
+29531	Wenzhou	hard	ŋɛ¹¹	700	硬		硬	465	1884	ŋ ɛ ¹¹	801 1121 1169	wuch1236
+29532	Changsha	hard	ŋən²¹	700	硬		硬	465	1884	ŋ ə n ²¹	801 1022 107 1152	xian1251
+29533	Nanchang	hard	ŋaŋ³¹	700	硬		硬	465	1884	ŋ a ŋ ³¹	801 997 801 1162	gan1239
+29534	Meixian	hard	ŋaŋ⁴²	700	硬		硬	465	1884	ŋ a ŋ ⁴²	801 997 801 1175	hak1236
+29535	Guangzhou	hard	ŋaŋ²²	700	硬		硬	465	1884	ŋ a ŋ ²²	801 997 801 1150	yuec1235
+29536	Yangjiang	hard	ŋaŋ⁴⁵⁴	700	硬		硬	465	1884	ŋ a ŋ ⁴⁵⁴	801 997 801 1182	yuec1235
+29537	Xiamen	hard	ŋĩ³³	700	硬		硬	465	1884	ŋ ĩ ∼ ³³	801 1078 1191 1161	minn1241
+29538	Chaozhou	hard	ŋe³⁵	700	硬		硬	465	1884	ŋ e ³⁵	801 1089 1165	min1241
+29539	Fuzhou	hard	ŋaiŋ²⁴²	700	硬		硬	465	1884	ŋ a i ŋ ²⁴²	801 997 1076 801 1157	mind1253
+28125	Beijing	inside	li²¹⁴₂₁tʰou⁰	925	裏頭		裏頭	701 702	1606	l i ²¹⁴ tʰ o u ⁰	554 1076 1155 138 887 868 1171	mand1415
+28126	Beijing	inside	li²¹⁴₂₁pianr⁰	926	裏邊兒	[2]	裏邊	701 703	1606	l i ²¹⁴ p i a n r ⁰	554 1076 1155 291 1076 997 107 153 1171	mand1415
+28127	Jinan	inside	li⁵⁵pɛr⁰	926	裏邊兒		裏邊	701 703	1606	l i ⁵⁵ p ɛ r ⁰	554 1076 1189 291 1121 153 1171	mand1415
+28128	Shenyang	inside	li²¹³₂₁tʰou⁰	925	裏頭		裏頭	701 702	1606	l i ²¹³ tʰ o u ⁰	554 1076 1154 138 887 868 1171	mand1415
+28129	Xian	inside	li⁵³tʰou⁰	925	裏頭		裏頭	701 702	1606	l i ⁵³ tʰ o u ⁰	554 1076 1185 138 887 868 1171	mand1415
+28130	Chengdu	inside	xəu¹³₅₃tʰəu³¹	930	後頭		後頭	704 702	1606	x ə u ¹³ tʰ ə u ³¹	778 1022 868 1168 138 1022 868 1162	mand1415
+28131	Chengdu	inside	i⁵³tʰəu³¹	925	裏頭	[2]	裏頭	701 702	1606	i ⁵³ tʰ ə u ³¹	1076 1185 138 1022 868 1162	mand1415
+28132	Kunming	inside	i⁵³ʂəu⁵³	927	裏首		裏首	701 705	1606	i ⁵³ ʂ ə u ⁵³	1076 1185 705 1022 868 1185	mand1415
+28133	Hefei	inside	zๅ²⁴tʰɯ⁰	925	裏頭		裏頭	701 702	1606	z ɿ ²⁴ tʰ ɯ ⁰	80 945 1156 138 944 1171	mand1415
+28134	Yangzhou	inside	li⁴²tʰɤɯ⁰	925	裏頭		裏頭	701 702	1606	l i ⁴² tʰ ɤ ɯ ⁰	554 1076 1175 138 947 944 1171	mand1415
+28135	Suzhou	inside	li³¹₂₂ɕiaŋ⁵¹³₄₄	928	裏向		裏向	701 706	1606	l i ³¹ ɕ i a ŋ ⁵¹³	554 1076 1162 204 1076 997 801 1187	wuch1236
+28136	Wenzhou	inside	tei⁴⁵mai¹¹	931	底面		底面	707 708	1606	t e i ⁴⁵ m a i ¹¹	120 1089 1076 1181 241 997 1076 1169	wuch1236
+28137	Changsha	inside	li⁴¹təu⁰	925	裏頭		裏頭	701 702	1606	l i ⁴¹ t ə u ⁰	554 1076 1177 120 1022 868 1171	xian1251
+28138	Nanchang	inside	li²¹³tʰɛu²⁴	925	裏頭		裏頭	701 702	1606	l i ²¹³ tʰ ɛ u ²⁴	554 1076 1154 138 1121 868 1156	gan1239
+28139	Meixian	inside	ti⁴⁴pɔi⁴²	934	低背	[*]	低背	709 710	1606	t i ⁴⁴ p ɔ i ⁴²	120 1076 1178 291 916 1076 1175	hak1236
+28140	Guangzhou	inside	løy²³pin²²	929	裏便	[*]	裏便	701 711	1606	l ø y ²³ p i n ²²	554 1052 1047 1151 291 1076 107 1150	yuec1235
+28141	Guangzhou	inside	jɐp²pin²²	936	入便	[2][*]	入便	712 711	1606	j ɐ p ² p i n ²²	570 986 291 1149 291 1076 107 1150	yuec1235
+28142	Yangjiang	inside	lei²¹tʰɐu⁴⁴³	925	裏頭		裏頭	701 702	1606	l e i ²¹ tʰ ɐ u ⁴⁴³	554 1089 1076 1152 138 986 868 1179	yuec1235
+28143	Xiamen	inside	lai³³₁₁bin³³	937	內面		內面	713 708	1606	l a i ³³ b i n ³³	554 997 1076 1161 257 1076 107 1161	minn1241
+28144	Chaozhou	inside	lai³⁵₂₁põĩ⁵⁵	938	內畔		內畔	713 714	1606	l a i ³⁵ p õ ĩ ∼ ⁵⁵	554 997 1076 1165 291 883 1078 1191 1189	min1241
+28145	Chaozhou	inside	tõĩ⁵³₂₄põĩ⁵⁵	932	底畔	[2]	底畔	707 714	1606	t õ ĩ ∼ ⁵³ p õ ĩ ∼ ⁵⁵	120 883 1078 1191 1185 291 883 1078 1191 1189	min1241
+28146	Fuzhou	inside	tie³¹₄₄lie²¹³	933	底勢		底勢	707 715	1606	t i e ³¹ l i e ²¹³	120 1076 1089 1162 554 1076 1089 1154	mind1253
+27017	Shenyang	long	tsʰaŋ³⁵	453	長		長	224	1203	tsʰ a ŋ ³⁵	13 997 801 1165	mand1415
+29218	Beijing	long	tʂʰaŋ³⁵	453	長		長	224	1203	ʈʂʰ a ŋ ³⁵	697 997 801 1165	mand1415
+29219	Jinan	long	tʂʰaŋ⁴²	453	長		長	224	1203	ʈʂʰ a ŋ ⁴²	697 997 801 1175	mand1415
+29220	Xian	long	tʂʰɑŋ²⁴	453	長		長	224	1203	ʈʂʰ ɑ ŋ ²⁴	697 952 801 1156	mand1415
+29221	Chengdu	long	tsʰaŋ³¹	453	長		長	224	1203	tsʰ a ŋ ³¹	13 997 801 1162	mand1415
+29222	Kunming	long	tʂʰã³¹	453	長		長	224	1203	ʈʂʰ ã ∼ ³¹	697 1014 1191 1162	mand1415
+29223	Hefei	long	tʂʰɑ̃⁵⁵	453	長		長	224	1203	ʈʂʰ ɑ̃ ∼ ⁵⁵	697 951 1191 1189	mand1415
+29224	Yangzhou	long	tsʰɑŋ³⁴	453	長		長	224	1203	tsʰ ɑ ŋ ³⁴	13 952 801 1164	mand1415
+29225	Suzhou	long	zaŋ²⁴	453	長		長	224	1203	z a ŋ ²⁴	80 997 801 1156	wuch1236
+29226	Wenzhou	long	dʑi³¹	453	長		長	224	1203	dʑ i ³¹	197 1076 1162	wuch1236
+29227	Changsha	long	tsan¹³	453	長		長	224	1203	ts a n ¹³	15 997 107 1168	xian1251
+29228	Nanchang	long	tsʰɔŋ²⁴	453	長		長	224	1203	tsʰ ɔ ŋ ²⁴	13 916 801 1156	gan1239
+29229	Meixian	long	tsʰɔŋ¹²	453	長		長	224	1203	tsʰ ɔ ŋ ¹²	13 916 801 1167	hak1236
+29230	Guangzhou	long	tʃʰœŋ²¹	453	長		長	224	1203	tʃʰ œ ŋ ²¹	661 1059 801 1152	yuec1235
+29231	Yangjiang	long	tʃʰiɛŋ⁴⁴³	453	長		長	224	1203	tʃʰ i ɛ ŋ ⁴⁴³	661 1076 1121 801 1179	yuec1235
+29232	Xiamen	long	tῃ²⁴	453	長		長	224	1203	t ŋ̍ ²⁴	120 798 1156	minn1241
+29233	Chaozhou	long	tɯῃ⁵⁵	453	長		長	224	1203	t ɯ ŋ̍ ⁵⁵	120 944 798 1189	min1241
+29234	Fuzhou	long	touŋ⁵²	453	長		長	224	1203	t o u ŋ ⁵²	120 887 868 801 1184	mind1253
+29578	Beijing	old (of person)	lau²¹⁴	108	老		老	1107	2112	l a u ²¹⁴	554 997 868 1155	mand1415
+29579	Jinan	old (of person)	lɔ⁵⁵	108	老		老	1107	2112	l ɔ ⁵⁵	554 916 1189	mand1415
+29580	Shenyang	old (of person)	lau²¹³	108	老		老	1107	2112	l a u ²¹³	554 997 868 1154	mand1415
+29581	Xian	old (of person)	lɑu⁵³	108	老		老	1107	2112	l ɑ u ⁵³	554 952 868 1185	mand1415
+29582	Chengdu	old (of person)	nau⁵³	108	老		老	1107	2112	n a u ⁵³	107 997 868 1185	mand1415
+29583	Kunming	old (of person)	lau⁵³	108	老		老	1107	2112	l a u ⁵³	554 997 868 1185	mand1415
+29584	Hefei	old (of person)	nɔ²⁴	108	老		老	1107	2112	n ɔ ²⁴	107 916 1156	mand1415
+29585	Yangzhou	old (of person)	lɔ⁴²	108	老		老	1107	2112	l ɔ ⁴²	554 916 1175	mand1415
+29586	Suzhou	old (of person)	læ³¹	108	老		老	1107	2112	l æ ³¹	554 1087 1162	wuch1236
+29587	Wenzhou	old (of person)	lɜ²⁴	108	老		老	1107	2112	l ɜ ²⁴	554 1016 1156	wuch1236
+29588	Changsha	old (of person)	lau⁴¹	108	老		老	1107	2112	l a u ⁴¹	554 997 868 1177	xian1251
+29589	Nanchang	old (of person)	lau²¹³	108	老		老	1107	2112	l a u ²¹³	554 997 868 1154	gan1239
+29590	Meixian	old (of person)	lau³¹	108	老		老	1107	2112	l a u ³¹	554 997 868 1162	hak1236
+29591	Guangzhou	old (of person)	lou²³	108	老		老	1107	2112	l o u ²³	554 887 868 1151	yuec1235
+29592	Yangjiang	old (of person)	lou²¹	108	老		老	1107	2112	l o u ²¹	554 887 868 1152	yuec1235
+29593	Xiamen	old (of person)	lau³³	108	老		老	1107	2112	l a u ³³	554 997 868 1161	minn1241
+29594	Chaozhou	old (of person)	lau³⁵	108	老		老	1107	2112	l a u ³⁵	554 997 868 1165	min1241
+29595	Fuzhou	old (of person)	kuai⁴⁴	109	!		A	1108	2112	k u a i ⁴⁴	838 868 997 1076 1178	mind1253
+26672	Beijing	the earthworm	tɕʰy⁵⁵tɕʰin⁰	1167	蛐親	[*]	蛐親	93	2350	tɕʰ y ⁵⁵ tɕʰ i n ⁰	199 1047 1189 199 1076 107 1171	mand1415
+26673	Jinan	the earthworm	tɕʰy²¹³ʂæ̃⁰	1168	蛐蟮		蛐蟮	93	2350	tɕʰ y ²¹³ ʂ æ̃ ∼ ⁰	199 1047 1154 705 1086 1191 1171	mand1415
+26674	Shenyang	the earthworm	tɕʰy²¹³₂₁sə³⁵	1170	蛐蛇		蛐蛇	93 96	2350	tɕʰ y ²¹³ s ə ³⁵	199 1047 1154 89 1022 1165	mand1415
+26675	Xian	the earthworm	iou²⁴iæ̃⁰	1209	蚰蜓		蚰蜓	97	2350	i o u ²⁴ i æ̃ ∼ ⁰	1076 887 868 1156 1076 1086 1191 1171	mand1415
+26676	Chengdu	the earthworm	tɕʰy³¹sər¹³	1168	蛐蟮兒		蛐蟮	93	2350	tɕʰ y ³¹ s ə r ¹³	199 1047 1162 89 1022 153 1168	mand1415
+26677	Kunming	the earthworm	tɕʰiʂã¹³	1168	蛐蟮		蛐蟮	93	2350	tɕʰ i ⁰ ʂ ã ∼ ¹³	199 1076 1171 705 1014 1191 1168	mand1415
+26678	Hefei	the earthworm	tɕʰyəʔ⁴ʂən⁵³	1168	蛐蟮		蛐蟮	93	2350	tɕʰ y ə ʔ ⁴ ʂ ə n ⁵³	199 1047 1022 409 1174 705 1022 107 1185	mand1415
+26679	Yangzhou	the earthworm	tɕʰiɔʔ⁴tɕʰiĩ⁵⁵	1171	蛐欠	[*]	蛐欠	99	2350	tɕʰ i ɔ ʔ ⁴ tɕʰ i ĩ ∼ ⁵⁵	199 1076 916 409 1174 199 1076 1078 1191 1189	mand1415
+26680	Suzhou	the earthworm	tɕʰioʔ⁴zø³¹₂₄	1168	蛐蟮		蛐蟮	95	2350	tɕʰ i o ʔ ⁴ z ø ³¹	199 1076 887 409 1174 80 1052 1162	wuch1236
+26681	Wenzhou	the earthworm	kʰuɔ⁴⁴ɕy⁴⁵	3	康 許	[*]	康許	101	2350	kʰ u ɔ ⁴⁴ ɕ y ⁴⁵	820 868 916 1178 204 1047 1181	wuch1236
+26682	Changsha	the earthworm	tsʰəu²⁴aɤn²¹tsɿ⁰	1169	蛐蟮子		蛐蟮子	93 95 102	2350	tsʰ ə u ²⁴ a ɤ n ²¹ ts ɿ ⁰	13 1022 868 1156 997 947 107 1152 15 945 1171	xian1251
+26683	Nanchang	the earthworm	hɔn²⁴tɕin⁰tsɿ⁰	31	! 寒□子		寒A子	103 104 102	2350	h ɔ n ²⁴ tɕ i n ⁰ ts ɿ ⁰	405 916 107 1156 200 1076 107 1171 15 945 1171	gan1239
+26684	Meixian	the earthworm	tsʰuŋ¹²hian³¹	50	蟲螺		蟲螺	105 106	2350	tsʰ u ŋ ¹² h i a n ³¹	13 868 801 1167 405 1076 997 107 1162	hak1236
+26685	Guangzhou	the earthworm	wɔŋ²¹hyn³⁵	68	黃犬	[*]	黃犬	107 108	2350	w ɔ ŋ ²¹ h y n ³⁵	462 916 801 1152 405 1047 107 1165	yuec1235
+26686	Yangjiang	the earthworm	kʰau⁴⁴³nɐn²¹	89	!		CD	109 110	2350	kʰ a u ⁴⁴³ n ɐ n ²¹	820 997 868 1179 107 986 107 1152	yuec1235
+26687	Xiamen	the earthworm	tɔ³³₁₁un⁵¹	118	杜 蚓	[*]	杜蚓	111 112	2350	t ɔ ³³ u n ⁵¹	120 916 1161 868 107 1186	minn1241
+26688	Chaozhou	the earthworm	kau³⁵₂₁uŋ⁵³	131	猴 蚓	[*]	猴蚓	113 112	2350	k a u ³⁵ u ŋ ⁵³	838 997 868 1165 868 801 1185	min1241
+26689	Fuzhou	the earthworm	ti²⁴²₄₄lyŋ⁵²	137	地龍		地龍	114 115	2350	t i ²⁴² l y ŋ ⁵²	120 1076 1157 554 1047 801 1184	mind1253
+26690	Fuzhou	the earthworm	ka⁵²₃₁uŋ³¹	131	猴 蚓	[2][*]	猴蚓	113 112	2350	k a ⁵² u ŋ ³¹	838 997 1184 868 801 1162	mind1253
+27207	Beijing	the firewood	tʂʰai³⁵	516	柴〔火〕		柴	274	10	ʈʂʰ a i ³⁵	697 997 1076 1165	mand1415
+27209	Beijing	the firewood	pʰi²¹⁴₂₁tʂʰai⁰	523	劈柴	[2]	劈柴	276 274	10	pʰ i ²¹⁴ ʈʂʰ a i ⁰	264 1076 1155 697 997 1076 1171	mand1415
+27211	Jinan	the firewood	xuə⁵⁵tʰou⁰	525	火頭		火頭	279 280	10	x u ə ⁵⁵ tʰ o u ⁰	778 868 1022 1189 138 887 868 1171	mand1415
+27213	Shenyang	the firewood	tsʰai³⁵xuo⁰	517	柴火		柴火	274 279	10	tsʰ a i ³⁵ x u o ⁰	13 997 1076 1165 778 868 887 1171	mand1415
+27215	Shenyang	the firewood	pʰi²¹³₂₁tsʰai⁰	523	劈柴	[2]	劈柴	276 274	10	pʰ i ²¹³ tsʰ a i ⁰	264 1076 1154 13 997 1076 1171	mand1415
+27217	Xian	the firewood	tsʰæ²⁴	516	柴		柴	274	10	tsʰ æ ²⁴	13 1087 1156	mand1415
+27219	Chengdu	the firewood	tsʰai³¹	516	柴		柴	274	10	tsʰ a i ³¹	13 997 1076 1162	mand1415
+27221	Kunming	the firewood	tsʰɛ³¹	516	〔燒〕柴		柴	274	10	tsʰ ɛ ³¹	13 1121 1162	mand1415
+27223	Hefei	the firewood	tʂʰɛ⁵⁵	516	柴〔火〕		柴	274	10	ʈʂʰ ɛ ⁵⁵	697 1121 1189	mand1415
+27225	Hefei	the firewood	pʰiəʔ⁴tʂʰɛ⁵⁵	523	劈柴	[2]	劈柴	276 274	10	pʰ i ə ʔ ⁴ ʈʂʰ ɛ ⁵⁵	264 1076 1022 409 1174 697 1121 1189	mand1415
+27227	Yangzhou	the firewood	tsʰɛ³¹	516	柴〔火〕		柴	274	10	tsʰ ɛ ³¹	13 1121 1162	mand1415
+27229	Yangzhou	the firewood	pʰiəʔ⁴tsʰɛ³⁴	523	劈柴	[2]	劈柴	276 274	10	pʰ i ə ʔ ⁴ tsʰ ɛ ³⁴	264 1076 1022 409 1174 13 1121 1164	mand1415
+27231	Suzhou	the firewood	zɒ²⁴₂₂bɛ³¹₃₃	518	柴爿		柴爿	274 282	10	z ɒ ²⁴ b ɛ ³¹	80 900 1156 257 1121 1162	wuch1236
+27233	Suzhou	the firewood	pʰiɪʔ⁴zɒ²⁴	523	劈柴	[2]	劈柴	276 274	10	pʰ i ɪ ʔ ⁴ z ɒ ²⁴	264 1076 1110 409 1174 80 900 1156	wuch1236
+27235	Wenzhou	the firewood	za³¹	516	柴		柴	274	10	z a ³¹	80 997 1162	wuch1236
+27237	Changsha	the firewood	tsai¹³	516	柴		柴	274	10	ts a i ¹³	15 997 1076 1168	xian1251
+27239	Nanchang	the firewood	tsʰai²⁴	516	柴		柴	274	10	tsʰ a i ²⁴	13 997 1076 1156	gan1239
+27241	Meixian	the firewood	tsʰai¹²	516	柴		柴	274	10	tsʰ a i ¹²	13 997 1076 1167	hak1236
+27243	Guangzhou	the firewood	tʃʰai²¹	516	柴		柴	274	10	tʃʰ a i ²¹	661 997 1076 1152	yuec1235
+27245	Yangjiang	the firewood	ʃai⁴⁴³	516	柴		柴	274	10	ʃ a i ⁴⁴³	683 997 1076 1179	yuec1235
+27247	Xiamen	the firewood	tsʰa²⁴₃₃tsʰau⁵¹	519	柴草		柴草	274 284	10	tsʰ a ²⁴ tsʰ a u ⁵¹	13 997 1156 13 997 868 1186	minn1241
+27249	Xiamen	the firewood	tsʰa²⁴₃₃te¹¹	520	! 柴□	[2]	柴B	274 286	10	tsʰ a ²⁴ t e ¹¹	13 997 1156 120 1089 1169	minn1241
+27251	Chaozhou	the firewood	tsʰa⁵⁵	516	柴		柴	274	10	tsʰ a ⁵⁵	13 997 1189	min1241
+27253	Fuzhou	the firewood	tsʰa⁵²₃₁løy²¹³	521	! 柴□		柴A	274 288	10	tsʰ a ⁵² l ø y ²¹³	13 997 1184 554 1052 1047 1154	mind1253
+26820	Beijing	the hoof	tʰi³⁵tsɿ⁰	400	蹄子		蹄子	177 178	152	tʰ i ³⁵ ts ɿ ⁰	138 1076 1165 15 945 1171	mand1415
+26821	Jinan	the hoof	tʰi⁴²teɿ⁰	400	蹄子		蹄子	177 178	152	tʰ i ⁴² t e ɿ ⁰	138 1076 1175 120 1089 945 1171	mand1415
+26822	Shenyang	the hoof	tʰi³⁵tsɿ⁰	400	蹄子		蹄子	177 178	152	tʰ i ³⁵ ts ɿ ⁰	138 1076 1165 15 945 1171	mand1415
+26823	Xian	the hoof	tʰi²⁴tsɿ⁰	400	蹄子		蹄子	177 178	152	tʰ i ²⁴ ts ɿ ⁰	138 1076 1156 15 945 1171	mand1415
+26824	Chengdu	the hoof	tʰi³¹tsɿ⁵³	400	蹄子		蹄子	177 178	152	tʰ i ³¹ ts ɿ ⁵³	138 1076 1162 15 945 1185	mand1415
+26825	Kunming	the hoof	tʰi³¹tsɿ⁵³	400	蹄子		蹄子	177 178	152	tʰ i ³¹ ts ɿ ⁵³	138 1076 1162 15 945 1185	mand1415
+26826	Hefei	the hoof	tsʰɿ⁵⁵tʂɔ²⁴tsə⁰	401	蹄爪子		蹄爪子	177 179 178	152	tsʰ ɿ ⁵⁵ tʂ ɔ ²⁴ ts ə ⁰	13 945 1189 177 916 1156 15 1022 1171	mand1415
+26827	Yangzhou	the hoof	tʰi³⁴tsɛ⁰	400	蹄子		蹄子	177 178	152	tʰ i ³⁴ ts ɛ ⁰	138 1076 1164 15 1121 1171	mand1415
+26828	Suzhou	the hoof	di²⁴	399	蹄		蹄	177	152	d i ²⁴	145 1076 1156	wuch1236
+26829	Wenzhou	the hoof	dei³¹	399	蹄		蹄	177	152	d e i ³¹	145 1089 1076 1162	wuch1236
+26830	Changsha	the hoof	ti¹³tsɿ⁰	400	蹄子		蹄子	177 178	152	t i ¹³ ts ɿ ⁰	120 1076 1168 15 945 1171	xian1251
+26831	Nanchang	the hoof	tʰi²⁴tsɿ⁰	400	蹄子		蹄子	177 178	152	tʰ i ²⁴ ts ɿ ⁰	138 1076 1156 15 945 1171	gan1239
+26832	Meixian	the hoof	tʰɛ¹²ɛ⁰	402	! 蹄□		蹄A	177 180	152	tʰ ɛ ¹² ɛ ⁰	138 1121 1167 1121 1171	hak1236
+26833	Guangzhou	the hoof	tʰɐi²¹	399	蹄		蹄	177	152	tʰ ɐ i ²¹	138 986 1076 1152	yuec1235
+26834	Yangjiang	the hoof	tʰɐi⁴⁴³	399	蹄		蹄	177	152	tʰ ɐ i ⁴⁴³	138 986 1076 1179	yuec1235
+26835	Xiamen	the hoof	tue²⁴	399	蹄		蹄	177	152	t u e ²⁴	120 868 1089 1156	minn1241
+26836	Chaozhou	the hoof	toi⁵⁵	399	蹄		蹄	177	152	t o i ⁵⁵	120 887 1076 1189	min1241
+26837	Fuzhou	the hoof	tɛ⁵²	399	蹄		蹄	177	152	t ɛ ⁵²	120 1121 1184	mind1253
+27156	Beijing	the house	faŋ³⁵tsɿ⁰	484	房子		房子	259 260	1252	f a ŋ ³⁵ ts ɿ ⁰	452 997 801 1165 15 945 1171	mand1415
+27157	Jinan	the house	faŋ⁴²tsɿ⁰	484	房子		房子	259 260	1252	f a ŋ ⁴² ts ɿ ⁰	452 997 801 1175 15 945 1171	mand1415
+27158	Shenyang	the house	faŋ³⁵tsɿ⁰	484	房子		房子	259 260	1252	f a ŋ ³⁵ ts ɿ ⁰	452 997 801 1165 15 945 1171	mand1415
+27159	Xian	the house	fɑŋ²⁴tsɿ⁰	484	房子		房子	259 260	1252	f ɑ ŋ ²⁴ ts ɿ ⁰	452 952 801 1156 15 945 1171	mand1415
+27160	Chengdu	the house	faŋ³¹tsɿ⁵³	484	房子		房子	259 260	1252	f a ŋ ³¹ ts ɿ ⁵³	452 997 801 1162 15 945 1185	mand1415
+27161	Kunming	the house	fã³¹tsɿ⁵³	484	房子		房子	259 260	1252	f ã ∼ ³¹ ts ɿ ⁵³	452 1014 1191 1162 15 945 1185	mand1415
+27162	Hefei	the house	fɑ̃⁵⁵tsə⁰	484	房子		房子	259 260	1252	f ɑ̃ ∼ ⁵⁵ ts ə ⁰	452 951 1191 1189 15 1022 1171	mand1415
+27163	Yangzhou	the house	fɑŋ³⁴tsɛ⁰	484	房子		房子	259 260	1252	f ɑ ŋ ³⁴ ts ɛ ⁰	452 952 801 1164 15 1121 1171	mand1415
+27164	Suzhou	the house	vɒŋ²⁴₂₂tsɿ⁴¹₄₄	484	房子		房子	259 260	1252	v ɒ ŋ ²⁴ ts ɿ ⁴¹	451 900 801 1156 15 945 1177	wuch1236
+27165	Suzhou	the house	uɤʔ⁴	485	屋	[2]	屋	261	1252	u ɤ ʔ ⁴	868 947 409 1174	wuch1236
+27166	Wenzhou	the house	u²³duɔ²⁴	486	屋宕		屋宕	261 262	1252	u ²³ d u ɔ ²⁴	868 1151 145 868 916 1156	wuch1236
+27167	Changsha	the house	fan¹³tsɿ⁰	484	房子		房子	259 260	1252	f a n ¹³ ts ɿ ⁰	452 997 107 1168 15 945 1171	xian1251
+27168	Nanchang	the house	fɔŋ⁵⁵tsɿ⁰	484	房子		房子	259 260	1252	f ɔ ŋ ⁵⁵ ts ɿ ⁰	452 916 801 1189 15 945 1171	gan1239
+27169	Meixian	the house	vuk²¹	485	屋		屋	261	1252	v u k ²¹	451 868 838 1152	hak1236
+27170	Guangzhou	the house	ʊk⁵	485	屋		屋	261	1252	ʊ k ⁵	904 838 1183	yuec1235
+27171	Yangjiang	the house	ʊk²⁴	485	屋		屋	261	1252	ʊ k ²⁴	904 838 1156	yuec1235
+27172	Xiamen	the house	tsʰu¹¹	487	厝		厝	263	1252	tsʰ u ¹¹	13 868 1169	minn1241
+27173	Chaozhou	the house	tsʰu²¹³	487	厝		厝	263	1252	tsʰ u ²¹³	13 868 1154	min1241
+27174	Fuzhou	the house	tsʰuɔ²¹³	487	厝		厝	263	1252	tsʰ u ɔ ²¹³	13 868 916 1154	mind1253
+27094	Beijing	the meat	ʐou⁵¹	471	〔豬〕肉		肉	243	634	ʐ o u ⁵¹	706 887 868 1186	mand1415
+27095	Jinan	the meat	ʐou²¹	471	〔豬〕肉		肉	243	634	ʐ o u ²¹	706 887 868 1152	mand1415
+27096	Shenyang	the meat	iou⁴¹	471	〔豬〕肉		肉	243	634	i o u ⁴¹	1076 887 868 1177	mand1415
+27097	Xian	the meat	ʐou⁴⁵	471	〔豬〕肉		肉	243	634	ʐ o u ⁴⁵	706 887 868 1181	mand1415
+27098	Chengdu	the meat	zəu¹³	471	〔豬〕肉		肉	243	634	z ə u ¹³	80 1022 868 1168	mand1415
+27099	Kunming	the meat	ʐəu¹³	471	〔豬〕肉		肉	243	634	ʐ ə u ¹³	706 1022 868 1168	mand1415
+27100	Hefei	the meat	[tʂu⁴⁴]ʐəu¹³	471	〔豬〕肉	! missing entry	肉	243	634	ʐ əu ¹³	706 1036 1168	mand1415
+27101	Yangzhou	the meat	lɤɯ⁵⁵	471	〔豬〕肉		肉	243	634	l ɤ ɯ ⁵⁵	554 947 944 1189	mand1415
+27102	Suzhou	the meat	tsʮ⁴⁴ȵioʔ²³₂₁	471	豬肉		肉	243	634	nʲ i o ʔ ²³	101 1076 887 409 1151	wuch1236
+27103	Suzhou	the meat	ȵioʔ²³	471	肉	[2]	肉	243	634	nʲ i o ʔ ²³	101 1076 887 409 1151	wuch1236
+27104	Wenzhou	the meat	ȵiu¹²	471	〔豬〕肉		肉	243	634	nʲ i u ¹²	101 1076 868 1167	wuch1236
+27105	Changsha	the meat	zeu²⁴	471	〔豬〕肉		肉	243	634	z e u ²⁴	80 1089 868 1156	xian1251
+27106	Nanchang	the meat	ȵiuk⁵	471	〔豬〕肉		肉	243	634	nʲ i u k ⁵	101 1076 868 838 1183	gan1239
+27107	Meixian	the meat	ȵiɔk²¹	471	〔豬〕肉		肉	243	634	nʲ i ɔ k ²¹	101 1076 916 838 1152	hak1236
+27108	Guangzhou	the meat	jʊk²	471	〔豬〕肉		肉	243	634	j ʊ k ²	570 904 838 1149	yuec1235
+27109	Yangjiang	the meat	jʊk⁴⁵⁴	471	〔豬〕肉		肉	243	634	j ʊ k ⁴⁵⁴	570 904 838 1182	yuec1235
+27110	Xiamen	the meat	baʔ³²	472	〔豬〕艤		艤	244	634	b a ʔ ³²	257 997 409 1159	minn1241
+27111	Chaozhou	the meat	nek⁴	471	〔豬〕肉		肉	243	634	n e k ⁴	107 1089 838 1174	min1241
+27112	Fuzhou	the meat	nyʔ⁴	471	〔豬〕肉		肉	243	634	n y ʔ ⁴	107 1047 409 1174	mind1253
+30314	Xiamen	the meat	mãʔ³²	472	〔豬〕艤		艤	244	634	m ã ∼ ʔ ³²	241 1014 1191 409 1159	minn1241
+27977	Beijing	the mother	ma⁵⁵ma⁰	853	媽媽		媽媽	621 621	1216	m a ⁵⁵ m a ⁰	241 997 1189 241 997 1171	mand1415
+27978	Beijing	the mother	niaŋ³⁵	854	娘	[2]	娘	622	1216	n i a ŋ ³⁵	107 1076 997 801 1165	mand1415
+27979	Jinan	the mother	ȵiaŋ⁴²	854	娘〔媽〕		娘	622	1216	nʲ i a ŋ ⁴²	101 1076 997 801 1175	mand1415
+27980	Shenyang	the mother	ma³³ma⁰	853	媽媽		媽媽	621 621	1216	m a ³³ m a ⁰	241 997 1161 241 997 1171	mand1415
+27981	Xian	the mother	mɑ²¹	852	媽		媽	621	1216	m ɑ ²¹	241 952 1152	mand1415
+27982	Chengdu	the mother	ma⁴⁴ma⁴⁴	853	媽媽		媽媽	621 621	1216	m a ⁴⁴ m a ⁴⁴	241 997 1178 241 997 1178	mand1415
+27983	Kunming	the mother	ma⁵³	852	媽		媽	621	1216	m a ⁵³	241 997 1185	mand1415
+27984	Kunming	the mother	ma⁴⁴ma⁴⁴	853	媽媽	[2]	媽媽	621 621	1216	m a ⁴⁴ m a ⁴⁴	241 997 1178 241 997 1178	mand1415
+27985	Hefei	the mother	ma²¹²	852	媽〔爺〕		媽	621	1216	m a ²¹²	241 997 1153	mand1415
+27986	Yangzhou	the mother	mɑ³¹mɑ³¹	853	媽媽		媽媽	621 621	1216	m ɑ ³¹ m ɑ ³¹	241 952 1162 241 952 1162	mand1415
+27987	Yangzhou	the mother	ṃ³⁴mɑ³¹	856	姆媽	[2]	姆媽	623 621	1216	m̩ ³⁴ m ɑ ³¹	235 1164 241 952 1162	mand1415
+27988	Suzhou	the mother	ṃ⁴⁴mɒ⁴⁴₂₁	856	姆媽		姆媽	623 621	1216	m̩ ⁴⁴ m ɒ ⁴⁴	235 1178 241 900 1178	wuch1236
+27989	Suzhou	the mother	ȵiaŋ²⁴	854	娘	[2]	娘	622	1216	nʲ i a ŋ ²⁴	101 1076 997 801 1156	wuch1236
+27990	Wenzhou	the mother	a²³ma⁴⁵	857	阿媽		阿媽	624 621	1216	a ²³ m a ⁴⁵	997 1151 241 997 1181	wuch1236
+27991	Wenzhou	the mother	na⁴⁴	864	〔阿〕奶	[2]	奶	625	1216	n a ⁴⁴	107 997 1178	wuch1236
+27992	Changsha	the mother	ma³³ma³³	853	媽媽		媽媽	621 621	1216	m a ³³ m a ³³	241 997 1161 241 997 1161	xian1251
+27993	Nanchang	the mother	ṃ⁴²ma⁰	856	姆媽		姆媽	623 621	1216	m̩ ⁴² m a ⁰	235 1175 241 997 1171	gan1239
+27994	Nanchang	the mother	ȵiɔŋ⁵⁵	854	娘	[2]	娘	622	1216	nʲ i ɔ ŋ ⁵⁵	101 1076 916 801 1189	gan1239
+27995	Meixian	the mother	a⁴⁴mɛ⁴⁴	859	阿姆		阿姆	624 623	1216	a ⁴⁴ m ɛ ⁴⁴	997 1178 241 1121 1178	hak1236
+27996	Meixian	the mother	ɔi⁴⁴ɛ⁰	865	?!	[2] 㗒 （但是口是女）	AB	626 627	1216	ɔ i ⁴⁴ ɛ ⁰	916 1076 1178 1121 1171	hak1236
+27997	Guangzhou	the mother	ma⁵⁵₂₁ma⁵⁵	853	媽媽		媽媽	621 621	1216	m a ⁵⁵ m a ⁵⁵	241 997 1189 241 997 1189	yuec1235
+27998	Guangzhou	the mother	lou²³mou²³₃₅	866	老母	[2]	老母	628 629	1216	l o u ²³ m o u ²³	554 887 868 1151 241 887 868 1151	yuec1235
+27999	Yangjiang	the mother	a³³ma²⁴	857	阿媽		阿媽	624 621	1216	a ³³ m a ²⁴	997 1161 241 997 1156	yuec1235
+28000	Yangjiang	the mother	a³³niɛŋ⁴⁴³	858	阿娘	[2]	阿娘	624 622	1216	a ³³ n i ɛ ŋ ⁴⁴³	997 1161 107 1076 1121 801 1179	yuec1235
+28001	Yangjiang	the mother	a³³nai²¹	860	阿奶	[3]	阿奶	624 625	1216	a ³³ n a i ²¹	997 1161 107 997 1076 1152	yuec1235
+28002	Xiamen	the mother	a⁵⁵₃₃bu⁵¹	861	阿母〔仔〕		阿母	624 629	1216	a ⁵⁵ b u ⁵¹	997 1189 257 868 1186	minn1241
+28003	Xiamen	the mother	bu⁵¹a⁵¹₁₁	867	母仔	[2] !SIC! 51-11-sandhi checked from source @JML	母B	629 627	1216	b u ⁵¹ a ⁵¹	257 868 1186 997 1186	minn1241
+28004	Xiamen	the mother	lau³³₁₁bu⁵¹	866	老母	[3]	老母	628 629	1216	l a u ³³ b u ⁵¹	554 997 868 1161 257 868 1186	minn1241
+28005	Chaozhou	the mother	a³³₂₃ma⁵⁵	857	阿媽		阿媽	624 621	1216	a ³³ m a ⁵⁵	997 1161 241 997 1189	min1241
+28006	Chaozhou	the mother	a³³₂₃nie⁵⁵	858	阿娘	[2]	阿娘	624 622	1216	a ³³ n i e ⁵⁵	997 1161 107 1076 1089 1189	min1241
+28007	Chaozhou	the mother	a³³₂₃ne³³	862	阿姈	[3]	阿姈	624 630	1216	a ³³ n e ³³	997 1161 107 1089 1161	min1241
+28008	Chaozhou	the mother	a³³₂₃ai⁵⁵	863	阿嬡	[4]	阿嬡	624 631	1216	a ³³ a i ⁵⁵	997 1161 997 1076 1189	min1241
+28009	Fuzhou	the mother	i⁴⁴ma⁴⁴	868	依 媽	[*]	依媽	632 621	1216	i ⁴⁴ m a ⁴⁴	1076 1178 241 997 1178	mind1253
+28010	Fuzhou	the mother	i⁴⁴₅₂nɛ³¹	869	依 奶	[2][*]	依奶	632 625	1216	i ⁴⁴ n ɛ ³¹	1076 1178 107 1121 1162	mind1253
+28011	Fuzhou	the mother	nouŋ⁵²₃₁nɛ³¹	855	娘奶	[3]	娘奶	622 625	1216	n o u ŋ ⁵² n ɛ ³¹	107 887 868 801 1184 107 1121 1162	mind1253
+26753	Beijing	the spider	tʂu⁵⁵tʂu⁰	369	蛛蛛		蛛蛛	144 144	843	tʂ u ⁵⁵ tʂ u ⁰	177 868 1189 177 868 1171	mand1415
+26754	Jinan	the spider	ŋə⁴²laŋ⁴²tʂu²¹³tsɿ⁰	370	阿郞蛛子		阿郞蛛子	145 146 144 147	843	ŋ ə ⁴² l a ŋ ⁴² tʂ u ²¹³ ts ɿ ⁰	801 1022 1175 554 997 801 1175 177 868 1154 15 945 1171	mand1415
+26755	Jinan	the spider	ɕi⁵⁵tʂu²¹³tʂu⁰	371	蟢蛛蛛	[2]	蟢蛛蛛	148 144 144	843	ɕ i ⁵⁵ tʂ u ²¹³ tʂ u ⁰	204 1076 1189 177 868 1154 177 868 1171	mand1415
+26756	Shenyang	the spider	lai⁴¹lai⁴¹tsu³³	373	癩癩蛛		癩癩蛛	149 149 144	843	l a i ⁴¹ l a i ⁴¹ ts u ³³	554 997 1076 1177 554 997 1076 1177 15 868 1161	mand1415
+26757	Xian	the spider	pfu²¹pfu⁰	369	蛛蛛		蛛蛛	144 144	843	pf u ²¹ pf u ⁰	424 868 1152 424 868 1171	mand1415
+26758	Chengdu	the spider	tse⁴⁴₃₁tsu⁴⁴	374	蜘蛛		蜘蛛	150 144	843	ts e ⁴⁴ ts u ⁴⁴	15 1089 1178 15 868 1178	mand1415
+26759	Kunming	the spider	tʂʅ⁴⁴tʂu⁴⁴	374	蜘蛛		蜘蛛	150 144	843	tʂ ʅ ⁴⁴ tʂ u ⁴⁴	177 977 1178 177 868 1178	mand1415
+26760	Hefei	the spider	tʂei²⁴tʂu²¹²	374	蜘蛛		蜘蛛	150 144	843	tʂ e i ²⁴ tʂ u ²¹²	177 1089 1076 1156 177 868 1153	mand1415
+26761	Yangzhou	the spider	tsɿ³¹tsu³¹	374	蜘蛛		蜘蛛	150 144	843	ts ɿ ³¹ ts u ³¹	15 945 1162 15 868 1162	mand1415
+26762	Yangzhou	the spider	ɕi⁵⁵ɕi⁵⁵tsu³¹tsɛ⁰	372	蟢蟢蛛子	[2]	蟢蟢蛛子	148 148 144 147	843	ɕ i ⁵⁵ ɕ i ⁵⁵ ts u ³¹ ts ɛ ⁰	204 1076 1189 204 1076 1189 15 868 1162 15 1121 1171	mand1415
+26763	Suzhou	the spider	tsiɪʔ⁴tsʮ⁴⁴₃₅	376	結蜘		結蜘	151 150	843	ts i ɪ ʔ ⁴ ts ʮ ⁴⁴	15 1076 1110 409 1174 15 851 1178	wuch1236
+26764	Wenzhou	the spider	sɿ⁴⁴muɔ²⁴tsɿ⁴⁴tsɿ⁰	377	絲網蛛蛛		絲網蛛蛛	152 153 144 144	843	s ɿ ⁴⁴ m u ɔ ²⁴ ts ɿ ⁴⁴ ts ɿ ⁰	89 945 1178 241 868 916 1156 15 945 1178 15 945 1171	wuch1236
+26765	Changsha	the spider	tsɿ³³tɕy³³tsɿ⁰	375	蜘蛛子		蜘蛛子	150 144 147	843	ts ɿ ³³ tɕ y ³³ ts ɿ ⁰	15 945 1161 200 1047 1161 15 945 1171	xian1251
+26766	Nanchang	the spider	tsɿ⁴²tɕy⁴²	374	蜘蛛		蜘蛛	150 144	843	ts ɿ ⁴² tɕ y ⁴²	15 945 1175 200 1047 1175	gan1239
+26767	Meixian	the spider	la¹²kʰia¹²	378	!		AB	154 155	843	l a ¹² kʰ i a ¹²	554 997 1167 820 1076 997 1167	hak1236
+26768	Guangzhou	the spider	kʰɐm²¹lou²¹₃₅	379	蠄蟧		蠄蟧	156 157	843	kʰ ɐ m ²¹ l o u ²¹	820 986 241 1152 554 887 868 1152	yuec1235
+26769	Yangjiang	the spider	kʰɐm⁴⁴³lou⁴⁴³	379	蠄蟧		蠄蟧	156 157	843	kʰ ɐ m ⁴⁴³ l o u ⁴⁴³	820 986 241 1179 554 887 868 1179	yuec1235
+26770	Xiamen	the spider	ti⁵⁵₃₃tu⁵⁵	374	蜘蛛		蜘蛛	150 144	843	t i ⁵⁵ t u ⁵⁵	120 1076 1189 120 868 1189	minn1241
+26771	Chaozhou	the spider	ti³³₂₃tu³³	374	蜘蛛		蜘蛛	150 144	843	t i ³³ t u ³³	120 1076 1161 120 868 1161	min1241
+26772	Fuzhou	the spider	tʰi⁴⁴ly⁴⁴	374	蜘蛛		蜘蛛	150 144	843	tʰ i ⁴⁴ l y ⁴⁴	138 1076 1178 554 1047 1178	mind1253
+27356	Beijing	the stick	kuai²¹⁴₂₁kuənr⁵¹	566	拐棍兒		拐棍	326 327	1295	k u a i ²¹⁴ k u ə n r ⁵¹	838 868 997 1076 1155 838 868 1022 107 153 1186	mand1415
+27357	Jinan	the stick	kuɛ⁵⁵kuẽ²¹	566	拐棍		拐棍	326 327	1295	k u ɛ ⁵⁵ k u ẽ ∼ ²¹	838 868 1121 1189 838 868 1090 1191 1152	mand1415
+27358	Shenyang	the stick	kuai²¹³₂₁kuənr⁴¹	566	拐棍兒		拐棍	326 327	1295	k u a i ²¹³ k u ə n r ⁴¹	838 868 997 1076 1154 838 868 1022 107 153 1177	mand1415
+27359	Xian	the stick	kuæ⁵³kuẽr⁴⁵	566	拐棍兒		拐棍	326 327	1295	k u æ ⁵³ k u ẽ ∼ r ⁴⁵	838 868 1087 1185 838 868 1090 1191 153 1181	mand1415
+27360	Chengdu	the stick	kuai⁵³kuər¹³	566	拐棍兒		拐棍	326 327	1295	k u a i ⁵³ k u ə r ¹³	838 868 997 1076 1185 838 868 1022 153 1168	mand1415
+27361	Kunming	the stick	kuɛ⁵³kuə̃¹³	566	拐棍		拐棍	326 327	1295	k u ɛ ⁵³ k u ə̃ ∼ ¹³	838 868 1121 1185 838 868 1020 1191 1168	mand1415
+27362	Hefei	the stick	kuɛ²⁴kun⁵³	566	拐棍		拐棍	326 327	1295	k u ɛ ²⁴ k u n ⁵³	838 868 1121 1156 838 868 107 1185	mand1415
+27363	Yangzhou	the stick	kuɛ⁴²kuəŋ⁰	566	拐棍		拐棍	326 327	1295	k u ɛ ⁴² k u ə ŋ ⁰	838 868 1121 1175 838 868 1022 801 1171	mand1415
+27364	Suzhou	the stick	kuɒ⁴¹zaŋ³¹₂₄	567	拐杖		拐杖	326 328	1295	k u ɒ ⁴¹ z a ŋ ³¹	838 868 900 1177 80 997 801 1162	wuch1236
+27365	Suzhou	the stick	sɿ⁴⁴tiɪʔ⁴₂₁kʰɤʔ⁴₂₁	569	司 的 克	[2][*]	司的克	329 330 331	1295	s ɿ ⁴⁴ t i ɪ ʔ ⁴ kʰ ɤ ʔ ⁴	89 945 1178 120 1076 1110 409 1174 820 947 409 1174	wuch1236
+27366	Wenzhou	the stick	buɔ²⁴tsɿ⁴²	570	棒拄		棒拄	332 333	1295	b u ɔ ²⁴ ts ɿ ⁴²	257 868 916 1156 15 945 1175	wuch1236
+27367	Wenzhou	the stick	sɿ⁴⁴tei²³kʰɛ²³	569	司 的 克	[2][*]	司的克	329 330 331	1295	s ɿ ⁴⁴ t e i ²³ kʰ ɛ ²³	89 945 1178 120 1089 1076 1151 820 1121 1151	wuch1236
+27368	Changsha	the stick	kuai⁴¹kuən⁵⁵	566	拐棍		拐棍	326 327	1295	k u a i ⁴¹ k u ə n ⁵⁵	838 868 997 1076 1177 838 868 1022 107 1189	xian1251
+27369	Nanchang	the stick	kuai²¹³kun⁵⁵	566	拐棍		拐棍	326 327	1295	k u a i ²¹³ k u n ⁵⁵	838 868 997 1076 1154 838 868 107 1189	gan1239
+27370	Meixian	the stick	kat⁴ɛ³¹kun⁴²	571	!  棍		CD棍	334 335 327	1295	k a t ⁴ ɛ ³¹ k u n ⁴²	838 997 120 1174 1121 1162 838 868 107 1175	hak1236
+27371	Guangzhou	the stick	kwɐi³⁵tʃœŋ²²₃₅	567	拐杖		拐杖	326 328	1295	k w ɐ i ³⁵ tʃ œ ŋ ²²	838 462 986 1076 1165 651 1059 801 1150	yuec1235
+27372	Guangzhou	the stick	ʃi²²tɪk⁵	572	士 的	[2][*]	士的	336 330	1295	ʃ i ²² t ɪ k ⁵	683 1076 1150 120 1110 838 1183	yuec1235
+27373	Yangjiang	the stick	ʃi⁴⁵⁴tɪk²⁴	572	士 的	[*]	士的	336 330	1295	ʃ i ⁴⁵⁴ t ɪ k ²⁴	683 1076 1182 120 1110 838 1156	yuec1235
+27374	Xiamen	the stick	tɔŋ³³₁₁kat³²	573	洞 葛	[*]	洞葛	337 338	1295	t ɔ ŋ ³³ k a t ³²	120 916 801 1161 838 997 120 1159	minn1241
+27375	Chaozhou	the stick	tɔŋ³⁵₂₁kak²¹	573	洞 葛	[*]	洞葛	337 338	1295	t ɔ ŋ ³⁵ k a k ²¹	120 916 801 1165 838 997 838 1152	min1241
+27376	Fuzhou	the stick	ky⁵²₃₁øyŋ²⁴²	574	!  □		AB	339 340	1295	k y ⁵² ø y ŋ ²⁴²	838 1047 1184 1052 1047 801 1157	mind1253
+27377	Fuzhou	the stick	tuɔŋ²⁴²₃₁nuɔŋ²⁴²	568	杖杖	[2]	杖杖	328 328	1295	t u ɔ ŋ ²⁴² n u ɔ ŋ ²⁴²	120 868 916 801 1157 107 868 916 801 1157	mind1253
+26859	Beijing	the tail	uei²¹⁴₂₁pa	413	尾巴		尾巴	189 190	1220	u e i ²¹⁴ p a	868 1089 1076 1155 291 997	mand1415
+26860	Jinan	the tail	i⁵⁵pa⁰	413	尾巴		尾巴	189 190	1220	i ⁵⁵ p a ⁰	1076 1189 291 997 1171	mand1415
+26861	Shenyang	the tail	i²¹³₂₁pa⁰	413	尾巴		尾巴	189 190	1220	i ²¹³ p a ⁰	1076 1154 291 997 1171	mand1415
+26862	Xian	the tail	i⁵³pɑ⁰	413	尾巴		尾巴	189 190	1220	i ⁵³ p ɑ ⁰	1076 1185 291 952 1171	mand1415
+26863	Chengdu	the tail	uei⁵³per⁴⁴	413	尾巴兒		尾巴	189 190	1220	u e i ⁵³ p e r ⁴⁴	868 1089 1076 1185 291 1089 153 1178	mand1415
+26864	Chengdu	the tail	uei⁵³pa⁴⁴	413	尾巴	[2]	尾巴	189 190	1220	u e i ⁵³ p a ⁴⁴	868 1089 1076 1185 291 997 1178	mand1415
+26865	Kunming	the tail	ue⁵³pa⁴⁴	413	尾巴		尾巴	189 190	1220	u e ⁵³ p a ⁴⁴	868 1089 1185 291 997 1178	mand1415
+26866	Hefei	the tail	ui²⁴pa⁰	413	尾巴		尾巴	189 190	1220	u i ²⁴ p a ⁰	868 1076 1156 291 997 1171	mand1415
+26867	Yangzhou	the tail	uəi⁴²pɑʔ⁴	413	尾巴		尾巴	189 190	1220	u ə i ⁴² p ɑ ʔ ⁴	868 1022 1076 1175 291 952 409 1174	mand1415
+26868	Wenzhou	the tail	mei⁴⁵po⁴⁴	413	尾巴		尾巴	189 190	1220	m e i ⁴⁵ p o ⁴⁴	241 1089 1076 1181 291 887 1178	wuch1236
+26869	Changsha	the tail	uei⁴¹pa⁰	413	尾巴		尾巴	189 190	1220	u e i ⁴¹ p a ⁰	868 1089 1076 1177 291 997 1171	xian1251
+26870	Nanchang	the tail	ui²¹³pa⁴²	413	尾巴		尾巴	189 190	1220	u i ²¹³ p a ⁴²	868 1076 1154 291 997 1175	gan1239
+26871	Meixian	the tail	mi⁴⁴	412	尾		尾	189	1220	m i ⁴⁴	241 1076 1178	hak1236
+26872	Guangzhou	the tail	mei²³	412	尾		尾	189	1220	m e i ²³	241 1089 1076 1151	yuec1235
+26873	Yangjiang	the tail	mei²¹	412	尾		尾	189	1220	m e i ²¹	241 1089 1076 1152	yuec1235
+26874	Xiamen	the tail	be⁵¹	412	尾		尾	189	1220	b e ⁵¹	257 1089 1186	minn1241
+26875	Chaozhou	the tail	bue⁵³	412	尾		尾	189	1220	b u e ⁵³	257 868 1089 1185	min1241
+26876	Fuzhou	the tail	mui³¹	412	尾		尾	189	1220	m u i ³¹	241 868 1076 1162	mind1253
+29730	Suzhou	the tail	mi³¹₂₂po⁴⁴	413	尾巴		尾巴	189 190	1220	m i ³¹ p o ⁴⁴	241 1076 1162 291 887 1178	wuch1236
+27652	Beijing	the tongue	ʂə³⁵tʰou⁰	681	舌頭		舌頭	443 444	1205	ʂ ə ³⁵ tʰ o u ⁰	705 1022 1165 138 887 868 1171	mand1415
+27653	Jinan	the tongue	ʂə⁴²tʰou⁰	681	舌頭		舌頭	443 444	1205	ʂ ə ⁴² tʰ o u ⁰	705 1022 1175 138 887 868 1171	mand1415
+27654	Shenyang	the tongue	sə³⁵tʰou⁰	681	舌頭		舌頭	443 444	1205	s ə ³⁵ tʰ o u ⁰	89 1022 1165 138 887 868 1171	mand1415
+27655	Xian	the tongue	ʂə²⁴tʰou⁰	681	舌頭		舌頭	443 444	1205	ʂ ə ²⁴ tʰ o u ⁰	705 1022 1156 138 887 868 1171	mand1415
+27656	Chengdu	the tongue	se³¹tʰər³¹₄₄	681	舌頭兒		舌頭	443 444	1205	s e ³¹ tʰ ə r ³¹	89 1089 1162 138 1022 153 1162	mand1415
+27657	Kunming	the tongue	ʂə³¹tʰəu³¹₄₄	681	舌頭		舌頭	443 444	1205	ʂ ə ³¹ tʰ ə u ³¹	705 1022 1162 138 1022 868 1162	mand1415
+27658	Hefei	the tongue	ʂɐʔ⁴tʰɯ⁰	681	舌頭		舌頭	443 444	1205	ʂ ɐ ʔ ⁴ tʰ ɯ ⁰	705 986 409 1174 138 944 1171	mand1415
+27659	Yangzhou	the tongue	ɕiəʔ⁴tʰɤɯ⁰	681	舌頭		舌頭	443 444	1205	ɕ i ə ʔ ⁴ tʰ ɤ ɯ ⁰	204 1076 1022 409 1174 138 947 944 1171	mand1415
+27660	Suzhou	the tongue	zɤʔ²³dʏ²⁴₂₁	681	舌頭		舌頭	443 444	1205	z ɤ ʔ ²³ d ʏ ²⁴	80 947 409 1151 145 1054 1156	wuch1236
+27661	Wenzhou	the tongue	kʰau⁴⁵ɦi¹²	684	! □舌		A舌	445 443	1205	kʰ a u ⁴⁵ ɦ i ¹²	820 997 868 1181 401 1076 1167	wuch1236
+27662	Changsha	the tongue	sə²⁴tsɿ⁰	682	舌子		舌子	443 446	1205	s ə ²⁴ ts ɿ ⁰	89 1022 1156 15 945 1171	xian1251
+27663	Nanchang	the tongue	sɛt⁵tʰɛu²⁴	681	舌頭		舌頭	443 444	1205	s ɛ t ⁵ tʰ ɛ u ²⁴	89 1121 120 1183 138 1121 868 1156	gan1239
+27664	Meixian	the tongue	sat⁴ma¹²	683	舌麻	[*]	舌麻	443 447	1205	s a t ⁴ m a ¹²	89 997 120 1174 241 997 1167	hak1236
+27665	Meixian	the tongue	li⁴²	685	脷	[2]	脷	448	1205	l i ⁴²	554 1076 1175	hak1236
+27666	Guangzhou	the tongue	lei²²	685	脷		脷	448	1205	l e i ²²	554 1089 1076 1150	yuec1235
+27667	Yangjiang	the tongue	lei⁴⁵⁴	685	脷		脷	448	1205	l e i ⁴⁵⁴	554 1089 1076 1182	yuec1235
+27668	Xiamen	the tongue	tsʰui¹¹₅₁tsiʔ⁵	686	咀舌		咀舌	449 443	1205	tsʰ u i ¹¹ ts i ʔ ⁵	13 868 1076 1169 15 1076 409 1183	minn1241
+27669	Chaozhou	the tongue	tsiʔ⁴	680	舌		舌	443	1205	ts i ʔ ⁴	15 1076 409 1174	min1241
+27670	Fuzhou	the tongue	tsʰui²¹³₄₄lieʔ⁴	686	咀舌		咀舌	449 443	1205	tsʰ u i ²¹³ l i e ʔ ⁴	13 868 1076 1154 554 1076 1089 409 1174	mind1253
+27494	Beijing	the way (road)	tɕie⁵⁵tau⁵¹	617	街道		街道	384 385	667	tɕ i e ⁵⁵ t a u ⁵¹	200 1076 1089 1189 120 997 868 1186	mand1415
+27495	Jinan	the way (road)	tɕiɛ²¹³tɔ²¹	617	街道		街道	384 385	667	tɕ i ɛ ²¹³ t ɔ ²¹	200 1076 1121 1154 120 916 1152	mand1415
+27496	Shenyang	the way (road)	tɕie³³tau⁴¹	617	街道		街道	384 385	667	tɕ i e ³³ t a u ⁴¹	200 1076 1089 1161 120 997 868 1177	mand1415
+27497	Xian	the way (road)	tɕie²¹tɑu⁴⁵	617	街道		街道	384 385	667	tɕ i e ²¹ t ɑ u ⁴⁵	200 1076 1089 1152 120 952 868 1181	mand1415
+27498	Chengdu	the way (road)	kai⁴⁴tau¹³	617	街道		街道	384 385	667	k a i ⁴⁴ t a u ¹³	838 997 1076 1178 120 997 868 1168	mand1415
+27499	Kunming	the way (road)	kɛ⁴⁴ɕĩ⁴⁴	618	街心		街心	384 386	667	k ɛ ⁴⁴ ɕ ĩ ∼ ⁴⁴	838 1121 1178 204 1078 1191 1178	mand1415
+27500	Hefei	the way (road)	tɕiɛ²¹²	616	街		街	384	667	tɕ i ɛ ²¹²	200 1076 1121 1153	mand1415
+27501	Yangzhou	the way (road)	kɛ³¹	616	街		街	384	667	k ɛ ³¹	838 1121 1162	mand1415
+27502	Suzhou	the way (road)	kɒ⁴⁴	616	街		街	384	667	k ɒ ⁴⁴	838 900 1178	wuch1236
+27503	Wenzhou	the way (road)	ka⁴⁴løy¹¹	619	街路		街路	384 387	667	k a ⁴⁴ l ø y ¹¹	838 997 1178 554 1052 1047 1169	wuch1236
+27504	Changsha	the way (road)	kai³³san²¹	620	街上		街上	384 388	667	k a i ³³ s a n ²¹	838 997 1076 1161 89 997 107 1152	xian1251
+27505	Nanchang	the way (road)	kai⁴²tʰau³¹	617	街道		街道	384 385	667	k a i ⁴² tʰ a u ³¹	838 997 1076 1175 138 997 868 1162	gan1239
+27506	Meixian	the way (road)	kiai⁴⁴lu⁴²	619	街路		街路	384 387	667	k i a i ⁴⁴ l u ⁴²	838 1076 997 1076 1178 554 868 1175	hak1236
+27507	Guangzhou	the way (road)	kai⁵³tou²²	617	街道		街道	384 385	667	k a i ⁵³ t o u ²²	838 997 1076 1185 120 887 868 1150	yuec1235
+27508	Yangjiang	the way (road)	kai³³hɔŋ⁴⁵⁴	621	街巷		街巷	384 389	667	k a i ³³ h ɔ ŋ ⁴⁵⁴	838 997 1076 1161 405 916 801 1182	yuec1235
+27509	Xiamen	the way (road)	kue⁵⁵₃₃lɔ³³	619	街路		街路	384 387	667	k u e ⁵⁵ l ɔ ³³	838 868 1089 1189 554 916 1161	minn1241
+27510	Chaozhou	the way (road)	koi³³₂₃lou¹¹	619	街路		街路	384 387	667	k o i ³³ l o u ¹¹	838 887 1076 1161 554 887 868 1169	min1241
+27511	Fuzhou	the way (road)	kɛ⁴⁴₅₂lɔ²⁴²	617	街道		街道	384 385	667	k ɛ ⁴⁴ l ɔ ²⁴²	838 1121 1178 554 916 1157	mind1253
+27807	Beijing	the wind	fəŋ⁵⁵	746	風		風	516	960	f ə ŋ ⁵⁵	452 1022 801 1189	mand1415
+27808	Jinan	the wind	fəŋ²¹³	746	風		風	516	960	f ə ŋ ²¹³	452 1022 801 1154	mand1415
+27809	Shenyang	the wind	fəŋ³³	746	風		風	516	960	f ə ŋ ³³	452 1022 801 1161	mand1415
+27810	Xian	the wind	fəŋ²¹	746	風		風	516	960	f ə ŋ ²¹	452 1022 801 1152	mand1415
+27811	Chengdu	the wind	foŋ⁴⁴	746	風		風	516	960	f o ŋ ⁴⁴	452 887 801 1178	mand1415
+27812	Kunming	the wind	foŋ⁴⁴	746	風		風	516	960	f o ŋ ⁴⁴	452 887 801 1178	mand1415
+27813	Hefei	the wind	fəŋ²¹²	746	風		風	516	960	f ə ŋ ²¹²	452 1022 801 1153	mand1415
+27814	Yangzhou	the wind	foŋ³¹	746	風		風	516	960	f o ŋ ³¹	452 887 801 1162	mand1415
+27815	Suzhou	the wind	foŋ⁴⁴	746	風		風	516	960	f o ŋ ⁴⁴	452 887 801 1178	wuch1236
+27816	Wenzhou	the wind	hoŋ⁴⁴	746	風		風	516	960	h o ŋ ⁴⁴	405 887 801 1178	wuch1236
+27817	Changsha	the wind	xən³³	746	風		風	516	960	x ə n ³³	778 1022 107 1161	xian1251
+27818	Nanchang	the wind	fuŋ⁴²	746	風		風	516	960	f u ŋ ⁴²	452 868 801 1175	gan1239
+27819	Meixian	the wind	fuŋ⁴⁴	746	風		風	516	960	f u ŋ ⁴⁴	452 868 801 1178	hak1236
+27820	Guangzhou	the wind	hʊŋ⁵³	746	風		風	516	960	h ʊ ŋ ⁵³	405 904 801 1185	yuec1235
+27821	Yangjiang	the wind	hʊŋ³³	746	風		風	516	960	h ʊ ŋ ³³	405 904 801 1161	yuec1235
+27822	Xiamen	the wind	hoŋ⁵⁵	746	風		風	516	960	h o ŋ ⁵⁵	405 887 801 1189	minn1241
+27823	Chaozhou	the wind	huaŋ³³	746	風		風	516	960	h u a ŋ ³³	405 868 997 801 1161	min1241
+27824	Fuzhou	the wind	xuŋ⁴⁴	746	風		風	516	960	x u ŋ ⁴⁴	778 868 801 1178	mind1253
+28444	Beijing	to chew	tɕiau³⁵	1054	嚼		嚼	820	321	tɕ i a u ³⁵	200 1076 997 868 1165	mand1415
+28445	Jinan	to chew	tɕiɔ⁴²	1054	嚼		嚼	820	321	tɕ i ɔ ⁴²	200 1076 916 1175	mand1415
+28446	Shenyang	to chew	tɕiau³⁵.	1054	嚼		嚼	820	321	tɕ i a u ³⁵	200 1076 997 868 1165	mand1415
+28447	Xian	to chew	tɕyo²⁴	1054	嚼		嚼	820	321	tɕ y o ²⁴	200 1047 887 1156	mand1415
+28448	Chengdu	to chew	tɕiau³¹	1054	嚼		嚼	820	321	tɕ i a u ³¹	200 1076 997 868 1162	mand1415
+28449	Kunming	to chew	tɕio³¹	1054	嚼		嚼	820	321	tɕ i o ³¹	200 1076 887 1162	mand1415
+28450	Hefei	to chew	tɕiɔ⁵⁵	1054	嚼		嚼	820	321	tɕ i ɔ ⁵⁵	200 1076 916 1189	mand1415
+28451	Yangzhou	to chew	tɕiɑʔ⁴	1054	嚼		嚼	820	321	tɕ i ɑ ʔ ⁴	200 1076 952 409 1174	mand1415
+28452	Suzhou	to chew	ziɒʔ²³	1054	嚼		嚼	820	321	z i ɒ ʔ ²³	80 1076 900 409 1151	wuch1236
+28453	Wenzhou	to chew	ɦia¹²	1054	嚼		嚼	820	321	ɦ i a ¹²	401 1076 997 1167	wuch1236
+28454	Changsha	to chew	tɕio²⁴	1054	嚼		嚼	820	321	tɕ i o ²⁴	200 1076 887 1156	xian1251
+28455	Nanchang	to chew	tɕiɔk⁵	1054	嚼		嚼	820	321	tɕ i ɔ k ⁵	200 1076 916 838 1183	gan1239
+28456	Meixian	to chew	@tsʰiau⁴²	1054	嚼		嚼	820	321	tsʰ i a u ⁴²	13 1076 997 868 1175	hak1236
+28457	Guangzhou	to chew	tʃiu²²	1055	!		A	821	321	tʃ i u ²²	651 1076 868 1150	yuec1235
+28458	Yangjiang	to chew	ŋai²⁴	1056	!		B	822	321	ŋ a i ²⁴	801 997 1076 1156	yuec1235
+28459	Xiamen	to chew	pɔ³³	1057	哺		哺	823	321	p ɔ ³³	291 916 1161	minn1241
+28460	Chaozhou	to chew	pou¹¹	1057	哺		哺	823	321	p o u ¹¹	291 887 868 1169	min1241
+28461	Fuzhou	to chew	tsuɔʔ⁴	1054	嚼		嚼	820	321	ts u ɔ ʔ ⁴	15 868 916 409 1174	mind1253
+27632	Shenyang	to learn	ɕiau³⁵	671	學		學	434	504	ɕ i a u ³⁵	204 1076 997 868 1165	mand1415
+28983	Beijing	to learn	ɕye³⁵	671	學		學	434	504	ɕ y e ³⁵	204 1047 1089 1165	mand1415
+28984	Jinan	to learn	ɕye⁴²	671	學		學	434	504	ɕ y e ⁴²	204 1047 1089 1175	mand1415
+28985	Xian	to learn	ɕyo²⁴	671	學		學	434	504	ɕ y o ²⁴	204 1047 887 1156	mand1415
+28986	Chengdu	to learn	ɕyo³¹	671	學		學	434	504	ɕ y o ³¹	204 1047 887 1162	mand1415
+28987	Kunming	to learn	ɕio³¹	671	學		學	434	504	ɕ i o ³¹	204 1076 887 1162	mand1415
+28988	Hefei	to learn	ɕyɐʔ⁴	671	學		學	434	504	ɕ y ɐ ʔ ⁴	204 1047 986 409 1174	mand1415
+28989	Yangzhou	to learn	ɕiɑʔ⁴	671	學		學	434	504	ɕ i ɑ ʔ ⁴	204 1076 952 409 1174	mand1415
+28990	Suzhou	to learn	ɦoʔ²³	671	學		學	434	504	ɦ o ʔ ²³	401 887 409 1151	wuch1236
+28991	Wenzhou	to learn	ɦo¹²	671	學		學	434	504	ɦ o ¹²	401 887 1167	wuch1236
+28992	Changsha	to learn	ɕio²⁴	671	學		學	434	504	ɕ i o ²⁴	204 1076 887 1156	xian1251
+28993	Nanchang	to learn	hɔk⁵	671	學		學	434	504	h ɔ k ⁵	405 916 838 1183	gan1239
+28994	Meixian	to learn	hɔk⁴	671	學		學	434	504	h ɔ k ⁴	405 916 838 1174	hak1236
+28995	Yangjiang	to learn	hɔk⁴⁵⁴	671	學		學	434	504	h ɔ k ⁴⁵⁴	405 916 838 1182	yuec1235
+28996	Xiamen	to learn	oʔ⁵	671	學		學	434	504	o ʔ ⁵	887 409 1183	minn1241
+28997	Chaozhou	to learn	oʔ⁴	671	學		學	434	504	o ʔ ⁴	887 409 1174	min1241
+28998	Fuzhou	to learn	ɔʔ⁴	671	學		學	434	504	ɔ ʔ ⁴	916 409 1174	mind1253
+29812	Guangzhou	to learn	hɔk²²	671	學		學	434	504	h ɔ k ²²	405 916 838 1150	yuec1235
+29100	Beijing	to think (reflect)	ɕiaŋ²¹⁴	43	想		想	1041	1415	ɕ i a ŋ ²¹⁴	204 1076 997 801 1155	mand1415
+29101	Jinan	to think (reflect)	ɕiaŋ⁵⁵	43	想		想	1041	1415	ɕ i a ŋ ⁵⁵	204 1076 997 801 1189	mand1415
+29102	Shenyang	to think (reflect)	ɕiaŋ²¹³	43	想		想	1041	1415	ɕ i a ŋ ²¹³	204 1076 997 801 1154	mand1415
+29103	Shenyang	to think (reflect)	ɕin³⁵sๅ⁰	44	尋思	[2]	尋思	1042 1043	1415	ɕ i n ³⁵ s ɿ ⁰	204 1076 107 1165 89 945 1171	mand1415
+29104	Xian	to think (reflect)	ɕiɑŋ⁵³	43	想		想	1041	1415	ɕ i ɑ ŋ ⁵³	204 1076 952 801 1185	mand1415
+29105	Chengdu	to think (reflect)	ɕiaŋ⁵³	43	想		想	1041	1415	ɕ i a ŋ ⁵³	204 1076 997 801 1185	mand1415
+29106	Kunming	to think (reflect)	ɕiã⁵³	43	想		想	1041	1415	ɕ i ã ∼ ⁵³	204 1076 1014 1191 1185	mand1415
+29107	Hefei	to think (reflect)	ɕiɑ̃²⁴	43	想		想	1041	1415	ɕ i ɑ̃ ∼ ²⁴	204 1076 951 1191 1156	mand1415
+29108	Yangzhou	to think (reflect)	ɕiɑŋ⁴²	43	想		想	1041	1415	ɕ i ɑ ŋ ⁴²	204 1076 952 801 1175	mand1415
+29109	Suzhou	to think (reflect)	siaŋ⁴¹	43	想		想	1041	1415	s i a ŋ ⁴¹	89 1076 997 801 1177	wuch1236
+29110	Wenzhou	to think (reflect)	ɕi⁴⁵	43	想		想	1041	1415	ɕ i ⁴⁵	204 1076 1181	wuch1236
+29111	Changsha	to think (reflect)	ɕian⁴¹	43	想		想	1041	1415	ɕ i a n ⁴¹	204 1076 997 107 1177	xian1251
+29112	Nanchang	to think (reflect)	ɕiɔŋ²¹³	43	想		想	1041	1415	ɕ i ɔ ŋ ²¹³	204 1076 916 801 1154	gan1239
+29113	Meixian	to think (reflect)	siɔŋ³¹	43	想		想	1041	1415	s i ɔ ŋ ³¹	89 1076 916 801 1162	hak1236
+29114	Guangzhou	to think (reflect)	ʃœŋ³⁵	43	想		想	1041	1415	ʃ œ ŋ ³⁵	683 1059 801 1165	yuec1235
+29115	Yangjiang	to think (reflect)	ɬiɛŋ²¹	43	想		想	1041	1415	ɬ i ɛ ŋ ²¹	540 1076 1121 801 1152	yuec1235
+29116	Xiamen	to think (reflect)	sĩũ³³	43	想		想	1041	1415	s ĩ ũ ∼ ³³	89 1078 866 1191 1161	minn1241
+29117	Chaozhou	to think (reflect)	sĩẽ³⁵	43	想		想	1041	1415	s ĩ ẽ ∼ ³⁵	89 1078 1090 1191 1165	min1241
+29118	Fuzhou	to think (reflect)	suɔŋ²¹³	43	想		想	1041	1415	s u ɔ ŋ ²¹³	89 868 916 801 1154	mind1253
