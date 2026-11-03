@@ -45,6 +45,11 @@ class AlignmentTests(unittest.TestCase):
         aligned = align_msa_sca((tuple("ɲata"), tuple("ɲta")))
         self.assertEqual(aligned, [["H", "a", "t", "a"], ["H", "~", "t", "a"]])
 
+    def test_asjp_input_bypasses_ipa_conversion(self):
+        with patch("cogtran2.data._asjp_converter", side_effect=AssertionError):
+            aligned = align_msa_sca((tuple("Hata"), tuple("Hta")), asjp=True)
+        self.assertEqual(aligned, [["H", "a", "t", "a"], ["H", "~", "t", "a"]])
+
     def test_asjp_click_symbols_are_removed_before_alignment(self):
         aligned = align_msa_sca((tuple("ǃa"), tuple("a")))
         self.assertNotIn("!", {symbol for form in aligned for symbol in form})

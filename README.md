@@ -1,6 +1,6 @@
 ## CogTran2 - Deep Neural Cognate Detection
 
-The original version of this repository is available on the [`legacy` branch](../../tree/legacy).
+The original version of this repository is available on the branch [`legacy`](../../tree/legacy).
 
 Install the package and dependencies:
 
@@ -24,6 +24,8 @@ Provide IPA transcriptions for each form. If starting from ordinary spelling,
 convert it to IPA with a language-aware G2P tool first; this package does not
 perform orthography-to-IPA conversion. The example uses unequal-sized
 “bird” (12 forms) and “dog” (3 forms) MSAs to demonstrate batch collation.
+If forms are already ASJP-tokenized, pass `asjp=True` to `align_msa_sca` to
+skip the IPA-to-ASJP conversion.
 
 ```python
 import torch

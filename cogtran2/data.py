@@ -139,8 +139,10 @@ def split_concepts(
     return shuffled[validation_size:], shuffled[:validation_size]
 
 
-def align_msa_sca(forms: Sequence[Sequence[str]]) -> list[list[str]]:
-    """Align raw IPA forms, removing click symbols mapped to ASJP ``!``."""
+def align_msa_sca(
+    forms: Sequence[Sequence[str]], *, asjp: bool = False
+) -> list[list[str]]:
+    """Align IPA forms, or already-ASJP forms when ``asjp`` is true."""
     if not forms:
         return []
 
@@ -149,16 +151,27 @@ def align_msa_sca(forms: Sequence[Sequence[str]]) -> list[list[str]]:
     except ImportError as error:
         raise ImportError("Install the package dependencies with `pip install -e .` (requires lingpy).") from error
 
-    converter = _asjp_converter()
-    cleaned_forms = [
-        tuple(token for token in form if converter.get(token) != "!")
-        or ("~",)
-        for form in forms
-    ]
-    multiple = Multiple(["".join(form) for form in cleaned_forms])
-    multiple.prog_align()
+    if asjp:
+        cleaned_forms = [tuple(form) or ("~",) for form in forms]
+    else:
+        converter = _asjp_converter()
+        cleaned_forms = [
+            tuple(token for token in form if converter.get(token) != "!")
+            or ("~",)
+            for form in forms
+        ]
+    multiple = Multiple(
+        cleaned_forms if asjp else ["".join(form) for form in cleaned_forms]
+    )
+    if asjp:
+        multiple.prog_align(model="asjp", classes=False)
+    else:
+        multiple.prog_align()
     aligned: list[list[str]] = []
     for form in multiple.alm_matrix:
+        if asjp:
+            aligned.append(["~" if symbol == "-" else symbol for symbol in form])
+            continue
         converted = []
         for symbol in form:
             if symbol in converter:
