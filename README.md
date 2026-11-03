@@ -5,8 +5,18 @@ The original version of this repository is available on the [`legacy` branch](..
 Install the package and dependencies:
 
 ```bash
+pip install cogtran2
+```
+
+Install the package and dependencies from the current branch:
+
+```bash
 python -m pip install .
 ```
+The no-language-token model is the new default that accepts ASJP representations without language
+identifiers, so it can be used with ASJP data from any source. The pretrained
+plain-ASJP checkpoint trained for 90% proportion is available at
+[`mahesh27/CogTran2`](https://huggingface.co/mahesh27/CogTran2).
 
 ## Cognate prediction example
 
@@ -106,11 +116,6 @@ bash run_prop_splits.sh
 
 ## Test scores
 
-The no-language-token model accepts ASJP representations without language
-identifiers, so it can be used with ASJP data from any source. The pretrained
-plain-ASJP checkpoint trained for 90% proportion is available at
-[`mahesh27/CogTran2`](https://huggingface.co/mahesh27/CogTran2).
-
 Comparison with language-tokens models is given as follows. 
 Mean ± sample standard deviation over five splits where available.
 
@@ -128,7 +133,7 @@ Mean ± sample standard deviation over five splits where available.
 This specific version implements its MSA attention and pairwise triangle-attention stack
 in native PyTorch rather than importing Fair-ESM or the original AlphaFold
 modules at runtime. These implementation differences can affect results;
-in particular, the language-token scores may differ from the original implementation.
+in particular, the language-token scores may differ from the legacy model.
 
 
 
