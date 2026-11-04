@@ -45,10 +45,19 @@ class AlignmentTests(unittest.TestCase):
         aligned = align_msa_sca((tuple("ɲata"), tuple("ɲta")))
         self.assertEqual(aligned, [["H", "a", "t", "a"], ["H", "~", "t", "a"]])
 
-    def test_asjp_input_bypasses_ipa_conversion(self):
-        with patch("cogtran2.data._asjp_converter", side_effect=AssertionError):
-            aligned = align_msa_sca((tuple("Hata"), tuple("Hta")), asjp=True)
-        self.assertEqual(aligned, [["H", "a", "t", "a"], ["H", "~", "t", "a"]])
+    def test_asjp_input_roundtrips_through_representative_ipa(self):
+        asjp_form = tuple("SCETZ78Njr")
+        aligned = align_msa_sca((asjp_form, asjp_form), asjp=True)
+        self.assertEqual(aligned, [list(asjp_form), list(asjp_form)])
+
+    def test_asjp_symbols_without_ipa_representatives_are_dropped(self):
+        aligned = align_msa_sca(
+            (tuple('k"asak'), tuple("kasak")), asjp=True
+        )
+        self.assertEqual(aligned, [list("kasak"), list("kasak")])
+
+        empty_aligned = align_msa_sca((tuple('"~*$ '), tuple('"~*$ ')), asjp=True)
+        self.assertEqual(empty_aligned, [["~"], ["~"]])
 
     def test_asjp_click_symbols_are_removed_before_alignment(self):
         aligned = align_msa_sca((tuple("ǃa"), tuple("a")))

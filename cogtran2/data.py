@@ -57,6 +57,10 @@ def _to_asjp(tokens: Sequence[str], converter: dict[str, str]) -> tuple[str, ...
     return tuple(converted)
 
 
+def _asjp_to_ipa(asjp: str, ipa_of: dict[str, str]) -> str:
+    return "".join(ipa_of[char] for char in asjp.strip() if char in ipa_of)
+
+
 @dataclass(frozen=True)
 class Concept:
     family: str
@@ -142,7 +146,7 @@ def split_concepts(
 def align_msa_sca(
     forms: Sequence[Sequence[str]], *, asjp: bool = False
 ) -> list[list[str]]:
-    """Align IPA forms, or already-ASJP forms when ``asjp`` is true."""
+    """Align IPA forms, or convert ASJP forms to representative IPA first."""
     if not forms:
         return []
 
@@ -151,27 +155,28 @@ def align_msa_sca(
     except ImportError as error:
         raise ImportError("Install the package dependencies with `pip install -e .` (requires lingpy).") from error
 
+    converter = _asjp_converter()
     if asjp:
-        cleaned_forms = [tuple(form) or ("~",) for form in forms]
+        ipa_of: dict[str, str] = {}
+        for ipa, symbol in converter.items():
+            ipa_of.setdefault(symbol, ipa)
+        ipa_forms = [tuple(_asjp_to_ipa("".join(form), ipa_of)) for form in forms]
     else:
-        converter = _asjp_converter()
-        cleaned_forms = [
-            tuple(token for token in form if converter.get(token) != "!")
-            or ("~",)
-            for form in forms
-        ]
+        ipa_forms = [tuple(form) for form in forms]
+    cleaned_forms = [
+        tuple(token for token in form if converter.get(token) != "!")
+        for form in ipa_forms
+    ]
+    alignable_indices = [index for index, form in enumerate(cleaned_forms) if form]
+    if not alignable_indices:
+        return [["~"] for _ in forms]
+
     multiple = Multiple(
-        cleaned_forms if asjp else ["".join(form) for form in cleaned_forms]
+        ["".join(cleaned_forms[index]) for index in alignable_indices]
     )
-    if asjp:
-        multiple.prog_align(model="asjp", classes=False)
-    else:
-        multiple.prog_align()
-    aligned: list[list[str]] = []
-    for form in multiple.alm_matrix:
-        if asjp:
-            aligned.append(["~" if symbol == "-" else symbol for symbol in form])
-            continue
+    multiple.prog_align()
+    aligned: list[list[str] | None] = [None] * len(forms)
+    for index, form in zip(alignable_indices, multiple.alm_matrix):
         converted = []
         for symbol in form:
             if symbol in converter:
@@ -186,8 +191,10 @@ def align_msa_sca(
                 converted.append(composite if composite else "~")
             else:
                 converted.append("~")
-        aligned.append(converted)
-    return aligned
+        aligned[index] = converted
+
+    width = len(next(form for form in aligned if form is not None))
+    return [form if form is not None else ["~"] * width for form in aligned]
 
 
 def bcubed(
