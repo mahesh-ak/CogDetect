@@ -18,6 +18,12 @@ identifiers, so it can be used with ASJP data from any source. The pretrained
 plain-ASJP checkpoint trained for 90% proportion is available at
 [`mahesh27/CogTran2`](https://huggingface.co/mahesh27/CogTran2).
 
+
+## Architecture
+[Alphafold2](https://doi.org/10.1038/s41586-021-03819-2) inspired architecture. Orignal architecture uses language tokens:
+
+![CogTran2](./cogtran2.png "CogTran2")
+
 ## Cognate prediction example
 
 Provide IPA transcriptions for each form. If starting from ordinary spelling,
